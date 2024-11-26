@@ -1,1 +1,26 @@
-southwest_airport_crude.txt
+The plans depict the layout of Southwest airport with the left one showing the
+current site and the right one the redeveloped version. 
+
+The total area of the airport will be expanded to include sky train system and a
+car hire service.
+
+With the Security Passport Control area behind, the departure lounge is at the
+front left of the airport having a main exit on the front side, a check-in
+area near the back left-hand corner, and a cafe in the back right-hand corner.
+To the right of the departure lounge is the arrival lounge, with a main entrance
+at the front side and Possport Control Customs area behind.
+To the right of the Passport Control Customs is Security Passport Control, with
+a  trapeziod-shaped hallway located behind them.
+At the back of the Soutwest airport is a rectangular area in which there are two
+walkways, lined with eight gates.
+
+In a year, the airpot will undergo massive changes:
+the addition of car hire service, a dramatic rise in the number of gates from 8 to 18 leading to the
+creation of a Y-shape at the end of the airport. 
+ 
+The check-in area, having moved to near back right-hand coner of the departure
+lounge, will give way to a bag drop, with the cafe being planned to  relocate to
+the back right-hand corner of the arrival lounge to the right side of which an
+ATM will be added. The building of shops in the hallway at back of the airport and the addition of
+a new entrance and an exit to the arrival and departure lounges, repectively, are also worth
+mentioning.
