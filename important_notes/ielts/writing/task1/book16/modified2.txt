@@ -15,7 +15,7 @@ rectangular area inside which lie two walk ways inlined with 8 gates.
 The airport is set to undergo significant changes: the addition of an exit and entrance to
 the lounges, a remarkable increase in the number of gates from 8 to 17 leading
 to a Y-shape extension at the rear of the aiport, and the introduction of some
-customer-friendly services. Additionally, an ATM is planned to be installed on the
+customer-friendly services. Indedd, an ATM is planned to be installed on the
 right side of departure lounge, with a cafe  and a car hire service behind and in front of it, 
 respectively, while a bag drop in the rear left-hand corner of the departure lounge will be 
 introduced.
