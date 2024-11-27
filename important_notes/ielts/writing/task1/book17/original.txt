@@ -1,21 +1,29 @@
-The maps depict and  industrial district in Norbiton town, with the top diagram
-illustrating the current lauyout and the bottom showing the proposed development.
+The maps depict an industrial deistrict in Norbiton town.
+The top diagram illustrates the current layout.
+The bottom shows the proposed development. 
 
-The zone is set to undergo massive changes:the introduction of a medical center,
-shops, a playground, and a school to the area, the replacement of factories by housing, the
-building of new roads leading into the farmaland, and the
-installation of a new roundabout at the  south end of the area.
+The zone is set to undergo massive changes.
+Meidcal center, shops, a playground, and a schoo is planned to be introduced to
+the area.
+Factories will be replaced with housing. 
+New roads will be built.
+The roads will lead into farmland.
+A new roundabout will be installed at the south end of the aera.
 
-The area is heavily industrilized at the moment, with one roundabout in the
-center, numerous factories lining the east road and the roundabout itself, a
-high way in the south, and isolated farmland in the north with no means of transportation. 
+The area is heavily industrialized at the moment.
+One roundabout is in the center of the town.
+Numerous factories line the east road of the town and the roundabout itself.
+A highway high way is in the south of the town. 
+Isolated farmland is in the north of the town.
+The isolated farmland had no means of transportation.
 
-However, the factories are propoesed to be replaced by houseing, with the
-incoporation of shops and a medical center to the south-west and south-east  of
-the central roundabout, respectively. Additionally, the construction of a school
-at the very end of the east road and a play ground to the south of the river
-are two other plans decided for the Norbiton industrial area, while the north of
-the city will also experience some significant modifications. Indeed, to the
-north of the roundabout will stand a dead-end road which will lead into
-farmland after having crossed the north river. Additionally, to the nort-west of the central square, a
-short road will be erected.  
+The factories are proposed to be replaced with housing.
+Shops and a medical center will be incorporated to the south-west of and
+south-east of the central round about respectively.
+A schoold at the very end of the east road and a play ground to the south of the
+river will be constructed.
+The north of the city will also experinece some significant modifactions.
+To the north of the roundabout will stand a dead-end road.
+The road will cross the north river.
+Thereafter, The road leads will lead into the farmland
+To the north-west of the central square, a short road will be erected.
