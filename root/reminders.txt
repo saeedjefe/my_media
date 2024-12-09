@@ -1,0 +1,3 @@
+the importance of architecture 
+the use of metadata
+modular approach regarding web development 
