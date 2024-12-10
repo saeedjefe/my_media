@@ -1,0 +1,88 @@
+/* General Reset and Basic Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f0f0f0; /* Light grey background */
+  color: #333; /* Dark grey text color */
+  padding: 20px;
+}
+
+/* Header Styling */
+header {
+  background-color: #4CAF50; /* Green background */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Main Content Styling */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Section Styling */
+section {
+  padding: 20px 0;
+  border-bottom: 1px solid #ccc; /* Light grey border between sections */
+}
+
+/* Flex Container for Tabs */
+.tabs {
+  display: flex;
+  justify-content: center;
+  background-color: #333;
+  padding: 10px 0;
+}
+
+.tabs .tab {
+  margin: 0 15px;
+  padding: 10px 20px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.tabs .tab:hover {
+  background-color: #555;
+}
+
+/* Footer Styling */
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #333;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+  }
+
+  .tabs {
+    flex-direction: column;
+  }
+
+  .tabs .tab {
+    margin: 5px 0;
+  }
+
+  header, footer {
+    padding: 15px;
+  }
+}
+

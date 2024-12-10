@@ -1,3 +1,4 @@
 the importance of architecture 
 the use of metadata
-modular approach regarding web development 
+modular approach regarding web development
+the importance of bash scripting and some linux commands like find, xarg, sed
