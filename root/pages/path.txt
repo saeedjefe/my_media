@@ -1,1 +1,1 @@
-/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root/pages
+/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root/assets/html
