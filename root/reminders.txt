@@ -3,3 +3,6 @@ book8 reading perfect for nominalization teaching:
 the use of metadata
 modular approach regarding web development
 the importance of bash scripting and some linux commands like find, xarg, sed
+the most important aim of science should be to improve people's lives(suggestion
+or necessity) argumentative senctence; (counter examples and supporting
+examples)

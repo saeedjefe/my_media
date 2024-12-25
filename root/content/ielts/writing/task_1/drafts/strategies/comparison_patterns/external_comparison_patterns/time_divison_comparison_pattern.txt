@@ -1,0 +1,21 @@
+there are typically four main scenarios, using time divison comparison pattern
+
+upward trend:
+
+downward trend:
+
+fluctuation or volitility:
+
+
+stability:
+
+
+
+temporal variations:
+
+simultanous:
+
+
+
+
+

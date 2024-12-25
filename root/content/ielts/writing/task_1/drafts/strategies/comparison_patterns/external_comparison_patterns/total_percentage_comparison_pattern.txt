@@ -1,0 +1,17 @@
+look at the below picture:
+
+
+
+item based description:
+a accounts for % of the total 
+a represents % of the total 
+
+percentage-based description:
+
+% of total is something
+the percentage of something is 10
+
+
+the combination of total percentage comparsion pattern and list comparison pattern is
+invetable
+
