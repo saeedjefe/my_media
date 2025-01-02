@@ -1,0 +1,158 @@
+One of the main concerns of Academic IELTS test-takers is the variety and
+complexity of task_1 questions for which they should memorize many unusual
+collocations addressing statistical subjects. Thanks to books and
+teachers alike, however, these collocations have been broken down into categories based 
+on the type of statistical illustrations, namely bar charts, pie charts,
+tables, and line graphs. However, this approach may debilitate our cognitive ability
+regrading the analysis of statistical information since real classifications go
+beyong the type of statistical medium used for conveying data. Therefore, I
+have developed a new way of grouping collocations and describing statistical data which
+is called "comparison_patterns"  not based on the type of a statistical
+medium but rather on our perception, understanding and thinking of the data.  
+
+To give you an overview, I am going to start with some exmaples chosen from the
+book 'new insight into IELTS':
+
+"The car is the most common means of transport for British and Australian
+schoolchildren, with 65 of students in both countries getting to school in this
+way." 
+
+The above mentioned sentence may seem a little complicated at first. But what if
+you can classify it into two patterns which repeat over and over during verbal
+statistical descriptions. 
+
+At first, let's reverse-engineer the sentence into a simple version so that the
+comparison patterns become more evident. 
+
+The car is the most common means of transport for British and Australian
+schoolchildren. Indeed, 65 percent of students in both countries get to school in this
+way.
+
+The car is the most common means of transport for British and Australian
+schoolchildren.
+ 
+With a superaltive adjective used in the first sentence 'the most popular means
+of transport", it is not very difficult to label this comparison as "list". 
+
+In the second sentence, however, a precentage of a total is mentioned,
+supporting the the first sentence in which a totally different pattern is used.
+
+Look at the next example:
+
+In contrast, only 10 percent of of Singaporean students use cars, and this is the
+least common method of transport there.
+
+Not very difficult to guess this time, the same comparison patterns are used in
+this sentence as well but in reverse order, compare to the the first example,
+total percentage pattern and then list comparison pattern. 
+
+
+
+
+
+
+Now that we have separated the complex sentence into two simple sentences, you
+may have a more distinctive perception of the statistical description used here.    
+
+The car is the most common means of transport for British and Aurstralian
+schoolchildren. 
+
+
+
+With a superlative adjective(the most common means of transport) used in the
+first sentence, it is not very difficult to  
+ 
+
+
+
+
+
+
+
+Being a firm believer in flowcharts, at first I want  you to look at the this
+representation of comparison patterns:
+
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+Now let's go through them one by one.
+
+1- Internal comparison pattern: 
+
+This is the pattern by which we compare A with A on a scale of time. 
+
+look at the following patterns:
+
+1-1:time-division-comparision-pattern:
+
+Over the first 40 years, the number of hours spent on doing housework
+experienced downward trend, decreasing from 50 hours per week in 1920 
+to only 20 hours a week in 1960.
+
+1-2:numerical comparison pattern:
+
+The number of hours spent on doing housework in 1920 was more than double that in
+1940. 
+
+While in the first example the main focus may be on temporal values, in the second
+sentence numerical differences could be the main concern. 
+
+The list of words used for two aforementiond patterns as follows:
+
+
+2- External comparison pattern:
+
+2-1: list comparison patter:
+This is the pattern by which we may compare A with B, C ,.. . Compared to the
+internal comparison pattern, this type of comparison is more frequently used in
+the IELTS exam. 
+
+Look at the line graphs, and tell me whether we should compare the line graphs
+externally if we do care about the ... in a specific year. Indeed, in this type
+of pattern, there is a fixed formula the most fundamental element of which is
+superlative ajective. 
+
+
+this pattern is called list comparison pattern. List comparison patterns may
+come handy for describing bar chart. However, having alreay seen in the previous
+example, exactly the same strategy could be applied to line graphs. 
+
+2-2: total percentage comparison pattern:
+
+While describing pie charts, not only should we use list comparison pattern, but
+we also need to compare items making up an entity amounting to 100 percent.
+
+Look at the following example:
+
+Being the most important source of something, oil accounts for 20% of total
+energy consumption. 
+
+As you can see, in the first part, the type of comparison pattern is list,
+while in the second part of the sentence, compeletely a different comparison
+pattern has been used, called total percentage comparison pattern. 
+
+we can also use numerical comparison pattern while comparing items externally. 
+
+ex:
+A is three times as big/small as B. 
+
+Hence, classifying the apporach on the basis of how we perceive information
+not only can give us a better understanding of data but also a more straight
+forward way of thinking about verbally conveying information. 
+
+Nevertheless, this is just the tip of the ice berg. Thus, if you are  willing
+to improve your understnaing of comparison patterns and how they work, enter each
+part individually so that you can have a firm grasp of the concept. 
+
+ 
+ 
+*** I could have started from examples, making reader think about the difference
+themselves. 
+
