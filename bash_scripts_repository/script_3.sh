@@ -3,7 +3,7 @@
 
 #path to the html file
 HTML_TEMPLATE="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/html/template.html"
-ROOT_ADDRESS="root"
+ROOT_ADDRESS="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root"
 CSS_TEMPLATE="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/css/styles.css"
 SCRIPT_JS="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/js/dynamics.js"
 #make sure the files exist

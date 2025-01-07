@@ -11,13 +11,13 @@
   
   
   <!-- JavaScript Dependencies -->
-<script src="">     </script>
+<script src="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/js/dynamics.js">     </script>
   
 </head>
 <body>
   <!-- Header for the Page -->
   <header>
-    <h1>Header for Your Page</h1>
+    <h1></h1>
     <!-- This header contains the main title or introductory message for the page. -->
     <!-- It sets the context for the content below. -->
   </header>
@@ -26,7 +26,7 @@
   <main>
     <!-- Section for Specific Content Related to the Page -->
     <section class="content-section">
-      <h2>Section Title</h2>
+      <h2></h2>
       <!-- Here, the main content of the page will be displayed. -->
       <!-- This could be text, images, videos, charts, interactive elements, etc. -->
     </section>
@@ -34,7 +34,7 @@
     <!-- Additional Sections for Other Content (Optional) -->
     <!-- For example, explanations, images, links, or other interactive elements related to the page content -->
     <section class="additional-section">
-      <h3>Additional Information</h3>
+      <h3></h3>
       <!-- Additional content can be added here as needed -->
     </section>
   </main>
