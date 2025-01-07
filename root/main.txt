@@ -1,10 +1,76 @@
-Tehranian Polymath is an ambitous project seeking the dreaming of polymathy. 
 
-Means:
+Purpose:
+Tehranian Polymath is an ambitous project whose purpose is promoting the notion of polymathy, the capacity or practice of
+acquiring knowledge and expertise across a wide a range of fields.  
+
+Method:
+Although open to suggestions, new ideas, and innovations, Tehranian Polymath is mainly focused on linguistic and congnitive tools. 
+
+Linguistic tools:
+
+1-:chunking:
+
+1-2:phrase chunking:
+
+1-3:clause chunking:
+
+1-4:sentence chunking:
+
+1-5:paragraph chunking:
+
+
+
+
+2-functions:
+
+2-1:nominal functions:
+
+2-2:adjectival functions:
+
+2-3:adverbial functions:
+
+
 
 Cognitive techniques:
 
+1-schema:
+
+
+2-metaphor:
+
+
+3-flowcharts:
+
+
+4-patterns:
+
+
+Audience:
+Everyone with a thirst of knowledge may benefit from Tehranian Polymath. However, the content of this website may particularly
+appeal to the following groups:
+
+1-individuals with reading comprehension difficulties
+
+2-writers
+
+3-IELTS test takers
+
+5-Cognitive fileds:
+
+5-1: linguists:
+5-2: neuroscientists:
+5-3: educational psychologists:
+
+
+6-Computer porgrammers:
+
  
 
-Tehranian Polymath gives you  all the: tools you need to become a polymath, focusing on linguisitics concepts of Modern English.One the most rewarding ways to become a polymath is to prepare for the IELTS Academic Exam. Not only will you can become a far more confident reader, writer, and also speaker, but also you may avoid the hassle of using IELTS reading and writing technique by learning how to make the most of your congnitive abilities. The content you are about to learn in this site is the result of my 14-year struggling with English passages as a teacher and a life-long student. 
-Enjoy your journey. 
+7-Neuroscientists:
+
+
+
+
+ 
+
+
