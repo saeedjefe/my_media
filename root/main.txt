@@ -1,76 +1,30 @@
 
 Purpose:
-Tehranian Polymath is an ambitous project whose purpose is promoting the notion of polymathy, the capacity or practice of
-acquiring knowledge and expertise across a wide a range of fields.  
+Tehranian Polymath is an ambitious project whose purpose is promoting the notion of polymathy, the capacity or practice of acquiring knowledge and expertise across a wide a range of fields.  
+
+Why IELTS:
+Living in a word where specialization is highly encouraged, most people find it unnecessary to learn about a wide
+range of fields. Therefore, we needed an excuse to encourage our audience to know, read, write, and speak about
+almost everything. We have found no excuse better than Academic IELTS, the most popular English Language test, with
+...sitting for the test annualy.  
 
 Method:
-Although open to suggestions, new ideas, and innovations, Tehranian Polymath is mainly focused on linguistic and congnitive tools. 
+Although open to suggestions, new ideas, and innovations, Tehranian Polymath is mainly focused on linguistic and
+congnitive tools, while analyzing and, consequently, answering IELTS sample questions. I  do warn you, though, that 
+this is not going to be a typical IELTS approach, often seen in other platforms. Instead, your learning the most
+fundmental aspects of modern English will be simultanous with your preparing for the IELTS exam. 
 
-Linguistic tools:
-
-1-:chunking:
-
-1-2:phrase chunking:
-
-1-3:clause chunking:
-
-1-4:sentence chunking:
-
-1-5:paragraph chunking:
+Reading:
+chunking
+flowcharts
+patterns
 
 
+writing & speaking :
+using chunks in flowcharts to write
+reverse engineering 
 
 
-2-functions:
-
-2-1:nominal functions:
-
-2-2:adjectival functions:
-
-2-3:adverbial functions:
-
-
-
-Cognitive techniques:
-
-1-schema:
-
-
-2-metaphor:
-
-
-3-flowcharts:
-
-
-4-patterns:
-
-
-Audience:
-Everyone with a thirst of knowledge may benefit from Tehranian Polymath. However, the content of this website may particularly
-appeal to the following groups:
-
-1-individuals with reading comprehension difficulties
-
-2-writers
-
-3-IELTS test takers
-
-5-Cognitive fileds:
-
-5-1: linguists:
-5-2: neuroscientists:
-5-3: educational psychologists:
-
-
-6-Computer porgrammers:
-
- 
-
-7-Neuroscientists:
-
-
-
-
- 
-
+To make that possible, Tehranian Polymath shows you how important chunking can be when it comes to answering IELTS
+reading questions.  
 

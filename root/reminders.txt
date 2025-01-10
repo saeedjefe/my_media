@@ -9,5 +9,5 @@ examples)
 semantic or metaphoric extention
 counterexamples' purposes -> effects -> (necessity or suggestion)"the purpose of science should be to improve the quality of people's lives
 again the pattern and flowchart show to work for lecutres(Mahbobe)
-In order to learn to use a command on linux, try to learn the syntax. Syntax is everything. 
- 
+in order to learn to use a command on linux, try to learn the syntax. Syntax is everything. 
+always try to learn skills that make the process more effecient even if it can take a lot of time.  
