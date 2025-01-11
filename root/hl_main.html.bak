@@ -6,9 +6,11 @@
   <title>Page Title Here</title>
 
   <!-- CSS Dependencies -->
+<link rel="stylesheet" href="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/css/styles.css">
   
   
   <!-- JavaScript Dependencies -->
+<script src="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/js/dynamics.js">     </script>
   
 </head>
 
