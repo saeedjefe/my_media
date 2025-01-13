@@ -1,14 +1,30 @@
+<!DOCTYPE html>
+<html>
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="decription" content="a different ielts reading strategy">
   <!-- Page Title -->
-  <title>Page Title Here</title>
+  <title>IELTS reading strategy</title>
 
   <!-- CSS Dependencies -->
+<link rel="stylesheet" href="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/css/styles.css">
   
   
   <!-- JavaScript Dependencies -->
+<script src="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/js/dynamics.js">     </script>
   
 </head>
+<body>
+<header>
 
+</header>
+<main>
+
+</main>
+<footer>
+</footer>
+</body>
+</html>
 

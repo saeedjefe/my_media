@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lan='eng'>
+<html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,18 +16,14 @@
 </head>
 <body>
 <header>
-<a href= >Reading </a>
-<a href= >Writing </a>
-<a href= >Speaking</a>
-<a href= >Listening</a>
+<a href='/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root/content/ielts/reading/ielts-reading.html'>Reading</a>
+<a href='/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root/content/ielts/writing/ielts-writing.html'>Writing</a>
+<a href='/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root/content/ielts/speaking/ielts-speaking.html'>Speaking</a>
+<a href='/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root/content/ielts/listening/ielts-listening.html'>Listening</a>
 </header>
 <main>
-
-
 </main>
 </body>
 <footer>
-
 </footer>
-
 </html>

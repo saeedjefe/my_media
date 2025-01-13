@@ -53,3 +53,9 @@ Conclusion
 While you can use underscores in HTML file names without any technical issues, using dashes is generally better for SEO and readability. If SEO isn't a concern and you're working in a personal or controlled environment, using underscores is fine.
 
 Let me know if you need further clarification!
+
+<meta name="robots" content="index, follow">
+
+<meta name="author" content="John Doe">
+<meta property="og:title" content="IELTS Reading Tips">
+

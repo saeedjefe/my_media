@@ -4,6 +4,7 @@
 #path to the html file
 HTML_TEMPLATE="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/html/template.html"
 HTML_MAIN="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root/main.html"
+HTML_IELTS="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root/content/ielts/ielts.html"
 ROOT_ADDRESS="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/root"
 CSS_TEMPLATE="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/css/styles.css"
 SCRIPT_JS="/home/the-polymath/2024/tehranian_polymath/html_css_javascript/assets/js/dynamics.js"
@@ -19,7 +20,7 @@ CSS_LINK="<link rel=\"stylesheet\" href=\"$CSS_TEMPLATE\">"
 SCRIPT="<script src=\"$SCRIPT_JS\">     </script>"
 
 #look through all the html file in the sub directories
-find "$ROOT_ADDRESS" -type f -name "*.html" ! -path "$HTML_TEMPLATE"  ! -path "$HTML_MAIN" | while read -r FILE; do
+find "$ROOT_ADDRESS" -type f -name "*.html" ! -path "$HTML_TEMPLATE"  ! -path "$HTML_MAIN" ! -path "$HTML_IELTS" | while read -r FILE; do
 #backup the file
 	cp "$FILE" "$FILE.bak"
  
