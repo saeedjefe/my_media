@@ -59,3 +59,4 @@ Let me know if you need further clarification!
 <meta name="author" content="John Doe">
 <meta property="og:title" content="IELTS Reading Tips">
 
+/.bashrc vs environment
