@@ -1,9 +1,9 @@
-Test 1
+
 
 
 
 Boats needing to be lifted up enter the
-canal basin at the level of the Forth &
+canal basin at the level of the Forth and 
 Clyde Canal and then enter the lower
 gondola of the Wheel. Two hydraulic steel
 gates are raised, so as to seal the gondola
@@ -23,7 +23,7 @@ Wheel, which begin to rotate at a speed
 of 1/8 of a revolution per minute. As the
 wheel rotates, the gondolas are kept in
 the upright position by a simple gearing
-system. Two eight-metre-wide cogs orbit
+system. Two eight metre wide cogs orbit
 a fixed inner cog of the same width,
 connected by two smaller cogs travelling
 in the opposite direction to the outer cogs
