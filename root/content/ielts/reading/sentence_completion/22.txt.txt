@@ -17,8 +17,6 @@ room an array of ten hydraulic motors
 then begins to rotate the central axle. The
 axle connects to the outer arms of the
 
-
-
 Wheel, which begin to rotate at a speed
 of 1/8 of a revolution per minute. As the
 wheel rotates, the gondolas are kept in

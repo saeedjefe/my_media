@@ -142,24 +142,20 @@ dep_colors = {
     "xcomp": "darkcyan",     # Open clausal complement
 }
 
-# Example: Applying colors
-import spacy
-from rich import print
+*spacy.gold.biluo_tags_from_offsets(nlp.make_doc(text), entities)
 
-nlp = spacy.load("en_core_web_sm")
-doc = nlp("The quick brown fox jumps over the lazy dog.")
+@Language.component("custom_dep")
+     def custom_dep(doc):
+         with doc.retokenize() as retokenizer:
+             for token in doc:
+                 if token.text.lower() == "orbit" and token.dep_ != "ROOT":
+                     attrs = {"head": token, "dep": "ROOT"}
+                     retokenizer.assign(token, attr)
+         return doc
+     
 
-for token in doc:
-    # Get the colors for POS, tag, and dependency relation
-    pos_color = pos_colors.get(token.pos_, "white")
-    tag_color = tag_colors.get(token.tag_, "white")
-    dep_color = dep_colors.get(token.dep_, "white")
-    
-    # Print the token with corresponding colors
-    print(
-        f"[{pos_color}]{token.text}[/{pos_color}] "
-        f"(POS: [{pos_color}]{token.pos_}[/{pos_color}], "
-        f"Tag: [{tag_color}]{token.tag_}[/{tag_color}], "
-        f"Dep: [{dep_color}]{token.dep_}[/{dep_color}])"
-    )
+In [12]: nlp.add_pipe("custom_dep", after="parser");
+
+In [13]: doc = nlp(passage)
+
 
