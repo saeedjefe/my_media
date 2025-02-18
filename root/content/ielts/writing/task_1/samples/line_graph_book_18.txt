@@ -3,14 +3,12 @@ The given line graph compares what proportion of population in four Asian countr
 2020s and 2030s.
 
 The explosion of Malaysia's urban population after 1990 is the most striking feature of the graph. Similarly, the figure
-for Thailand exprienced an upward trend from 1970 onwards. In contrast, the Philippines and Indonesia followed the a more gradual pattern, albeit at different overall rates. 
+for Thailand exprienced an upward trend from 1970 onwards. In contrast, the Philippines and Indonesia followed a more gradual pattern, albeit at different overall rates. 
 
 While  30 percent of Malaysia's population lived in cities in 1970, this rate increased dramatically over the 
 next five  decades, reaching 70 percent by 2020. This is also expected to increase by almost 10 percent,
 with 80 percent of Malaysians being projected to live in cities in 2040. Similarly, after having stood at about 
-13 percent in 1970, the figure for Thailand rose by almost 30 percent in the following 5 decades, with approximately half its population residing in cities in 2020. This rate is also  expected to
-surpass 50 percent throughout 2020s and 2030s. 
+13 percent in 1970, the figure for Thailand rose by almost 30 percent in the following 5 decades, with approximately half its population residing in cities in 2020. This rate is also  expected to surpass 50 percent throughout 2020s and 2030s. 
 
 On the other hand, the figures for the Philippines and Indonesia, having started at around 30 and 13 percent repectively, experienced a period of stability, with 40 percent and 30 percent
 of their populations living in cities in 2020, respectively. However, these percentages are both projected to increase over the years to come. 
-

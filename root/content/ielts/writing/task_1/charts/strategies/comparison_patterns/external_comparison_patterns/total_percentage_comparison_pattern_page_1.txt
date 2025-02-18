@@ -1,0 +1,315 @@
+Total Percentage Comparison Pattern:
+
+
+In order to tackle the process of describing pie charts smartly, you should find the patterns being
+repeated in the sentences describing statistical information represented in this medium.
+Tehranina Polymath has identified the algorithms whose sequences create the pattern, labelled Total
+Percentage Comparison Pattern.
+
+There are three algorithms which are most frequently used in this type of pattern. 
+
+first: percent based description
+the formula:
+the percent + of + the whole + the bridge + the item
+
+second: percentage based description
+the formula:
+
+third: item base description
+the formula:
+
+Going through IELTS samples, you will learn thses algorithms with which you can boot your morale. 
+
+Percent Based Description
+
+Book 10, Test 1
+
+
+step 1: 
+*extract the main topic and call it 'the whole'
+the whole = 'Australina household energy use'
+step 2:
+*reverse-engineer the whole if need
+'Australian household energy use' is a quiet complicated noun phrase. So let's make it simple using
+'reverse-eginneering'. 
+reverse-engineering: converting a noun phrase into an abstract noun phrase.
+To do that, you should find the most right noun and find out whether its origin is a verb.
+With the right most noun being 'use', we are pretty sure that the root is a verb. 
+The next step is to bring it to the beginning of the phrase and add a specific determiner, in this
+case 'the',  to it. 
+the use of Australian household energy
+step 3:
+needing a clause(subject + verb) to answer this task one question, we should convert this abstract
+noun phrase into a clause. To do that, we should a have subject. Let's find out whether we extract a
+subject from this abstract noun phrase. 
+the use of Australian household energy
+'of Australian household enery' could be both the subject in 'of phrase form' and the object in 'of phrase
+form. Eihter away, we should get rid of the and see 'use' as a verb 
+Let try both of them:
+subject: Australian household energy is used
+object: * use Australian household enery.
+It is a good idea to stick with the subject option so that we don't make the process harder by
+adding a new word to this. Therefore, let's assign it to the whole varible. 
+the whole = Australian household energy is used
+step 4:
+Now, let's find the second variable in our alorithm. Looking at the pie chart, you may choose
+heating, cooling, lighting, water heating, refrigeration, or other appliances.
+Let's choose 'heating' and assing it to a variable called item. 
+item = heating
+step 5:
+In this stage, we should build the 'bridge'.
+To do that, we should figure the context in which statistical data is being represented. 
+Thankfully, the number of pie charts'contexts is limited. I am going to introduce them to you one at
+a time. Look at the question:'The first chart below shows how energy is used'. The word 'how'
+indicates the context. 'how' is a clear sign of means or methods. 
+The propositions that describe 'means' are as follows: by/via/through/with/by dint of/by means of
+In our case 'by' seems to be the best option. Let's pick this one over others.
+bridge = by
+the whole + the bridge + the item
+Australian household energy is used + by + heating
+step 6:
+In the final stage, we should fit the last piece of puzzle by looking a the proportion of heating
+which is 42%.
+the percent+ of + the whole(clause) + the bridge + the item
+42% + of Australian household energy is used + by + heating.
+Now, let's write our sentence:
+42% of Australian household energy is used by heating. 
+
+done
+
+Percentage Based Description:
+
+step 1:
+
+the whole(noun phrase) + the adjectival bridge + the item 
+Australian household energy +  which is used by + heating
+
+step 2:
+the whole(noun phrase) + the reduced adjectival bridge + the item
+Australian household energy + used by + heating
+
+step 3:
+adding the subject and the verb to create a clause
+the percentage + of + the whole + the adjectival bridge + the item + linking verbs + percent
+the percentage + of + Australian household energy + used by heate + stands at/is + 42%.
+
+
+Item Based Description:
+
+the item + CCHWCB + percent + of + the whole
+
+Figure Based Description:
+
+The figure for + item + linking verbs + the percent
+
+*figure the context
+*build the bridge
+*add percent before the whole
+
+
+*add the percentage of before the whole
+*modify the whole by the item
+*put the percent at the end of it
+
+
+*use item as the subject of your sentence
+*percent
+*of 
+*the whole
+
+
+
+Sample: 
+Australian household energy use(book 10, tes1) 
+
+item = heating
+the whole = Australian household energy use
+he bridge = is used by
+
+the whole + 
+Australian household energy is used by heating
+
+percent based description:
+30 percent of Australian houshold energy is used by water heating
+percentage based description:
+the percentage of Australian house hold used by  water heating is 30%
+
+item based description:
+water heating accounts for/makes up/represents 30% of Australina household energy use
+
+
+
+
+step 2: write a clause
+subject + verb
+
+step3:identify the context
+
+
+the percent+ of + the whole + the bridge + the item
+
+
+
+
+1- Percent Based Description:
+
+Book 14, Test 1
+
+1-1: Having gotten rid of percentage or percentages, write a clause(subject + verb) about the topic that is being discussed.
+
+Average percentage of sodium, 
+
+Sodium is consumed in three typical meals in the USA.
+Sodium is consumend in dinner. 
+the consumption of sodium in dinner
+sodium consumption in dinner
+
+
+
+
+contexts: ownership
+
+
+
+
+context: source
+
+sodium is consumed in typical meals in the USA
+the consumption of sodium
+sodium consumption
+
+
+43 percent of sodium is consumed in dinner
+43 percent of sodium consumption is in dinner. 
+the percentage of sodium consumed in dinner stands at/is 43%
+dinner accounts for 43% of sodium consumption
+the figure for dinner stands at/is 43%
+
+dinner accounts for 43% of 
+
+
+
+10 percent of the global market share belongs to iPhones.
+10 percent of US prisoners are men.
+
+What is the difference between these two sentences?
+Why in the first sentence 'belongs' has been used, while in the second sentence 'are' is the main
+verb??? Can we use 'belong' for the first sentence, and vice versa. 
+
+At the end of this article, you will be able to answers these very important questions. 
+
+For now, let's quickly learn the major players in this type of comparison pattern by using an example:
+
+
+EX: iPhones account for 10% of the global market share.
+
+The four major players are as follows:
+the item -> iPhones
+a verb -> account for 
+the proportion -> 10%
+the whole -> the global market share
+
+Now that you can identify the majore players, let's base the subcategories of TPCP on each major
+palyer, starting with the item.  
+
+1- Item Based Description:
+In this type of camparison pattern, the item is the subject of the sentence.
+
+ 
+iPhones have 27.7% of the global market share. 
+iPhones hold 27.7% of the global market share.
+iPhones account for 27.7% of the gobal market share.
+iPhones represent 27.7% of the global market share.
+iPhones comprise  27.7% of the global market share.
+iPhones constitute  27.7% of the global market share.
+iPhones make up 27.7% of the global market share.
+
+here is the formula: 
+
+item +  one of the aforementioned verbs + proportion + of + the whole
+
+To memorize the list of verbs, you may use the acronym:
+CHH CAMR -> chh camera
+comprise - hold - have    constitute - account for - make up - represent   
+
+
+1- Item Based Description: 
+
+There are players 
+
+item + have + proportion + of + the whole(total)
+
+There six verbs which are most frequently used so that an item refers to a portion of a total. 
+the formula:
+item + one of the six verbs + portion + of + total 
+
+
+With the item being 'iPhones' and '27.7%' being the portion, in this case, 'the global market share'
+refers to the total.  
+
+we may use the same structure for human beings as well.  
+
+Men account for/make up/represent/comprise/represent/constitute 60% of US prisoners.
+
+  
+
+
+
+2- Percent-based description:
+
+
+
+
+
+
+So far, so good! Now, before moving on to the remaining description, you need to learn the
+concept of hierarchical superordinate/subordinate categorization, in which items are organized into
+a tree-like structure whereby general categories include more specific categories. For example,
+a human is a superoridante that includes a man and a woman. Knowing that it is time to move on to
+the next step.
+
+Although not as streightforward as the previous example, to identify which item refers to a broader
+category is not very difficult. 
+a man is superdinate to prisoners
+Therefore, we can use the following formula:
+
+portion + of + total(subordinate) + to be + item(subordinate)
+
+60% of prisoners are men.
+
+In contrast, if the item is not a superordinate to total or if they are completely in different
+categories, the use of the previous formula is almost impossible. For example, not only are not
+iPhones subordiantes to the global market share, but also they are in completely different
+categories.
+
+ 
+27.7% of the goblal market share is iphones.(incorrect)
+Instead, we my use the verb 'belong' to connect to categories. 
+27.7% of the globlal market share belongs(if the preidicate is not a superordinate to the subject) to iPhones.
+
+ut we cannot say:
+Male prisoners are 27.7%.(incorrect)
+
+the combination of total percentage comparsion pattern and list comparison pattern is
+invetable
+
+3- Percentage Based Description
+the percentage + of + item(used either as an adjective or a possessor) + the whole + linking verb +
+proportion
+Also:
+iPhones'global market share is 27.7%.
+iphones'global market share stands at 27.7%. 
+The global market share of iPhones is 27.7%.
+The global market share of iPhones stands at 27.7%. 
+
+Since Tehranian Polymath's mission is to provide you with a new perpective on the process of recalling
+information, it has tried to classify the ways whereby you can describe pie charts, with the
+strategy itself being called Total Percentage Comparison pattern(TPCP).
+
+Prior to talking about the classifaction, I want you to look at the following examples in which the key to
+this type of comparison pattern lies. 
+
+
+
+note: sometimes the percentage refers to subject doing something
+

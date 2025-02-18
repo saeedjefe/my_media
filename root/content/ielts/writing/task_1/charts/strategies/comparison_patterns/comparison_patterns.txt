@@ -5,8 +5,8 @@ teachers alike, however, these collocations have been broken down into categorie
 on the type of statistical illustrations, namely bar charts, pie charts,
 tables, and line graphs. However, this approach may debilitate our cognitive ability
 regrading the analysis of statistical information since real classifications go
-beyong the type of statistical medium used for conveying data. Therefore, I
-have developed a new way of grouping collocations and describing statistical data which
+beyong the type of statistical medium used for conveying data. In other words, the same form
+Therefore, I have developed a new way of grouping collocations and describing statistical data which
 is called "comparison_patterns"  not based on the type of a statistical
 medium but rather on our perception, understanding and thinking of the data.  
 
