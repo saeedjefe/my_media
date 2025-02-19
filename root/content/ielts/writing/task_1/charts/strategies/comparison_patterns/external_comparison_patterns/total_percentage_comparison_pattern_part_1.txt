@@ -1,0 +1,219 @@
+Total Percentage Comparison Pattern:
+
+
+In order to tackle the process of describing pie charts smartly, you should find the patterns being
+repeated in the sentences describing statistical information represented in this medium.
+Tehranian Polymath has identified the algorithms whose sequences create the pattern, labelling them
+as Total Percentage Comparison Pattern.
+
+There are three algorithms which are most frequently used in this type of pattern. 
+
+first: percent based description
+the formula:
+the percent + of + the whole + the adverbial bridge + the item
+
+second: percentage based description
+the formula:
+the percentage + of + the whole + the adjectival bridge + the item + linking verbs + percent
+
+third: item based description
+the formula:
+the item + CCAWCB(other verbs are also possible depending on the context) + percent + of + the whole
+
+
+Going through IELTS samples, you will learn thses algorithms with which you can boot your morale. 
+
+Percent Based Description
+
+Book 10, Test 1
+
+
+step 1: 
+*extract the main topic and call it 'the whole'
+the whole = 'Australina household energy use'
+step 2:
+*reverse-engineer the whole if need
+'Australian household energy use' is a quiet complicated noun phrase. So let's make it simple using
+'reverse-eginneering'. 
+reverse-engineering: converting a noun phrase into an abstract noun phrase.
+To do that, you should find the most right noun and find out whether its origin is a verb.
+With the right most noun being 'use', we are pretty sure that the root is a verb. 
+The next step is to bring it to the beginning of the phrase and add a specific determiner, in this
+case 'the',  to it. 
+the use of Australian household energy
+step 3:
+needing a clause(subject + verb) to answer this task one question, we should convert this abstract
+noun phrase into a clause. To do that, we should a have subject. Let's find out whether we extract a
+subject from this abstract noun phrase. 
+the use of Australian household energy
+'of Australian household enery' could be both the subject in 'of phrase form' and the object in 'of phrase
+form. Eihter away, we should get rid of the and see 'use' as a verb 
+Let try both of them:
+subject: Australian household energy is used
+object: * use Australian household enery.
+It is a good idea to stick with the subject option so that we don't make the process harder by
+adding a new word to this. Therefore, let's assign it to the whole varible. 
+the whole = Australian household energy is used
+step 4:
+Now, let's find the second variable in our alorithm. Looking at the pie chart, you may choose
+heating, cooling, lighting, water heating, refrigeration, or other appliances.
+Let's choose 'heating' and assing it to a variable called item. 
+item = heating
+step 5:
+In this stage, we should build the 'bridge'.
+To do that, we should figure the context in which statistical data is being represented. 
+Thankfully, the number of pie charts'contexts is limited. I am going to introduce them to you one at
+a time. Look at the question:'The first chart below shows how energy is used'. The word 'how'
+indicates the context. 'how' is a clear sign of means or methods. 
+The propositions that describe 'means' are as follows: by/via/through/with/by dint of/by means of
+In our case, 'by' seems to be the best option. Let's pick this one over others.
+bridge = by
+the whole + the bridge + the item
+Australian household energy is used + by + heating
+step 6:
+In the final stage, we should fit the last piece of puzzle by looking a the proportion of heating
+which is 42%.
+the percent+ of + the whole(clause) + the bridge + the item
+42% + of Australian household energy is used + by + heating.
+Now, let's write our sentence:
+42% of Australian household energy is used by heating. T
+
+done
+
+Percentage Based Description:
+
+step 1:
+
+the whole(noun phrase) + the adjectival bridge + the item 
+Australian household energy +  which is used by + heating
+
+step 2:
+the whole(noun phrase) + the reduced adjectival bridge + the item
+Australian household energy + used by + heating
+
+step 3:
+adding the subject and the verb to create a clause
+the percentage + of + the whole + the adjectival bridge + the item + linking verbs + percent
+the percentage + of + Australian household energy + used by heate + stands at/is + 42%.
+
+
+Item Based Description:
+
+the item + CCHARM(other verbs are also possible depending on the context) + percent + of + the whole
+
+Figure Based Description:
+
+The figure for + item + linking verbs + the percent
+
+book 10, test1, part2
+
+percent based description:
+
+step 1: 
+
+extract the main topic, modified and call it 'the whole'
+
+Australian household green house emission
+
+reverse_engineering:
+
+Break the noun phrase into small pieces
+
+figure whether the right-most noun has a verb root
+
+if so, convert the noun phrase into an abstract noun
+
+the emission of Australian household greenhouse gas
+
+find out whether 'Australian household greenhouse gas' is the subject of emssion or the object
+
+subject: Australian household greenhouse gas is emitted
+
+object:subject + emit Australian greenhouse gas
+
+Again, choose the subject version.
+
+it is time the build the bridge:
+
+To do that, you need to find the context.
+
+find the context :
+
+Look at the second sentence of this pie chart description. Wiht 'result from' being used, the
+relationship is probably cause and resutl.
+
+
+the list of  verb phrases introducing cause and result :to result in/to contribute/to lead to/to
+cause/to be attributed to/to result from/ to stem from
+
+This time, we should express cause and result, with 'the whole' being the result and 'the
+item' being the cause. 
+
+Therefore, the clause version(Australian household greenhouse gas is emitted) doesn't come in handy.
+We need engineer it back to its phrase form. 
+
+the emission of Australian household greenhouse gas 
+Australian household greenhouse gas emission
+ 
+So far so good!! 
+
+It is time to build the adverbial bridge. 
+
+the whole + the bridge with adverbial function + the item
+
+Australian household greenhouse gas emission results from/ be attibuted to water heating
+
+the final step:
+
+percent + of + the whole + the bridge with adverbial function + the item
+32% of Australian household greenhouse gas emissions result from water heating.
+
+After having  introduced emissions  in the introduction, we may avoid redundancy by eliminating
+emissions' modifiers. 
+Australian household greenhouse gas emssions -> 
+greenhouse gas emissions 
+
+The final version:
+
+32% of greenhouse gas emssions result from/are attributed to water heating. 
+
+
+
+
+
+Percentage based description:
+
+greenhouse gas emssions which result from water heating
+
+afte reduction:
+
+greenhouse gas emssions resulting from water heating 
+
+the percentage+of+ the whole + the adjectival bridge + the item + linking verbs(stand at or is) + percent.
+
+the percetage of greenhouse gas emssions resulting from water heating stands at/is 32%. 
+
+
+item based description:
+
+item + CCHVWE(context-oriented verbs) + percent  + of + the whole
+Water heating results in 32% of emssions.
+
+done
+
+
+
+We are not done yet. The total percentage pattern on its own is not enough to describe pie charts. 
+
+Writing pie charts requires a mixture of total pattern and list comparison pattern.
+ 
+If you  haven't read 'the list comparison pattern' yet, click on the article regrading list
+comparison pattern. Have you read the article, stay with us so that Tehranina Polymath shows you the
+final step in writitng pie charts with cause and result and means context. 
+
+
+ 
+
+
+
+ 

@@ -1,0 +1,16 @@
+The top pie chart gives information on the means by which energy is used in average Australian
+household, with the bottom pie chart comparing the percentages of greenhouse gas emitted by such means. 
+
+
+The greatest percentage of Australian household energy is used by heating at a hefty 42 %, followed by water
+heating with 30%. The figure for other appliances, on the other hand, is half that of water
+heating, with refrigeration, lighting, and cooling representing a mere 7%,4%, and 2% of the total, respectively. 
+
+32 percent of Australian household greenhouse gas is emitted by water heating, while cooling and
+lightening account for only a tiny 3% and 8%. It is also worth mentioning that other appliances are
+responsible for a third of emissions in Australia, with the figure for refrigeration being half of
+that. 
+
+Overall, the proportion of emssions produced by refrigeration and other appliances are twice as big as their
+figures concering energy use; in contrast, heating's contribution to gas emissions is a third of its
+energy use.   
