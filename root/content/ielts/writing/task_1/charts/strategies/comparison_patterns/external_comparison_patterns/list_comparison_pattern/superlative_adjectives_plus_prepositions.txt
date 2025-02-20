@@ -20,9 +20,9 @@ sentence.
 
 Telegram is the most popular social media app, with 1 billion users worldwide. 
 
-Nonetheless, the use of 'with' in statistical contexts, I believe,  needs
-further linguisitics explanation. To tackle the problem, I have tried to reverse-engineer the sentence
-so that my inference helps my students have a firmer grasp of the concept.
+Nonetheless, the use of 'with' in statistical contexts, Tehranian Polymath believes,  needs
+further linguisitics explanation. To tackle the problem, Tehranian Polymath has tried to
+reverse-engineer the sentence so that his inference helps you have a firmer grasp of the concept.
  
 Look at the reverse-engineered version:
 
@@ -36,13 +36,21 @@ Let's start with the adjective clause:
 
 Telegram, which has 1 billion users, is the most popular social media app.
 There is a usage of with which expresses possession, making 'with' a perfect
-candidate for the adjective clause with 'has or has' as a verb.
+candidate for the adjective clause with 'has or have' as a verb.
 
 Telegram, with 1 billion users, is the most popular social media app. 
 
-We may use 'with' in the final position, being non restrictive.
+Being non restrictive, 'with' can be used in three adverbial positions, initial, mid, and final. 
 
+Initial:
+with 1 billion users, Telegram is the most popular social media app.
+
+mid:
+Telegram, with 1 billion users, is the most popular social media app.
+
+final:
 Telegram is most popular social media app, with 1 billion users. 
+
 
 
 The use of 'at':
@@ -54,7 +62,7 @@ Telegram is the most popular app, at 1 billion users.
 
 But again the question is where this 'semantic extension' comes from.
 
-Again, I have tried to reverse-engineer the sentence for further clarification:
+Tehranian Polymath has tried to reverse-engineer the sentence for further clarification:
 
 Telegram stands at 1 billion users.
 Telegram is the most popular app.
@@ -66,8 +74,7 @@ This time, I am going to use an adverb clause and, then, reduce it.
 
 Because Telegram stands at 1 billino uses, telegram is the most popular app.
 
-Since 'stand' here is a 'linking verb', we may replace it with 'to be' despite
-the fact that 'is' dosen't express the metaphorical sense of 'stand' which means
+Since 'stand' here is a 'linking verb', expressing neither an action nor an emotion, we may replace it with 'to be' despite the fact that 'is' dosen't express the metaphorical sense of 'stand' which means
 being steady not moving.
 
 Because telegram is at 1 billion users, it is the most popular app.

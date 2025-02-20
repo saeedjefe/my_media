@@ -1,10 +1,10 @@
 Total Percentage Comparison Pattern:
 
-
 In order to tackle the process of describing pie charts smartly, you should find the patterns being
 repeated in the sentences describing statistical information represented in this medium.
 Tehranian Polymath has identified the algorithms whose sequences create the pattern, labelling them
 as Total Percentage Comparison Pattern.
+
 
 There are three algorithms which are most frequently used in this type of pattern. 
 
@@ -76,7 +76,7 @@ which is 42%.
 the percent+ of + the whole(clause) + the bridge + the item
 42% + of Australian household energy is used + by + heating.
 Now, let's write our sentence:
-42% of Australian household energy is used by heating. T
+42% of Australian household energy is used by heating. 
 
 done
 
@@ -99,7 +99,10 @@ the percentage + of + Australian household energy + used by heate + stands at/is
 
 Item Based Description:
 
-the item + CCHARM(other verbs are also possible depending on the context) + percent + of + the whole
+the item + CCHARM + percent + of + the whole
+
+Context Based Description:
+
 
 Figure Based Description:
 
@@ -194,10 +197,14 @@ the percentage+of+ the whole + the adjectival bridge + the item + linking verbs(
 the percetage of greenhouse gas emssions resulting from water heating stands at/is 32%. 
 
 
-item based description:
+Item Based Description:
 
 item + CCHVWE(context-oriented verbs) + percent  + of + the whole
 Water heating results in 32% of emssions.
+
+
+Context-Item Based Description:
+
 
 done
 
@@ -206,13 +213,112 @@ done
 We are not done yet. The total percentage pattern on its own is not enough to describe pie charts. 
 
 Writing pie charts requires a mixture of total pattern and list comparison pattern.
- 
-If you  haven't read 'the list comparison pattern' yet, click on the article regrading list
-comparison pattern. Have you read the article, stay with us so that Tehranina Polymath shows you the
-final step in writitng pie charts with cause and result and means context. 
 
 
+In case of not  having read 'the list comparison pattern' article yet, it is a good time to do so.
+
+Are you ready?? Now, let's combine the 'total percentage comparison pattern' with 'list comparison
+pattern'. 
+
+Typically, we start from the greatest and then go further down the list. 
+
+the first pie chart:
+
+1-percentage based description + list comparison pattern: 
+
+two indepedent clauses:
+The greatest share/percentage/proportion of Australian household energy is used by heating.
+Heating stands at 42%.
+
+an independet clause + an adjective clause:
+The greatest percentage of Australian household energy is used by heating, which stands at 42%.
+
+an independet clause + recduction of an adjective clause:
+The greatest percentage of Australian household energy is used by heating, standing at 42%.
+
+Stand is semantic extension, meaning that 'heating' doesn't stand at 42%. With 'stand' expressing
+neither an action nor an emotion, it is a linking verb. Therefore, it can be replaced with 'to be'.
  
+Let's do that: 
+The greatest percentage of Australian household energy is used by heating, which is at 42%.
+
+Let's reduce it:
+The greatest percentage of Australian household energy is used by heating, being at 42%.
+
+Finally, we can get rid of 'being', a pure linking verb.
+
+The greates percentage of Australian household energy is used by heating, at 42%. 
+
+2- Percentage list description + list comparison pattern + item based description:
+
+ an independent clause +  an independent clause
+The greatest percentage of Australian household energy is used by heating. Heating accounts for 42% of Australian household energy use. 
+
+an independet clause + an adjective clause
+The greatest percentage of Australian household energy is used by heating which accounts for 42% of
+Australian household energy use.
+
+an independe cluase + reduction of an adjective clause 
+The greatest percentage of Australian household energy is used by heating, accounting for 42% of
+Australian household energy use.
+
+
+3- item based description + list comparison pattern + item based description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(percentage based description + list comparison pattern)  + item based description:
+
+the greatest share/percentage/proportion of Australian household energy is used by heating.
+heating accounts for 42% of the total
+
+reduction:
+The greatesst share of Australian household energy is used by heating, accounting for 42%.
+ 
+
+(Context-Item Based Description + List Comparison Pattern) + Item Based Description:
+
+Heating consumes the greatest proportion of Australian household energy.
+Heating accounts for 42% of the total.
+
+reduction:
+
+Heating consumes the greatest proportion of Australian household energy, accounting for 42% of the
+total. 
+
+
+Now we can go down the list by talking about the second greatest proportion. 
+Let's choos one of the senetence in the previous part.
+
+Heating consumes the greatest proportion of Australian household energy, accounting for 42% of the
+total. 
+
+This is followed by water heating + item based description
+This is followed by water heating + context based description
+This is followed by water heating + 
+
+
+Now, introducing contrast,  you can now address the item with the smallest percentage and other
+items in the pie chart.  
+
+
+
+
+
+
+Write the full essay, starting with the introduction:
+
 
 
 

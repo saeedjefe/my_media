@@ -1,0 +1,3 @@
+the consumption of meat
+subject:* consume meat
+object: meat is consumed -> consumed meat -> the most consumed meat
