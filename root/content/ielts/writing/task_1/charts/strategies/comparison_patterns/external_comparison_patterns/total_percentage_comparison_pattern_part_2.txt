@@ -1,173 +1,91 @@
+he total percentage pattern on its own is not enough to describe pie charts.
 
-Book 14, Test 1
+Writing pie charts requires a mixture of total pattern and list comparison pattern.
 
-1-1: Having gotten rid of percentage or percentages, write a clause(subject + verb) about the topic that is being discussed.
 
-Average percentage of sodium,
+In case of not  having read 'the list comparison pattern' article yet, it is a good time to do so.
 
-Sodium is consumed in three typical meals in the USA.
-Sodium is consumend in dinner.
-the consumption of sodium in dinner
-sodium consumption in dinner
+Are you ready?? Now, let's combine the 'total percentage comparison pattern' with 'list comparison
+pattern'.
 
+Typically, we start from the greatest and then go further down the list.
 
+the first pie chart:
 
+1-percentage based description + list comparison pattern:
 
-contexts: ownership
+two indepedent clauses:
+The greatest share/percentage/proportion of Australian household energy is used by heating.
+Heating stands at 42%.
 
+an independet clause + an adjective clause:
+The greatest percentage of Australian household energy is used by heating, which stands at 42%.
 
+an independet clause + recduction of an adjective clause:
+The greatest percentage of Australian household energy is used by heating, standing at 42%.
 
+Stand is semantic extension, meaning that 'heating' doesn't stand at 42%. With 'stand' expressing
+neither an action nor an emotion, it is a linking verb. Therefore, it can be replaced with 'to be'.
 
-context: source
+Let's do that:
+The greatest percentage of Australian household energy is used by heating, which is at 42%.
 
-sodium is consumed in typical meals in the USA
-the consumption of sodium
-sodium consumption
+Let's reduce it:
+The greatest percentage of Australian household energy is used by heating, being at 42%.
 
+Finally, we can get rid of 'being', a pure linking verb.
 
-43 percent of sodium is consumed in dinner
-43 percent of sodium consumption is in dinner.
-the percentage of sodium consumed in dinner stands at/is 43%
-dinner accounts for 43% of sodium consumption
-the figure for dinner stands at/is 43%
+The greates percentage of Australian household energy is used by heating, at 42%.
 
-dinner accounts for 43% of
+2- Percentage list description + list comparison pattern + item based description:
 
+ an independent clause +  an independent clause
+The greatest percentage of Australian household energy is used by heating. Heating accounts for 42% of Australian household energy use.
 
+an independet clause + an adjective clause
+The greatest percentage of Australian household energy is used by heating which accounts for 42% of
+Australian household energy use.
 
-10 percent of the global market share belongs to iPhones.
-10 percent of US prisoners are men.
+an independe cluase + reduction of an adjective clause
+The greatest percentage of Australian household energy is used by heating, accounting for 42% of
+Australian household energy use.
 
-What is the difference between these two sentences?
-Why in the first sentence 'belongs' has been used, while in the second sentence 'are' is the main
-verb??? Can we use 'belong' for the first sentence, and vice versa.
 
-At the end of this article, you will be able to answers these very important questions.
+3- item based description + list comparison pattern + item based description
 
-For now, let's quickly learn the major players in this type of comparison pattern by using an example:
+(percentage based description + list comparison pattern)  + item based description:
 
+the greatest share/percentage/proportion of Australian household energy is used by heating.
+heating accounts for 42% of the total
 
-EX: iPhones account for 10% of the global market share.
+reduction:
+The greatesst share of Australian household energy is used by heating, accounting for 42%.
 
-The four major players are as follows:
-the item -> iPhones
-a verb -> account for
-the proportion -> 10%
-the whole -> the global market share
 
-Now that you can identify the majore players, let's base the subcategories of TPCP on each major
-palyer, starting with the item.
+(Context-Item Based Description + List Comparison Pattern) + Item Based Description:
 
-1- Item Based Description:
-In this type of camparison pattern, the item is the subject of the sentence.
+Heating consumes the greatest proportion of Australian household energy.
+Heating accounts for 42% of the total.
 
+reduction:
 
-iPhones have 27.7% of the global market share.
-iPhones hold 27.7% of the global market share.
-iPhones account for 27.7% of the gobal market share.
-iPhones represent 27.7% of the global market share.
-iPhones comprise  27.7% of the global market share.
-iPhones constitute  27.7% of the global market share.
-iPhones make up 27.7% of the global market share.
+Heating consumes the greatest proportion of Australian household energy, accounting for 42% of the
+total.
 
-here is the formula:
 
-item +  one of the aforementioned verbs + proportion + of + the whole
+Now we can go down the list by talking about the second greatest proportion.
+Let's choos one of the senetence in the previous part.
 
-To memorize the list of verbs, you may use the acronym:
-CHH CAMR -> chh camera
-comprise - hold - have    constitute - account for - make up - represent
+Heating consumes the greatest proportion of Australian household energy, accounting for 42% of the
+total.
 
+This is followed by water heating + item based description
+This is followed by water heating + context based description
+This is followed by water heating +
 
-1- Item Based Description:
 
-There are players
-
-item + have + proportion + of + the whole(total)
-
-There six verbs which are most frequently used so that an item refers to a portion of a total.
-the formula:
-item + one of the six verbs + portion + of + total
-                                                                                                                                                                                                                                                                                                                                                                                              180,1         63%
-
-
-Figure Based Description:
-
-Lastly, 'the figure for' is a term which could be used generically among almost all statistical
-explanations.
-The figure for + item + linking verbs + the percent
-
-The figure for heating is/stands at 42%.
-
-
-
-With the item being 'iPhones' and '27.7%' being the portion, in this case, 'the global market share'
-refers to the total.
-
-we may use the same structure for human beings as well.
-
-Men account for/make up/represent/comprise/represent/constitute 60% of US prisoners.
-
-
-
-
-
-2- Percent-based description:
-
-
-
-
-
-
-So far, so good! Now, before moving on to the remaining description, you need to learn the
-concept of hierarchical superordinate/subordinate categorization, in which items are organized into
-a tree-like structure whereby general categories include more specific categories. For example,
-a human is a superoridante that includes a man and a woman. Knowing that it is time to move on to
-the next step.
-
-Although not as streightforward as the previous example, to identify which item refers to a broader
-category is not very difficult.
-a man is superdinate to prisoners
-Therefore, we can use the following formula:
-
-portion + of + total(subordinate) + to be + item(subordinate)
-
-60% of prisoners are men.
-
-In contrast, if the item is not a superordinate to total or if they are completely in different
-categories, the use of the previous formula is almost impossible. For example, not only are not
-iPhones subordiantes to the global market share, but also they are in completely different
-categories.
-
-
-27.7% of the goblal market share is iphones.(incorrect)
-Instead, we my use the verb 'belong' to connect to categories.
-27.7% of the globlal market share belongs(if the preidicate is not a superordinate to the subject) to iPhones.
-
-ut we cannot say:
-Male prisoners are 27.7%.(incorrect)
-
-the combination of total percentage comparsion pattern and list comparison pattern is
-invetable
-
-3- Percentage Based Description
-the percentage + of + item(used either as an adjective or a possessor) + the whole + linking verb +
-proportion
-Also:
-iPhones'global market share is 27.7%.
-iphones'global market share stands at 27.7%.
-The global market share of iPhones is 27.7%.
-The global market share of iPhones stands at 27.7%.
-
-Since Tehranian Polymath's mission is to provide you with a new perpective on the process of recalling
-information, it has tried to classify the ways whereby you can describe pie charts, with the
-strategy itself being called Total Percentage Comparison pattern(TPCP).
-
-Prior to talking about the classifaction, I want you to look at the following examples in which the key to
-this type of comparison pattern lies.
-
-
-
-note: sometimes the percentage refers to subject doing something
+Now, introducing contrast,  you can now address the item with the smallest percentage and other
+items in the pie chart.
+Write the full essay, starting with the introduction:
 
 
