@@ -11,12 +11,14 @@ But being too generic, this sentence lacks statistical information. Therefore, w
 need to add numbers to the previous sentence. 
 
 how to add numbers to the text:
+
+'with and at' numercial description:
 prepositions(with, at) for adding numbers
 paranthesis:
 
 
 You may have seen 'with' as a preposition whereby numbers can be added to a
-sentence.
+sentence where the most or the least is being described. 
 
 Telegram is the most popular social media app, with 1 billion users worldwide. 
 
@@ -35,12 +37,16 @@ clause.
 Let's start with the adjective clause:
 
 Telegram, which has 1 billion users, is the most popular social media app.
+
 There is a usage of with which expresses possession, making 'with' a perfect
 candidate for the adjective clause with 'has or have' as a verb.
 
+example:
+a man who has a white beard -> a man with while beard
+telegram which has 1 billion users -> telegram with 1 billion users
 Telegram, with 1 billion users, is the most popular social media app. 
 
-Being non restrictive, 'with' can be used in three adverbial positions, initial, mid, and final. 
+With adjective cluse preceding the reducntion being non-restricitve, 'with' can be used in three adverbial positions, initial, mid, and final. 
 
 Initial:
 with 1 billion users, Telegram is the most popular social media app.

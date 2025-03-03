@@ -1,0 +1,228 @@
+total Percentage Comparison Pattern:
+
+In order to tackle the process of describing pie charts smartly, you should find the patterns being
+repeated in the sentences describing statistical information represented by this medium.
+Tehranian Polymath has identified the algorithms whose sequences create the pattern, labelling them
+as "Total Percentage Comparison Pattern".
+
+
+There are three algorithms which are frequently used in this type of pattern. 
+
+First: percent based description
+the formula:
+the percent + of + the whole + the bridge + the item
+
+
+Second: percentage based description
+the formula:
+the percentage + of + the whole + the adjectival bridge + the item + linking verbs + percent
+
+Third: item based description
+the formula:
+the item + ARM verbs + percent + of + the whole
+
+Going through IELTS samples, you will learn these algorithms with which you can boost your morale. 
+
+Book9, test3, task1
+
+Percent Based Description:
+
+step one: 
+In the first step we should find the whole, which is the population of a country, either Yemen or
+Italy. 
+
+the population of Yemen
+the population of Italy
+
+For the sake of simplicity, let's choose only 'the population of Yemen' and assing it to 'the
+whole'.
+the whole = the populatoin of Yemen
+
+step two:
+
+In this step, we should analyze the syntactic skeleton of the whole, rewriting it if possible
+
+syntactic analysis:
+'the population' is a noun phrase
+'of Yemen' is a propostional phrase with an adjectival function
+
+If a prepositional phrase has an adjectival fucntion, we can get rid of the prepositional phrase by
+using a noun adjunct.
+
+Ex: the door of the hotel -> the hotel door
+
+However, we cannot use the same formula for proper nouns. Instead, we should use a proper
+adjective, but the problem is that we may not know the ajdectival version of a proper noun, in this
+case Yemeni' epecially during IELTS exam. Therefore, we need a more promising formula, which is using a possessive form. 
+
+the population of Yemen -> Yemen's population
+
+Having analyzed 'the whole', we are ready for the next step. 
+
+step three:
+
+the percent + the whole
+
+46.3% of Yemen's popultion
+
+step four:
+In this phase, we should find the elements making up the whole and assign them to the variable 'the
+element'. 
+0-14 years    15-59 years  60 +years
+But thses elements are raw. In other words, before assigning them to to variable element, we should
+figure out what phrase they are.  
+
+If you are not already familiar with phrases, you may check the articles regarding the importance of
+phrase in the IELTS exam.
+
+There three main phrases in English shaping the skeleton of modern English:
+1-noun phrases
+2-verb phrases
+3-prepositional phrases
+
+neither 0-14 years, 15-59 years nor 60+ years fall under the categories of these phrases. Therefore, we
+should convert them into at least one of them. 
+
+prepositinal phrase version:
+
+
+between 0 and 14 years old 
+between 15 and 59 years of age
+over 6o
+in the 0-14 age group
+in the 15-59 age group
+'between,  over, and in' are both prepositions. 
+
+noun phrase version:
+
+0-to-14-year-olds
+15-to-59-year-olds
+the 60-and-over age group
+
+
+
+
+Again, for the sake of simplicity, let's choose only one of the elemets.
+
+the element = between 15 and 59 years of age(prepositional phrase version)
+the element = in the 15-59 age group(prepositional phrase version)
+the element = 15-to-59-year-olds(noun phrase version)
+
+
+
+
+step five: 
+In this phase, we should build a bridge between 'the whole' and 'the element'
+
+But to choose a bridge is perhaps the most diffcult part.
+ 
+Let's use what we already have:
+
+recall the formula:the percent + of + the whole + the bridge + the element
+46.3 % of Yemen's population + bride + the element 
+
+There are two versions of the element: 
+in the 15-59 age group(perpositional pharse)
+15-to-59-year-olds(noun phrase)
+
+Which one do you think is the best option?
+
+To answer this question, you may need to read the article concerning predicate and subject
+complements. 
+
+Prepositional phrases are great choices for being subject complements.
+
+Ex: My bike is in the park. 
+'in the park' is a prepositional phrase functioning as the subject complement. 
+
+Therefore, we use a 'to be' verb to connect 'the whole' to 'the element. 
+Let's give it a shot.
+
+46.3% of Yemen's population is in the 15-59 age group.
+
+Great!!!
+
+Now, let's try the noun phrase version.
+
+46.3% of Yemen's population is 15-to-15-year-olds.
+
+If the above-mentioned sentence sounds awkward to you, trust you feelings. Why??
+
+Look at the following sentences and figure which one is correct:
+A human is a man. 
+A man is a human.
+
+Syntactic analysis:
+'a human' is a noun phrase
+'is' is a linking verb describing neither an action nor an emotion
+'a man' is also a noun phrase. 
+
+There is a concept in philosophy called hierarchical relationship in which a superordinate
+encompasses a breader category which itself includes a smaller entity called a suboridinate. 
+
+Ex: 'a human' is a superordinate to 'a man', with 'a man' being a subordinate to 'a human'. 
+
+In fact, if we use a noun phrase after a 'to be' verb, the noun phrase must be a superoridnate to
+the subject, or else the sentece might seem unnatural, not justifiable philosophically speaking.
+
+Therefore, we can say, %93 of prisoners are men; this is because 'men' is a superordinate to
+prisoners. 
+
+
+Percentage Based Description:
+
+the percentage + of + the whole + the adjectival bridge + the item + linking verbs + percent
+
+The percentage of Yemen's population + the adjectival bridge + in the 15-59 age group is/stands at
+46.3%. 
+
+Instead of the adjectival bridge, we may use an adjective clause. 
+
+The percentage of Yemen's population who is in the 15-59 age group is/stands at
+46.3%. 
+
+Then, we may need to reduce the adjective clause.
+
+The percentage of Yemen's population in the 15-59 age group is/stands at46.3%. 
+
+
+Item based Description:
+
+the item + ARM verbs + percent + of + the whole
+
+the element = between 15 and 59 years of age(prepositional phrase version)
+the element = in the 15-59 age group(prepositional phrase version)
+the element = 15-to-59-year-olds(noun phrase version)
+
+Wiht item in this formula functioning as the subject of our sentece, which verson of elment do you
+think we should use for item. If you are not familiar with the types of subjects, you need to read
+the article addressing types of subjects.
+
+Yep!!
+We cannot use prepositional phrases as the subject of our sentence. Thereofore, the only option
+would be the noun phrase. 
+
+15-to-59-year-olds +  account for/represent/make up 46.3% of Yemen's population. 
+
+done
+
+
+Total Percentage Pattern on its own is not enough to describe a pie chart. Indeed, a combination of
+Total percentage Pattern and List Comparison Pattern could get the job done. If you haven't read the
+article concerning List Comparison Pattern, click on this link.
+
+
+List Comparison pattern + Total Percentage Pattern(Percentage Based Description) + With and At
+numerical addition
+
+The greatest percentage of Yemen's population is in the 0-14 age group, at 50.1%. 
+
+ 
+
+
+
+
+
+
+
+

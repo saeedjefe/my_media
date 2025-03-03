@@ -1,0 +1,107 @@
+Total percentage pattern on its own is not enough to describe pie charts.
+Indeed, Writing pie charts requires a mixture of total pattern and list comparison pattern.
+
+
+In case of not  having read 'the list comparison pattern' article yet, it is a good time to do so.
+
+Are you ready?? Now, let's combine the 'total percentage comparison pattern' with 'list comparison
+pattern'.
+
+Typically, we start from the greatest and then go further down the list.
+
+the first pie chart:
+
+1-percentage based description + list comparison pattern:
+
+recall the percentage based description:
+
+the percentage of Australian household energy which is used by heating is/stands at 42%.
+
+total percentage pattern + list comparison pattern:
+The greatest percentage of Australian household energy is used by heating.
+
+The question is how we can add numbers to this sentence. To tackle the problem,you need to read "with and at
+numercial description", if you haven't already. 
+
+Using the 'with and at numerical description':
+
+Heating stands at 42%.
+
+To combine two separate sentences, we need to use an adjective clause modifying heat. 
+
+The greatest percentage of Australian household energy is used by heating. Heating stands at 42%.
+The greatest percentage of Australian household energy is used by heating, which stands at 42%.
+
+we can reduce the adjective clause modifying heating to sound more professional.
+
+The greatest percentage of Australian household energy is used by heating, standing at 42%.
+
+Stand is semantic extension, meaning that 'heating' doesn't stand at 42%. With 'stand' expressing
+neither an action nor an emotion, it is a linking verb. Therefore, it can be replaced with 'to be'.
+
+Let's do that:
+The greatest percentage of Australian household energy is used by heating, which is at 42%.
+
+Let's reduce it:
+The greatest percentage of Australian household energy is used by heating, being at 42%.
+
+Finally, we can get rid of 'being', a pure linking verb.
+
+The greates percentage of Australian household energy is used by heating, at 42%.
+
+done 
+
+2- (Percentage based description + list comparison pattern) + item based description:
+
+The greatest percentage of Australian household energy is used by heating. Heating accounts for 42% of Australian household energy use.
+
+
+The greatest percentage of Australian household energy is used by heating, which accounts for 42% of
+Australian household energy use.
+
+Again, we may reduce the adjective clause modifying heating.
+The greatest percentage of Australian household energy is used by heating, accounting for 42% of
+Australian household energy use.
+
+
+3- item based description(leveraging the reasoning tree)+ list comparison pattern + item based description
+
+Heating consumes the greatest proportion of Australian household energy.
+Heating accounts for 42% of the total.
+
+reduction:
+
+Heating consumes the greatest proportion of Australian household energy, accounting for 42% of the
+total.
+
+
+
+Now we can go down the list by talking about the second greatest proportion.
+Let's choose one of the senetences in the previous part.
+
+Heating consumes the greatest proportion of Australian household energy, accounting for 42% of the
+total.
+
+This is followed by water heating. 
+Water heating accounts for 30% of energy use(item based description).
+Water heating consumes 30% of energy use(item based description(leveraging the reasoning tree)).
+Water heating stands at 30%(at numerical description)
+
+Now, we should combine them using an adjective clause.
+
+This is followed by water heating which accounts for 30%. 
+reduced:
+This is followed by water heating, accounting for 30%.
+This is followed by water heating, standing at 30%. -> This is followed by water heating, at 30%. 
+ 
+
+
+Now, introducing contrast,  you can now address the item with the smallest percentage and other
+items in the pie chart, as well.
+
+The smallest proportion of Australian household energy is used by cooling. 
+Cooling stands at 2%. 
+
+
+
+

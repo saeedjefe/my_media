@@ -1,0 +1,20 @@
+
+
+The description of pie charts could fall under one of these two categories:
+or 
+Total percentage pattern could be d
+
+1-proportion-based:
+
+1-1 percent based description
+
+1-2 percentage based description
+
+2-item-based:
+
+2-1 item based description
+
+2-2 percent based description
+
+2-3 percentage based description
+

@@ -1,31 +1,27 @@
-Total Percentage Comparison Pattern:
+total Percentage Comparison Pattern:
 
-In order to tackle the process of describing pie charts smrt, you should find the patterns being
-repeated in the sentences describing statistical information represented in this medium.
+In order to tackle the process of describing pie charts smartly, you should find the patterns being
+repeated in the sentences describing statistical information represented by this medium.
 Tehranian Polymath has identified the algorithms whose sequences create the pattern, labelling them
-as Total Percentage Comparison Pattern.
+as "Total Percentage Comparison Pattern".
 
 
 There are four algorithms which are frequently used in this type of pattern. 
 
-first: percent based description
+First: percent based description
 the formula:
 the percent + of + the whole + the (adverbial)* bridge + the item
 *the advebial bridge is not always present in statistical reports
 
-second: percentage based description
+Second: percentage based description
 the formula:
 the percentage + of + the whole + the adjectival bridge + the item + linking verbs + percent
 
-third: item based description
+Third: item based description
 the formula:
-the item + CCAWCB + percent + of + the whole
+the item + ARM verbs + percent + of + the whole
 
-fourth: context based description
-in used one the forumulas from either the first or the second algorithm is used with verbs stemming
-from the context
-
-Going through IELTS samples, you will learn thses algorithms with which you can boot your morale. 
+Going through IELTS samples, you will learn these algorithms with which you can boost your morale. 
 
 Percent Based Description
 
@@ -35,40 +31,45 @@ Book 10, Test 1
 step 1: 
 *extract the main topic and call it 'the whole'
 the whole = 'Australina household energy use'
-step 2:
 
-reverse-engineer 'the whole' if need
+step 2:
+reverse-engineer 'the whole' if needed
 'Australian household energy use' is a quiet complicated noun phrase. So let's make it simple using
-'reverse-eginneering'. 
+'reverse-egineering'. 
 reverse-engineering: 
 2-1: the conversion of a noun phrase into an abstract noun phrase:
 To do that, you should find the most right noun and find out whether its origin is a verb.
 With the right most noun being 'use', we are pretty sure that the root is a verb. 
 
-The next step is to bring it to the beginning of the phrase and add a specific determiner, in this
-case 'the',  to it. 
-the use of Australian household energy
+The next step is to bring it to the beginning of the phrase and add a specific determine  to it , in this
+case 'the'
 
 
 step 3:
 
-needing a clause(subject + verb) to answer this task one question, we should convert this abstract
+Needing a clause(subject + verb) to answer this task one question, we should convert this abstract
 noun phrase into a clause. To do that, we should a have subject. Let's find out whether we can extract a
-subject from this abstract noun phrase. 
+subject from this abstract noun phrase.
+ 
 the use of Australian household energy
+
 'of Australian household enery' could be both the subject in 'of phrase form' and the object in 'of phrase
 form. Eihter away, we should get rid of 'the' and use 'use' as a verb 
 Let's try both of them:
+
 subject: Australian household energy is used(passive)
 object: to use Australian household enery(a verb phrase with no subjects)
+
 It is a good idea to stick with the subject option so that we don't make the process harder by
-adding a new word(subject) to this. Therefore, let's assign it to the whole varible. 
+adding a new word(subject) to this. Therefore, let's assign it to 'the whole' varible. 
 the whole = Australian household energy is used
+
 step 4:
 Now, let's find the second variable, 'the item', in our algorithm. Looking at the pie chart, you may choose
 heating, cooling, lighting, water heating, refrigeration, or other appliances.
 Let's choose 'heating' and assing it to a variable called 'item'. 
 item = heating
+
 step 5:
 In this stage, we should build the 'adverbial bridge'
 Look at the question:'The first chart below shows how energy is used'. 'how' is a clear sign of the
@@ -96,14 +97,14 @@ We have already figured some variables to use for this formula:
 the whole(noun phrase) + the adjectival bridge + the item 
 Australian household energy +  which is used by + heating
 
-which is used is and ajective clause with a to be verb. Therefore, it can be reduced.
+'which is used' is an ajective clause with a 'to be' verb, 'is'. Therefore, it can be reduced.
 
 the whole(noun phrase) + the reduced adjectival bridge + the item
 Australian household energy + used by + heating
 
 step 3:
 adding the subject and the verb to create a clause
-subject + of + the whole + the adjectival bridge + the item + linking verbs + percent
+the percentage + of + the whole + the adjectival bridge + the item + linking verbs + percent
 the percentage + of + Australian household energy + used by heating + stands at/is + 42%.
 
 
@@ -116,43 +117,40 @@ heating accounts for 42% of (Australian household) energy use.
 heating represents 42% of (Australian household) energy use.
 heating makes up 42% of (Australian household) energy use.
 
-Context Based Description:
-
-The advantage of the privious algorithms is that they are applicable to almost all questions types
-without any significant chagnes. In the context based description, however, you need to memorized
-synonyms to be used instead of the main verb in the topic or 'the whole'. Tehranian polymath, having
-categorized synonyms based on their contexts, has tried to make this type of description as
-straightforward as possible. 
-
-the context of energy use:
-
-To fully understand the conext of enery use, Tehranan Polymath has invented a 'resoning tree' in
-which to top most item is the most generic term, with the items down the tree being more specific. 
+Reasoning Tree Leverage:
+We are pretty sure that you have heard the term 'Synonyms'. However, we use a different approach for
+that in which synonyms could be further classified into either superordiantes, subordinates, or
+coordinates.To make this classification more understanble, Tehranan Polymath has create a digagram
+'the resoning tree' inwhich the top most item is the most generic term, with the items down the tree being more
+specific. In addition, the items which are next eacher in the tree are called coordinates.   
                 
 			                                  energy use                 
 		energy consumption(amount used, quantified) 	     energy utilization(purposeful use of energy)
-The closest match could be consumption. Therefore, we can apply it to the same algorithms. 
 
-Percent Based Description:
+As you can see, 'energy use' is a superordinate to its subordiantes(energy consumption and energy
+utilization), with the subordinates being cooridinates to one another. 
+
+With utilization being a purposeful use of energy, the closest match could be consumption. Therefore, we can apply it to the same algorithms.
+  
+Percent Based Description(leveraging resoning tree):
 Australian household energy consumption
 the consumption of Australian household energy
 Australian household energy is consumed by heating
 42% of Australian household energy is consumed by heating
 
-Percentage Based Description:
+Percentage Based Description(leveraging reasoning tree):
 The percentage of Australian household energy consumed by heating stands at/is 42%.
 
-
-Item Based Description:
+Item Based Description(leveraging reasoning tree):
 
 Heating consumes 42% of Australian household energy.
+
+Finally, you may use the most generic way for describing statistical data to address the information
+in a pie chart, as well.  
 
 Figure Based Description:
 
 The figure for + item + linking verbs + the percent
-
-Finally, you may use the most generic way for describing statistical data to address the information
-in a pie chart, as well.  
 
 The figure for Heating is/stands at 42%. 
 
@@ -171,7 +169,7 @@ extract the main topic, modified and call it 'the whole'
 Australian household green house emission
 
 can we say that emission has a verb root???
-Despite the fact that emission has a verb form, 'emit', we are not one 100% sure that this emission
+Despite the fact that emission has a verb form, 'emit', we are not  100% sure that this emission
 refers to that act of emitting. This is because 'emission' itself can express an entity, a matter.
 Therefore, we can't be 100% sure that the previous formula works here, as well. For the sake of
 curiosity, however, let's reverse engineer 'Australian household greenhouse gas emissions'.
@@ -181,12 +179,16 @@ the emission of Australina household greenhouse gas
 Australian household greenhouse gas is emitted
 the whole = 'Australian greenhouse gas is emitted'
 the whole + adverbial bridge + the item
-Australian household greenhouse gas is emitted + adverbial + heating
+Australian household greenhouse gas is emitted + adverbial function + heating
+
 let's look at the question to find out what adverbial function is being expressed in the question. 
 'The second chart shows the greenhouse gas emissions which result from this energy use.'
 The type of adverbial function is clearly 'cause and result'.
+Here is a snippet of the Tehranian Polymath table classifying adevbial functions. To see the entire
+tabel, click on the adverbial function table. 
 Ok, let's find out whether we can build an adverbial bridge between 'the whole' and 'the item'.
 Australian household greenhouse gas is emitted + ??? + heating.
+
 It seems that the clause version doesn't work. Therefore, let's stick to the noun phrase version of
 the whole. --> 'Ausralian household greenhouse gas emissions'
 Then, apply that to the formula:
@@ -228,11 +230,8 @@ Heating represents 42% of total gas emssions.
 Heating makes up 42% of total gas emssions.
 
 
-
-Context-Item Based Description:
-
-With context being clearly cause and result, we may use verbs expressing cause in Item Based
-Description.
+To seem more professional, we may use the verbs expressing cause and result in the item based
+description.
 
 Heating leads to 42% of total gas emssions.
 Heating causes 42% of total gas emssions.
@@ -240,6 +239,6 @@ Heating results in 42% of total gas emissions.
 
 We are not done yet.
 
-Total Comparison Pattern alone is not enough to describe pie chart. Click on the following link to
+Total Comparison Pattern alone is not enough to describe pie charts. Click on the following link to
 read the next page. 
  
