@@ -1,19 +1,85 @@
-there are typically four main scenarios, using time divison comparison pattern
+Time Division Comparison Pattern:
 
-upward trend:
+Time is an intrinsic value of  line graphs, being always present on X axis. Therefore, to describe
+line graphs, you should have a good understanding of time clauses. You may read the artilce
+addressing time clauses by clicking on this link so that you are armed with this knowledge prior to
+tackling line graphs. 
 
-downward trend:
+Based on Tehranian Polymath's methodology, generally speaking, comparison patterns could be either
+interanl or external. If you see only one line on a graph, taking time divisions into consideration,
+you may compare the line with itself.
 
-fluctuation or volitility:
+
+However, if you zome out, you can see the big picture. This big picture could be lablled as 
+the overall or general trend or the general pattern. In fact, to refer to all of them, we are going to use theterm ' the big picture'. 
+
+'The big picutre' could appear in four different states: upward(adj), downward(adj),
+volatile(adj), and stable(adj). With these states being all adjectives, we can write our first
+formula regarding line graphs:
+
+the big picture + to be + states
+
+Ex: 
+the overall trend is stable
+
+Nevertheless, this formula dosen't work because every line on a graph represents a topic whose name
+should be included in our formula. But how can we add the name of topic being in question to our
+formula. Well, the answer lies in a preposition whose funcion is adjectival modifying the big
+picture. In this case, the preposition that can be used universally is 'in'. 
+
+Thus, lets' revise our formula:
+
+the + overall + trend + in + the item + to be + state adjectives
+
+The overall trend in chicken consumption was upward.
+The overall trend in chicken consumption was downward.  
+The general trend in chicken consumpton was volatile.
+The overall trend in chicken consumption was stable.
+
+an increase in chicken consumption
+
+there + to be + an + overall + state adjectives + trend + in + the item
+
+There was an overall downward trend in chicken consumption.
+There was an overall upward trend in chicken consumption.
+There was an overall volatile trend in chicken consumption.
+There was an overll stable trend in chicken consumption.
+
+there was an increase in chicken consumption
+
+the item + show/exhibit/demonstrate + an + overall + state adjectives + trend
+
+Chicken consumption showed an overall downward trend.
+Chicken consumption showed an overall upward trend.
+Chicken consumption showed an overall volatile trend.
+Chicken consumption showed an overall stable trend.
+
+chicken consumption showed an increase
+
+The + overall + trend + in + item + showed/exhibited/demonstrated + a state noun phrase
+
+The overall trend in chicken consumption showed/exhibited/demonstrated an upward movement.
+The overall trend in chicken consumption showed/exhibited/demonstrated a downward trajectory.
+The overall trend in chicken consumption showed/exhibited/demonstrated volatility/fluctuations. 
+The overall trend in chicken consumption showed/exhibited/demonstrated statbility. 
 
 
-stability:
 
-follow the same pattern
+the + state ajective + trend + in + item + passive verbs(expressing observation).
 
-temporal variations:
+An upward trend in chicken consumption was observed.
+A downward trend in chicken consumption was observed.
+A volatile trend in chicken consumption was observed.
+A stable trend in chicken consumption was observed. 
 
-simultanous:
+
+an increase in chicken consumption was recorded/reported.
+
+
+
+
+For tomorrow, add synonyms and add list comparison pattern to trends
+
 
 
 

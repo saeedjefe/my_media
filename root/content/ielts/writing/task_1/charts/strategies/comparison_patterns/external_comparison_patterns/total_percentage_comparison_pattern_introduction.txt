@@ -80,7 +80,7 @@ There three main phrases in English shaping the skeleton of modern English:
 2-verb phrases
 3-prepositional phrases
 
-neither 0-14 years, 15-59 years nor 60+ years fall under the categories of these phrases. Therefore, we
+neither 0-14 years, 15-59 years nor 60+ years fall into the categories of these phrases. Therefore, we
 should convert them into at least one of them. 
 
 prepositinal phrase version:
@@ -99,8 +99,10 @@ noun phrase version:
 15-to-59-year-olds
 the 60-and-over age group
 
+modified noun phrases:
 
-
+people aged between 15 and 59
+people aged 60 and over
 
 Again, for the sake of simplicity, let's choose only one of the elemets.
 
@@ -112,11 +114,16 @@ the element = 15-to-59-year-olds(noun phrase version)
 
 
 step five: 
-In this phase, we should build a bridge between 'the whole' and 'the element'
+In this phase, we should build a bridge between 'the whole' and 'the element', starting with the
+most neutral verbs. In other words, 'to be verbs' which are literally linking verbs, creating a
+bridge. 
 
-But to choose a bridge is perhaps the most diffcult part.
+
+
+But placing just 'is, am, are, was, were, been, or been' is not as simple as it might seem. To use a
+'to be verb' we had better understand the concepts of subject complements. If you haven't already,
+you may read the article concerning subject complements. 
  
-Let's use what we already have:
 
 recall the formula:the percent + of + the whole + the bridge + the element
 46.3 % of Yemen's population + bride + the element 
@@ -190,9 +197,11 @@ Item based Description:
 
 the item + ARM verbs + percent + of + the whole
 
-the element = between 15 and 59 years of age(prepositional phrase version)
-the element = in the 15-59 age group(prepositional phrase version)
-the element = 15-to-59-year-olds(noun phrase version)
+the element (prepositional phrase version)= between 0 and 14 years of age
+the element (prepositional phrase version)= in the 0-14 age group
+the element (noun phrase version)= 0-to-14-year-olds
+the element (noun phrase version)= individuals 
+
 
 Wiht item in this formula functioning as the subject of our sentece, which verson of elment do you
 think we should use for item. If you are not familiar with the types of subjects, you need to read
@@ -202,8 +211,10 @@ Yep!!
 We cannot use prepositional phrases as the subject of our sentence. Thereofore, the only option
 would be the noun phrase. 
 
-15-to-59-year-olds +  account for/represent/make up 46.3% of Yemen's population. 
 
+15-to-59-year-olds +  account for/represent/make up 46.3% of Yemen's population. 
+between 0 and 14 years old account for 
+15-to-59-year-olds account for 46.3% of Yemen's population. 
 done
 
 
@@ -215,14 +226,108 @@ article concerning List Comparison Pattern, click on this link.
 List Comparison pattern + Total Percentage Pattern(Percentage Based Description) + With and At
 numerical addition
 
-The greatest percentage of Yemen's population is in the 0-14 age group, at 50.1%. 
+The greatest percentage of Yemen's population is in the 0-14 age group, which stands at 50.1%.
+
+We need to reduce the adjective clause.
+
+The greatest percentage of Yemen's population is in the 0-14 age group, standing at 50.1%.
+
+Wiht standing being a semantic extension, we can be pretty sure that it is a linking verb. 
+
+The greatest percentage of Yemen's population is in the 0-14 age group, bing at 50.1%.
+The greatest percentage of Yemen's population is in the 0-14 age group, at 50.1%.
+
+Going further down the list:
+
+The greatest percentage of Yemen's population is in the 0-14 age group, at 50.1%. This is followed
+by ...
+
+With 'by' being a preposition, we should figure which version of 'the element' we should use. 
+
+
+the element = between 15 and 59 years of age(prepositional phrase version)
+the element = in the 15-59 age group(prepositional phrase version)
+the element = 15-to-59-year-olds(noun phrase version)
+
+The only option seems to be the noun phrase version because we need an object for the preposition
+by. If you are not already familiar with numinal functions, you may need to read the article
+concering nominal funcitons.
 
  
+The greatest percentage of Yemen's population is in the 0-14 age group, at 50.1%. This is followed
+by 15-to-15-year-olds whose proportion stands at 46.3%. 
 
 
+Contrast is the essence of meaningfullness. With Satan being the source of all evils, the importance of God
+existance becomes more crucial. Light is the essence of Dark, with day being the essence of night.
+Therefore, you should make your essay as contrasting as possible, shifting the reader's attention to
+the smallest percentages.
 
 
+But before describing the smallest percentages, we may take account of other algorithms for
+expressing Total Percentage Pattern. Remember, variety is the spice of life. 
 
 
+(Item Based Descrition + Total Percentage Pattern) + 'At Numerical Addition'
+
+To use Item Based Description, we need to use a subject before ARM verbs.  
+
+the item + ARM verbs + percent + of + the whole
+
+There three versions of 'the element'.
+
+Let's write all of the for the age group over 60 years of age:
+
+over 60 years of age 
+people aged 60 and over
+ 
+People aged 60 and over account for the smallest percentage of Yemen's population, at ....
+
+done
+ 
+
+review
 
 
+What you have read in this article is an introduction to Total Percentage Pattern, with 'to be
+verbs' being used as a bridge between 'the whole' and 'the item'. However, this is not always the
+case. In fact, different contexts  may require the introducntion of different adverbial
+functions, in which you should use specific verbs.  
+
+Here is the list of the most common contexts:
+
+1-source
+
+bridges: comes from, is derived, originates from 
+
+
+2-ownership
+
+bridges: belong to, is owned, is held by, commands
+
+3-contribution
+
+keywords: contitute + ARM
+
+4-distribution
+
+keywords: is distributed, is shared, is divided into
+
+5-causation
+
+keyword: leads to, results in, is responsible for, causes, is due to
+
+6-expenditure
+
+keyword: is spent on , goes to, is allocated to, is used for
+
+7-generation/production
+
+keyword: is generated by, produces, creates
+
+8-consumption
+
+keyword: consume, use, utilize
+
+9-purpose
+be used for, serve, be intended for, be dedicated for, be allocated to

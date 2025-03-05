@@ -1,0 +1,15 @@
+The line graph gives information on  how many grams of four different types of meat consumed in a
+European country over a 25-year period lasting from 1979 to 2004.
+
+Overall, an upward trend was observed in chicken consumption, while lamb consumption showed a
+downward movemnt. Conversely, fish consumption remained constant, whereas that of beef exhibited volitality.
+
+In 1979, although chicken and lamb were eaten at similar quantites at 150 per person perweek, they
+followed different patterns over the period in quesion, with lamb plunging to almost 50 grams and
+chicken surging to almost 150 grams. 
+
+In contrast, even though beef was the most eaten meat at 2010 grams per person per week in 1979, this rate
+fluctuated videly over the next 10 years, reaching almost 180 grams in 1989. After this period of
+volatility, beef consumption continued to decrease, reaching an all time low of approximately 100
+grams. In contrast, fish, being the least consumed meat over the period inquestion, remained
+unchanged at 50 grams from 1979 to 2004. 
