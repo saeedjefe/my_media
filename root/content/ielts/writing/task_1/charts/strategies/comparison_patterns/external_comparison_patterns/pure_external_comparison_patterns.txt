@@ -1,2 +1,0 @@
-there are some parts in new insight and long man book, being candidates for this
-type of comparison pattern
