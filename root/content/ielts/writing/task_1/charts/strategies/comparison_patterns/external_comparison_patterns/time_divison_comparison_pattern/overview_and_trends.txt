@@ -17,7 +17,7 @@ The overl trend could appear in four different states: upward(adj), downward(adj
 volatile(adj), and stable(adj). With these states being all adjectives, we can write our first
 formula regarding line graphs:
 
-the big picture + to be(is, are , was, were) + states(upward, downward, volatile, stable)
+the + overall + trend + to be(is, are , was, were) + states(upward, downward, volatile, stable)
 
 Ex: 
 the overall trend is stable
@@ -25,19 +25,29 @@ the overall trend is stable
 But the overall trend of what???
 
 In fact, this formula dosen't work because every line on a graph represents a subject whose name
-should be included in our formula. But how can we add the name of item in question to our
+should be included in our formula. But how can we add the name of the item in question to our
 formula. Well, the answer lies in a preposition whose funcion is adjectival, modifying the overall
 trend. In this case, the preposition that can be used universally is 'in'. 
 
 Thus, lets' revise our formula:
 
-the + overall + trend + in + the item in question + to be + state adjectives
+the + overall + trend + in + the item in question + to be + state adjectives(upward, downward,
+volatile, stable)
+
+Now, we can add the name of the item in question(for example, chicken consumption)
+
+The overall trend in chicken consumption was upward.
+
+To make the proccess more practical, let's write an overview for a task1 IELTS question. 
 
 Ex: book7, test2
 
 Fish and meat cosumption 
 
-Let's say that the item in question is chicken consumptio
+There are four items each of which has a unique overall trend. 
+It is time to use our formula.
+
+the + overall + trend + in + the item in question + to be + state adjectives(
 
 The overall trend in chicken consumption was upward.
 The overall trend in lamb consumption was downward.  
@@ -98,7 +108,7 @@ write a paragraph, we should assing each item a pattern. Then, start writing:
 The overall trend in chicken consumption was upward.
 The overall trend in lamb consumption exhibited an downward movement.
 There was an overall volatile trend/volatility/ were fluctuations in beef consumption.
-Overall trend in fish consumption demonstrated consistency.
+The overall trend in fish consumption demonstrated consistency.
 
 *Overall trend in fish consumption remained constant(adj). Withe remained being a linking verb,
 expressing neither an upward nor a downward movement, we can use an adjective(constant). 
@@ -115,7 +125,7 @@ Overall, the trend in chicken consumpton was upward.
 Lamb consumption exhibited an upward movement. 
 
 Remember that 'overall and trend' are both in our black list. Therefore, we are not supposed to use
-them again. Instead, we should use alternatives if possible.
+them again.
 
 Overall, the trend in chicken consumpton was upward. 
 Lamb consumption exhibited an upward movement.
@@ -202,7 +212,11 @@ Let's update our paragraph by converting 'fish consumption'.
 Overall, the trend in chicken consumption was upward, while lamb consumption exhibited a downward movement.
 Conversely, there were fluctuations in beef consumption, whereas that of fish remained constant.
 
-done!! 
+This is the overview of our task1 response. We have externally compared the overall trends. But we
+should now zoom in to describe more detail of the line graph, writing the body. 
+
+Click on the following link to read the article in which time comparison pattern is discussed within
+the body.  
 
 
 
