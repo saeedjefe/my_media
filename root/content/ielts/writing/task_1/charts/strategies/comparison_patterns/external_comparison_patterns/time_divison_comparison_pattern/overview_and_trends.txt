@@ -1,5 +1,9 @@
 Time Division Comparison Pattern:
 
+with an overview focusing on trends
+with an overview focusing on how dramatic trends are
+with an over focsing on list comparison pattern
+
 Time is an intrinsic value of  line graphs, being always present on X axis. Therefore, to describe
 line graphs, you should have a good understanding of time, more specifically time clause and
 phrases. You may need to read the artilce addressing time clauses by clicking on this link so that you are armed
