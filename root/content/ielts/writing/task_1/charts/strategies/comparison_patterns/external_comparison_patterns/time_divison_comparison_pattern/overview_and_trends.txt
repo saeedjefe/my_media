@@ -4,20 +4,11 @@ with an overview focusing on trends
 with an overview focusing on how dramatic trends are
 with an over focsing on list comparison pattern
 
-Time is an intrinsic value of  line graphs, being always present on X axis. Therefore, to describe
-line graphs, you should have a good understanding of time, more specifically time clause and
-phrases. You may need to read the artilce addressing time clauses by clicking on this link so that you are armed
- with this knowledge prior to tackling line graphs. 
-
 Based on Tehranian Polymath's methodology, generally speaking, comparison patterns could be either
 interanl or external. If you see only one line on a graph, having taken time divisions into account,
-you may compare the line with itself.
+you may compare the line with itself.However, if you zome out, you can see the big picture. This big picture could be lablled as the overall trend.  
 
-
-However, if you zome out, you can see the big picture. This big picture could be lablled as 
-the overall trend.  
-
-The overl trend could appear in four different states: upward(adj), downward(adj),
+The overall trend could appear in four different states: upward(adj), downward(adj),
 volatile(adj), and stable(adj). With these states being all adjectives, we can write our first
 formula regarding line graphs:
 
@@ -49,9 +40,11 @@ Ex: book7, test2
 Fish and meat cosumption 
 
 There are four items each of which has a unique overall trend. 
+
 It is time to use our formula.
 
 the + overall + trend + in + the item in question + to be + state adjectives(
+
 
 The overall trend in chicken consumption was upward.
 The overall trend in lamb consumption was downward.  
@@ -63,30 +56,45 @@ So far so good!!
 But variety is the spice of life. With all these sentences following the same pattern, the reader
 may find himself repeating the same structure. Therefore, let's rearrange the pieces of  puzzle. 
 
-
+the formula:
 there + to be + an + overall + state adjectives + trend + in + the item in question
 
+Upward and downward trends:
 There was an overall downward trend/trajectory/movement in lamb consumption.
 There was an overall upward trend/trajectory/movement in chicken consumption.
-There was an overall volatile trend/volatility/fluctuations in beef consumption.
-There was an overall stable trend/stability in chicken consumption.
+
+Volatility:
+There was an overall volatile trend in beef consumption.
+or
+There was volatility in chicken consumption (overall trend)*.
+There were fluctuations in beef consumption (overall trend)*.
 
 
-We may even use the item in question as the subject of our sentence, with 'deomstrative verbs' being
-the main verbs of it.
+Stability:
+There was an overall stable trend in chicken consumption.
+There was stability in chicken consumption (overall trend)*.
 
-the item in question + show/exhibit/demonstrate/follow* + an + overall + state adjectives + trend
+*You had better avoid using "overall trend" in these examples.  
+
+We may even use the items in question as the subject of our sentence, with 'deomstrative verbs' being
+the main verbs.
+
+the formula:
+the item in question + show/exhibit/demonstrate + an + overall + state adjectives + trend
+
+
+Lamb consumption showed/followed* an overall downward trend/trajectory.
+Chicken consumption exhibited/followed* an overall upward trend/movement.
+Beef consumption demonstrated an overall volatile trend.
+Fish consumption showed an overall stable trend.
 
 *'follow' might be used only for upward and downward trends
 
-Lamb consumption showed/followed an overall downward trend/trajectory.
-Chicken consumption exhibited/followed an overall upward trend/movement.
-Beef consumption demonstrated an overall volatile trend.
-Fish consumption showed an overall stable trend.
 
 We may also use the 'overall trend' modified by 'in'  to conver all the items in question
 as the subject of our sentence.
  
+the formula:
 The + overall + trend + in + item + showed/exhibited/demonstrated + a state noun phrase
 
 The overall trend in lamb consumption showed/exhibited/demonstrated a downward movement/trajectory.
@@ -95,7 +103,12 @@ The overall trend in lamb consumption showed/exhibited/demonstrated volatility/f
 The overall trend in fish consumption showed/exhibited/demonstrated consistency/statbility. 
 
 
+Since stability is a sign of neutrality, a linking verb, which expresses neither an action nor an
+emotion,  can be used, with the predicate being an adjective, in this case 'constant'. 
+The overall trend in fish consumption remained constant.
 
+
+antoher formual:
 an + state ajective + trend + in + item in question + passive verbs(expressing observation).
 
 An overall downward trend in lamb consumption was observed.
@@ -104,43 +117,45 @@ An overall volatile trend in beef consumption was observed.
 An overall stable trend in fish consumption was observed. 
 
 
-Five pattern for overall trend has been discussed so far. There are four items in question. To
+Five patterns for overall trend has been discussed so far. There are four items in question. To
 write a paragraph, we should assing each item a pattern. Then, start writing:
 
 
 
-The overall trend in chicken consumption was upward.
-The overall trend in lamb consumption exhibited an downward movement.
-There was an overall volatile trend/volatility/ were fluctuations in beef consumption.
-The overall trend in fish consumption demonstrated consistency.
 
-*Overall trend in fish consumption remained constant(adj). Withe remained being a linking verb,
-expressing neither an upward nor a downward movement, we can use an adjective(constant). 
 
-Now, we need to avoid the redundancy at first by getting read of overall. Writing a paragraph, we
-may use 'overall' as a sentence adverb, modifying the entire paragraph. 
 
+Now, we need to avoid the redundancy at first by casting aside 'overall'.
+
+To do that, we may use 'overall' as a sentence adverb, modifying the entire paragraph.
+
+Before elminiation:
 Overall, the trend in chicken consumpton was upward.
+The (overall) trend in lamb consumption exhibited an downward movement.
+There were fluctuations in beef consumption (overall) trend. 
+The (overall) trend in fish consumption remaned constant.
 
-'Trend' is used in the first and second sentence. So we may eliminate 'trend' from the second
-sentence. 
+After elimination:
+Overall, the trend in chicken consumpton was upward.
+The trend in lamb consumption exhibited an downward movement.
+There were fluctuations in beef consumption trend. 
+The trend in fish consumption remained constant.
 
-Overall, the trend in chicken consumpton was upward. 
-Lamb consumption exhibited an upward movement. 
+'Trend' is also used in the first and second sentence. So we may eliminate 'trend' from the second
+third, and forth sentences. 
 
-Remember that 'overall and trend' are both in our black list. Therefore, we are not supposed to use
-them again.
+Before elminiation:
+Overall, the trend in chicken consumpton was upward.
+(The trend) in lamb consumption exhibited an downward movement.
+There were fluctuations in beef consumption (trend). 
+The (trend) in fish consumption remaned constant.
 
-Overall, the trend in chicken consumpton was upward. 
-Lamb consumption exhibited an upward movement.
-There were fluctutations in beef consumption.
-
-For the last sentence, we can also avoid using 'the overall trend'. 
-
-Overall, the trend in chicken consumpton was upward. 
+After elminiation:
+Overall, the trend in chicken consumpton was upward.
 Lamb consumption exhibited an downward movement.
-There were fluctutations in beef consumption.
+There were fluctuations in beef consumption. 
 Fish consumption remained constant.
+
 
 After the removal of redundant words, our paragraph is ready for the next step in which we can connect
 clauses and sentences. But to connect clauses and sentences, we have to understand the relationship
@@ -148,17 +163,23 @@ between them. To view the full list of adverbial functions, you may click on the
 see the Tehranian Polymath's table classifying adverbial functions. 
 
 If you look at the first sentence and second sentence, you can see 'upward and downward', which is a
-clear sign of contrast. So let's connect them using subordianting conjuctons.
+clear sign of contrast. So let's use the contrast arrow from  our table to visualize the
+relationship. 
 
+
+It is time to look at the arrow of the table, choosing one of the options.
 Overall, the trend in chicken consumption was upward, while lamb consumption exhibited a downward
 movement. 
 
 Now we have a sentence, with the first clause being independent and the second dependet(adverb).
 
-Look at the rest of the paragraph, where you can see 'fluctuations and consistency'. Again, contrast
-is plainly visible between these two words. So let's connnect them using another subordinating
-conjuction. 
 
+Look at the rest of the paragraph, where you can see 'fluctuations and consistency(constant)'. Again, contrast
+is plainly visible between these two words. Let's again use a contrast arrow to show the adverbial
+relationship.
+
+
+It is time to look at the arrow of the table, choosing one of the options.
 There were fluctuations in beef consumption, whereas fish consumption remained constant. 
 
 Look at our last update on our paragraph:
@@ -166,11 +187,11 @@ Overall, the trend in chicken consumption was upward, while lamb consumption exh
 movement. There were fluctuations in beef consumption, whereas fish consumption remained constant. 
 
 There are two sentences, each of which has an idependent clause followed by an adverb clause.
+But the first sentence places a particular emphasis on upward and downward trends, while the second
+second sentence the two other overall trends are being compared. Hence, we can visualize the
+relationship between the two sentences as well.
 
-Now it is time to connect two sentences semantically. To do that, we may use a sentence adverb, in
-this case 'conversely'.  
-
-Overall, the trend in chicken consumption was upward, while lamb consumption exhibited a downward
+ Overall, the trend in chicken consumption was upward, while lamb consumption exhibited a downward
 movement. Conversely, there were fluctuations in beef consumption, whereas fish consumption remained
 constant. 
 
@@ -178,7 +199,8 @@ Now we have two senetences, each of which has two clauses, with the sentences th
 connected semantically through a conjunctive adverb. 
 
  
-However, there is still a problemin our paragraph, with 'consumption' being used redundantly.
+However, there can be still a minor improvment in our paragraph. With 'consumption' being used
+redundantly, we had better find an alternative for it. 
 
 To tackle the problem, there are serveral ways. But Tehranina Polymath is going to use this case as
 an excuse to explain a very important technique in modern English for the avoidance of redundancy. 
@@ -195,10 +217,10 @@ lamb consumption
 beef consumption 
 fish consumption 
 
-'that', interestingly, can be align with a proposition to tackle thses issues, with the most common
+'that', interestingly, can be align with a proposition to tackle these issues, with the most common
 type being 'that of'
 
-But to do that, we have to make sure that 'that of' can be used instead of 'consumption' in thses
+But to do that, we have to make sure that 'that of' can be used instead of 'consumption' in these
 phrases.
 
 Therefore, let's tackle the problem linguistically:
@@ -210,6 +232,7 @@ may need to read the article concerning nominalization.
 fish Consumption -> an abstract noun
 the consumption of fish -> an abstract noun phrase
 Now, we can use 'that of' instead of 'the consumption of'
+the consumption of fish -> that of fish
 
 Let's update our paragraph by converting 'fish consumption'.
 
@@ -217,7 +240,7 @@ Overall, the trend in chicken consumption was upward, while lamb consumption exh
 Conversely, there were fluctuations in beef consumption, whereas that of fish remained constant.
 
 This is the overview of our task1 response. We have externally compared the overall trends. But we
-should now zoom in to describe more detail of the line graph, writing the body. 
+should now zoom in to describe more detail of the line graphs, writing the body. 
 
 Click on the following link to read the article in which time comparison pattern is discussed within
 the body.  

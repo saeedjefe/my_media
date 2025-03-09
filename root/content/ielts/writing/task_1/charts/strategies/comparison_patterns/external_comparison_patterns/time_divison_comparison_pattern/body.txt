@@ -86,22 +86,23 @@ in 1984, beef consumption flattend at the same rate befor a drop of 80 gram, rea
 low of 60 grams in 2004. 
 
 There was volatility in beef consumption.
-Beef consumption started at 210 grams per person per week.
-Beef consmption decreased shraply to 180 grams in 1981. 
-Beef consumption rebounded and peaked at 240 grams in 1984.
-Beef consumption dipped(just for a short time)to 230 in 1985.
-Beef consumption rebounded to where it was in 1984 in the following year.
+Beef consumption started at 210 grams per person per week in 1979.
+Beef consmption declined shraply but briefly to 180 grams in 1981. 
+Beef consumption had recovered and peaked at 240 grams by 1984.
+Beef consumption dipped back to its inital level the follwoing year.
+Beef consumption recovered to 235 grams in 1985.
 Beef consumpton flattened/stabalized at the same rate for three consecutive years.
-Beef consumption dropped by 80 grams over the remaining years.
-Beef consumption finished at 100 gramms in 2004. 
+Beef consumption decrease consistently and significantly by 140 grams over the remaining years.
+Beef consumption  finished at 100 gramms in 2004. 
 
-Beef consumption started at 210 grams per preson pre week. Then, despite a sharp decrease to 180
-grams in 1981, it rebounded, peaking at 180 grams in 1981. Thereafter, inspite of dipping to 230
-grams in 1986, beef consumption rebounded to where it was in 1984 in the following year after which
-it stabalizes at the same rate for three consecutive years. 
+Beef consumption started at 210 grams per person per week in 1979. Then, despite a brief but sharp
+decline to 180 grams in 1981, it recovered and peaked at 240 grams in 1984 before dipping back to its
+initial level the following year. However, in 1985, beef consumption recovered to 235 grams at
+which it stabilized for three consecutive years prior to its consistent and significant decrease of
+140 grams over the remaining years, finishing at 100 grams in 2004.  
 
 
-fish consumption remained constant.
+Fish consumption remained constant.
 Fish consumption started at 50 grams in 1979. 
 Fish consumption stayed at the same rate over the following years. 
 
