@@ -1,0 +1,6 @@
+
+adv-clause based description
+reduced-adv-clause based description
+adj-clause based description
+reduced-adj-clause based description
+abstract-noun-phrase based description

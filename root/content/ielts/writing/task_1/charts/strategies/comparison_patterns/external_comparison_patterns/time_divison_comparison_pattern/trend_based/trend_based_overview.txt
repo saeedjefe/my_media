@@ -21,7 +21,7 @@ But the overall trend of what???
 
 In fact, this formula dosen't work because every line on a graph represents a subject whose name
 should be included in our formula. But how can we add the name of the item in question to our
-formula. Well, the answer lies in a preposition whose funcion is adjectival, modifying the overall
+formula? Well, the answer lies in a preposition whose funcion is adjectival, modifying the overall
 trend. In this case, the preposition that can be used universally is 'in'. 
 
 Thus, lets' revise our formula:
@@ -91,7 +91,7 @@ Fish consumption showed an overall stable trend.
 *'follow' might be used only for upward and downward trends
 
 
-We may also use the 'overall trend' modified by 'in'  to conver all the items in question
+We may also use the 'overall trend' modified by 'in' plus the items in question
 as the subject of our sentence.
  
 the formula:
@@ -105,8 +105,8 @@ The overall trend in fish consumption showed/exhibited/demonstrated consistency/
 
 Since stability is a sign of neutrality, a linking verb, which expresses neither an action nor an
 emotion,  can be used, with the predicate being an adjective, in this case 'constant'. 
-The overall trend in fish consumption remained constant.
 
+The overall trend in fish consumption remained constant.
 
 antoher formual:
 an + state ajective + trend + in + item in question + passive verbs(expressing observation).
@@ -117,12 +117,8 @@ An overall volatile trend in beef consumption was observed.
 An overall stable trend in fish consumption was observed. 
 
 
-Five patterns for overall trend has been discussed so far. There are four items in question. To
+Five patterns for overall trend have been discussed so far. There are four items in question. To
 write a paragraph, we should assing each item a pattern. Then, start writing:
-
-
-
-
 
 
 Now, we need to avoid the redundancy at first by casting aside 'overall'.
@@ -162,7 +158,7 @@ clauses and sentences. But to connect clauses and sentences, we have to understa
 between them. To view the full list of adverbial functions, you may click on the following link to
 see the Tehranian Polymath's table classifying adverbial functions. 
 
-If you look at the first sentence and second sentence, you can see 'upward and downward', which is a
+If you look at the first  and second sentence, you can see 'upward and downward', which is a
 clear sign of contrast. So let's use the contrast arrow from  our table to visualize the
 relationship. 
 
@@ -187,11 +183,11 @@ Overall, the trend in chicken consumption was upward, while lamb consumption exh
 movement. There were fluctuations in beef consumption, whereas fish consumption remained constant. 
 
 There are two sentences, each of which has an idependent clause followed by an adverb clause.
-But the first sentence places a particular emphasis on upward and downward trends, while the second
+But the first sentence places a particular emphasis on upward and downward trends, while in  the second
 second sentence the two other overall trends are being compared. Hence, we can visualize the
 relationship between the two sentences as well.
 
- Overall, the trend in chicken consumption was upward, while lamb consumption exhibited a downward
+Overall, the trend in chicken consumption was upward, while lamb consumption exhibited a downward
 movement. Conversely, there were fluctuations in beef consumption, whereas fish consumption remained
 constant. 
 

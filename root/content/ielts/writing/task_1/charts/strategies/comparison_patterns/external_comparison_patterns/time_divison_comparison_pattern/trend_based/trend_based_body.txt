@@ -1,0 +1,187 @@
+Prior to writing the body, we should recall what we have already written in our overview.
+At first, let's look at the flowchart we have drawn, using the adverbial arrow from our table. 
+
+
+
+
+
+
+Tehranian Polymath's suggestion is the expansion of the flowchart, starting with chicken
+consumption.  
+
+For an overall upward trend, the most simplistic approach that can be used is:
+
+1- the descripiton of the starting point
+2- the description of the overall direction, magnitude, and slope of the line itself
+3- the description of the ending point 
+
+Therefore, we need three sentences each of which addresses one step of our algorithm, with the first
+sentence derived from our overview. 
+
+the trend in chicken consumption was upward
+
+Chicken consumption started at almost 145 grams per person per week in 1979. 
+Chicken consumption increased dramatically by 100 grams over the next 25 years. 
+Chicken consumption eneded at approximately 250 grams in 2004. 
+
+To connect the sentences, again we need to figure the adverbial functions between these three
+senteces. You may figure the adverbial function by cheking the table our agian. 
+With these sentences being arraned in chronological order, we can be pretty sure that time is 
+the adverbial function that we are looking for. Therefore, we can draw a flowchart to connect these
+three sentences to one another.
+
+the trend in chicken consumption was upward
+
+Chicken consumption started at almost 145 grams per person per week in 1979. 
+Then, chicken consumption increased dramatically by 100 grams over the next 25 years. 
+Thereafter, chicken consumption eneded at approximately 250 grams in 2004.
+
+This is the crudest version of adverbially connecting the senteces, with all the senteces being
+simple, each of which contains only on independet clause. 
+
+This time let's use the subordinating conjuctions' column so that we can create complex sentences
+by converting independet clauses into adverb clauses.   
+Prior to read this part, it is highly recommended to read the tutorial note regarding time clauses
+written by Tehranian polymath. 
+
+After chicken consumtion started at almost 140 grams per person per week, chicken consumption
+incrased dramatically by 100 grams over the next 25 years. Then, chicken consumption ended at
+approximately 240 grams in 2004. 
+
+Wiht chicken consumption used repeatedly, we may need to get rid of it to avoid redundancy. 
+
+At first we simply may use of pronoun.
+
+After chicken consumtion started at almost 140 grams per person per week, it
+incrased dramatically by 100 grams over the next 25 years. Then, it ended at
+approximately 240 grams in 2004. 
+
+Even though it looks better, the usage of 'it' doesn't seem to be very professional.
+Hence, this time we may use an extremely important concept in language called reduction,  with only
+one clause having a subject. 
+
+After starting at almost 140 grams per person per week, chicken consumption increased dramatically by
+more than 100 grams over the next 25 years, ending at approximately 240 grams in 2004. 
+
+Now, we can even cast away 'after'.
+
+Starting at almost 140 grams per person per week, chicken consumption increased dramatically by more
+than 100 grams, ending at approximately 240 grams in 2004. 
+
+We can also use a perfect phrase:
+
+Having starting at almost 140 grams per person per week, chicken consumption increased dramatically by more
+than 100 grams, ending at approximately 240 grams in 2004.
+
+Now let's write the sentences addressing lamb consumpoin using our three-step algorithm.
+
+
+lamb consumption exhibited a downward movement
+
+Lamb consumption stood at 150 grams per peorson per week in 1979.
+Lamb consumpton decreased by 100 grams over the following 25 years. 
+Lamb consumption finished at 70 grams in 2004.
+
+Again, convert these sentences into a flowchart.
+
+
+
+Lamb consumption, which stood at 150 grams per person per week in 1979, decreased by 100 grams over
+the following 25 years, finishing at 70 grams in 2004. 
+
+
+
+
+
+
+
+
+ 
+
+
+
+Again, these sentences are arrangned in chronological order, with time being the adverbial function.
+This time, however, we are going to use a different algorithem for one of the senteces, leveraging a
+very important concept called nominalization. You are not familiar with this extremely important
+concept, it is a perfect time read the article addressing nominalization. 
+
+
+First thing first, we should convert a clause into a noun phrase:
+Lamb consumption decreased substantially by 100 grams -> a decrease of 100 grams in lamb consumption
+
+Lamb consumption stood at 150 grams per person per week in 1979, and after a decrease of 100 grams
+over the following 25 years, it plummeted to 70 grams in 2004.
+
+This time we used to indepenedent clauses, with an abstarct noun phrase in between.
+
+
+There was volatility in beef consumption.
+Beef consumption started at 210 grams per person per month. 
+Beef consmption decreased shraply to 180 grams in 1981. 
+Beef consumption peaked at 240 grams in 1984.
+Beef consumption dipped(just for a short time)to 230 in 1985.
+Beef consumption rebounded to where it was in 1984 in the following year.
+Beef consumpton flattened/stabalized at the same rate for three consecutive years.
+Beef consumption dropped by 80 grams over the remaining years.
+Beef consumption finished at 100 gramms in 2004. 
+
+Now, it is time to merge senteces. But to do that, we have to first identify the adverbial
+reltionships between them. With all these variations taking place over time, 
+we can say that there is coronological order between sentence. To adverb time clauses, you may need
+to read the article adressing time clauses. 
+
+Let's go throug sentences and start connecting them using linguisitic tools.
+
+Beef consumption started at 210 grams per person per month. Then, even though it decreased shraply to 180 grams. 
+it peaked at 240 grams. Thereafter, although it dipped to 230, it rebounded to where it was in 1984.
+After that, it flattened at the same rate before it dropped by 80 grams. Finally, it reached an all-time low
+of 60 grems in 2004. 
+
+Although sentences are connected using either conjuctions or adverbs, the excessive use of 'it'
+seems to make the reading of the sentences difficult.
+
+Now, we need to leverage 'reductions' so that we can get rid of all the 'it'. 
+
+The first sentce is an independent clause. Therefore, we should leave it out.
+
+Now look at the second sentence:
+
+Then, even though it decreased shraply to 180 grams, it peaked at 240 grams. 
+
+Even though alhough is a subordinate conjunction, we don't typicall reduce the classes expressing
+concession because phillosphically speaking it concession creates distance between two items, unline
+cause and time. Hovewer, we may use the propositional version of although which is 'despite'.
+
+There was volatility in beef consumption.
+Beef consumption started at 210 grams per person per month. 
+Then, despite decreasing shraply to 180 grams, it peaked at 240 grams before dipping to 230. However, having rebounded to where it was in 1984, beef consumption flattend at the same rate befor a drop of 80 gram, reaching an all time low of 60 grams in 2004. 
+
+There was volatility in beef consumption.
+Beef consumption started at 210 grams per person per week in 1979.
+Beef consmption declined shraply but briefly to 180 grams in 1981. 
+Beef consumption recovered and peaked at 240 grams in 1984.
+Beef consumption dipped back to its inital level the follwoing year.
+Beef consumption recovered to 235 grams in 1985.
+Beef consumpton flattened/stabalized at the same rate for three consecutive years.
+Beef consumption decreased consistently and significantly by 140 grams over the remaining years.
+Beef consumption  finished at 100 gramms in 2004. 
+
+Beef consumption started at 210 grams per person per week in 1979. Then, despite a brief but sharp
+decline to 180 grams in 1981, it recovered and peaked at 240 grams in 1984 before dipping back to its
+initial level the following year. However, in 1985, beef consumption recovered to 235 grams at
+which it stabilized for three consecutive years prior to its consistent and significant decrease of
+140 grams over the remaining years, finishing at 100 grams in 2004.  
+
+
+
+Fish consumption started at 50 grams in 1979. 
+Fish consumption remained constant.
+Fish consumption stayed at the same rate over the following years. 
+
+
+
+
+ 
+ 
+
+
