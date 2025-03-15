@@ -1,0 +1,44 @@
+description types:
+
+
+
+verb based description:
+
+
+
+noun based description:
+
+metaphorical_verbs:
+
+
+dummy_there:
+
+
+
+predicative_adjective:
+
+
+passive_form:
+
+
+
+
+
+Adding numbers:
+
+points_numerical_addition:
+
+verb based description:
+
+noun based description:
+
+amount_numerical_addition:
+
+verb based description:
+
+noun based description:
+
+
+
+
+

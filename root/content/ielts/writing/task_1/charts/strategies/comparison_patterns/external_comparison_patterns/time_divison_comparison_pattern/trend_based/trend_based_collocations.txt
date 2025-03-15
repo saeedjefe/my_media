@@ -1,7 +1,4 @@
-the key prepositional phrase metioning the starting point in a year to the ending point in a year->
-you need an acronyme for this propositional phrase.
-
-from X in a year to X in a year
+coll
 
 upward:
 
@@ -71,7 +68,7 @@ predictive-adj-based-description:
 The increase in chicken  consumption was evident, from 150 grams in 1979 to 160 in 2004.
 
 verb-based-description: 
-Chicken consumption experienced an increase from 150 grams in 1979 to 160 grams in 2004.
+Chicken consumption experienced/saw an increase from 150 grams in 1979 to 160 grams in 2004.
 
 
 2- gradual increase
@@ -98,10 +95,10 @@ soar
 
 noun phrases:
 
-surge in housing prices  from x in a year to x in a year
-jump in housing prices from x in a year to x in a year
-soar in housing prices from x in a year to x in a year
-
+a surge in housing prices  from x in a year to x in a year
+a jump in housing prices from x in a year to x in a year
+a soar in housing prices from x in a year to x in a year
+a leap in housing prices from x in a year to x in a year
 4- substantial or considerable increase
 
 to increase significatly 
@@ -116,6 +113,8 @@ to increase exponentially
 to multiply from X in a year to X in a year
 to escalate from x in a year to x in a year
 
+an escalation in
+a multipication
 
 
 a downward trend:
@@ -134,8 +133,8 @@ to gradually decrease
 to reduce 
 to fall
 
- a fall in 
- a reduction in 
+a fall in 
+a reduction in 
 
 
 3-rapid or sharp decrease

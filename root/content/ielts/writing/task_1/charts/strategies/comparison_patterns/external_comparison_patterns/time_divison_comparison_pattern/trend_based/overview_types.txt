@@ -1,88 +1,23 @@
-Time Division Comparison Pattern:
+List_based_overview:
+Trend_based_overview:
 
-with an overview focusing on trends
-with an overview focusing on how dramatic trends are
-with an over focsing on list comparison pattern
+1-metophoric_verbs
+2-dummy_there
+3-predicative_adjective
+4-passive_form
+
+
 
 Based on Tehranian Polymath's methodology, generally speaking, comparison patterns could be either
 interanl or external. If you see only one line on a graph, having taken time divisions into account,
-you may compare the line with itself.However, if you zome out, you can see the big picture. This big picture could be lablled as the overall trend.  
-
-The overall trend could appear in four different states: upward(adj), downward(adj),
-volatile(adj), and stable(adj). With these states being all adjectives, we can write our first
-formula regarding line graphs:
-
-the + overall + trend + to be(is, are , was, were) + states(upward, downward, volatile, stable)
-
-Ex: 
-the overall trend is stable
-
-But the overall trend of what???
-
-In fact, this formula dosen't work because every line on a graph represents a subject whose name
-should be included in our formula. But how can we add the name of the item in question to our
-formula? Well, the answer lies in a preposition whose funcion is adjectival, modifying the overall
-trend. In this case, the preposition that can be used universally is 'in'. 
-
-Thus, lets' revise our formula:
-
-the + overall + trend + in + the item in question + to be + state adjectives(upward, downward,
-volatile, stable)
-
-Now, we can add the name of the item in question(for example, chicken consumption)
-
-The overall trend in chicken consumption was upward.
-
-To make the proccess more practical, let's write an overview for a task1 IELTS question. 
-
-Ex: book7, test2
-
-Fish and meat cosumption 
-
-There are four items each of which has a unique overall trend. 
-
-It is time to use our formula.
-
-the + overall + trend + in + the item in question + to be + state adjectives(
+you may compare the line with itself.However, if you zome out, you can see the big picture. This big
+picture could be lablled as the overall trend. The overall trend could appear in four different states: upward(adj), downward(adj),
+volatile(adj), and stable(adj). 
 
 
-The overall trend in chicken consumption was upward.
-The overall trend in lamb consumption was downward.  
-The overall trend in beef consumpton was volatile.
-The overall trend in fish consumption was stable.
-
-So far so good!!
-
-But variety is the spice of life. With all these sentences following the same pattern, the reader
-may find himself repeating the same structure. Therefore, let's rearrange the pieces of  puzzle. 
-
-the formula:
-there + to be + an + overall + state adjectives + trend + in + the item in question
-
-Upward and downward trends:
-There was an overall downward trend/trajectory/movement in lamb consumption.
-There was an overall upward trend/trajectory/movement in chicken consumption.
-
-Volatility:
-There was an overall volatile trend in beef consumption.
-or
-There was volatility in chicken consumption (overall trend)*.
-There were fluctuations in beef consumption (overall trend)*.
 
 
-Stability:
-There was an overall stable trend in chicken consumption.
-There was stability in chicken consumption (overall trend)*.
-
-*You had better avoid using "overall trend" in these examples.  
-
-We may even use the items in question as the subject of our sentence, with 'deomstrative verbs' being
-the main verbs.
-
-the formula:
-the item in question + show/exhibit/demonstrate + an + overall + state adjectives + trend
-
-
+metaphoric_verbs:
 Lamb consumption showed/followed* an overall downward trend/trajectory.
 Chicken consumption exhibited/followed* an overall upward trend/movement.
 Beef consumption demonstrated an overall volatile trend.
@@ -108,7 +43,39 @@ emotion,  can be used, with the predicate being an adjective, in this case 'cons
 
 The overall trend in fish consumption remained constant.
 
-antoher formual:
+
+predicative_adjecitve:
+
+the + overall + trend + in + the item in question + to be + state adjectives(
+
+
+The overall trend in chicken consumption was upward.
+The overall trend in lamb consumption was downward.  
+The overall trend in beef consumpton was volatile.
+The overall trend in fish consumption was stable.
+
+
+dummy_there:
+
+Upward and downward trends:
+There was an overall downward trend/trajectory/movement in lamb consumption.
+There was an overall upward trend/trajectory/movement in chicken consumption.
+
+Volatility:
+There was an overall volatile trend in beef consumption.
+or
+There was volatility in chicken consumption (overall trend)*.
+There were fluctuations in beef consumption (overall trend)*.
+
+
+Stability:
+There was an overall stable trend in chicken consumption.
+There was stability in chicken consumption (overall trend)*.
+the formula:
+the item in question + show/exhibit/demonstrate + an + overall + state adjectives + trend
+
+passive_form:
+
 an + state ajective + trend + in + item in question + passive verbs(expressing observation).
 
 An overall downward trend in lamb consumption was observed.

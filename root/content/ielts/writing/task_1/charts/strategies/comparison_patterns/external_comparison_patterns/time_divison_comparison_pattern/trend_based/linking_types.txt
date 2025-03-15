@@ -1,15 +1,20 @@
-time division comparison pattern
+linking types:
 
 
-The most symplistic approach to explain a line graphs consists primarily of three parts:
-1- the explanation of the starting point
-2- a general explanation of the line itself inlcluding its direction and either its magnitude or slope
-3- the explanation of its ending point
+1-coordinating conjunctions
+2-adverbial functions
+3-adjectival functions
 
-Ex:
-Chicken consumption started at almost 145 grams per person per week in 1979.
-Chicken consumption increased dramatically by 100 grams over the next 25 years.
-Chicken consumption eneded at approximately 250 grams in 2004.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23,7 +28,7 @@ Chicken consumption started at almost 145 grams per person per week in 1979, and
 dramatically by 100 grams over the next 25 years, and it ended at 250 grams in 2004.
 
 in the previous sentence, there are three independent clauses, all of which are connected using
-'and' which is a coordinating conjucntion. 
+'and' which is a coordinating conjucntion.
 
 However, with 'it' being redundant, we make a parrallel structure, connecting only verb phrases:
 
@@ -32,18 +37,18 @@ dramatically by 100 grams over the next 25 years, and ended at 250 grams in 2004
 
 But there is a problem with this type of description. What do you think the problem is???
 
-In fact, desite the fact that events happen after one another in  chronological order, time is not 
+In fact, desite the fact that events happen after one another in  chronological order, time is not
 really linguistcally expressed between them. In other words, adverbial functions are absent between
-the items in the parallel structure. 
+the items in the parallel structure.
 
 adv-function based description:
 
 To have a firmer grasp of adverbial functions, you may take a look at the table created by Tehranian
-polymath regarding  adverbial functions. 
+polymath regarding  adverbial functions.
 
 
 To demonstrate adverbial functions absolutely crucial for writing and reading, we have invented a
-flowchart made of rectangles connected by adverbial arrows introduced in the table. 
+flowchart made of rectangles connected by adverbial arrows introduced in the table.
 
 Ex:
 
@@ -51,22 +56,23 @@ Ex:
 
 
 Now, let's connect the clauses, having taken account of structures from the table.
- 
 
-After chicken consumption started at almost 145 grams per person per week in 1979, 
+
+After chicken consumption started at almost 145 grams per person per week in 1979,
 it increased dramatically by 100 grams over the next 25 years. Then, it eneded at approximately 250
 grams in 2004.
 
-The syntactic skeleton of the previous sentence is as follows: 
-an adverb clause, an independent clause. a conjunctive adverb, an independent clause. 
+The syntactic skeleton of the previous sentence is as follows:
+an adverb clause, an independent clause. a conjunctive adverb, an independent clause.
 
 Again, to avoid redundancy, we have to cast aside 'it'. But this time, we won't leverage parallel
+Again, to avoid redundancy, we have to cast aside 'it'. But this time, we won't leverage parallel
 structure using 'and', a coordinating conjucntion. Instead, we will use our adverbial tools, with
-reductions bein one of them. 
+reductions bein one of them.
 
 Indeed, one of the advantages of using adveb clauses is the miracle of reduction. If the subjects of
 the adverb clause and the independent clause are the same, there is no reason to use the the same
-subject twice. Hence, we can reduce the adverb clause into a phrase. 
+subject twice. Hence, we can reduce the adverb clause into a phrase.
 
 After  starting at almost 145 grams per person per week in 1979, chicken consumption increased dramatically by 100 grams over the next 25 years. Then, it eneded at approximately 250 grams in 2004.
 
@@ -87,7 +93,7 @@ Having  started at almost 145 grams per person per week in 1979, chicken consump
 adj-function based description:
 Remeber variety is the spice of life, with adjective clauses, linguisitically, being a prime
 candidates for this diversity. Another type of clause which might help you write line graphs is
-adjective clauses. 
+adjective clauses.
 
 Ex:
 Chicken consumption, which started at almost 145 grams per person per week in 1979, increased
@@ -102,16 +108,18 @@ Sadly,however, adjective clauses cannot assist use adding the last sentence. The
 combining types of descriptions so that ...
 
 
+
+
 abstract-noun-phrase based description
 
 We can use this type of description for neither  the starting point nor the ending point, with the
 middle part of our algorithm being the only target for this type of description.
 
-Chicken consumption increased dramatically by 100 grams over the next 25 years. 
+Chicken consumption increased dramatically by 100 grams over the next 25 years.
 
 An abstract noun phrase is the result of nominalization whereby a clause is converted into an
 abstract noun phrase. To have a deep understanding of an abstract noun phrase, you may read the
-article on nominalization. 
+article on nominalization.
 
 The first step is to use the noun version of 'to increase dramatically' -> 'a dramatic increase'
 
@@ -123,15 +131,13 @@ The third step is to add the numerical value using 'of' placed in the middle:
 a dramatic increase of 100 grams in chicken consumption
 
 But the question is where we can use this abstract noun phrase. In other words, abstract noun
-phrases can not stand on their own. Indeed, they can be added to other types of descriptions. 
+phrases can not stand on their own. Indeed, they can be added to other types of descriptions.
 
 *the starting point of the trend was  ...
 
-*the endpoint of the trend was recorded at 
+*the endpoint of the trend was recorded at
 
 *the item was recorded at
 *an initial figure of Y  was recorded.
 * leading to a final figure of Y
-
-
 
