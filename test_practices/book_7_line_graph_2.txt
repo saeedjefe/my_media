@@ -1,0 +1,6 @@
+The given line graph compares the consumption of two types of read meat, lamb and beef,  one type of
+poultry(chicken) and fish in a European country, with the unit of measurment being grams per person per week, over a 25-year period, starting from 1979 to 2004.
+
+Overall, the trend in chicken consumption was upward, making chicken the most consumed meat in 2004,
+while lamb consumpton exhibited a downward trajectory. Meanwhile, although  the most popular meat in 1979, beef 
+experienced volatility, whereas fish, the least eaten meat over the period, remained constant without any significant variations.

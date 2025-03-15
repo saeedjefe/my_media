@@ -125,7 +125,13 @@ a dramatic increase of 100 grams in chicken consumption
 But the question is where we can use this abstract noun phrase. In other words, abstract noun
 phrases can not stand on their own. Indeed, they can be added to other types of descriptions. 
 
+*the starting point of the trend was  ...
 
+*the endpoint of the trend was recorded at 
+
+*the item was recorded at
+*an initial figure of Y  was recorded.
+* leading to a final figure of Y
 
 
 

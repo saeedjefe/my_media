@@ -1,0 +1,17 @@
+The given line graph compares grams of fish and diffenet types of meat consumed in a European country over a 25-year
+period lasting from 1979 to 2004. 
+
+Overall, the trend in chicken consumption was upward, while lamb consumption showed a downward
+movement. Conversely, beef consumption exhibited volatility, whereas fish consumption remained
+constant. 
+
+Chicken consumption, having stood at 140 grams per person per week  in 1979, experienced a significant increase of
+100 grams over the next 25 years, reaching almost 250 grams in 2004. On the other hand, lamb started at 140 grams in
+1979, and after a considerable decline of 90 grams, hit an all-time low of 60 grams in 2004. 
+
+Conversely, being the most consumed meat, lamb stood at 220 in 1979, although it dipped to 180 grams
+in 1982. Thereafter, however, it rebounded to its initial level before experiencing a substantial
+decline leading to an all-time low of 100 grams in 2004. In contrast, fish, being constantly the
+lest eaten type of meat overall, remained unchanged at approximately 50 grams over the period in
+question. 
+

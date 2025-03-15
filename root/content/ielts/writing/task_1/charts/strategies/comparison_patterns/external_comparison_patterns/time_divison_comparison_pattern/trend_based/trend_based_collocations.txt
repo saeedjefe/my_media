@@ -1,42 +1,211 @@
-Even though numerous sources give extensive explanations for the tools whereby you can describe 
-line graphs, we believe, there is a lack of fundamental concepts in most sources causing confusion,
-misunderstanding and, perhaps, headache among learners. Therefore, our main purpose is to unconver these
-fundumentals while covering the typical collocations and structures taguht in other resources.
-In this article, at first some key linguisitic features regarding line graphs will be addressed.
-Then, on the basis of four trends, upward, downward, volatile, and stable, collcations will be
-claissified    
+the key prepositional phrase metioning the starting point in a year to the ending point in a year->
+you need an acronyme for this propositional phrase.
 
-One of the key linguisitc features that can be beneficial for the description of line graphs is the
-the distinction between action verbs and linking verb. In deed, there are four types of overall
-trends in line graphs 
-
+from X in a year to X in a year
 
 upward:
 
+Since 'increase' is the the most neutral and flexible way to describe upward trend, it will be used
+as a hypernym for the classification addressing collcations used for this type of trend.
+
+1- General increase(neutral upward trend)
+to increase  
+to rise
+to ascend
+formual:
+subject(mostly the item in question) + to increase/rise/ascend from Y in time to Y in time
+Ex:
+Chicken consumption increased/rised/ascend from 150 grams in 1979 to 160 grams in 2004.
+after nominaliztion:
+an increase/rise in chicken  consumption from 150 grams in 1979 to 160 grams in 2004
+
+noun phrase usage:
+
+trend-based usage:
+If you can recall from writing an over view article, we have classified five ways whereby the overall trend
+could be discussed, with four of them being applicable to using noun phrases inside the body of an
+essay addressing line graphs. 
+
+There-based-description:
+there was an overall upward trend in chicken consumption.
+There was an increase in chicken consumption.
+
+Demonstrative-verb-based-description
+Chicken consumption exhibited an upward trend.
+Chicken consumption saw/experince an increase.
+
+Passive-based-description(less natural)
+type 1:
+an overall upward trend in chicken consumption was observed
+An increase in chicken consumption  was recorded.
+
+type 2:
+An overall upward trend was observed in chicken consumption.
+An increase was recorded in chicken consumption.
+
+
+nominalization pluse adjective clause:
+
+an increase in chicken consumption, which was followed by ...
+after reduction:
+an increase in chicken consumption, followed by
+
+
+Adding numerical values to chicken consumption:
+Discussing chicken consumption more specifically, we may add numerical values to the noun phrases.
+Recall the verb phrase version:
+Chicken consumption increased/rised/ascend from 150 grams in 1979 to 160 grams in 2004.
+
+The skeleton of the propositinal phrase following 'from' is the most common way for adding
+numerical values while discussing line graphs. 
+
+Thankfully, exactly the same skeleton can be used for noun phrases:
+an increase from 150 grams in 1979 to 160 grams in 2004
+
+Now, let's see the examples in different types of line graphs descriptions:
+
+there-based-description:
+There was an increase in chicken consumption from 150 grams in 1979 to 160 grams in 2004.
+
+predictive-adj-based-description:
+The increase in chicken  consumption was evident, from 150 grams in 1979 to 160 in 2004.
+
+verb-based-description: 
+Chicken consumption experienced an increase from 150 grams in 1979 to 160 grams in 2004.
+
+
+2- gradual increase
+
+to grow 
+to climb  
+to increase gradually
+
+noun phrases:
+
+a growth in 
+a climb  in 
 
 
 
-increase rise 
-
-
-
+3- rapid and sharp incrase:
+to increase sharply 
+to increase rapidly
 surge 
-rocket
-shoot up
+leap
+jump
+skyrocket
+soar
 
-hit an all-time low of
-reach 
+noun phrases:
+
+surge in housing prices  from x in a year to x in a year
+jump in housing prices from x in a year to x in a year
+soar in housing prices from x in a year to x in a year
+
+4- substantial or considerable increase
+
+to increase significatly 
+to grow substantially
+
+a significatn increase in 
+a substantial growth in 
+
+5- exponential or accelerated increase
+
+to increase exponentially
+to multiply from X in a year to X in a year
+to escalate from x in a year to x in a year
+
+
+
 a downward trend:
+for the downward trend, we will use decrease a hypernym
+
+1- neutral decrease
+decrease 
+decline
+descend 
+
+a decrease
+a decline 
+
+2- gradual decrease
+to gradually decrease
+to reduce 
+to fall
+
+ a fall in 
+ a reduction in 
 
 
+3-rapid or sharp decrease
+to plunge
+to plummet 
 
+a plunge
+a plummet
 
-hit an all-time hight of
-reach its zenith??
+4-substantial or significant decrease
+
+to decrease significantly
+to decline substantially
+
 
 a volatile trend:
 
+1- fluctuation
+
+to fluctuate between Y  and  Y
+to vary from Y to Y
+
+
+2- significant fluctutation
+ 
+to oscillate between Y and Y
+to be erratic  + absolute phrase
+to go up and down , ranging from Y to Y
+
+
+nominalization:
+ 
+a fluctuation in ...  between x and x 
+a variation in ... from x to y
+the fluctuation in ... range from x to x
+the variation in ... move between ... and ...
+the v
+an up-down movement in  
 
 
 
-a stable trend:
+to reach a plateau at
+to flatten out at 
+to level off at 
+to reach a peak of 
+to peak at
+
+
+to hit an all-time high of
+to hit an all-time low of 
+
+to recover to
+to rebound to
+to bounce back to
+
+
+
+Stability
+
+1- pure
+to remain constant at
+to stay constant at
+
+2- minimal changes:
+to fluctuate slightly  
+to experience a slight variaion
+
+noun phrases:
+the stability in 
+the constancy in(implying no changes) vs the consistency in(implying a predictable trend) 
+
+
+
