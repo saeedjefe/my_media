@@ -1,0 +1,129 @@
+Trend_based_overview:
+
+noun based descriptions:
+1-dummy_there
+2-metophoric_verbs
+3-predicative_adjective
+4-passive_form
+
+
+
+Based on Tehranian Polymath's methodology, generally speaking, comparison patterns could be either
+interanl or external. If you see only one line on a graph, having taken time divisions into account,
+you may compare the line with itself.However, if you zome out, you can see the big picture. This big
+picture could be lablled as the overall trend. The overall trend could appear in four different states: upward(adj), downward(adj),
+volatile(adj), and stable(adj). 
+
+
+dummy_there:
+
+Upward and downward trends:
+There was an overall downward trend/trajectory/movement in lamb consumption.
+There was an overall upward trend/trajectory/movement in chicken consumption.
+
+Volatility:
+There was an overall volatile trend in beef consumption.
+or
+There was volatility in chicken consumption (overall trend).
+There were fluctuations in beef consumption (overall trend).
+
+
+Stability:
+There was an overall stable trend in chicken consumption.
+There was stability in chicken consumption (overall trend)*.
+
+
+metaphoric_verbs:
+Lamb consumption showed/followed* an overall downward trend/trajectory.
+Chicken consumption exhibited/followed* an overall upward trend/movement.
+Beef consumption demonstrated an overall volatile trend.
+Fish consumption showed an overall stable trend.
+
+*'follow' might be used  for upward and downward trends only. 
+A and B followed a similar pattern
+A followd a similar but slower trajectory
+
+
+
+
+
+We may also use the 'overall trend' modified by 'in' plus the items in question
+as the subject of our sentence.
+ 
+The overall trend in lamb consumption showed/exhibited/demonstrated a downward movement/trajectory.
+The overall trend in chicken consumption showed/exhibited/demonstrated an upward movement/trajectory.
+The overall trend in lamb consumption showed/exhibited/demonstrated volatility/fluctuations. 
+The overall trend in fish consumption showed/exhibited/demonstrated consistency/statbility. 
+
+
+Since stability is a sign of neutrality, a linking verb, which expresses neither an action nor an
+emotion,  can be used, with the predicate being an adjective, in this case 'constant'. 
+
+
+
+
+predicative_adjecitve:
+
+The overall trend in chicken consumption was upward.
+The overall trend in lamb consumption was downward.  
+The overall trend in beef consumpton was volatile/inconsistent.
+The overall trend in fish consumption was/remained stable.
+
+
+passive_form:
+
+
+An overall downward trend in lamb consumption was observed.
+An overall upward trend in chicken consumption was observed.
+An overall volatile trend in beef consumption was observed.
+An overall stable trend in fish consumption was observed. 
+
+
+Five patterns for overall trend have been discussed so far. There are four items in question. To
+write a paragraph, we should assing each item a pattern. Then, start writing:
+
+
+Now, we need to avoid the redundancy at first by casting aside 'overall'.
+
+To do that, we may use 'overall' as a sentence adverb, modifying the entire paragraph.
+
+Before elminiation:
+Overall, there was an upward trend in chicken consumption.
+The (overall) trend in lamb consumption exhibited an downward movement/trajectory.
+There were significant fluctuations in beef consumption (overall) trend. 
+The (overall) trend in fish consumption showed constancy.
+
+After elimination:
+Overall, there was an upward  trend in chicken consumption.
+The trend in lamb consumption exhibited an downward movement.
+There were significant fluctuations in beef consumption trend.
+The trend in fish consumption showed constancy.
+
+'Trend in' is also used in the first and second sentence. So we may eliminate 'trend' from the second
+third, and forth sentences. 
+
+Before elminiation:
+Overall, there was an upward trend in chicken consumption..
+(The trend in) lamb consumption exhibited an downward movement.
+There were significant fluctuations in beef consumption (trend).
+(The trend in) fish consumption showed constancy.
+
+After elminiation:
+Overall, there was an upward trend in chicken consumption..
+Lamb consumption exhibited an downward movement.
+There were significant fluctuations in beef consumption .
+Fish consumption showed constancy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

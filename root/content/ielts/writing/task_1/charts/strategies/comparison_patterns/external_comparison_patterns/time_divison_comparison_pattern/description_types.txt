@@ -1,0 +1,145 @@
+description types:
+
+1-verb_phrased_based description
+
+2-noun_phrase_based description:
+2-1 dummy_there
+2-2 metaphorical_verbs
+2-3 predicative adjective
+2-4 passive form
+
+
+1-verb_phrase_based description:
+Chicken consumption increased significantly.
+
+2-noun_phrase_based description:
+
+nominalization:
+abstract_noun_phrase
+a significant increase in chicken cosumption
+
+2-1 dummy_there_description:
+there is a significant increase in chicken consumption 
+
+2-2 metaphorical_verbs
+chicken consumption experienced/saw a significant increase
+
+
+
+2-3 predicative_adjective(not common):
+the increase in chicken consumption was significant
+
+2-4 passive_form:
+a significant increase in chicken consumption was recorded
+a significant increase was recorded in chicken consumption
+
+
+
+
+Numerical extention:
+
+1-point-to-point numerical extention
+2-one-point-numerical extention
+3-amount-based numerical extention
+4-transitive-verb numerical extention
+
+
+point_to_point numerical extention:
+from 150 grams in 1979 to 200 grams in 1989
+
+(fluctuations)
+from 170 grams to 230 grams over/during the first half of the period(in question) 
+between 170 grams and 230 grams over/during the first half of the period(in question) 
+
+
+verb_based:
+(an upward or downward trend)
+chicken consumption increased from 150 grams in 1979 to 200 grams in 1989.
+
+(volatility)
+Chicken consumption ranged from almost  170 grams to 220 grams over the first half of the period.
+
+
+noun_based:
+an increase in consumption from 150 grams in 1979 to 200 grams in 1989
+
+metaphorical_verbs:
+chicken consumption experienced/saw a significant increase from 150 grams in 1979 to 200 grams in 1989.
+
+dummy_there:
+there is a significant increase in chicken consumption from 145 grams in 1979 to 200 grams in 1989. 
+
+predicative adjective:
+the increase in chicken consumption was significant from 145 grams in 1979 to 200 grams in 1989.
+
+passive form:
+a significant increase from 145 grams in 1979 to 200 grams in 1989 in chicken consumption was recorded
+a significant increase from 145 grams in 1979 to 200 grams in 1989 was recorded in chicken consumption
+
+
+
+
+
+one_point_numerical extention:
+at 220 grams in 1979
+at 100 grams in 2004
+
+at 240 grams for 5 years
+at 50 grams over/during 20 years
+
+a peak of 240 grams in 1984
+at 240 grams for 5 years
+
+an all-time high/low of 
+
+
+
+(stability)
+fish consumption remained constant/unchanged at 50 grams over 20 years
+fish consumption stabilized at 50 grams over 20 years
+beef consumption plateaued/flattened out at 240 grams for 5 years
+
+(volatility)
+beef consumption peaked at 240 grams in 1984
+
+beef consumption reached a peak of 240 grams in 1984
+beef consumption reached an all-time high/low of 240 grams in 1984
+beef consumption hit an all-time high/low of 240 grams in 1984
+
+
+                
+
+(the starting point and the end point)
+
+verb-based description:
+fish consumption started at 150 grams in 1979
+fish consumption ended at 250 grams in 2004
+
+noun-based description:
+an initial fiugre of 60 grams
+a final figure of 50 grams
+
+
+
+amount_numerical extention:
+
+point(2) - point(1) = amount
+200 - 150 = 50 grams
+
+(verb_based description) + by 50 grams
+(noun_based description) of 50 grams
+
+verb-based description:
+Chicken consumption increased significantly by 50 grams
+  
+noun based description:
+a significant increase of 50 grams in chicken consumption
+a 50-gram increase in chicken consumption
+
+
+4-transitive-verb numerical extention:
+
+to reach x
+to hit x
+
+

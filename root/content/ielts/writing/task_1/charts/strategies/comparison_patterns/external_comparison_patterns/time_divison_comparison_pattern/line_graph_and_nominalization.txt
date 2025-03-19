@@ -1,0 +1,56 @@
+
+People consumed beef. Now, we want to add the verb 'decrease sharply' to this sentence. But the question is how?
+One way is to use 'this' which refers to the previous sentence.
+People consumed chicken. This decreased sharply. But 'this' may cause ambiguity. Right!!
+
+The question is how we avoid this ambiguity??
+
+Well, the answer lies in a very important aspect of language called 'nominaliztion'.
+
+Here is how nominaliztion works.
+
+First of all, we should ask ourselves whehter it is   necessary to use 'people' as the subject???
+In other words, the whole point of the previous sentence is consuming chicken. This is
+where nominalization, creating abstract noun phrases,  might come in handy.
+
+the algorithm:
+
+to consume(verb phrase) ->  the consumption(abstract noun derived from a verb)
+
+with "cosume" being a transitive verb, we need to add an object to it.
+to consume beef -> the consumption of beef.
+
+Indeed, beef is the object of consumption, with the type being called 'of phrase object'.
+The power to express more with fewer words, however, is the purpose of professional
+language use. So we can cast aside 'the' and 'of' by putting beef before consumption.
+beef consumption
+
+So far so good!!
+
+Beef consumption decreased sharply in 1984.
+
+Now look at the next sentece:
+Beef consumption increased marginally in 1985.
+
+With these two events happening in consecutive years, we should connect the sentnece by a
+very handy verb, 'follow'.
+
+But follow is a verb. We have two sentences(two independent clauses).
+Let's anaylze what 'follow' as a verb needs.
+
+a subject + follow + an object
+
+(Beef consumption decreased sharply) followed (Beef consumption incrased marginall)
+
+How can we tackle this problem signifies the importance of nominaliztion, again.
+Therefore, we have to nominalize the clause preceding and following the verb 'follow'.
+
+to decrease sharply -> a sharp decrease(a noun phrase)
+Beef consumption incrased sharply -> a sharp decrease in beef consumpton(an abstract noun phrase
+whose subject is 'in phrase form', more specifically, beef consumption.
+
+result:
+
+a sharp decrease in beef consumption follows a margianll decrease (in beef consumption)
+
+

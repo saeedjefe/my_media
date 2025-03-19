@@ -12,6 +12,63 @@ linking types:
 3-1 clauses
 3-2 reductions
 
+
+
+deductive body sentences:
+
+metaphorical-verb version:
+chicken consumption showed an (overall) upward trend.
+chicken consumption started/stood(metaphoricall) at just below 145 grams in 1979.
+chicken consumption reached approximately 245 grams in 1979.
+
+dummy-there version:
+there was an overall upward trend in chicken consumption
+chicken consumption started/stood(metaphoricall) at just below 145 grams in 1979.
+chicken consumption reached approximately 245 grams in 1979.
+
+
+With chicken consumption repeated excessively, we need to cast aside this redundancy.
+To get rid of 'chicken consumption', we can use an extermely important ligusitic concept called
+reduction.
+
+metaphorical-verb version reduction:
+Chicken consumption showed an (overall) upward trend, standing at just below 145 grams in 1979 and
+reaching approximately 245 grams in 2004.
+
+dummy-there version reduction.
+There was an (overall) upward trend in chicken cosumption, standing at just below 145 grams in 1979 and
+reaching approximately 245 grams in 2004.
+
+
+To tackle this puzzle, we should find the subject of the main clause in each version.
+
+Chicken consumption showed an (overall) upward trend, standing at just below 145 grams in 1979 and
+reaching approximately 245 grams in 2004.
+
+'Chicken consumption' is clearly the main subject of main clause.
+
+
+There was a (overall) upward trend in chicken consumption, standing at just below 145 grams in 1979 and
+reaching approximately 245 grams in 2004.
+
+with 'there' being a dummy subject, an (overall) upward trend is the main subject. Therefore, we should
+figure what 'standing' and 'reaching' refer to, or else this is called 'a dangling modifier'. To
+tackle the problem, we should reverse engineer the sentence.
+
+There was an (overall) upward trend in chicken consumption which stood at just below 145 grams in 1979 and
+reached approximately 245 grams in 2004.
+
+ 'which stood at just below 145 grams in 1979 and reached ...' is an adjective clause modifying the
+noun preceding it. Hence, though not a dagnling modifier, this sentence may cause ambiguity.
+In addition, experienced/saw are two metphorically actions verbs, whereas 'was' is simply a linking
+verb describing neither an action nor an emotion with a dummy subject, 'there'.
+
+
+
+
+
+
+
 Chicken consumption started/stood/began at almost 145 grams per person per week in 1979. 
 Chicken consumption increased dramatically by 100 grams over the next 25 years. 
 Chicken consumption eneded/finished at approximately 250 grams in 2004. 

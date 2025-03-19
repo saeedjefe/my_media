@@ -1,0 +1,41 @@
+However, there can be still a minor improvment in our paragraph. With 'consumption' being used
+redundantly, we had better find an alternative for it.
+
+To tackle the problem, there are serveral ways. But Tehranina Polymath is going to use this case as
+an excuse to explain a very important technique in modern English for the avoidance of redundancy.
+
+
+'that':
+Indeed, 'that ' is popular pronoun in English for refraining from repeating the same word. But to use 'that
+' we should understand the formula.
+
+Look at the candidates for which 'that' can be used as an alternative:
+
+chicken consumption
+lamb consumption
+beef consumption
+fish consumption
+
+'that', interestingly, can be align with a proposition to tackle these issues, with the most common
+type being 'that of'
+
+But to do that, we have to make sure that 'that of' can be used instead of 'consumption' in these
+phrases.
+
+Therefore, let's tackle the problem linguistically:
+
+'Consumption' is an abstract noun, with its root verb being consume. Therefore, we can convert it
+into an abstract noun phrase. If you are not familiar with the concept of abstract noun phrseas, you
+may need to read the article concerning nominalization.
+
+fish Consumption -> an abstract noun
+the consumption of fish -> an abstract noun phrase
+Now, we can use 'that of' instead of 'the consumption of'
+the consumption of fish -> that of fish
+
+Let's update our paragraph by converting 'fish consumption'.
+
+Overall, the trend in chicken consumption was upward, while lamb consumption exhibited a downward movement.
+Conversely, there were fluctuations in beef consumption, whereas that of fish remained constant.
+
+This is the overview of our task1 response. We have externally compared the overall trends. 
