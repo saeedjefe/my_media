@@ -1,4 +1,4 @@
-coll
+*consistently/continiously
 
 upward:
 
@@ -15,12 +15,18 @@ after nominaliztion:
 an increase/rise in chicken  consumption from 150 grams in 1979 to 160 grams in 2004
 
 
-2- gradual increase
+2- slight increase
+
+to increase slightly/minimally/marginally/modestly
+to rise slightly/minimally/marginally/modestly
+
+
+
+3- gradual increase
 
 to grow 
 to climb  
-to increase gradually
-
+to increase gradually/slowly/ 
 noun phrases:
 
 a growth in 
@@ -28,7 +34,7 @@ a climb  in
 
 
 
-3- rapid and sharp incrase:
+4- rapid and sharp incrase:
 to increase sharply 
 to increase rapidly
 surge 
@@ -43,7 +49,7 @@ a surge in housing prices  from x in a year to x in a year
 a jump in housing prices from x in a year to x in a year
 a soar in housing prices from x in a year to x in a year
 a leap in housing prices from x in a year to x in a year
-4- substantial or considerable increase
+5- substantial or considerable increase
 
 to increase significatly 
 to grow substantially
@@ -51,7 +57,7 @@ to grow substantially
 a significatn increase in 
 a substantial growth in 
 
-5- exponential or accelerated increase
+6- exponential or accelerated increase
 
 to increase exponentially
 to multiply from X in a year to X in a year
@@ -64,6 +70,9 @@ a multipication in
 a downward trend:
 for the downward trend, we will use decrease a hypernym
 
+
+
+
 1- neutral decrease
 decrease 
 decline
@@ -72,9 +81,14 @@ descend
 a decrease
 a decline 
 
+2- slight decrease
+
+to decrease slightly/minimally/marginally/modestly
+to decline slightly/minimally/marginally/modestly
+
 2- gradual decrease
-to gradually decrease
-to gradually decline
+to  decrease  gradually/slowly/
+to decline
 to reduce 
 to fall
 
@@ -85,10 +99,11 @@ a reduction in
 3-rapid or sharp decrease
 to plunge
 to plummet 
+to drop
 
 a plunge
 a plummet
-
+a drop
 4-substantial or significant decrease
 
 to decrease significantly
