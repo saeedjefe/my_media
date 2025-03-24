@@ -30,8 +30,29 @@ BEEF:
 
 There were significant fluctuations in beef consumption. (overview)
 
-chicken consumption varied significantly.
-Chicken consumption ranged from almost  180 grams to 220 grams over the first half of the period. 
+(a more genreic approach)
+Beef consumption varied significantly.
+Beef consumption ranged from almost  180 grams to 220 grams over the first half of the period.(volatile-trend point-to-point numerical extention)
+A substantial decline of more than 70 grams led to a final figure of 110 in 2004.(the-starting-and-end one-point numerical-extention)
+or 
+Beef consumption drop dramatically from 180 grams in 1989 to 110 grams in 2014.(upward-or-downward-trend point_to_point numerical extention)
+
+(a more detailed approach)
+Beef consumption fluctuated widly.
+
+Beef consumption started at almost 215 grams in 1979.
+Beef consumption dipped (from 125 grams) to 175 grams in 1981.
+Beef cosumption rebounded (from 125 grams) and  peaked at 230 grams in 1982.
+Beef consumption again declined sharply but briefly (from 230 grams) to 210 grams in 1984.
+Beef consumption reocovered and reached 230 grams in 1985.
+Beef consumption flatten out at/plateaued at/levell off at/reach a plateau at 230 grams over the next following years.
+Beef 1988 onwards, beef consumption declined substantially and hit an all-time low of 90 grams.
+Beef consumption incresed mariginally(from 90) to almost 100 grams.
+Beef consumption stabalized at 100 grams. 
+Beef consumptin ended/finished at 100 grams in 2004.
+
+
+
 
 
 

@@ -1,175 +1,153 @@
 linking types:
 
 
-1-coordinating_conjunction_linking
+1-coordinating_conjunction linking
 1-1 clauses
 1-2 phrases
-2-adverbial_function_linking
+2-adverbial_function linking
 2-1 clauses
 2-2 reductions
 2-3 propsitional phrases
-3-adjectival_function_linking
+3-adjectival_function linking
 3-1 clauses
 3-2 reductions
 
 
 
-deductive body sentences:
 
-metaphorical-verb version:
-chicken consumption showed an (overall) upward trend.
-chicken consumption started/stood(metaphoricall) at just below 145 grams in 1979.
-chicken consumption reached approximately 245 grams in 1979.
+CHICKEN:
 
-dummy-there version:
-there was an overall upward trend in chicken consumption
-chicken consumption started/stood(metaphoricall) at just below 145 grams in 1979.
-chicken consumption reached approximately 245 grams in 1979.
+(overview)
+There was an upward trend in chicken consumption.
 
 
-With chicken consumption repeated excessively, we need to cast aside this redundancy.
-To get rid of 'chicken consumption', we can use an extermely important ligusitic concept called
-reduction.
-
-metaphorical-verb version reduction:
-Chicken consumption showed an (overall) upward trend, standing at just below 145 grams in 1979 and
-reaching approximately 245 grams in 2004.
-
-dummy-there version reduction.
-There was an (overall) upward trend in chicken cosumption, standing at just below 145 grams in 1979 and
-reaching approximately 245 grams in 2004.
+(body)
+Chicken experienced a significant increase. (metaphoricall-verb noun-based description)
+Chicken rose from approximately 145 grams in 1979 to around 245 grams in 2004.(verb-based description & point-to-point numerical extention)
 
 
-To tackle this puzzle, we should find the subject of the main clause in each version.
+coordinating-conjunction linking:
+clauses:
+Chicken experienced a significant increase, and it rose from approximately 145 grams in 1979 to around 245 grams in
+2004. 
+phrases(verb):
+Chicken experienced a significant increase and  rose from approximately 145 grams in 1979 to around 245 grams in
+2004. 
 
-Chicken consumption showed an (overall) upward trend, standing at just below 145 grams in 1979 and
-reaching approximately 245 grams in 2004.
 
-'Chicken consumption' is clearly the main subject of main clause.
+adverbial_function linking:
+clauses:
+Chicken experienced a significant increase. Indeed, it rose from 145 grams in 1979 to around 245 grams in 2004.
+reductions:
+Chicken experienced a significant increase, rising from 145 grams in 1979 to around 245 grams in 2004.
 
 
-There was a (overall) upward trend in chicken consumption, standing at just below 145 grams in 1979 and
-reaching approximately 245 grams in 2004.
-
-with 'there' being a dummy subject, an (overall) upward trend is the main subject. Therefore, we should
-figure what 'standing' and 'reaching' refer to, or else this is called 'a dangling modifier'. To
-tackle the problem, we should reverse engineer the sentence.
-
-There was an (overall) upward trend in chicken consumption which stood at just below 145 grams in 1979 and
-reached approximately 245 grams in 2004.
-
- 'which stood at just below 145 grams in 1979 and reached ...' is an adjective clause modifying the
-noun preceding it. Hence, though not a dagnling modifier, this sentence may cause ambiguity.
-In addition, experienced/saw are two metphorically actions verbs, whereas 'was' is simply a linking
-verb describing neither an action nor an emotion with a dummy subject, 'there'.
+adjectival_function linking:
+Chicken which experienced a significant increse rose from 145 grams in 1979 to around 245 grams in 2004.
+Chicken experiencing a significant increse rose from 145 grams in 1979 to around 245 grams in 2004.
 
 
 
+LAMB:
 
+Lamb consumption exhibited a downward movement/trajectory.(overview)
 
+Lamb saw a substantial decrease.(metaphorical-verb noun-based description)
+Lamb declined from 150 grams in 1979 to around 70 grams in 2004.(verb-based description & point-to-point numerical extention)
 
+Coordinating conjuctions:
+Lamb saw a substantial decrease, and it declined from 150 grams in 1979 to around 70 grams in 2004.
 
-Chicken consumption started/stood/began at almost 145 grams per person per week in 1979. 
-Chicken consumption increased dramatically by 100 grams over the next 25 years. 
-Chicken consumption eneded/finished at approximately 250 grams in 2004. 
-
-coordinating_conjuction_linking_clauses:
-Chicken consumption stood at almost 145 grams per person per week in 1979,
-and chicken consumption increased dramatically by 100 grams over the next 25 years, 
-and chicken consumption eneded at approximately 250 grams in 2004. 
-
-the sytactic skeleton:
-an independent clause, and an indepndent clause, and an independent clause. 
-
-This type of connecting clauses to one another is the crudest version of making longer sentences. 
-Indeeed, with chicken consumption being redundant, we need to get rid of it.
-
-Coordinating_conjunction_linking_phrases:
-Chicken consumption stood at almost 145 grams per person per week in 1979,
-increased dramatically by 100 grams over the next 25 years, 
-and eneded at approximately 250 grams in 2004. 
-
-the syntactic skeleton:
-A subject a verb phrase, a verb phrase, and a verb phrase. 
-
-adverbial_function_linking_clauses:
-
-to connect senteces using adverbial functions, we need to figure the adverbial functions between
-sentences. To do that, you may take a look at the table created by Tehranian plymath addressing
-adverbal functions:
-
-flow chart:
-
-
-
-Subodinating conjuctions: 
-After Chicken consumption stood at almost 145 grams per person per week in 1979, it increased
-dramatically by 100 grams over the next 25 years. Then, it eneded at approximately 250 grams in 2004. 
-
-or
-
-Chicken consumption stood at almost 145 grams per person per week in 1979. Then, it increased
-dramatically by 100 grams over the next 25 years before it eneded at approximately 250 grams in 2004. 
-
-
+adverbial_function linking:
+cluases:
+Lamb saw a substantial decrease. Indeed, lamb declined from 150 grams in 1979 to around 70 grams in 2004.
 
 reductions:
-After standing at almost 145 grams per person per week, chicken consumption increased
-dramatically. Then,it eneded at approximately 250 grams in 2004. 
+Lamb saw a substantial decrase, declining from 150 grams in 1979 to around 70 grams in 2004.
 
-the elimination of 'after
-Having Stood at almost 145 grams per person per week, chicken consumption incrased dramatically, ending
-at 250 grams in 2004. 
+
+BEEF:
+(overview)
+There were significant fluctuations in beef consumption.
+
+
+(Body)
+Beef consumption fluctuated widely.(a more genreic approach)
+Beef consumption ranged from almost  180 grams to 220 grams over the first half of the period.(volatile-trend point-to-point numerical extention)
+Beef consumption experienced  a substantial decline of more than 70 grams. 
+Beef consumption reached a final figure of 110 grams in 2014.(the-starting-and-end one-point numerical-extention)
+
+Coordinating-conjuction linking:
+clauses:
+Beef consumption fluctuated widely, and it ranged from almost  180 grams to 220 grams over the first half of the period, and it experienced a substantial decline of more than 70 grams, and it reached a final figure of 110 in 2004.
+
+phrases:
+Beef consumption fluctuated widely,  ranged from almost  180 grams to 220 grams over the first half of the period, experienced a substantial decline of more than 70 grams, and reached a final figure of 110 in 2004.
+
+
+adverbial_function linking:
+clauses:
+
+Beef consumption fluctuated significantly. Indeed, it ranged from almost  180 grams to 220 grams over the first half of
+the period.Then, it  experienced a substantial decline of more than 70 grams before it reached a final figure of 110 grams in 2014.(the-starting-and-end one-point numerical-extention)
+
+orBeef consumption fluctuated significantly. Indeed, it ranged from almost  180 grams to 220 grams over the first half of
+the period.Then, after it  experienced a substantial decline of more than 70 grams, it reached a final figure of 110 grams in 2014.(the-starting-and-end one-point numerical-extention)
+Beef consumption fluctuated significantly. Indeed, it ranged from almost  180 grams to 220 grams over the first half of
+Reductions:
+Beef consumption fluctuated significantly, ranging from almost  180 grams to 220 grams over the first half ofthe period.Then, after experiencing a substantial decline of more than 70 grams, it reached a final figure of 110 grams in 2014.
 
 or 
 
-Chicken consumption stood at almost 145 grams per person per week in 1979. Then, it increased
-dramatically by 100 grams over the next 25 years before ending at approximately 250 grams in 2004. 
+Beef consumption fluctuated significantly, ranging from almost  180 grams to 220 grams over the first half ofthe period.
+Then, it experienced a substantial decline of more than 70 grams before reaching a final figure of 110 grams in 2014.
+
+Beef consumption fluctuated significantly, ranging from almost  180 grams to 220 grams over the first half of the period, before experiencing a substantial decline of more than 70 grams, reaching a final figure of 110 grams in 2014.
+
+
+adjectival_function linking:
+
+
+Beef consumption, which flucuated significantly, ranged from almost  180 grams to 220 grams over the first half of the
+period. This was followed by a substantial decline of more than 70 grams, which resulted in  a final figure of 110 grams in 2014.
+
+Reductions:
+
+Beef consumption, flucutating significantly, ranged from almost  180 grams to 220 grams over the first half of the
+period, followed by a substantial decline of more than 70 grams resulting in a final figure of 110 grams in 2014.
+
+
+
+
+more-detailed version:
+Beef consumption started at almost 215 grams in 1979.
+Beef consumption dipped (from 125 grams) to 175 grams in 1981.
+Beef cosumption rebounded
+Beef consumption  peaked at 230 grams in 1982.
+Beef consumption again declined sharply but briefly (from 230 grams) to 210 grams in 1984.
+Beef consumption recovered. 
+Beef consumption reached 230 grams in 1985.
+Beef consumption flatten out at/plateaued at/levell off at/reach a plateau at 230 grams over the next following years.
+From 1988 onwards, beef consumption declined substantially.
+Beef consumption hit an all-time low of 90 grams.
+Beef consumption incresed mariginally(from 90) to almost 100 grams.
+Beef consumption stabilized at 100 grams.
+Beef consumptin ended/finished at 100 grams in 2004.
 
 
 
 
 
-Standing at almost 145  
 
+FISH:
 
-3-adjectival_function_linking_clauses:
-Chicken consumption, which stood at almost 145 grams per person per week in 1979, increased
-dramatically by 100 grams over the next 25 years. Then, it ended at approximately 250 grams in 2004.
+Fish consumption showed constancy.(overview)
 
-reductions:
-
-Chicken consumption, standing at almost 145 grams per person per week in 1979, increased
-dramatically by 100 grams over the next 25 years. Then, it ended at approximately 250 grams in 2004.
-
-
-The mixture of linking types:
-
-Chicken consumption, standing at almost 145 grams per person per week in 1979, increased
-dramatically by 100 grams over the next 25 years before ending at approximately 250 grams in 2004.
-
-
-Practice:
-
-your turn:
-Lamb consumption stood at 150 grams per peorson per week in 1979.
-Lamb consumpton decreased by 100 grams over the following 25 years. 
-Lamb consumption finished at 70 grams in 2004.
-
-
-Beef consumption started at 210 grams per person per week in 1979.
-Beef consmption declined shraply but briefly to 180 grams in 1981. 
-Beef consumption recovered and peaked at 240 grams in 1984.
-Beef consumption dipped back to its inital level the follwoing year.
-Beef consumption recovered to 235 grams in 1985.
-Beef consumpton flattened/stabalized at the same rate for three consecutive years.
-Beef consumption decreased consistently and significantly by 140 grams over the remaining years.
-Beef consumption  finished at 100 gramms in 2004.
-
-
-
-
-
+fish consumption remained relatively constant.(verb-based description)
+fish had an initial fiugre of 60 grams.(noun-based description & starting-ending numerical extention)
+fish had a final figure of 50 grams. .(noun-based description & starting-ending numerical extention)
+*a steady rise led to a final figure of 000
+*a consistent decline resulted in a final value of 000
 
 
 

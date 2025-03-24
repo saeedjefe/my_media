@@ -87,10 +87,11 @@ to decrease slightly/minimally/marginally/modestly
 to decline slightly/minimally/marginally/modestly
 
 2- gradual decrease
-to  decrease  gradually/slowly/
-to decline
-to reduce 
+to  decrease  gradually/slowly
+to decline    gradually/slowly
+to reduce    gradually/slowly
 to fall
+to taper off 
 
 a fall in 
 a reduction in 
@@ -103,12 +104,20 @@ to drop
 
 a plunge
 a plummet
-a drop
+
 4-substantial or significant decrease
 
 to decrease significantly
 to decline substantially
+to drop dramatically
 
+a sinificant decrease
+a substantial decline
+
+5-a brief decrease
+to dip 
+
+a dip
 
 a volatile trend:
 
@@ -136,7 +145,7 @@ oscillation in ... between (not recommended for the ielts)
 an up-down movement in  
 
 
-
+to plateau at
 to reach a plateau at
 to flatten out at 
 to level off at 

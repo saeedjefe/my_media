@@ -40,24 +40,15 @@ Numerical extention:
 
 1-point-to-point numerical extention
 2-one-point-numerical extention
-3-amount-based numerical extention
-4-transitive-verb numerical extention
+3-transitive-verb numerical extention
+4-amount-based numerical extention
 
 
-point_to_point numerical extention:
+1-1 upward-or-downward-trend point_to_point numerical extention:
 from 150 grams in 1979 to 200 grams in 1989
 
-(fluctuations)
-from 170 grams to 230 grams over/during the first half of the period(in question) 
-between 170 grams and 230 grams over/during the first half of the period(in question) 
-
-
 verb_based:
-(an upward or downward trend)
 chicken consumption increased from 150 grams in 1979 to 200 grams in 1989.
-
-(volatility)
-Chicken consumption ranged from almost  170 grams to 220 grams over the first half of the period.
 
 
 noun_based:
@@ -78,6 +69,12 @@ a significant increase from 145 grams in 1979 to 200 grams in 1989 was recorded 
 
 
 
+1-2 volatile-trend point-to-point numerical extention:
+from 170 grams to 230 grams over/during the first half of the period(in question) 
+between 170 grams and 230 grams over/during the first half of the period(in question).
+
+Chicken consumption ranged from almost  170 grams to 220 grams over the first half of the period.
+Chicken consumption fluctuated between almost  170 grams and 220 grams over the first half of the period.
 
 
 one_point_numerical extention:
@@ -94,22 +91,22 @@ an all-time high/low of
 
 
 
-(stability)
+stable-trend one-point numerical extention
 fish consumption remained constant/unchanged at 50 grams over 20 years
 fish consumption stabilized at 50 grams over 20 years
 beef consumption plateaued/flattened out at 240 grams for 5 years
 
-(volatility)
-beef consumption peaked at 240 grams in 1984
 
+volatile-trend one-point numerical-extention
+beef consumption peaked at 240 grams in 1984
 beef consumption reached a peak of 240 grams in 1984
 beef consumption reached an all-time high/low of 240 grams in 1984
 beef consumption hit an all-time high/low of 240 grams in 1984
 
 
                 
+the-starting-and-end one-point numerical-extention:
 
-(the starting point and the end point)
 
 verb-based description:
 fish consumption started at 150 grams in 1979
@@ -118,10 +115,17 @@ fish consumption ended at 250 grams in 2004
 noun-based description:
 an initial fiugre of 60 grams
 a final figure of 50 grams
+*a decrease/increase of 70 grams led to/resulted in a final fiugure of 120 grams
+
+3-transitive-verb numerical extention:
+
+to reach x
+to hit x
 
 
 
-amount_numerical extention:
+
+4-amount_based numerical extention:
 
 point(2) - point(1) = amount
 200 - 150 = 50 grams
@@ -136,10 +140,5 @@ noun based description:
 a significant increase of 50 grams in chicken consumption
 a 50-gram increase in chicken consumption
 
-
-4-transitive-verb numerical extention:
-
-to reach x
-to hit x
 
 
