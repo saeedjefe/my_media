@@ -193,19 +193,6 @@ With an initial figure of almost 215 grams in 1979, beef consumption experienced
 grams.Then, after a sharp and brief decline to 210 grams, it saw a recovery to 230 grams in 1985. From 1985 onwards, following a substantial
 decrease, beef consumption hit an all-time low of 90 grams. A marginal increase followed, resulting in a period of stability and a final figure of 100 grams.
 
-
-
-
- 
- 
-
-
-
-
-
-
-
-
 FISH:
 
 Fish consumption showed constancy.(overview)
@@ -218,6 +205,14 @@ fish had a final figure of 50 grams. .(noun-based description & starting-ending 
 
 
 
+adjective-function linking:
 
+Fish consumption remained relatively constant.
+Fish had an initial figure of 60 grams
+Fish had a final figure of 50 grams.
+
+
+reduced version:
+Fish consumption remained relatively constant, with an initial figure of 60 grams and a final figure of 50 grams. 
 
 
