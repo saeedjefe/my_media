@@ -1,0 +1,43 @@
+
+linking types:
+
+
+
+
+
+ielts plan description:
+
+counterclockwise: 
+
+absolute-direction strategy:
+
+at the back left-hand corner of the library lay CDs, videos, and computer games.
+on the left-hand side of the library stood adult fiction books.
+a reading room, which was designated for newspapers and magazines, was located at the front left-hand corner of the library.
+An entrace was at the front of the library. 
+at the front righ-hand corner of the library was situated a desk for services such as tickets and book returns.
+on the right-hand side of the library were  adult non-fiction books. 
+at the back right-hand corner of the library stood children's books.
+located in the heart of the library were tables and chairs.
+
+The layout of the central library was significantly different 20 years ago, with CDs, videos, and computer games at the left-hand corner; adult fiction books on the left-hand side; a reading room at the front left-hand corner; an entrance at the front; a desk for services at the front right-hand corner; adult non-fiction books on the right-hand side; children's books at the back right-hand corner; and tables and chairs in the center.
+
+relative-direction strategy:
+At the back left-hand corner of the library lay CDs, videos, and computer games.
+In front of the CDs, videos, and computer games stood adult fiction books.
+A reading room, which was designated for newspapers and magazines, was located next to the adult fiction books.
+To the right of the reading room stood an entrance.
+Adjacent to the entrance is an enquiry desk. 
+Behind the enquiry desk was located adult fiction books.
+situated behind the adult fiction books were children's books.
+tables and chairs are sandwiched between adult fiction books and adult non-fiction books.
+
+
+At the back left-hand corner of the library lay CDs, videos, and computer games, in front of which stood adult fiction books. Next to the adult
+fiction books was located a  reading room, which was designated for newspapers and magazines. Next to the adult fiction books stood an entrance,
+adjacent to which was an enquiry desk. Behind the enquiry desk was located fiction books. Situated behind the adult fiction books were children
+books. Tables and chair were sandwitched between adult fiction books and adult non fiction books.
+
+
+
+

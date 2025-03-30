@@ -1,6 +1,10 @@
 
 to be verbs:
 
+plan examples:
+Adult fuction books were in the left-hand side of the library.
+In the left-hand side of the library were adult fiction books.(inverted)
+
 
 metaphorical verbs:
 
@@ -9,9 +13,22 @@ primary:
 to lie in 
 to stand in 
 
+plan examples:
+Adult fuction books lay in the left-hand side of the library.
+In the left-hand side of the library lay adult fiction books.(inverted)
 
-permanence/stability:
-to sit in 
+plan examples:
+Adult fuction books stood in the left-hand side of the library.
+In the left-hand side of the library stood adult fiction books.(inverted)
+
+
+
+
+
+plan examples:
+Children books sat at the back right-hand corner of the library.
+At the back right-hand corner of the library sat children books.
+
 
 an enclosed position:
 to nestle between/among/at/in
@@ -52,14 +69,22 @@ passive verbs:
 
 to be situated in 
 to be located in 
-to be positioned in 
+
+plan samples:
+
+a desk for services such as tickets and book returns was positioned at the front righ-hand corner of the library.
+at the front righ-hand corner of the library was positioned a desk for services such as tickets and book returns.(inverted)
+positioned at the front righ-hand corner of the library was a desk for services such as tickets and book returns.(inverted)
 
 
 
+
+
+passive verbs(describing spatial enclosure):
 to be surrounded by
 to be encircled by
 to be enclosed by
-to be bordered by
+
 
 
 

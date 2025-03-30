@@ -1,7 +1,10 @@
 Tutorial Notes for Describing Maps in the IELTS Exam
 
-Absolute Directions on the the map:
-1. North
+counterclockwise description:
+
+.Absolute Directions on the the map:
+
+1.North
 
 .In the north of the area 
 .At the north end of the area 
@@ -78,31 +81,33 @@ In the middle of the area
 "To" → Used for areas outside the map ("To the west of the village")
 
 
+counterclockwise description:
 
-
-Absolute Directions on Plans:
+.Absolute Directions on Plans
 
 
 1-back
 at the back(rear) of somewhere
 (in the back of an enclosed space)
-at the back right-hand corner of somewhere
+at the back righ-hand corner of somewhere
 (in the back right-hand corner of an enclosed space)
 at the back left-hand corner of somewhere
 (in the back left-hand corner of an enclosed space)
 
-2-front
-at the front of somewhere
-at the front right-hand corner of somewhere
-at the front left-hand corner of somewhere
 
-3-right
-in the right-hand side of somewhere
-on the right side of a somewhere
-to the right side of a somewhere
-
-4-left
-in the left-hand side of somewhere
+2-left
+on the left-hand side of somewhere
 on the left side of somewhere
 to the left of somewhere
+
+
+3-front
+at the front of somewhere
+at the front left-hand corner of somewhere
+at the front right-hand corner of somewhere
+
+4-right
+on the right-hand side of somewhere
+on the right side of a somewhere
+to the right side of a somewhere
 
