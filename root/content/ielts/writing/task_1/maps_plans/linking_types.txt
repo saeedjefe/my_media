@@ -14,13 +14,80 @@ at the back right-hand corner of the library stood children's books.
 located in the heart of the library were tables and chairs.
 
 
+
+The layout of the central library was significantly different 20 years ago, with CDs, videos, and computer games at the left-hand corner; adult fiction books on the left-hand side; a reading room at the front left-hand corner; an entrance at the front; a desk for services at the front right-hand corner; adult non-fiction books on the right-hand side; children's books at the back right-hand corner; and tables and chairs in the center.
+
+
+
+
 relative-direction strategy:
 At the back left-hand corner of the library lay CDs, videos, and computer games.
 In front of the CDs, videos, and computer games stood adult fiction books.
-A reading room, which was designated for newspapers and magazines, was located next to the adult fiction books.
+A reading room, which was designated for newspapers and magazines, was situated next to the adult fiction books.
 To the right of the reading room stood an entrance.
-Adjacent to the entrance is an enquiry desk.
-Behind the enquiry desk was located adult fiction books.
-situated behind the adult fiction books were children's books.
+Adjacent to the entrance was an enquiry desk.
+Behind the enquiry desk was adult non-fiction books.
+situated behind the adult non-fiction books were children's books.
 tables and chairs are sandwiched between adult fiction books and adult non-fiction books.
+
+
+At the back left-hand corner of the library lay CDs, videos, and computer games, in front of which stood adult fiction books. A reading room,
+designated for newspapers and magazines, was located next to the adult fiction books, to the right of which stood an entrance. Adjacent to the
+entrance is an enquiry desk behind which was located adult fiction books. situated behind the adult fiction books were children's books. Tables and chairs are sandwiched between adult fiction books and adult non-fiction books.
+
+
+
+Absolute-direction plus relative direction strategy:
+
+The layout of the central library was significantly different 20 years ago, with CDs, videos, and computer games at the back left-hand corner and
+adult fiction books on the left-hand side. Next to the adult fiction books was a reading room designated for newspaper and magazines, to
+the right of which stood an entrance. Adjacent to the entrance was an inquiry desk, behind which were adult non-fiction books. Situated near the 
+adult non-fiction books were children's books, with tables and chairs sandwiched between adult fiction and non-fiction books. 
+
+
+second paragraph strategies:
+
+1-verb phrases :
+The CDs, videos, and computer games have given way to children's fiction books.
+
+Children's fiction books have replaced  the CDs, videos, and computer games.
+or
+The CDs, videos, and computer games have been replaced with Children's fiction books(passive).
+
+nominalized version:
+
+The replacement of the CDs, videos, and computer games with children's fiction books is an striking modification.
+
+2-adjective-clause:
+
+All reference books, which have taken the place of adult fiction books, are on the left-hand side.
+
+reduced:
+
+All reference books, having taken the place of adult fiction books, are on the left-hand side of the central library.
+
+
+3-noun clause:
+
+Where the enquiry desk was 20 years ago is now the new site of the adult fiction books.
+
+4-adverb clause:
+
+Where the children's books once stood, there is  now lecture room.
+
+5-coordinating conjunction:
+
+Tables and chairs have gone, and in their place is now an empty hallway.
+
+
+6- nominalization plus cause-and-result verb phrases:
+
+The introduction of a cafe has led to the disappearance of the enquiry desk.
+
+The replacement of CDs, videos, and computer games with children's fiction books, where storytelling takes place, and the placement of an L-shaped sofa 
+in the back left-hand corner and another in the front right-hand corner of the room, is one of the most striking developments. Additionally,
+where the adult fiction books were are now all reference books, with the reading room giving a way to a computer room. While etrance stands in
+the same location, the enquiry desk has gone, and its place is now a cafe. Also, adult fiction books has given 
+
+
 

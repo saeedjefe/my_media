@@ -4,40 +4,27 @@ Action Types in Map and Plan Descriptions
 Verb Phrases:
 
 to construct a library
-
 to build a library
-
 to erect a library
-
 to establish a library
-
 to set up a library
 
 Abstract Noun Phrases:
 
 the construction of a library
-
 the building of a library
-
 the erection of a library
-
 the establishment of a library
-
 the setting up of a library
 
 2. Destruction
 Verb Phrases:
 
 to destroy the hospital
-
 to demolish the hospital
-
 to tear down the hospital
-
 to knock down the hospital
-
 to flatten the hospital
-
 to remove the hospital
 
 (Note: "to destruct the hospital" is incorrect; "destruct" is rarely used as a verb in modern English.)
@@ -45,40 +32,27 @@ to remove the hospital
 Abstract Noun Phrases:
 
 the destruction of the hospital
-
 the demolition of the hospital
-
 the tearing down of the hospital
-
 the knocking down of the hospital
-
 the flattening of the hospital
-
 the removal of the hospital
 
 3. Introduction
 Verb Phrases:
 
 to feature new facilities
-
 to incorporate new facilities
-
 to install new facilities
-
 to introduce new facilities
-
 to add new facilities
 
 Abstract Noun Phrases:
 
 the featuring of new facilities
-
 the incorporation of new facilities
-
 the installation of new facilities
-
 the introduction of new facilities
-
 the addition of new facilities
 
 (Note: "incoporation" was a typo; the correct spelling is "incorporation.")
@@ -86,54 +60,43 @@ the addition of new facilities
 4. Replacement
 Verb Phrases:
 
-to give way to something
+X to give way to y
+X to be replaced with Y
+Y to take the place of X
+Y to occupy the sit of X
 
-to be replaced by something
-
-to be substituted by something
 
 Noun Phrases:
 
-the replacement of something
+the replacement of something with something -> antonym: the placement of something 
 
-the substitution of something
 
 5. Expansion
 Verb Phrases:
 
 to expand the library
-
 to enlarge the library
-
 to extend the library
-
 to widen the library
 
 Abstract Noun Phrases:
 
 the expansion of the library
-
 the enlargement of the library
-
 the extension of the library
-
 the widening of the library
 
 6. Shrinkage
 Verb Phrases:
 
 to shrink the hospital
-
 to reduce the size of the hospital
-
 to downsize the hospital
 
 Abstract Noun Phrases:
 
-the shrinking of the hospital
-
+the shrinkage of the hospital
 the reduction in the size of the hospital
-
 the downsizing of the hospital
 
 
@@ -141,25 +104,17 @@ the downsizing of the hospital
 Verb Phrases:
 
 to renovate the school
-
 to refurbish the school
-
 to modernize the school
-
 to upgrade the school
-
 to restore the school
 
 Abstract Noun Phrases:
 
 the renovation of the school
-
 the refurbishment of the school
-
 the modernization of the school
-
 the upgrading of the school
-
 the restoration of the school
 
 
@@ -167,25 +122,17 @@ the restoration of the school
 Verb Phrases:
 
 to relocate the bus stop
-
 to move the statue
-
 to shift the entrance
-
 to reposition the fountain
-
 to transfer the parking lot
 
 Abstract Noun Phrases:
 
 the relocation of the bus stop
-
 the movement of the statue
-
 the shifting of the entrance
-
 the repositioning of the fountain
-
 the transfer of the parking lot
 
 

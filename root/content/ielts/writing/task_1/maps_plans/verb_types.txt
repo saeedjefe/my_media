@@ -67,14 +67,15 @@ to border(transitive):
 
 passive verbs:
 
-to be situated in 
-to be located in 
+to be situated  
+to be located  
+to be positioned 
 
 plan samples:
 
 a desk for services such as tickets and book returns was positioned at the front righ-hand corner of the library.
-at the front righ-hand corner of the library was positioned a desk for services such as tickets and book returns.(inverted)
-positioned at the front righ-hand corner of the library was a desk for services such as tickets and book returns.(inverted)
+at the front righ-hand corner of the library was located a desk for services such as tickets and book returns.(inverted)
+located at the front righ-hand corner of the library was a desk for services such as tickets and book returns.(inverted)
 
 
 
