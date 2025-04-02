@@ -88,6 +88,16 @@ to be enclosed by
 
 
 
+Divergence:
+
+ 1. “The road diverges into two smaller lanes, one heading northwest and the other northeast.”
+ 2. “From the central roundabout, the main road splits, stretching toward the east and southeast.”
+ 3. “At the southern edge of the town, the highway branches off into multiple roads leading to the west and southwest.” 
+Convergence:
+
+ 1. “Two major highways converge at the roundabout in the northern part of the city.”
+ 2. “Roads from the northeast and northwest merge into a single route leading south.”
+ 3. “In the southern district, several smaller streets join together to form the main road heading eastward.”
 
 
 
