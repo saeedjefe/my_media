@@ -1,0 +1,21 @@
+The given diagram illustrates the process whereby instant noodles are produced.
+
+Overall, there are 8 steps in the procedure, starting from the storage of flour and ending with the labelling and sealing of noodle cups.
+
+The storage of flour in  silos is succeeded by its transfer to a mixer, where the addition of water and oil takes place, leading to the creation
+of dough. The mixture then goes through rollers where squeezing it results in the formation of dough sheets which are then chopped into dough
+strips. These are, thereafter, shaped into discs. Then, having been cooked with oil and dried, noodles are placed into cups, with vegetables and 
+spices added. Finally, the cups, full of spiced and flavored noodles, are labelled and sealed before being distributed.
+
+
+
+chatgpt refinement:
+
+
+The diagram illustrates the process by which instant noodles are manufactured.
+
+Overall, the production involves eight distinct stages, beginning with the storage of flour and culminating in the labelling and sealing of noodle cups.
+
+Initially, flour is stored in silos before being transferred to a mixer, where water and oil are added to form dough. This mixture then passes through a series of rollers that flatten it into sheets, which are subsequently cut into strips. These strips are then shaped into circular noodle discs.
+
+In the following stage, the noodle discs are cooked in oil and dried. Once prepared, they are placed into cups, where vegetables and spices are added to enhance flavor. In the final step, the cups are labelled and sealed, making them ready for distribution. 
