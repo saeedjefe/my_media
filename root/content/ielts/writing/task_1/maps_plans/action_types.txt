@@ -1,186 +1,380 @@
-Action Types in Map and Plan Descriptions
+Action Types in Map and Plan:
+
+Passive verb phrases (with "be")
+
+Abstract noun phrases (nominalizations)
+
+This structure is ideal for IELTS Task 1 (Maps/Plans), especially for varying sentence forms and boosting grammatical range.
 
 1. Construction
 Verb Phrases:
 
-to construct a library
-to build a library
-to erect a library
-to establish a library
-to set up a library
+to be constructed
+
+to be built
+
+to be erected
+
+to be established
+
+to be set up
 
 Abstract Noun Phrases:
 
-the construction of a library
-the building of a library
-the erection of a library
-the establishment of a library
-the setting up of a library
+the construction of
+
+the building of
+
+the erection of
+
+the establishment of
+
+the setting up of
 
 2. Destruction
 Verb Phrases:
 
-to destroy the hospital
-to demolish the hospital
-to tear down the hospital
-to knock down the hospital
-to flatten the hospital
-to remove the hospital
+to be destroyed
 
-(Note: "to destruct the hospital" is incorrect; "destruct" is rarely used as a verb in modern English.)
+to be demolished
+
+to be torn down
+
+to be knocked down
+
+to be flattened
+
+to be removed
 
 Abstract Noun Phrases:
 
-the destruction of the hospital
-the demolition of the hospital
-the tearing down of the hospital
-the knocking down of the hospital
-the flattening of the hospital
-the removal of the hospital
+the destruction of
+
+the demolition of
+
+the tearing down of
+
+the knocking down of
+
+the flattening of
+
+the removal of
 
 3. Introduction
 Verb Phrases:
 
-to feature new facilities
-to incorporate new facilities
-to install new facilities
-to introduce new facilities
-to add new facilities
+to be introduced
+
+to be incorporated
+
+to be installed
+
+to be added
+
+to be featured
 
 Abstract Noun Phrases:
 
-the featuring of new facilities
-the incorporation of new facilities
-the installation of new facilities
-the introduction of new facilities
-the addition of new facilities
+the introduction of
 
-(Note: "incoporation" was a typo; the correct spelling is "incorporation.")
+the incorporation of
+
+the installation of
+
+the addition of
+
+the featuring of
 
 4. Replacement
 Verb Phrases:
 
-X to give way to y
-X to be replaced with Y
-Y to take the place of X
-Y to occupy the sit of X
+to give way to 
 
+to be replaced with/by
 
-Noun Phrases:
-
-the replacement of something with something -> antonym: the placement of something 
-
-
-5. Expansion
-Verb Phrases:
-
-to expand the library
-to enlarge the library
-to extend the library
-to widen the library
+to be substituted by
 
 Abstract Noun Phrases:
 
-the expansion of the library
-the enlargement of the library
-the extension of the library
-the widening of the library
+the replacement of
 
-6. Shrinkage
-Verb Phrases:
+the substitution of
 
-to shrink the hospital
-to reduce the size of the hospital
-to downsize the hospital
+5. Relocation
 
-Abstract Noun Phrases:
+Passive Verb Phrases:
 
-the shrinkage of the hospital
-the reduction in the size of the hospital
-the downsizing of the hospital
+to be relocated to 
 
+to be moved to
 
-7. Renovation
-Verb Phrases:
-
-to renovate the school
-to refurbish the school
-to modernize the school
-to upgrade the school
-to restore the school
+to be transferred to
 
 Abstract Noun Phrases:
 
-the renovation of the school
-the refurbishment of the school
-the modernization of the school
-the upgrading of the school
-the restoration of the school
+the relocation of ... to
 
+the movement of ... to
 
-8. Movement
+the transfer of ...  to    
+
+6. Expansion
 Verb Phrases:
 
-to relocate the bus stop
-to move the statue
-to shift the entrance
-to reposition the fountain
-to transfer the parking lot
+to be expanded
+
+to be extended
+
+to be widened
+
+to be enlarged
 
 Abstract Noun Phrases:
 
-the relocation of the bus stop
-the movement of the statue
-the shifting of the entrance
-the repositioning of the fountain
-the transfer of the parking lot
+the expansion of
 
+the extension of
+
+the widening of
+
+the enlargement of
+
+7. Reduction
+Verb Phrases:
+
+to be reduced in size
+
+to be downsized
+
+to be shrunk
+
+Abstract Noun Phrases:
+
+the reduction of ... in size
+
+the downsizing of
+
+the shrinkage of
+
+8. Conversion
+Verb Phrases:
+
+to be converted into 
+
+to be transformed into
+
+to be turned into
+
+to be chanded into
+
+to be developed into
+
+Abstract Noun Phrases:
+
+the conversion of
+
+the transformation of
+
+the modification of
+
+the redesigning of
 
 9. Occupying a Space
-Verb Phrases:
 
-to occupy the central area
-to take up space in the front section
-to be situated in the corner
-to be positioned in the middle
-to be located at the rear side
+to be + prepositional phrases
 
-Abstract Noun Phrases:
-the occupation of the central area
-the allocation of space to the front section
-the positioning of the monument in the corner
-the placement of the entrance in the middle
-the location of the reading area at the rear
-
-
-10. The Disappearance
+metaphorical verbs:
+to lie(prepositional phrases)
+to stand (preposition phrases)
 
 Verb Phrases:
-to be removed from the map
-to vanish from the site
-to disappear from the area
-to be eliminated from the area
 
+to occupy an area/a space
+
+to be positioned
+
+to be placed
+
+to be located
 
 Abstract Noun Phrases:
-the removal of the facility
-the disappearance of the statue
-the elimination of the parking lot
-the vanishing of the section
 
+the positioning of
+
+the placement of
+
+
+10. Disappearance
+Passive Verb Phrases:
+
+to be removed
+
+to be eliminated
+
+to be erased
+
+to be disappeared (less natural — use “removed” instead)
+
+to be cleared
+
+Abstract Noun Phrases:
+
+the removal of
+
+the elimination of
+
+the disappearance of
+
+the clearing of
 
 11. Accompaniment
-Verb Phrases:
-to be complemented by a seating area
-to be accompanied with additional facilities
-to be paired with a new parking lot
+Passive Verb Phrases:
+
+to be accompanied by
+
+to be paired with
 
 Abstract Noun Phrases:
-the accompaniment of the fountain by benches
-the pairing of the café with an outdoor seating area
-the complementing of the playground with a shaded rest area
 
-12- flank 
-to be between A and B
-to be sandwiched between A and B
-to be flanked by A and B
+the accompaniment of
+
+the pairing of
+
+12. Flanking / Intermediate Positioning
+Passive Verb Phrases:
+
+to be flanked by
+
+to be sandwiched between
+
+to be positioned between
+
+Abstract Noun Phrases:
+
+the flanking of
+
+the positioning between
+
+the sandwiching of
+
+13. Extension / Spread
+
+to  extend from… to…
+
+to  stretch across
+
+to run from… to…
+
+to meander through
+
+to be cut through
+
+Abstract Noun Phrases:
+
+the extension of
+
+the stretching of
+
+the running of
+
+the meandering of
+
+the cutting through of
+
+14. Adjacency / Bordering
+Verb Phrases:
+
+to be bordered by
+
+to be adjacent to
+
+to be aligned with
+
+to be situated next to
+
+Abstract Noun Phrases:
+
+the bordering of
+
+the adjacency of
+
+the alignment of
+
+the proximity of
+
+15. Convergence
+Verb Phrases:
+
+to converge into 
+
+to be joined at
+
+to be connected to
+
+Abstract Noun Phrases:
+
+the convergence of  into
+
+the meeting point of
+
+the joining of
+
+16. Divergence
+Verb Phrases:
+
+to diverge into
+
+to converge into
+
+to be divided into
+
+to branch off into
+
+Abstract Noun Phrases:
+
+the divergence of ... into
+
+the splitting of ... into
+
+the branching off of ... into
+
+17. Surrounding
+Verb Phrases:
+
+to be surrounded by
+
+to be encircled by
+
+to be enclosed by
+
+to be dotted with
+
+Abstract Noun Phrases:
+
+the encircling of
+
+the enclosure of
+
+the scattering of
+
+
+18. Crossing (All Types of Expression)
+
+verbs phrases:
+To cross(transtive)
+To cross over
+To intersect with
+To pass through
+
+
+To be intersected by
+
+
+Nominalizations (Abstract Noun Phrases):
+
+The intersection of
+
+The passage of 
+
+
+

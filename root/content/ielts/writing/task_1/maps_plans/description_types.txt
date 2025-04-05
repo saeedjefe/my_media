@@ -1,10 +1,5 @@
 
-Inversion types:
-1-to be
-2-metaphoircal verbs expressin to be(occupation)
-3-passive voice
-
-to be verbs:
+inversion and metaphoricall verbs:
 
 plan examples:
 Adult fuction books were in the left-hand side of the library.
@@ -15,14 +10,14 @@ metaphorical verbs:
 
 primary:
 
-to lie in 
-to stand in 
+to lie (prepositions) 
+to stand (prepositions)
 
-
+plan examples:
 Adult fuction books lay in the left-hand side of the library.
 In the left-hand side of the library lay adult fiction books.(inverted)
 
-:
+plan examples:
 Adult fuction books stood in the left-hand side of the library.
 In the left-hand side of the library stood adult fiction books.(inverted)
 
@@ -33,6 +28,11 @@ In the left-hand side of the library stood adult fiction books.(inverted)
 plan examples:
 Children books sat at the back right-hand corner of the library.
 At the back right-hand corner of the library sat children books.
+
+
+
+
+
 
 
 adjaceny:
@@ -53,7 +53,6 @@ plan samples:
 a desk for services such as tickets and book returns was positioned at the front righ-hand corner of the library.
 at the front righ-hand corner of the library was located a desk for services such as tickets and book returns.(inverted)
 located at the front righ-hand corner of the library was a desk for services such as tickets and book returns.(inverted)
-
 
 
 
