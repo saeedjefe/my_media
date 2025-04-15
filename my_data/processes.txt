@@ -1,0 +1,35 @@
+Processes
+├── Mental Processes
+│   ├── Perception
+│   └── Cognitive Functions
+│       ├── Thinking, Planning, and Deciding
+│       ├── Attention
+│       ├── Memory
+│       ├── Language
+│       └── Emotion
+├── Relational Processes
+│   └── States
+├── Verbal Processes
+└── Material Processes
+    ├── Actions
+    │   ├── Expression
+    │   │   ├── Verbal Expression
+    │   │   ├── Nonverbal Expression
+    │   │   └── Emotional Expression
+    │   ├── Distribution
+    │   │   └── Sowing
+    │   └── Gathering
+    │       └── Collection
+    │           └── Harvesting
+    ├── Manipulation
+    │   ├── Extraction
+    │   ├── Derivation
+    │   ├── Conversion
+    │   ├── Generation
+    │   ├── Production
+    │   ├── Transformation
+    │   └── Synthesis
+    └── Hindrance
+        ├── Encumber
+        └── Aggravate
+

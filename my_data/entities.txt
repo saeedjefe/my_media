@@ -1,0 +1,136 @@
+Root
+└── Entities
+    ├── Structures
+    │   ├── Concrete Structures
+    │   │   ├── Man-Made
+    │   │   │   └── Buildings
+    │   │   │       └── High-Rises
+    │   │   └── Natural
+    │   └── Abstract Structures
+    │       ├── Mathematical Structures
+    │       ├── Linguistic Structures
+    │       ├── Chemical Structures
+    │       └── Biological Structures
+    ├── Living Organisms
+    │   ├── Living Creatures
+    │   │   ├── Intelligent Beings
+    │   │   │   └── Humans
+    │   │   │       └── Cognitive Functions
+    │   │   │           ├── Thinking, Planning, and Deciding
+    │   │   │           │   └── Devise
+    │   │   │           ├── Attention
+    │   │   │           ├── Memory
+    │   │   │           ├── Language
+    │   │   │           └── Emotion
+    │   │   └── Animals
+    │   │       ├── Vertebrates
+    │   │       │   ├── Mammals
+    │   │       │   │   ├── Terrestrial Mammals
+    │   │       │   │   │   ├── Herbivores
+    │   │       │   │   │   │   ├── Deer
+    │   │       │   │   │   │   ├── Elephants
+    │   │       │   │   │   │   └── Zebras
+    │   │       │   │   │   ├── Carnivores
+    │   │       │   │   │   │   ├── Canines
+    │   │       │   │   │   │   │   ├── Wolves
+    │   │       │   │   │   │   │   ├── Foxes
+    │   │       │   │   │   │   │   └── Domestic Dogs
+    │   │       │   │   │   │   ├── Felines
+    │   │       │   │   │   │   │   ├── Lions
+    │   │       │   │   │   │   │   ├── Tigers
+    │   │       │   │   │   │   │   └── Domestic Cats
+    │   │       │   │   │   │   ├── Bears
+    │   │       │   │   │   │   ├── Hyenas
+    │   │       │   │   │   │   └── Mustelids
+    │   │       │   │   │   │       ├── Weasels
+    │   │       │   │   │   │       ├── Otters
+    │   │       │   │   │   │       └── Badgers
+    │   │       │   │   │   └── Omnivores
+    │   │       │   │   │       ├── Bears
+    │   │       │   │   │       ├── Pigs
+    │   │       │   │   │       └── Humans
+    │   │       │   │   ├── Aquatic Mammals
+    │   │       │   │   │   ├── Whales
+    │   │       │   │   │   │   ├── Blue Whale
+    │   │       │   │   │   │   └── Humpback Whale
+    │   │       │   │   │   ├── Dolphins
+    │   │       │   │   │   │   ├── Bottlenose Dolphin
+    │   │       │   │   │   │   └── Orca (Killer Whale)
+    │   │       │   │   │   └── Seals
+    │   │       │   │   │       ├── Harbor Seal
+    │   │       │   │   │       └── Elephant Seal
+    │   │       │   │   └── Aerial Mammals
+    │   │       │   │       └── Bats
+    │   │       │   │           ├── Fruit Bat
+    │   │       │   │           └── Vampire Bat
+    │   │       │   ├── Birds
+    │   │       │   │   ├── Raptors
+    │   │       │   │   │   ├── Eagle
+    │   │       │   │   │   └── Hawk
+    │   │       │   │   ├── Waterfowl
+    │   │       │   │   │   ├── Duck
+    │   │       │   │   │   └── Swan
+    │   │       │   │   ├── Songbirds
+    │   │       │   │   │   ├── Robin
+    │   │       │   │   │   └── Finch
+    │   │       │   │   ├── Flightless Birds
+    │   │       │   │   │   ├── Ostrich
+    │   │       │   │   │   └── Penguin
+    │   │       │   │   └── Parrots
+    │   │       │   │       ├── Macaw
+    │   │       │   │       └── Cockatoo
+    │   │       │   ├── Reptiles
+    │   │       │   │   ├── Snakes
+    │   │       │   │   │   ├── Python
+    │   │       │   │   │   └── Cobra
+    │   │       │   │   ├── Lizards
+    │   │       │   │   │   ├── Gecko
+    │   │       │   │   │   └── Iguana
+    │   │       │   │   ├── Turtles
+    │   │       │   │   │   ├── Sea Turtle
+    │   │       │   │   │   └── Box Turtle
+    │   │       │   │   └── Crocodilians
+    │   │       │   │       ├── Crocodile
+    │   │       │   │       └── Alligator
+    │   │       │   ├── Amphibians
+    │   │       │   │   ├── Frogs
+    │   │       │   │   ├── Toads
+    │   │       │   │   ├── Salamanders
+    │   │       │   │   └── Caecilians
+    │   │       │   └── Fish
+    │   │       │       ├── Cartilaginous Fish (Sharks & Rays)
+    │   │       │       ├── Bony Fish
+    │   │       │       └── Jawless Fish
+    │   │       └── Invertebrates
+    │   │           ├── Insects
+    │   │           ├── Arachnids
+    │   │           ├── Mollusks
+    │   │           ├── Crustaceans
+    │   │           ├── Worms
+    │   │           └── Cnidarians
+    │   ├── Plants
+    │   │   ├── Flowering Plants (Angiosperms)
+    │   │   ├── Non-Flowering Plants
+    │   │   ├── Ferns
+    │   │   ├── Mosses
+    │   │   └── Conifers (Gymnosperms)
+    │   ├── Fungi
+    │   │   ├── Mushrooms
+    │   │   ├── Yeasts
+    │   │   ├── Molds
+    │   │   └── Lichens
+    │   ├── Bacteria
+    │   │   ├── Gram-Positive Bacteria
+    │   │   ├── Gram-Negative Bacteria
+    │   │   └── Cyanobacteria
+    │   ├── Archaea
+    │   │   ├── Methanogens
+    │   │   ├── Halophiles
+    │   │   └── Thermophiles
+    │   └── Protists
+    │       ├── Amoebas
+    │       ├── Algae
+    │       ├── Paramecia
+    │       └── Slime Molds
+    └── Viruses
+

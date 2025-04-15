@@ -5,7 +5,34 @@ on it. Therefore, some people are of the opinion that in some professional domai
 where the outcomes are manily beneficial to the public, the availability of information should be limitless. However, there is a strongly-held
 belief that the exchange of value--in this case, information--should be fair, with the value and importance of data determining the access terms.
 
+Let's start with knowledge systems. Indeed, because academic fields, disciplines, institutions, roles, and activities heavily rely on data, open
+and unlimited access to information may foster scientific growth. For example, the purchase of journals, books, and dissertations in different
+fields, such as medicine, the humanities, and engineering, may not be possible for certain institutions. Consequently, academia may not be able to
+keep up with the rapid pace of developments simultaneously happening in other parts of the world.
+In addition to the academic world, the application of quantitative studies, namely statistical modeling, might not be feasible unless large
+amounts of information are readily accessible to the scientific community, and, not surprisingly, financial barriers could hinder their
+implementations. The elimination of this barrier, therefore, would greatly benefit the application of such studies.
+Aside from knowledge systems, the flowering of a country's economy could be the direct result of the expansion of its business sectors, either
+private or public, with open access to data triggering the process of innovation and, consequently, revenue generation.   
+A prime example can be found in  the software ecosystem, where Linux--the main operating system from which other operating systems are derived-
+-is open source, with developers around the world contributing their painstaking efforts to its progress. This could lead to the exponential
+growth of cutting-edge technologies shaping the  foundation of small and big businesses alike. 
 
 
+However, the unrestricted sharing of knowledge may adversely impact the professional domains. As far as the business industry 
+is concerned, what makes a product or an innovation valuable is its scarcity. With detailed information of the innovation openly accessible to 
+the public, the final product could be reversed-engineered. Consequently, barring patent protection, rival companies 
+may steal the result of intellectual endeavors, with the revenue, which could have been largely generated, being squandered. Conversely, 
+if payment is required, then financial gains could be possible for the company or the inventor, possibly leading to greater commercial success.
+The same is true for the academic world, where the budget of educational institutions largely comes from government funding and tuition fees. Although
+free access to data may boost global scientific collaboration, a subscription fee for viewing the latest articles could be charged so that 
+the availability of more money leads to more advanced research methods.  
 
 
+In my opinion, neither the possibility of unlimited access to free resources in certain professional domains nor the monetization of important
+information is sustainable. With regard to open access to unlimited data, it is important to recognize that nothing is truly free. In fact, no
+one surmounts the difficulty of creating valuable data without the aim of meeting his financial needs. In other words, even if some
+information is freely accessible, there will always be some finanicial incentives, as drawing public attention might be a marketing strategy, 
+eventually benefiting the creators. On the other hand, the idea of monetizing important and valuable information 
+may not be always viable since there could be a few significant concerns, such as security, which could be endangered 
+if such information becomes accessibile to the purchasers. Therefore, both of these arguments have critical shortcomings.

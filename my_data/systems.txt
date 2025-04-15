@@ -1,0 +1,114 @@
+Root
+├
+│   
+│   
+├── Systems
+│   └── Agricultural Systems
+│       ├── Farming
+│       │   ├── Animal Husbandry
+│       │   │   ├── Sheep Farming
+│       │   │   ├── Cattle Farming
+│       │   │   └── Poultry Farming
+│       │   ├── Aquatic Production
+│       │   │   ├── Aquatic Farming
+│       │   │   │   ├── Fish Farming
+│       │   │   │   ├── Shellfish Farming
+│       │   │   │   ├── Seaweed Farming
+│       │   │   │   ├── Crustacean Farming
+│       │   │   │   │   ├── Shrimp
+│       │   │   │   │   ├── Crab
+│       │   │   │   │   └── Lobster
+│       │   │   │   └── Mollusk Farming
+│       │   │   │       ├── Oyster
+│       │   │   │       ├── Mussel
+│       │   │   │       └── Clam
+│       │   │   └── Wild-Caught Harvesting
+│       │   └── Crop Farming
+│       │       ├── Cereal Crops
+│       │       │   ├── Wheat
+│       │       │   ├── Rice
+│       │       │   └── Maize
+│       │       ├── Vegetables
+│       │       │   ├── Leafy Greens
+│       │       │   │   ├── Spinach
+│       │       │   │   ├── Lettuce
+│       │       │   │   ├── Kale
+│       │       │   │   └── Swiss Chard
+│       │       │   ├── Cruciferous Vegetables
+│       │       │   │   ├── Broccoli
+│       │       │   │   ├── Cauliflower
+│       │       │   │   ├── Cabbage
+│       │       │   │   └── Brussels Sprouts
+│       │       │   ├── Seeded Vegetables
+│       │       │   │   ├── Tomato
+│       │       │   │   ├── Cucumber
+│       │       │   │   ├── Okra
+│       │       │   │   ├── Pumpkin
+│       │       │   │   ├── Bell Pepper
+│       │       │   │   └── Zucchini
+│       │       │   ├── Tuberous Vegetables
+│       │       │   │   ├── Carrot
+│       │       │   │   ├── Beetroot
+│       │       │   │   ├── Radish
+│       │       │   │   └── Turnip
+│       │       │   ├── Stem Vegetables
+│       │       │   │   ├── Celery
+│       │       │   │   ├── Asparagus
+│       │       │   │   ├── Rhubarb
+│       │       │   │   └── Kohlrabi
+│       │       │   └── Nightshades
+│       │       │       ├── Eggplant
+│       │       │       ├── Tomato
+│       │       │       ├── Bell Pepper
+│       │       │       └── Potato
+│       │       ├── Fruit Orchards
+│       │       │   ├── Apple
+│       │       │   └── Orange
+│       │       ├── Legumes
+│       │       │   ├── Soybean
+│       │       │   ├── Lentil
+│       │       │   ├── Chickpea
+│       │       │   ├── Pea
+│       │       │   ├── Black Bean
+│       │       │   └── Kidney Bean
+│       │       ├── Tubers
+│       │       │   ├── Potato
+│       │       │   └── Cassava
+│       │       ├── Oilseeds
+│       │       │   ├── Sunflower
+│       │       │   └── Canola
+│       │       ├── Industrial Crops
+│       │       │   ├── Cotton
+│       │       │   └── Tobacco
+│       │       └── Herbs
+│       │           ├── Basil
+│       │           ├── Parsley
+│       │           ├── Coriander
+│       │           ├── Mint
+│       │           ├── Thyme
+│       │           ├── Turmeric
+│       │           ├── Cinnamon
+│       │           └── Black Pepper
+│       └── Oils
+│           ├── Vegetable Oils
+│           │   ├── Corn Oil
+│           │   ├── Canola Oil
+│           │   └── Soybean Oil
+│           ├── Fruit Oils
+│           │   ├── Olive Oil
+│           │   ├── Avocado Oil
+│           │   ├── Coconut Oil
+│           │   └── Palm Oil
+│           ├── Animal Fats
+│           │   ├── Lard
+│           │   ├── Tallow
+│           │   ├── Butter
+│           │   ├── Ghee
+│           │   └── Fish Oil
+│           └── Seed Oils
+│               ├── Flaxseed Oil
+│               ├── Sesame Oil
+│               ├── Sunflower Oil
+│               ├── Black Seed Oil
+│               ├── Almond Oil
+│               └── Chia Seed Oil
