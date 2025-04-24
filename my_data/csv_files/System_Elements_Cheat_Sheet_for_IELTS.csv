@@ -1,0 +1,6 @@
+Behavior,Description,Works well for…
+Entities,Components or actors within the system,"Organizations, ecosystems, technologies"
+Inputs,"Resources, energy, or data entering the system","Economy, environment, education"
+Processes,Actions or transformations occurring within the system,"Manufacturing, learning, communication"
+Outputs,Results or products that leave the system,"Products, services, decisions"
+Modifiers,Conditions or constraints influencing system behavior,"Policies, climate, culture"

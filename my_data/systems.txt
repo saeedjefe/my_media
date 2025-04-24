@@ -1,7 +1,4 @@
-Root
-├
-│   
-│   
+Root   
 ├── Systems
 │   └── Agricultural Systems
 │       ├── Farming
