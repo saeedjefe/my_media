@@ -1,0 +1,38 @@
+Repositories
+├── Cultural Repositories
+│    ├── Museums
+│    ├── Heritage Sites
+│    └── Cultural Centers
+├── Knowledge Repositories
+│    ├── Libraries
+│    ├── Universities
+│    └── Research Institutes
+├── Legal Repositories
+│    ├── Law Archives
+│    ├── Constitutions
+│    └── Court Records
+├── Historical Repositories
+│    ├── Oral Histories
+│    ├── National Archives
+│    └── Monuments
+├── Technological Repositories
+│    ├── Patent Offices
+│    ├── Digital Archives
+│    └── Data Centers
+├── Religious Repositories
+│    ├── Holy Texts
+│    ├── Temples
+│    └── Churches
+├── Artistic Repositories
+│    ├── Art Galleries
+│    ├── Music Archives
+│    └── Literary Collections
+├── Media Archives
+│    ├── Newspaper Archives
+│    ├── Television Archives
+│    └── Online Media Archives
+└── Language Repositories
+     ├── Dictionaries
+     ├── Linguistic Databases
+     └── Language Preservation Projects
+

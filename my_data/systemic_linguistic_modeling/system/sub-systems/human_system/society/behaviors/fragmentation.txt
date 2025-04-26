@@ -1,0 +1,29 @@
+Fragmentation
+├── Cultural Fragmentation
+│    ├── Traditional Revival Movements
+│    └── Language Preservation Efforts
+├── Political Fragmentation
+│    ├── Multi-Party Chaos
+│    └── Secessionist Movements
+├── Economic Fragmentation
+│    ├── Wealth Inequality
+│    └── Urban-Rural Economic Divide
+├── Social Class Fragmentation
+│    ├── Disconnected Upper Class
+│    └── Marginalized Lower Class
+├── Ethnic and Racial Fragmentation
+│    ├── Ethnic Enclaves
+│    └── Residential Segregation
+├── Geographical Fragmentation
+│    ├── Rural Alienation
+│    └── Regional Nationalism
+├── Technological Fragmentation
+│    ├── Digital Divide
+│    └── Tech-Rich vs Tech-Poor Societies
+├── Ideological Fragmentation
+│    ├── Radical Political Groups
+│    └── Ideological Echo Chambers
+└── Generational Fragmentation
+     ├── Youth Subcultures
+     └── Traditionalist Older Generations
+

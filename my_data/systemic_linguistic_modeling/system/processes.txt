@@ -1,0 +1,57 @@
+chronological flow
+
+1. Input Acquisition
+2. Internal Transformation
+3. Output Production
+4. Distribution
+5. Feedback Reception
+6. Adaptation (loop or reaction)
+7. Maintenance (always ongoing)
+8. Growth and Development (gradually ongoing)
+9. Emergence (unexpected, anytime)
+10. Replication/Reproduction (when system is stable)
+11. Death/Dissolution (if system collapses)
+
+
+Top 5 processes (Input ➔ Feedback) = very chronological.
+
+Middle processes (Adaptation, Maintenance, Growth, Emergence) = cyclical or ongoing.
+
+End processes (Replication, Death) = chronological outcomes.
+
+
+Phase	Processes
+Chronological Core	Input ➔ Transformation ➔ Output ➔ Distribution ➔ Feedback
+Cyclical Maintenance	Adaptation, Homeostasis, Growth
+Unexpected Layer	Emergence
+Life Cycle End	Replication, Death
+
+
+Start
+  ↓
+Input Acquisition
+  ↓
+Internal Transformation
+  ↓
+Output Production
+  ↓
+Distribution
+  ↓
+Feedback Reception
+  ↓
+(Adaptive Loop)
+  ↻
+    Adaptation
+    ↔
+    Maintenance (Homeostasis)
+    ↔
+    Growth and Development
+    ↔
+    Emergence (unexpected at any point)
+  ↻
+Replication or Reproduction (if stable)
+  ↓
+Death or Dissolution (if unstable)
+  ↓
+End
+

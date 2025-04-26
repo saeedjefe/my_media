@@ -1,0 +1,156 @@
+System
+└── Human System
+    └── Society
+        ├── Elements
+        │   ├── Entities
+        │   │   ├── Individuals
+        │   │   │   ├── Citizens
+        │   │   │   ├── Migrants
+        │   │   │   ├── Refugees
+        │   │   │   ├── Students
+        │   │   │   ├── Elderly
+        │   │   │   ├── Workers
+        │   │   │   └── Activists
+        │   │   ├── Families
+        │   │   │   ├── Nuclear Families
+        │   │   │   ├── Extended Families
+        │   │   │   ├── Single-Parent Families
+        │   │   │   ├── Blended Families
+        │   │   │   └── Foster Families
+        │   │   ├── Groups
+        │   │   │   ├── Peer Groups
+        │   │   │   ├── Social Clubs
+        │   │   │   ├── Activist Groups
+        │   │   │   ├── Sports Teams
+        │   │   │   └── Cultural Societies
+        │   │   ├── Communities
+        │   │   │   ├── Religious Communities
+        │   │   │   ├── Urban Neighborhoods
+        │   │   │   ├── Rural Villages
+        │   │   │   └── Online Communities
+        │   │   ├── Institutions
+        │   │   │   ├── Schools
+        │   │   │   ├── Hospitals
+        │   │   │   ├── Courts
+        │   │   │   ├── Governments
+        │   │   │   └── Religious Institutions
+        │   │   ├── Organizations
+        │   │   │   ├── Corporations
+        │   │   │   ├── Labor Unions
+        │   │   │   ├── Charities
+        │   │   │   └── Professional Associations
+        │   │   ├── Social Classes
+        │   │   │   ├── Working Class
+        │   │   │   ├── Middle Class
+        │   │   │   ├── Upper Class
+        │   │   │   └── Underprivileged
+        │   │   ├── Cultural Groups
+        │   │   │   ├── Ethnic Groups
+        │   │   │   ├── Indigenous Communities
+        │   │   │   ├── Artistic Movements
+        │   │   │   └── Language Groups
+        │   │   ├── Political Actors
+        │   │   │   ├── Political Parties
+        │   │   │   ├── Advocacy Groups
+        │   │   │   ├── Government Bodies
+        │   │   │   └── Lobbyists
+        │   │   └── Economic Agents
+        │   │       ├── Employers
+        │   │       ├── Employees
+        │   │       ├── Investors
+        │   │       ├── Consumers
+        │   │       └── Entrepreneurs
+        │   ├── Inputs
+        │   │   ├── Population Changes
+        │   │   │   ├── Migration
+        │   │   │   ├── Birth Rates
+        │   │   │   └── Refugee Influx
+        │   │   ├── Education
+        │   │   │   ├── Literacy Programs
+        │   │   │   ├── International Students
+        │   │   │   └── Research Collaborations
+        │   │   ├── Technology
+        │   │   │   ├── Internet Access
+        │   │   │   ├── Mobile Technologies
+        │   │   │   └── Medical Innovations
+        │   │   ├── Economic Resources
+        │   │   │   ├── Foreign Investments
+        │   │   │   ├── Trade Agreements
+        │   │   │   └── Job Opportunities
+        │   │   ├── Cultural Influences
+        │   │   │   ├── Media Consumption
+        │   │   │   ├── Art Movements
+        │   │   │   └── Imported Traditions
+        │   │   ├── Political Inputs
+        │   │   │   ├── International Treaties
+        │   │   │   ├── Foreign Aid
+        │   │   │   └── Diplomatic Relations
+        │   │   ├── Environmental Inputs
+        │   │   │   ├── Climate Change
+        │   │   │   ├── Natural Disasters
+        │   │   │   └── Resource Shifts
+        │   │   ├── Health Factors
+        │   │   │   ├── Disease Outbreaks
+        │   │   │   ├── Vaccination Programs
+        │   │   │   └── Healthcare Access
+        │   │   ├── Media Flows
+        │   │   │   ├── Global News
+        │   │   │   ├── Entertainment Industries
+        │   │   │   └── Social Media Trends
+        │   │   └── Ideological Currents
+        │   │       ├── Political Movements
+        │   │       ├── Religious Movements
+        │   │       └── Social Activism
+        │   ├── Outputs
+        │   │   ├── Cultural Products
+        │   │   ├── Social Norms
+        │   │   ├── Legal Structures
+        │   │   ├── Technological Innovations
+        │   │   ├── Economic Goods and Services
+        │   │   ├── Educational Achievements
+        │   │   ├── Political Structures
+        │   │   ├── Environmental Impact
+        │   │   └── Media Content
+        │   ├── Repositories
+        │   │   ├── Cultural Repositories
+        │   │   ├── Knowledge Repositories
+        │   │   ├── Legal Repositories
+        │   │   ├── Historical Repositories
+        │   │   ├── Technological Archives
+        │   │   ├── Religious Repositories
+        │   │   ├── Artistic Repositories
+        │   │   ├── Media Archives
+        │   │   └── Language Repositories
+        │   ├── Modifiers
+        │   │   ├── Political Modifiers
+        │   │   ├── Economic Modifiers
+        │   │   ├── Technological Modifiers
+        │   │   ├── Cultural Modifiers
+        │   │   ├── Environmental Modifiers
+        │   │   ├── Ideological Modifiers
+        │   │   ├── Religious Modifiers
+        │   │   ├── Demographic Modifiers
+        │   │   ├── Educational Modifiers
+        │   │   └── Media Modifiers
+        │   └── Boundaries
+        │       ├── Geographical Boundaries
+        │       ├── Political Boundaries
+        │       ├── Cultural Boundaries
+        │       ├── Social Boundaries
+        │       ├── Economic Boundaries
+        │       ├── Legal Boundaries
+        │       ├── Technological Boundaries
+        │       ├── Identity Boundaries
+        │       └── Historical Boundaries
+        └── Behaviors
+            ├── Dynamics
+            ├── Adaptability
+            ├── Feedback Loops
+            ├── Homogenization
+            ├── Fragmentation
+            ├── Resilience
+            ├── Emergence
+            ├── Repository Growth
+            ├── Assimilation
+            └── Rigidity
+

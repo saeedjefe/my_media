@@ -1,0 +1,21 @@
+Input = Migration into a country.
+
+Transformation = Education, work integration.
+
+Output = New skilled workers, cultural innovation.
+
+Distribution = Wealth, knowledge, political power.
+
+Feedback = Elections, surveys, social movements.
+
+Adaptation = Policy reforms to improve integration.
+
+Maintenance = Law enforcement, healthcare support.
+
+Growth = New industries, expanded cities.
+
+Emergence = New cultural identities.
+
+Replication = New communities built.
+
+Collapse/Dissolution (if failure) = Civil unrest or brain drain

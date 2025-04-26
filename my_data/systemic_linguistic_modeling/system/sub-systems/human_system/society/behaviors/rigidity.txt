@@ -1,0 +1,26 @@
+Rigidity
+├── Cultural Rigidity
+│    ├── Traditional Norm Enforcement
+│    └── Resistance to Global Cultural Flows
+├── Political Rigidity
+│    ├── Dictatorships Resisting Reform
+│    └── Unchanging Governance Structures
+├── Economic Rigidity
+│    ├── Clinging to Obsolete Industries
+│    └── Anti-innovation Policies
+├── Institutional Rigidity
+│    ├── Bureaucratic Inertia
+│    └── Resistance to Organizational Change
+├── Legal Rigidity
+│    ├── Outdated Laws
+│    └── Judicial System Inflexibility
+├── Social Norm Rigidity
+│    ├── Gender Role Preservation
+│    └── Traditional Family Enforcement
+├── Educational Rigidity
+│    ├── Static Curricula
+│    └── Resistance to Modern Pedagogy
+└── Technological Rigidity
+     ├── Low Tech Adoption Rates
+     └── Distrust in Digital Systems
+

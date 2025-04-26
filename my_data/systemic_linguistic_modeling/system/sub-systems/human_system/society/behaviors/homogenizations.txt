@@ -1,0 +1,23 @@
+Homogenization
+├── Cultural Homogenization
+│    ├── Global Fast Food Culture
+│    └── Popular Music Spread
+├── Economic Homogenization
+│    ├── Globalization of Markets
+│    └── Adoption of Capitalism
+├── Political Homogenization
+│    ├── Spread of Democratic Governance
+│    └── International Law Norms
+├── Technological Homogenization
+│    ├── Smartphone Usage
+│    └── Internet Access Ubiquity
+├── Urban Homogenization
+│    ├── Skyscraper Cities
+│    └── Mass Transit Systems
+├── Language Homogenization
+│    ├── English as Business Language
+│    └── Disappearance of Local Dialects
+└── Media Homogenization
+     ├── Global Streaming Platforms
+     └── International News Networks
+

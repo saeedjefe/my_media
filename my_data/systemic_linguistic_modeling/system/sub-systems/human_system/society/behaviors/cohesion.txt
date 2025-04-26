@@ -1,0 +1,14 @@
+Social Cohesion
+├── Trust Among Citizens
+│    └── General belief in fairness, honesty, and reliability of others
+├── Inclusive National Identity
+│    └── All ethnic, religious, and cultural groups feel part of the nation
+├── Conflict Resolution Mechanisms
+│    └── Peaceful negotiation and resolution of conflicts without violence
+├── Intergroup Cooperation
+│    └── Collaboration and joint efforts between different social groups
+├── Equality of Opportunity
+│    └── Fair access to opportunities regardless of background
+└── Solidarity in Times of Crisis
+     └── Unified action and mutual support during crises
+

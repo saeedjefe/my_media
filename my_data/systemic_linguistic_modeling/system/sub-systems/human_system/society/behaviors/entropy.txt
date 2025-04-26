@@ -1,0 +1,18 @@
+Entropy
+├── Political Entropy
+│    └── Collapse of governance, leadership crises, political instability
+├── Economic Entropy
+│    └── Market breakdowns, hyperinflation, uncontrolled unemployment
+├── Social Entropy
+│    └── Loss of social norms, increased mistrust, individualism without cohesion
+├── Cultural Entropy
+│    └── Erosion of cultural identity, disappearance of traditions
+├── Institutional Entropy
+│    └── Decay of public services, bureaucratic dysfunction
+├── Technological Entropy
+│    └── Systems breakdown (e.g., cyberattacks, obsolete infrastructure)
+├── Environmental Entropy
+│    └── Collapse of ecosystems, urban decay, unmanageable pollution
+└── Informational Entropy
+     └── Overload of disinformation, loss of reliable knowledge
+

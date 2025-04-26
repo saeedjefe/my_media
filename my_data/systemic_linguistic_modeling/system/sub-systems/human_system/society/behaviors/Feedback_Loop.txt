@@ -1,0 +1,20 @@
+Feedback Loops
+├── Positive Feedback
+│    ├── Viral Social Movements
+│    └── Cultural Trend Explosions
+├── Negative Feedback
+│    ├── Policy Reforms Calming Society
+│    └── Social Stabilization After Crisis
+├── Reinforcing Feedback
+│    ├── Wealth Reinforcing Wealth
+│    └── Education Level Stratification
+├── Balancing Feedback
+│    ├── Regulatory Interventions
+│    └── Public Health Campaigns
+├── Delayed Feedback
+│    ├── Climate Change Policy Effects
+│    └── Long-term Educational Investments
+└── Self-Destructive Feedback
+     ├── Polarization Leading to Conflict
+     └── Economic Collapse from Asset Bubbles
+

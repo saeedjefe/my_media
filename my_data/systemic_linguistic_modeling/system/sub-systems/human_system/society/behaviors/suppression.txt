@@ -1,0 +1,20 @@
+Suppression
+├── Political Suppression
+│    └── Blocking of grassroots movements, silencing dissent
+├── Cultural Suppression
+│    └── Censorship or banning of new artistic, musical, or literary expressions
+├── Economic Suppression
+│    └── Monopoly practices preventing startups or innovations from emerging
+├── Technological Suppression
+│    └── Restricting or banning access to disruptive technologies
+├── Educational Suppression
+│    └── Limiting critical thinking, banning new scientific theories or research topics
+├── Linguistic Suppression
+│    └── Forbidding the use of minority languages, banning slang or new words
+├── Media Suppression
+│    └── State or corporate control over news, blocking alternative voices
+├── Religious Suppression
+│    └── Outlawing new religious movements or interpretations
+└── Social Innovation Suppression
+     └── Discouraging new social norms, lifestyles, or organizational models
+

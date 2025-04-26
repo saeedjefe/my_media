@@ -1,0 +1,32 @@
+Dynamics
+├── Social Mobility
+│    ├── Upward Class Movement
+│    └── Downward Class Movement
+├── Cultural Shifts
+│    ├── Gender Norm Changes
+│    ├── Work-Life Balance Evolution
+├── Urbanization
+│    ├── Rural to Urban Migration
+│    └── Expansion of Mega-cities
+├── Economic Transitions
+│    ├── Industrialization
+│    └── Service Economy Rise
+├── Demographic Changes
+│    ├── Aging Populations
+│    ├── Youth Booms
+├── Political Changes
+│    ├── Democracies Emerging
+│    ├── Authoritarian Resurgence
+├── Technological Adoption
+│    ├── Smartphone Penetration
+│    └── Digital Economy Growth
+├── Network Expansion
+│    ├── Social Media Spread
+│    └── Global Connectivity
+├── Ideological Diffusion
+│    ├── Spread of Feminism
+│    └── Rise of Environmentalism
+└── Linguistic Evolution
+     ├── Slang and New Dialects
+     └── Global Language Blending
+

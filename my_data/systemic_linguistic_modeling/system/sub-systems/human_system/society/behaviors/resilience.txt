@@ -1,0 +1,29 @@
+Resilience
+├── Political Resilience
+│    ├── Continuity of Elections
+│    └── Government Stability Post-Crisis
+├── Economic Resilience
+│    ├── Post-Recession Recovery
+│    └── Disaster Economic Rebuilding
+├── Cultural Resilience
+│    ├── Preservation of Indigenous Cultures
+│    └── Cultural Revivals
+├── Community Resilience
+│    ├── Local Disaster Recovery
+│    └── Community Mutual Aid Networks
+├── Environmental Resilience
+│    ├── Climate Adaptive Urban Planning
+│    └── Ecosystem Restoration
+├── Institutional Resilience
+│    ├── Courts Operating During Unrest
+│    └── Schools Continuing After Crises
+├── Social Resilience
+│    ├── Volunteerism During Pandemics
+│    └── Civil Society Strengthening
+├── Technological Resilience
+│    ├── Cybersecurity Strengthening
+│    └── Data Recovery Systems
+└── Healthcare Resilience
+     ├── Hospital Capacity Management
+     └── Public Health System Reinforcement
+

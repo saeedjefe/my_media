@@ -1,0 +1,41 @@
+Dependency Type	Description	Example
+Resource Dependency	One part needs material, energy, or information from another.	A city needs water supply systems.
+Functional Dependency	One process or operation needs another to function first.	Education system depends on governance and funding.
+Structural Dependency	One part physically or organizationally supports another.	Courts depend on legal frameworks and constitutions.
+Temporal Dependency	One event must occur before another can happen.	Students must graduate before they can enter the workforce.
+Causal Dependency	One action triggers or enables another action.	Mass protests cause political reforms.
+Hierarchical Dependency	Lower layers rely on higher organizational control.	Municipal governments depend on national government policy.
+Feedback Dependency	Adjustment processes rely on feedback signals.	Businesses rely on customer feedback to improve products.
+Environmental Dependency	System survival depends on external environment conditions.	Agriculture depends on stable climate and soil quality.
+
+
+
+Dependencies
+├── Resource
+├── Functional
+├── Structural
+├── Temporal
+├── Causal
+├── Hierarchical
+├── Feedback
+└── Environmental
+
+
+System Dependencies
+├── Resource Dependency
+│    └── One part requires material, energy, or informational inputs from another.
+├── Functional Dependency
+│    └── One function or operation needs another to occur first.
+├── Structural Dependency
+│    └── Physical or organizational structures depend on one another for stability.
+├── Temporal Dependency
+│    └── Timing matters — certain events must happen before others can proceed.
+├── Causal Dependency
+│    └── One event or action triggers or enables another.
+├── Hierarchical Dependency
+│    └── Lower levels rely on higher organizational or authority layers.
+├── Feedback Dependency
+│    └── Adjustments rely on feedback information from outputs.
+└── Environmental Dependency
+     └── Survival or functioning depends on external environmental conditions.
+

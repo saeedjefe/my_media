@@ -1,0 +1,18 @@
+Negentropy
+├── Political Regeneration
+│    └── Institutional reforms, governance strengthening, constitutional stability
+├── Economic Reconstruction
+│    └── Recovery programs, economic diversification, social safety nets
+├── Social Renewal
+│    └── Rebuilding social trust, promoting civic engagement
+├── Cultural Revival
+│    └── Preservation and celebration of local traditions, arts, languages
+├── Institutional Rebuilding
+│    └── Modernizing public services, increasing transparency
+├── Technological Innovation
+│    └── Upgrading systems, enhancing cybersecurity, sustainable tech growth
+├── Environmental Restoration
+│    └── Ecosystem recovery projects, sustainable urban planning
+└── Knowledge Structuring
+     └── Combatting disinformation, strengthening education and research systems
+

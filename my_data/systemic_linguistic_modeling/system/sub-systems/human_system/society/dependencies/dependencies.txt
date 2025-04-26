@@ -1,0 +1,34 @@
+Social System Dependencies
+├── Resource Dependency
+│    ├── Education depends on economic funding and technological resources.
+│    ├── Healthcare depends on medical supplies and skilled professionals.
+│    └── Media depends on digital infrastructure and content creators.
+├── Functional Dependency
+│    ├── Courts depend on the existence of written laws and constitutional frameworks.
+│    ├── Police depend on legislative authority to act.
+│    └── Schools depend on a stable social order and legal protection.
+├── Structural Dependency
+│    ├── Democracy depends on free electoral systems and civil liberties.
+│    ├── Urban infrastructure depends on governance planning and maintenance.
+│    └── Markets depend on legal protection of property rights.
+├── Temporal Dependency
+│    ├── Education of youth must precede their full participation in the workforce.
+│    ├── Policy implementation must follow political consensus or electoral processes.
+│    └── Economic investments must precede returns or industrial growth.
+├── Causal Dependency
+│    ├── Political instability can cause economic recession.
+│    ├── Media exposure can trigger social movements.
+│    └── New technology can spark labor market shifts.
+├── Hierarchical Dependency
+│    ├── Local governments depend on national governments for legal frameworks and budgets.
+│    ├── Citizens depend on institutions for rights protection.
+│    └── NGOs depend on legal recognition and tax frameworks.
+├── Feedback Dependency
+│    ├── Policy changes depend on citizen feedback (elections, protests, surveys).
+│    ├── Market innovations depend on consumer behavior analysis.
+│    └── Educational reforms depend on graduation rates and employment statistics.
+└── Environmental Dependency
+     ├── Agricultural economies depend on climate stability and fertile land.
+     ├── Tourism sectors depend on environmental conservation.
+     └── Urban centers depend on natural resource access and clean air.
+

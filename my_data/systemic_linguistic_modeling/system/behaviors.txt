@@ -1,0 +1,25 @@
+
+Behaviors
+├── Dynamics
+├── Adaptability
+├── Feedback Loops
+├── Homogenization
+├── Heterogenization
+├── Fragmentation
+├── Social Cohesion
+├── Resilience
+├── Emergence
+├── Repository Growth
+├── Assimilation
+├── Rigidity
+└── Cultural Pluralism
+
+
+Behavior | Opposite Behavior
+Dynamics | Social Statics
+Resilience | Vulnerability
+Social Cohesion | Fragmentation
+Homogenization | Heterogenization
+Assimilation | Cultural Pluralism
+Emergence | Suppression
+Entropy | Negentropy

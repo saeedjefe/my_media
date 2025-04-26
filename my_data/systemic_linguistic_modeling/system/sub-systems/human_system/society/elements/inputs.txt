@@ -1,0 +1,43 @@
+Society
+└── Inputs
+    ├── Population Changes
+    │   ├── Migration
+    │   ├── Birth Rates
+    │   └── Refugee Influx
+    ├── Education
+    │   ├── Literacy Programs
+    │   ├── International Students
+    │   └── Research Collaborations
+    ├── Technology
+    │   ├── Internet Access
+    │   ├── Mobile Technologies
+    │   └── Medical Innovations
+    ├── Economic Resources
+    │   ├── Foreign Investments
+    │   ├── Trade Agreements
+    │   └── Job Opportunities
+    ├── Cultural Influences
+    │   ├── Media Consumption
+    │   ├── Art Movements
+    │   └── Imported Traditions
+    ├── Political Inputs
+    │   ├── International Treaties
+    │   ├── Foreign Aid
+    │   └── Diplomatic Relations
+    ├── Environmental Inputs
+    │   ├── Climate Change
+    │   ├── Natural Disasters
+    │   └── Resource Shifts
+    ├── Health Factors
+    │   ├── Disease Outbreaks
+    │   ├── Vaccination Programs
+    │   └── Healthcare Access
+    ├── Media Flows
+    │   ├── Global News
+    │   ├── Entertainment Industries
+    │   └── Social Media Trends
+    └── Ideological Currents
+        ├── Political Movements
+        ├── Religious Movements
+        └── Social Activism
+

@@ -1,0 +1,18 @@
+Social Statics
+├── Cultural Inertia
+│    └── Preservation of traditional customs and resistance to new cultural influences
+├── Political Rigidity
+│    └── Unchanging political structures, leaders, and ideologies
+├── Economic Inflexibility
+│    └── Dependence on traditional industries with little innovation
+├── Educational Conservatism
+│    └── Sticking to old curricula, resisting educational reforms
+├── Institutional Stagnation
+│    └── Bureaucracies resisting modernization and technological updates
+├── Social Role Fixation
+│    └── Strict, unchanging social roles based on gender, class, or age
+├── Technological Resistance
+│    └── Reluctance to adopt new technologies or digital systems
+└── Religious Orthodoxy
+     └── Strict adherence to traditional religious practices without adaptation
+

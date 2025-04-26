@@ -1,0 +1,26 @@
+Assimilation
+├── Cultural Assimilation
+│    ├── Celebrating Host Country Traditions
+│    └── Adopting New Lifestyles
+├── Linguistic Assimilation
+│    ├── Learning and Using Dominant Language
+│    └── Loss of Native Languages
+├── Social Assimilation
+│    ├── Adopting Social Etiquette
+│    └── Conforming to Dress Codes
+├── Economic Assimilation
+│    ├── Entering National Job Markets
+│    └── Launching Businesses in Host Economy
+├── Political Assimilation
+│    ├── Voting Rights
+│    └── Political Office Participation
+├── Educational Assimilation
+│    ├── Graduation from Local Schools
+│    └── Higher Education Enrollment
+├── Religious Assimilation
+│    ├── Converting to Dominant Religions
+│    └── Participating in National Religious Holidays
+└── Identity Assimilation
+     ├── Changing Names
+     └── Adapting Personal Image to Norms
+

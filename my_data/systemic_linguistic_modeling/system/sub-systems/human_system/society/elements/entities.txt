@@ -1,0 +1,60 @@
+Society
+└── Entities
+    ├── Individuals
+    │   ├── Citizens
+    │   ├── Migrants
+    │   ├── Refugees
+    │   ├── Students
+    │   ├── Elderly
+    │   ├── Workers
+    │   └── Activists
+    ├── Families
+    │   ├── Nuclear Families
+    │   ├── Extended Families
+    │   ├── Single-Parent Families
+    │   ├── Blended Families
+    │   └── Foster Families
+    ├── Groups
+    │   ├── Peer Groups
+    │   ├── Social Clubs
+    │   ├── Activist Groups
+    │   ├── Sports Teams
+    │   └── Cultural Societies
+    ├── Communities
+    │   ├── Religious Communities
+    │   ├── Urban Neighborhoods
+    │   ├── Rural Villages
+    │   └── Online Communities
+    ├── Institutions
+    │   ├── Schools
+    │   ├── Hospitals
+    │   ├── Courts
+    │   ├── Governments
+    │   └── Religious Institutions
+    ├── Organizations
+    │   ├── Corporations
+    │   ├── Labor Unions
+    │   ├── Charities
+    │   └── Professional Associations
+    ├── Social Classes
+    │   ├── Working Class
+    │   ├── Middle Class
+    │   ├── Upper Class
+    │   └── Underprivileged
+    ├── Cultural Groups
+    │   ├── Ethnic Groups
+    │   ├── Indigenous Communities
+    │   ├── Artistic Movements
+    │   └── Language Groups
+    ├── Political Actors
+    │   ├── Political Parties
+    │   ├── Advocacy Groups
+    │   ├── Government Bodies
+    │   └── Lobbyists
+    └── Economic Agents
+        ├── Employers
+        ├── Employees
+        ├── Investors
+        ├── Consumers
+        └── Entrepreneurs
+

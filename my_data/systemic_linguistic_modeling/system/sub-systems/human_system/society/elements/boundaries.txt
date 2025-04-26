@@ -1,0 +1,38 @@
+Boundaries
+├── Geographical Boundaries
+│    ├── National Borders
+│    ├── Urban vs Rural Divisions
+│    └── Territorial Claims
+├── Political Boundaries
+│    ├── Citizenship Rules
+│    ├── Constitutions
+│    └── Sovereignty Definitions
+├── Cultural Boundaries
+│    ├── Language Differences
+│    ├── Religious Practices
+│    └── Cultural Dress Codes
+├── Social Boundaries
+│    ├── Class Divisions
+│    ├── Elite Memberships
+│    └── Social Stratification
+├── Economic Boundaries
+│    ├── Trade Barriers
+│    ├── Internal vs Global Markets
+│    └── Economic Protectionism
+├── Legal Boundaries
+│    ├── Citizenship Laws
+│    ├── Legal Rights
+│    └── Immigration Laws
+├── Technological Boundaries
+│    ├── Digital Divide
+│    ├── Internet Access Inequality
+│    └── Technological Exclusion
+├── Identity Boundaries
+│    ├── Ethnic Group Divisions
+│    ├── Racial Distinctions
+│    └── Religious Identity Markers
+└── Historical Boundaries
+     ├── Colonial Boundaries
+     ├── Historical Treaties
+     └── Heritage Claims
+

@@ -1,0 +1,42 @@
+Modifiers
+├── Political Modifiers
+│    ├── Policy Changes
+│    ├── Leadership Transitions
+│    └── Legal Reforms
+├── Economic Modifiers
+│    ├── Recessions
+│    ├── Economic Booms
+│    └── Globalization
+├── Technological Modifiers
+│    ├── Internet Expansion
+│    ├── Artificial Intelligence
+│    └── Green Technologies
+├── Cultural Modifiers
+│    ├── Shifts in Norms
+│    ├── Global Popular Culture
+│    └── Cultural Hybridization
+├── Environmental Modifiers
+│    ├── Climate Change
+│    ├── Natural Disasters
+│    └── Resource Depletion
+├── Ideological Modifiers
+│    ├── Nationalism
+│    ├── Liberalism
+│    └── Feminism
+├── Religious Modifiers
+│    ├── Reformation Movements
+│    ├── Religious Conflicts
+│    └── Spiritual Awakenings
+├── Demographic Modifiers
+│    ├── Aging Populations
+│    ├── Youth Surges
+│    └── Urbanization
+├── Educational Modifiers
+│    ├── Mass Education
+│    ├── Literacy Campaigns
+│    └── Digital Learning
+└── Media Modifiers
+     ├── Social Media Influence
+     ├── Fake News Proliferation
+     └── Global Media Connectivity
+
