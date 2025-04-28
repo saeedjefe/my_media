@@ -1,0 +1,50 @@
+Government System Entities
+├── Sovereign Authority
+│    ├── Head of State (President, Monarch)
+│    ├── Head of Government (Prime Minister, Chancellor)
+│    ├── Executive Cabinet (Ministers, Secretaries)
+├── Legislative Bodies
+│    ├── National Parliament / Congress / Assembly
+│    │    ├── Upper House (Senate, House of Lords)
+│    │    ├── Lower House (House of Representatives, Commons)
+│    └── Legislative Committees (Budget, Defense, Education Committees)
+├── Judicial System
+│    ├── Supreme Court
+│    ├── Constitutional Courts
+│    ├── Lower Courts (District, Appellate Courts)
+│    └── Administrative Tribunals
+├── Ministries and Executive Agencies
+│    ├── Ministry of Finance
+│    ├── Ministry of Health
+│    ├── Ministry of Education
+│    ├── Ministry of Defense
+│    └── Other Specialized Ministries (Environment, Infrastructure, Foreign Affairs)
+├── Law Enforcement Entities
+│    ├── National Police Forces
+│    ├── Secret Services / Intelligence Agencies
+│    └── Border Control Agencies
+├── Military Institutions
+│    ├── Army
+│    ├── Navy
+│    ├── Air Force
+│    └── Cybersecurity Commands
+├── Administrative Bureaucracy
+│    ├── Civil Service Departments
+│    ├── Regulatory Agencies (e.g., Food Safety Authority, Financial Regulation)
+│    ├── Local/Municipal Governments
+│    └── Electoral Commissions
+├── Public Sector Organizations
+│    ├── Public Universities
+│    ├── Public Hospitals
+│    ├── National Research Institutes
+│    ├── State-Owned Enterprises (Railways, Energy Companies)
+├── Advisory and Consultative Bodies
+│    ├── Economic Advisory Councils
+│    ├── Scientific Advisory Panels
+│    ├── National Security Councils
+├── Citizens and Civil Society
+│    ├── Registered Voters
+│    ├── Taxpayers
+│    ├── Civil Society Organizations (NGOs, advocacy groups)
+│    ├── Public Media Institutions (state-funded journalism)
+

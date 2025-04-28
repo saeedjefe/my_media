@@ -1,0 +1,53 @@
+Behaviors
+├── Dynamics
+│    ├── Social Change
+│    ├── Policy Evolution
+│    └── Economic Fluctuations
+├── Social Statics (Opposite of Dynamics)
+│    ├── Stability of Institutions
+│    ├── Enduring Cultural Norms
+│    └── Constitutional Continuity
+├── Resilience
+│    ├── Crisis Recovery (economic, environmental, political)
+│    ├── Institutional Durability
+├── Vulnerability (Opposite of Resilience)
+│    ├── Systemic Fragility (healthcare, economy, governance)
+│    ├── Collapse Under Pressure (pandemic, war, recession)
+├── Social Cohesion
+│    ├── National Identity Unity
+│    ├── High Trust in Government and Institutions
+│    ├── Strong Civil Society
+├── Fragmentation (Opposite of Cohesion)
+│    ├── Political Polarization
+│    ├── Ethnic/Religious Divisions
+│    └── Class Disparities
+├── Homogenization
+│    ├── Cultural Standardization (globalization effects)
+│    ├── Uniform Legal Systems
+├── Heterogenization (Opposite of Homogenization)
+│    ├── Rise of Multiculturalism
+│    ├── Regional Identity Assertion
+├── Assimilation
+│    ├── Immigrants Adopting Host Culture
+│    ├── Language Integration
+├── Cultural Pluralism (Opposite of Assimilation)
+│    ├── Preservation of Ethnic Languages
+│    ├── Parallel Cultural Communities
+├── Emergence
+│    ├── New Political Movements
+│    ├── Technological Innovations
+│    ├── Novel Cultural Trends
+├── Suppression (Opposite of Emergence)
+│    ├── Censorship
+│    ├── Authoritarian Crackdowns
+├── Repository Growth
+│    ├── Expansion of Legal Codes
+│    ├── Growth of Knowledge Bases
+│    ├── Accumulation of Cultural Heritage
+├── Entropy (System Disorder or Decay)
+│    ├── Loss of Institutional Memory
+│    ├── Economic Decline
+│    ├── Social Disorganization
+├── Social Statics vs Social Dynamics (General)
+│    ├── System Stability vs System Change
+
