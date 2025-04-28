@@ -1,0 +1,60 @@
+Government Outputs
+├── Public Services
+│    ├── Education Services
+│    │    ├── Public Schools
+│    │    ├── Public Universities
+│    │    └── Adult Education Programs
+│    ├── Healthcare Services
+│    │    ├── Public Hospitals
+│    │    ├── Preventive Healthcare Campaigns
+│    │    └── Vaccination Programs
+│    ├── Social Welfare Services
+│    │    ├── Retirement Support (Pensions, Elderly Care)
+│    │    ├── Disability Assistance Programs
+│    │    └── Unemployment Benefits
+│    ├── Security Services
+│    │    ├── Police Protection
+│    │    ├── Fire Departments
+│    │    └── Emergency Services (disaster response)
+│    ├── Infrastructure Services
+│    │    ├── Road and Bridge Construction
+│    │    ├── Public Transportation Systems
+│    │    └── Utilities (Water Supply, Sewage Management)
+├── Regulatory Outputs
+│    ├── Laws and Regulations
+│    │    ├── Criminal Law
+│    │    ├── Civil Law
+│    │    ├── Environmental Regulations
+│    │    └── Labor Laws
+│    ├── Standards and Certifications
+│    │    ├── Food Safety Standards
+│    │    ├── Educational Accreditation
+│    │    └── Health and Safety Codes
+├── Economic Outputs
+│    ├── Economic Policies
+│    │    ├── Tax Policies
+│    │    ├── Trade Agreements
+│    │    └── Investment Incentives
+│    ├── Financial Assistance
+│    │    ├── Subsidies for Businesses
+│    │    ├── Grants for Research
+│    │    └── Agricultural Subsidies
+├── Diplomatic Outputs
+│    ├── International Agreements
+│    │    ├── Trade Treaties
+│    │    ├── Peace Accords
+│    │    └── Climate Accords
+│    ├── Foreign Aid
+│    │    ├── Development Assistance
+│    │    ├── Disaster Relief Contributions
+│    │    └── Military Assistance
+├── Cultural Outputs
+│    ├── National Celebrations
+│    │    ├── Independence Day Events
+│    │    ├── State Ceremonies
+│    │    └── Public Festivals
+│    ├── Preservation of Heritage
+│    │    ├── Museum Funding
+│    │    ├── Historic Site Maintenance
+│    │    └── Cultural Education Programs
+

@@ -1,0 +1,26 @@
+Boundaries
+├── Physical Boundaries
+│    ├── National Borders
+│    ├── City Limits
+│    ├── Restricted Areas (military zones, research facilities)
+├── Legal Boundaries
+│    ├── Citizenship and Immigration Laws
+│    ├── Jurisdictional Limits (court authority, police authority)
+│    └── Trade Zones and Tariff Barriers
+├── Organizational Boundaries
+│    ├── Government Agency Mandates
+│    ├── Ministry/Department Jurisdictions
+│    └── Authority Delegations
+├── Social and Cultural Boundaries
+│    ├── Norms Defining Group Membership (ethnic groups, religious communities)
+│    ├── Class Divisions (economic, educational)
+│    └── Language and Communication Barriers
+├── Informational Boundaries
+│    ├── Data Privacy Protections (GDPR, national security restrictions)
+│    ├── Intellectual Property Laws
+│    └── Access Control Systems (classified information)
+├── Environmental Boundaries
+│    ├── National Parks and Protected Areas
+│    ├── Water and Air Pollution Control Zones
+│    └── Marine Economic Zones (EEZs)
+

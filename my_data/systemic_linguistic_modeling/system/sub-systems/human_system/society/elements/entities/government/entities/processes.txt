@@ -1,0 +1,65 @@
+Government Core Processes
+├── Input Acquisition
+│    ├── Tax Collection
+│    ├── Borrowing (Debt Issuance)
+│    ├── Resource Extraction (natural resources)
+│    ├── Data Collection (census, research, intelligence)
+│    ├── Aid Reception (grants, foreign assistance)
+├── Internal Transformation
+│    ├── Budget Allocation and Financial Planning
+│    ├── Policy Design and Lawmaking
+│    ├── Regulation Drafting
+│    ├── Strategic Planning (long-term programs)
+│    ├── Organizational Management (ministries, agencies)
+├── Output Production
+│    ├── Delivery of Public Services
+│    │    ├── Education
+│    │    ├── Healthcare
+│    │    ├── Social Welfare (e.g., Retirement Support)
+│    │    ├── Security (police, military)
+│    │    └── Infrastructure (roads, water, public transport)
+│    ├── Creation and Enforcement of Laws
+│    ├── Investment in Public Goods
+│    ├── Diplomatic Engagements
+│    └── Cultural Promotion (festivals, heritage protection)
+├── Distribution
+│    ├── Resource Redistribution (social transfers, grants)
+│    ├── Service Delivery (healthcare, education)
+│    ├── Infrastructure Access (roads, electricity, water)
+│    ├── Regulatory Distribution (laws applied across regions)
+├── Feedback Reception
+│    ├── Public Opinion Surveys
+│    ├── Election Results Analysis
+│    ├── Audit Reports and Financial Accountability
+│    ├── Media Monitoring (news, social media)
+│    ├── Citizen Petitions and Legal Challenges
+├── Adaptation
+│    ├── Policy Reforms
+│    ├── Budget Adjustments
+│    ├── Organizational Restructuring
+│    ├── Emergency Responses (crisis management)
+│    ├── Technological Updates (e-government reforms)
+├── Maintenance (Homeostasis)
+│    ├── Maintaining Law and Order
+│    ├── Managing Bureaucratic Continuity
+│    ├── Protecting Constitutional Integrity
+│    ├── Preserving National Infrastructure
+├── Growth and Development
+│    ├── Expanding Public Services
+│    ├── Investing in Future Infrastructure
+│    ├── Educational and Scientific Advancement
+│    ├── Economic Development Programs
+├── Emergence
+│    ├── New Social Movements
+│    ├── New Economic Classes
+│    ├── New Political Ideologies
+│    ├── Cultural Innovations
+├── Replication (System Expansion or Duplication)
+│    ├── Creating New Institutions (ministries, agencies)
+│    ├── Scaling Programs Nationwide
+│    ├── Exporting Governance Models (foreign policy influence)
+├── Death or Dissolution (Collapse)
+│    ├── Dissolution of Agencies
+│    ├── Abandonment of Failed Programs
+│    ├── Structural Collapse (political revolutions, failed states)
+

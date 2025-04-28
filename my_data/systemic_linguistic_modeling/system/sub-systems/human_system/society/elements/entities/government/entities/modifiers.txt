@@ -1,0 +1,26 @@
+Modifiers
+├── Economic Modifiers
+│    ├── Inflation Rates
+│    ├── Globalization Trends
+│    ├── Technological Disruption (automation, AI)
+├── Social Modifiers
+│    ├── Demographic Changes (aging, migration)
+│    ├── Social Movements (civil rights, environmentalism)
+│    ├── Shifts in Cultural Values
+├── Political Modifiers
+│    ├── Regime Changes (elections, revolutions)
+│    ├── Policy Shifts (liberalization, austerity)
+│    └── International Sanctions
+├── Technological Modifiers
+│    ├── Internet Penetration
+│    ├── Medical Advances (vaccines, treatments)
+│    ├── Transportation Innovations
+├── Environmental Modifiers
+│    ├── Climate Change (global warming, sea-level rise)
+│    ├── Natural Disasters (earthquakes, floods)
+│    └── Biodiversity Loss
+├── Psychological and Cultural Modifiers
+│    ├── Rise of Individualism vs. Collectivism
+│    ├── Mental Health Awareness Movements
+│    ├── Changes in Educational Attitudes
+

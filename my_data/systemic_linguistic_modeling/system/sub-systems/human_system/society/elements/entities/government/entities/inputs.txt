@@ -1,0 +1,75 @@
+Government Inputs
+├── Economic Inputs
+│    ├── Tax Revenue
+│    │    ├── Income Tax
+│    │    ├── Corporate Tax
+│    │    ├── Value-Added Tax (VAT) / Sales Tax
+│    │    ├── Property Tax
+│    │    └── Customs Duties
+│    ├── Non-Tax Revenue
+│    │    ├── Service Fees (licenses, permits)
+│    │    ├── Fines and Penalties
+│    │    └── Rental Income (government-owned properties)
+│    ├── Natural Resource Revenue
+│    │    ├── Oil and Gas
+│    │    ├── Minerals
+│    │    ├── Forestry
+│    │    └── Fisheries
+│    ├── Foreign Aid and Grants
+│    ├── Public Borrowing (Debt)
+│    │    ├── Domestic Bonds
+│    │    ├── International Loans
+│    ├── Investment Returns
+│    ├── State-Owned Enterprise (SOE) Profits
+│    ├── Privatization Proceeds
+│    └── Monetary Creation
+├── Human Capital Inputs
+│    ├── Civil Servants
+│    ├── Teachers
+│    ├── Doctors and Healthcare Workers
+│    ├── Law Enforcement Officers
+│    ├── Military Personnel
+│    └── Administrative Staff
+├── Information Inputs
+│    ├── Census Data
+│    ├── Economic Statistics
+│    ├── Scientific Research
+│    ├── Intelligence Reports
+│    └── Citizen Feedback (surveys, elections)
+├── Political Inputs
+│    ├── Election Results
+│    ├── Political Party Platforms
+│    ├── Lobbyist and Special Interest Group Pressures
+│    ├── Public Demonstrations and Protests
+│    └── Media Influence (press, social media)
+├── Legal Inputs
+│    ├── Constitutional Law
+│    ├── Judicial Rulings
+│    ├── International Treaties
+│    ├── Regulatory Frameworks
+│    └── Historical Precedents
+├── Social Inputs
+│    ├── Demographic Trends
+│    ├── Social Movements
+│    ├── Cultural Norms and Values
+│    ├── Religious Institution Positions
+│    └── Family Structure Dynamics
+├── Technological Inputs
+│    ├── Communication Systems (internet, telecommunications)
+│    ├── Medical Technologies
+│    ├── Educational Technologies
+│    ├── Surveillance and Security Technologies
+│    └── Transportation Infrastructure Technology
+├── Environmental Inputs
+│    ├── Climate Data
+│    ├── Natural Disaster Events (earthquakes, floods)
+│    ├── Water Resources
+│    ├── Land and Soil Quality
+│    └── Biodiversity Resources
+├── Global Inputs
+│    ├── International Economic Trends (trade, markets)
+│    ├── Diplomatic Pressures (UN, WTO, IMF policies)
+│    ├── Foreign Policy Dynamics
+│    ├── Global Health Crises (pandemics)
+│    └── Cross-Border Migrations
+

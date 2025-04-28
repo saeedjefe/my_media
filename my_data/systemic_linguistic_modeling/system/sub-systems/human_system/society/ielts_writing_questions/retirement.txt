@@ -1,0 +1,9 @@
+Some people think the government should take care of retired people. Others believe individuals should save for their own retirement.
+Discuss both views and give your opinion.
+
+
+government(enitity) to take care(process)  retirees(entites) individuals(entities) to save for retirement(process)
+
+
+entities         inputs       ouputs       modifiers     repositories     boundaries     dependencies      procesess       behaviors  
+

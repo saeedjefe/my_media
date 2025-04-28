@@ -2,7 +2,6 @@
 Behaviors
 ├── Dynamics
 ├── Adaptability
-├── Feedback Loops
 ├── Homogenization
 ├── Heterogenization
 ├── Fragmentation
@@ -16,10 +15,10 @@ Behaviors
 
 
 Behavior | Opposite Behavior
-Dynamics | Social Statics
+Dynamics |  Statics
 Resilience | Vulnerability
 Social Cohesion | Fragmentation
 Homogenization | Heterogenization
-Assimilation | Cultural Pluralism
+Assimilation | Pluralism
 Emergence | Suppression
 Entropy | Negentropy

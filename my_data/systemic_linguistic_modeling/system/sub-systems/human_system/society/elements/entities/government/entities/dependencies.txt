@@ -1,0 +1,34 @@
+Dependencies
+├── Resource Dependency
+│    ├── Financial Dependency (taxpayers → government)
+│    ├── Natural Resource Dependency (economy → oil, water)
+│    └── Food and Water Supply Chains
+├── Functional Dependency
+│    ├── Judiciary depends on Legislation
+│    ├── Healthcare depends on Pharmaceuticals
+│    ├── Education depends on Government Curriculum Support
+├── Structural Dependency
+│    ├── Local Governments depend on Federal Structures
+│    ├── Police Agencies depend on Judicial System
+│    └── Urban Planning depends on Transportation Networks
+├── Temporal Dependency
+│    ├── Law-making precedes Law Enforcement
+│    ├── Education precedes Workforce Participation
+│    └── Infrastructure Development precedes Economic Growth
+├── Causal Dependency
+│    ├── Economic Recession leads to Unemployment
+│    ├── Poor Healthcare leads to Public Health Crises
+│    ├── Corruption leads to Political Instability
+├── Hierarchical Dependency
+│    ├── Municipalities depend on State Governments
+│    ├── State Governments depend on National Frameworks
+│    └── Ministries depend on Cabinets and Prime Ministers
+├── Feedback Dependency
+│    ├── Governments depend on Elections (citizen feedback)
+│    ├── Policy depends on Statistical Evaluations
+│    └── Public Services depend on Service Satisfaction Data
+├── Environmental Dependency
+│    ├── Agriculture depends on Climate
+│    ├── Coastal Cities depend on Sea Levels
+│    └── Energy Grids depend on Natural Stability
+
