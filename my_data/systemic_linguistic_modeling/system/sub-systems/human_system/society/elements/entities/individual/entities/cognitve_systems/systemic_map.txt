@@ -1,0 +1,11 @@
+Cognitive System
+├── Entities
+│    ├── Language System → Output: Verbal expressions, sentences
+│    ├── Memory System → Output: Retrieved knowledge, memories
+│    ├── Attention System → Output: Selected focus
+│    ├── Cognitive Function System
+│    │    ├── Thinking → Output: Concepts, ideas
+│    │    ├── Planning → Output: Action plans
+│    │    ├── Deciding → Output: Final choices
+│    ├── Emotional System → Output: Cognitive-affective evaluations
+

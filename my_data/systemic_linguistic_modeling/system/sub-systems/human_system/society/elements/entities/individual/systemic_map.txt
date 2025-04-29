@@ -1,0 +1,79 @@
+Individual (Systemic Map)
+
+├── Elements
+│   ├── Entities
+│   │   ├── Biological Systems
+│   │   │   ├── Nervous System
+│   │   │   ├── Endocrine System
+│   │   │   ├── Cardiovascular System
+│   │   │   └── Immune System
+│   │   ├── Cognitive Systems
+│   │   │   ├── Cognitive Function System
+│   │   │   │   ├── Thinking System (concept formation, analysis)
+│   │   │   │   ├── Planning System (goal setting, strategy development)
+│   │   │   │   ├── Decision-Making System (choice selection)
+│   │   │   ├── Memory System (short-term, long-term storage and retrieval)
+│   │   │   ├── Attention System (focus control, prioritization)
+│   │   │   ├── Language System (communication, symbolic representation)
+│   │   │   └── Emotional System (cognitive-affective processing)
+│   │   ├── Behavioral Systems
+│   │   │   ├── Self-Management System (applies outputs of thinking, planning, and decision-making)
+│   │   │   ├── Social Interaction System
+│   │   │   └── Learning and Adaptation System
+├── Inputs
+│   ├── Nutritional Inputs (food, water)
+│   ├── Sensory Inputs (vision, hearing, touch, smell, taste)
+│   ├── Social Inputs (communication, feedback, education)
+│   ├── Environmental Inputs (climate, living conditions)
+├── Outputs
+│   ├── Physical Actions (movement, speech)
+│   ├── Emotional Expressions (facial expressions, tone)
+│   ├── Cognitive Outputs (problem-solving, decision statements, plans)
+│   ├── Behavioral Outputs (regulated actions through self-management)
+│   ├── Social Contributions (relationships, work, teaching)
+├── Repositories
+│   ├── Memory Repositories (experiences, knowledge)
+│   ├── Cultural Repositories (language, traditions internalized)
+│   ├── Skill Sets (professional, survival skills)
+├── Modifiers
+│   ├── Biological Modifiers (age, genetic traits, health conditions)
+│   ├── Environmental Modifiers (living environment, social environment)
+│   ├── Psychological Modifiers (stress, trauma, education level)
+├── Boundaries
+│   ├── Physical Boundaries (body skin, personal space)
+│   ├── Psychological Boundaries (self-concept, autonomy)
+│   ├── Social Boundaries (roles, norms, identity)
+├── Processes
+│   ├── Metabolic Processes (energy generation, cell repair)
+│   ├── Cognitive Processes (thinking, learning, remembering)
+│   ├── Emotional Processes (feeling, regulating)
+│   ├── Behavioral Processes (acting, adapting, interacting)
+│   ├── Growth and Development Processes (biological maturation, skill acquisition)
+│   ├── Feedback Processes (self-monitoring, adjusting behavior)
+├── Behaviors
+│   ├── Adaptation
+│   ├── Resilience
+│   ├── Socialization
+│   ├── Learning and Innovation
+│   ├── Goal-Directed Action
+│   ├── Maintenance of Homeostasis
+│   ├── Emotional Expression
+│   └── Self-Improvement
+
+System Flow Diagram
+
+Cognitive Systems
+├── Cognitive Function System
+│   ├── Thinking System
+│   ├── Planning System
+│   ├── Decision-Making System
+│    └── Outputs: Goals, Plans, Decisions
+
+Behavioral Systems
+├── Self-Management System
+│    └── Inputs: Goals, Plans, Decisions (from Cognitive Systems)
+│    └── Outputs: Regulated Actions, Behavior Execution
+
+Overall Flow:
+Thinking ➔ Planning ➔ Deciding (Cognitive Systems) ➔ Self-Management (Behavioral System) ➔ Real-World Behavior
+

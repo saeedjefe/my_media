@@ -1,0 +1,28 @@
+Individual System Dependencies
+├── Biological Dependencies
+│   ├── Air (oxygen supply)
+│   ├── Water (hydration)
+│   ├── Food (nutrition)
+│   ├── Shelter (protection)
+├── Social Dependencies
+│   ├── Family (early survival, emotional support)
+│   ├── Educational Systems (knowledge, skills)
+│   ├── Legal Systems (rights, protections)
+│   ├── Community (belonging, safety nets)
+├── Environmental Dependencies
+│   ├── Climate Stability (food security, health)
+│   ├── Clean Water and Air
+│   ├── Biodiversity (indirect survival support)
+├── Cognitive Dependencies
+│   ├── Language Availability
+│   ├── Educational Content
+│   ├── Access to New Knowledge
+├── Economic Dependencies
+│   ├── Job Market
+│   ├── Financial Systems
+│   ├── Affordable Goods and Services
+├── Healthcare Dependencies
+│   ├── Preventive Medicine (vaccines, screenings)
+│   ├── Emergency Medical Access
+│   ├── Mental Health Services
+

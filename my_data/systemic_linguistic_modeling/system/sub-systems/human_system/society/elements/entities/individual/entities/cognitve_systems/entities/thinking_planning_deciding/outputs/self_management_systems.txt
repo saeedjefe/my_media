@@ -1,0 +1,40 @@
+Self-Management System
+├── Inputs
+│    ├── Goals (from planning)
+│    ├── Plans (action steps, strategies)
+│    ├── Decisions (selected courses of action)
+├── Entities
+│    ├── Behavioral Control Modules
+│    │    ├── Impulse Control Mechanism
+│    │    ├── Habit Formation System
+│    │    └── Motivation Regulation System
+│    ├── Monitoring Modules
+│    │    ├── Self-Observation (real-time monitoring)
+│    │    ├── Error Detection (recognizing mistakes)
+│    │    └── Feedback Integration (adjusting actions)
+├── Processes
+│    ├── Behavior Regulation
+│    ├── Goal Monitoring and Adjustment
+│    ├── Energy and Motivation Management
+│    ├── Adaptive Flexibility (changing plans when needed)
+├── Outputs
+│    ├── Regulated Behavior (self-disciplined actions)
+│    ├── Achievement of Goals (successful behaviors)
+│    ├── Adjustment Behaviors (course corrections)
+├── Repositories
+│    ├── Behavioral Patterns (habits, routines)
+│    ├── Self-Knowledge (knowing strengths/weaknesses)
+├── Boundaries
+│    ├── Self-Control Limits (ego depletion, fatigue)
+│    ├── Behavioral Norms (social rules shaping acceptable behaviors)
+├── Modifiers
+│    ├── Biological Modifiers (energy level, health)
+│    ├── Psychological Modifiers (stress, emotional states)
+│    ├── Environmental Modifiers (distractions, social support)
+├── Behaviors
+│    ├── Goal Achievement
+│    ├── Resilience (persisting despite obstacles)
+│    ├── Self-Correction (learning from mistakes)
+│    ├── Self-Discipline
+│    ├── Procrastination Avoidance
+
