@@ -1,0 +1,22 @@
+Self-System
+├── Self-Awareness
+│   ├── Consciousness of one's existence
+│   └── Meta-cognition (thinking about one’s thinking)
+├── Self-Concept
+│   ├── Beliefs about who I am (traits, roles, identity)
+│   ├── Cognitive representation of the self (schemas)
+├── Self-Esteem
+│   ├── Affective evaluation of the self (worthiness)
+├── Self-Image
+│   ├── How I think I appear to others
+│   └── Physical, social, moral dimensions
+├── Self-Regulation
+│   ├── Controlling thoughts, emotions, behavior
+│   └── Aligning action with goals and standards
+├── Self-Efficacy
+│   ├── Belief in one’s ability to achieve specific goals
+├── Self-Narrative (Autobiographical Self)
+│   ├── Internal story that gives life coherence
+├── Self-Continuity
+│   ├── Sense of being the same person across time
+

@@ -20,6 +20,17 @@ Individual (Systemic Map)
 │   │   │   ├── Self-Management System (applies outputs of thinking, planning, and decision-making)
 │   │   │   ├── Social Interaction System
 │   │   │   └── Learning and Adaptation System
+│   │   ├── Self System
+│   │   │   ├── Self-Awareness (consciousness of one's existence, meta-cognition)
+│   │   │   ├── Self-Concept (beliefs, identity, schemas)
+│   │   │   ├── Self-Esteem (affective evaluation of self-worth)
+│   │   │   ├── Self-Image (perceived appearance and social impression)
+│   │   │   ├── Self-Regulation (behavioral, emotional, and cognitive control)
+│   │   │   ├── Self-Efficacy (belief in one's capabilities to achieve goals)
+│   │   │   ├── Self-Narrative (coherent story of one’s life)
+│   │   │   ├── Self-Continuity (sense of sameness over time)
+│   │   │   ├── Self-Fulfillment (realization of one’s potential and meaning)
+│   │   │   └── Hierarchical Needs (Maslow’s pyramid: physiological, safety, love/belonging, esteem, self-actualization, transcendence)
 ├── Inputs
 │   ├── Nutritional Inputs (food, water)
 │   ├── Sensory Inputs (vision, hearing, touch, smell, taste)
@@ -51,14 +62,24 @@ Individual (Systemic Map)
 │   ├── Growth and Development Processes (biological maturation, skill acquisition)
 │   ├── Feedback Processes (self-monitoring, adjusting behavior)
 ├── Behaviors
-│   ├── Adaptation
-│   ├── Resilience
-│   ├── Socialization
-│   ├── Learning and Innovation
-│   ├── Goal-Directed Action
-│   ├── Maintenance of Homeostasis
-│   ├── Emotional Expression
-│   └── Self-Improvement
+│   ├── Adaptation (adjusting to changing conditions, resilience in adversity)
+│   ├── Resilience (recovering from stress, failure, or trauma)
+│   ├── Vulnerability (exposure to breakdown under pressure or stress)
+│   ├── Rigidity (resistance to change, behavioral or cognitive inflexibility)
+│   ├── Socialization (adoption of social norms and roles)
+│   ├── Assimilation (internalizing external cultural or behavioral standards)
+│   ├── Cultural Pluralism (maintaining multiple coexisting identities or roles)
+│   ├── Homogenization (loss of individual differences due to conformity or external pressure)
+│   ├── Heterogenization (increasing differentiation, expressing uniqueness)
+│   ├── Cohesion (integration of thoughts, emotions, goals—psychological wholeness)
+│   ├── Fragmentation (internal conflict, dissonance, identity diffusion)
+│   ├── Learning and Innovation (acquiring and applying new knowledge or methods)
+│   ├── Goal-Directed Action (intentional behavior aligned with cognitive outputs)
+│   ├── Maintenance of Homeostasis (physiological and psychological balance)
+│   ├── Emotional Expression (external manifestation of internal states)
+│   ├── Self-Improvement (intentional growth, mastery, or transformation)
+│   ├── Dynamics (ongoing internal change, evolution, or psychological shifts)
+│   ├── Statics (stability, consistency in traits or values over time)
 
 System Flow Diagram
 

@@ -1,0 +1,68 @@
+Educational Behavior System
+├── Entities
+│   ├── Students
+│   ├── Teachers
+│   ├── Administrators
+│   ├── Institutions
+│   └── Educational Technologists
+├── Inputs
+│   ├── Curriculum Content
+│   ├── Learning Materials
+│   ├── Student Backgrounds
+│   ├── Teacher Expertise
+│   └── Institutional Policies
+├── Outputs
+│   ├── Learning Outcomes
+│   ├── Competency Certification
+│   ├── Critical Thinking
+│   ├── Academic Research
+│   └── Social Mobility
+├── Repositories
+│   ├── Knowledge Bases (textbooks, LMS)
+│   ├── Research Databases
+│   ├── Cultural and Ethical Norms
+│   └── Assessment Records
+├── Modifiers
+│   ├── Technological Change
+│   ├── Pedagogical Innovation
+│   ├── Socioeconomic Conditions
+│   ├── Language Diversity
+│   └── Policy Reform
+├── Boundaries
+│   ├── Grade Levels
+│   ├── Disciplines and Majors
+│   ├── School Types (public, private)
+│   └── Accreditation Standards
+├── Processes
+│   ├── Input Acquisition – enrolling students, acquiring materials, policies
+│   ├── Internal Transformation – teaching, learning, critical thinking
+│   ├── Output Production – educated individuals, test results, skills
+│   ├── Feedback Reception – exams, evaluations, classroom performance
+│   ├── Adaptation – revising instruction based on learner outcomes
+│   ├── Maintenance (Homeostasis) – institutional stability and curriculum control
+│   ├── Growth and Development – curriculum expansion, research production
+│   ├── Emergence – breakthrough learning, innovations in pedagogy
+│   ├── Replication – standardization, institutional expansion, graduation cycles
+│   ├── Dissolution – dropout, school failure, curriculum decay
+│   └── Distribution – delivery of education across demographics and locations
+├── Behaviors (Systemic)
+│   ├── Adaptation – Adjusting pedagogy or study methods based on performance
+│   ├── Resilience – Persisting through academic difficulty or failure
+│   ├── Vulnerability – Risk of dropout due to stress, poverty, or mismatch
+│   ├── Rigidity – Resistance to pedagogical or cognitive innovation
+│   ├── Cohesion – Alignment between learners, educators, and institutional goals
+│   ├── Fragmentation – Curriculum disconnection or learning inequality
+│   ├── Homogenization – Standardization of teaching at the expense of diversity
+│   ├── Heterogenization – Personalized learning paths or differentiated instruction
+│   ├── Assimilation – Integration of diverse students into shared learning culture
+│   ├── Pluralism – Coexistence of various educational philosophies and approaches
+│   ├── Dynamics – Evolution of methods, standards, and learning formats
+│   ├── Statics – Institutional inertia or unchanging practices
+│   ├── Emergence – Spontaneous discovery or breakthrough in learning
+│   ├── Suppression – Overregulation or high-stakes testing stifling innovation
+│   ├── Feedback Loops – Formative assessment, progress reports, revision cycles
+│   ├── Repository Growth – Expansion of curriculum, tools, or intellectual resources
+│   ├── Entropy – Confusion or decay due to lack of structure or poor policy
+│   ├── Self-Improvement – Lifelong learning, upskilling, reflective practice
+│   └── Delayed Gratification – Pursuit of long-term educational goals despite short-term cost
+

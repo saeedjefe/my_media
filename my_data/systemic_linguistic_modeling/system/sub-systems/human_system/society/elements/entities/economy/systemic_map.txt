@@ -1,0 +1,68 @@
+Economic Behavior System
+├── Entities
+│   ├── Consumers
+│   ├── Producers
+│   ├── Investors
+│   ├── Workers
+│   └── Entrepreneurs
+├── Inputs
+│   ├── Income / Capital
+│   ├── Prices and Incentives
+│   ├── Market Information
+│   ├── Government Policy
+│   └── Cultural Norms
+├── Outputs
+│   ├── Spending Behavior
+│   ├── Saving Patterns
+│   ├── Investment Decisions
+│   ├── Labor Allocation
+│   └── Innovation and Enterprise
+├── Repositories
+│   ├── Accumulated Wealth
+│   ├── Economic Knowledge
+│   ├── Institutional Memory
+│   └── Market Tools
+├── Modifiers
+│   ├── Inflation Rates
+│   ├── Policy Shocks
+│   ├── Risk Perception
+│   ├── Social Pressure
+│   └── Technology Access
+├── Boundaries
+│   ├── Budget Constraints
+│   ├── Market Access
+│   ├── Time Preferences
+│   └── Regulatory Limits
+├── Processes
+│   ├── Input Acquisition – earning income, accessing markets and capital
+│   ├── Internal Transformation – investment, resource planning, cost allocation
+│   ├── Output Production – generating goods, services, profits, value
+│   ├── Feedback Reception – response to sales, demand, economic indicators
+│   ├── Adaptation – shifting business models or spending in economic shifts
+│   ├── Maintenance (Homeostasis) – stabilizing budget, savings, production balance
+│   ├── Growth and Development – capital growth, upskilling, innovation
+│   ├── Emergence – new markets, ideas, behaviors (e.g. gig economy)
+│   ├── Replication – expanding businesses, copying successful models
+│   ├── Dissolution – bankruptcy, job loss, market exit
+│   └── Distribution – allocating wages, wealth, goods, services
+├── Behaviors (Systemic)
+│   ├── Adaptation – Changing spending or investment in response to shocks
+│   ├── Resilience – Maintaining economic activity during downturns
+│   ├── Vulnerability – Exposure to unemployment, inflation, market collapse
+│   ├── Rigidity – Failure to change economic strategies under new conditions
+│   ├── Cohesion – Synchronized behavior across agents (e.g. stable demand)
+│   ├── Fragmentation – Divergence in behavior (e.g. income inequality gaps)
+│   ├── Homogenization – Convergence of behavior (e.g. mass market trends)
+│   ├── Heterogenization – Behavioral diversification (e.g. niche investing)
+│   ├── Assimilation – Adoption of new tools or norms (e.g. mobile banking)
+│   ├── Pluralism – Coexistence of traditional and modern economic practices
+│   ├── Dynamics – Continuous shifts in preferences or technology adoption
+│   ├── Statics – Persistent patterns (e.g. saving habits, consumer loyalty)
+│   ├── Emergence – Spontaneous new behaviors (e.g. cryptocurrency usage)
+│   ├── Suppression – Regulation that prevents speculative behavior
+│   ├── Feedback Loops – Budgeting, income tracking, market response cycles
+│   ├── Repository Growth – Accumulation of economic experience or capital
+│   ├── Entropy – Disorganization due to instability or misinformation
+│   ├── Self-Improvement – Optimized economic behavior via education/tools
+│   └── Delayed Gratification – Saving or long-term investing behavior
+
