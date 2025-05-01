@@ -1,0 +1,111 @@
+Industry System
+├── Sectors (Industry Types)
+│   ├── Transport and Logistics Industry
+│   ├── Tourism Industry
+│   ├── Entertainment Industry
+│   ├── Car Industry
+│   ├── Coal Industry
+│   ├── Textile Industry
+│   ├── Traditional Industry
+│   ├── Fossil Fuel Industry
+│   │   ├── Oil Industry
+│   │   └── Coal Industry
+│   ├── Clean Energy Industry
+│   ├── Nuclear power Industry
+│   ├── Natural Energy Industry
+│   │   ├── Hydropower (Dams)
+│   │   ├── Wind Power
+│   │   └── Solar Energy
+│   ├── Fishing Industry
+│   ├── Light Industry
+│   ├── Service Industry
+│   └── Recycling Industry
+│   ├── Manufacturing Industry
+│   ├── Technology Industry
+│   ├── Agriculture Industry
+│   ├── Energy Industry
+│   ├── Construction Industry
+│   ├── Chemical Industry
+│   ├── Automotive Industry
+│   ├── Textile and Apparel Industry
+│   └── Food and Beverage Industry
+├── Entities
+│   ├── Manufacturers
+│   ├── Engineers and Technicians
+│   ├── Industrial Labor Force
+│   ├── Industrial Corporations
+│   └── Regulatory Agencies
+├── Inputs
+│   ├── Raw Materials
+│   │   ├── Metals (iron, copper, aluminum)
+│   │   ├── Fossil Fuels (coal, oil, natural gas)
+│   │   ├── Agricultural Products
+│   │   ├── Timber and Wood Products
+│   │   ├── Fish and Marine Resources
+│   │   └── Recycled Materials
+│   ├── Energy Resources
+│   │   ├── Electricity
+│   │   ├── Fossil Energy
+│   │   ├── Nuclear Energy
+│   │   ├── Solar Power
+│   │   ├── Wind Energy
+│   │   └── Hydropower
+│   ├── Skilled Labor
+│   ├── Capital Investment
+│   └── Technological Infrastructure
+│   ├── Raw Materials
+│   ├── Energy Resources
+│   ├── Skilled Labor
+│   ├── Capital Investment
+│   └── Technological Infrastructure
+├── Outputs
+│   ├── Consumer Goods
+│   ├── Capital Goods
+│   ├── Industrial Waste / Emissions
+│   ├── Revenue and Economic Growth
+│   └── Technological Innovations
+├── Repositories
+│   ├── Machinery and Facilities
+│   │   ├── Assembly Lines
+│   │   ├── Heavy Equipment (Cranes, Excavators)
+│   │   ├── Industrial Robots
+│   │   └── Energy Plants and Grids
+│   ├── Machinery and Facilities
+│   ├── Technical Knowledge and Patents
+│   ├── Labor Force Training Programs
+│   └── Industrial Supply Chains
+├── Modifiers
+│   ├── Market Demand
+│   ├── Environmental Regulations
+│   ├── Trade Policy and Tariffs
+│   ├── Technological Advancement
+│   └── Globalization
+├── Boundaries
+│   ├── Sector-Specific Regulations
+│   ├── Labor Laws
+│   ├── Geographic/Infrastructure Limits
+│   └── Resource Availability
+├── Processes
+│   ├── Input Acquisition – procurement and logistics
+│   ├── Internal Transformation – production, assembly, automation
+│   ├── Output Production – marketable goods, byproducts
+│   ├── Feedback Reception – consumer demand, defect reports, inspections
+│   ├── Adaptation – tech upgrades, lean methods, green transitions
+│   ├── Maintenance – equipment upkeep, compliance, safety protocols
+│   ├── Growth and Development – factory expansion, R&D investment
+│   ├── Emergence – new industries (e.g., green tech, AI manufacturing)
+│   ├── Replication – franchising, scaling production
+│   ├── Dissolution – bankruptcy, relocation, automation replacement
+│   └── Distribution – supply chain integration and logistics
+├── Behaviors (Systemic)
+│   ├── Adaptation – responding to innovation or regulation
+│   ├── Rigidity – resistance to automation or change
+│   ├── Resilience – surviving disruptions or trade wars
+│   ├── Vulnerability – dependence on global supply chains
+│   ├── Emergence – rise of new industrial paradigms
+│   ├── Fragmentation – decentralization or outsourcing
+│   ├── Homogenization – standardized production (e.g., fast fashion)
+│   ├── Feedback Loops – QA testing, market analysis, cost reviews
+│   ├── Repository Growth – accumulation of industrial know-how
+│   └── Entropy – inefficiency, system overload, obsolescence
+

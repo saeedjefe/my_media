@@ -1,0 +1,127 @@
+Biological System
+├── Inputs
+│   ├── Nutrients (carbon, nitrogen, phosphorus)
+│   ├── Water
+│   ├── Oxygen and Carbon Dioxide
+│   ├── Sunlight (for photosynthetic organisms)
+│   ├── Genetic Information (DNA, RNA)
+│   ├── Sensory Stimuli (for animals and humans)
+│   └── Environmental Conditions (temperature, pH, humidity)
+├── Outputs
+│   ├── Growth and Development
+│   ├── Reproduction
+│   ├── Metabolic Byproducts (CO₂, waste, heat)
+│   ├── Movement and Behavior (in mobile organisms)
+│   ├── Communication Signals (hormones, pheromones)
+│   └── Ecosystem Services (pollination, decomposition, oxygen release)
+├── Repositories
+│   ├── Genetic Material (DNA, genes, chromosomes)
+│   ├── Fossil Records
+│   ├── Ecological Niches
+│   └── Anatomical Structures and Functional Organs
+├── Modifiers
+│   ├── Environmental Change (climate, pollution)
+│   ├── Mutation and Genetic Drift
+│   ├── Disease and Pathogens
+│   ├── Human Intervention (genetic engineering, deforestation)
+│   └── Natural Selection and Evolutionary Pressure
+├── Boundaries
+│   ├── Species Barriers
+│   ├── Cell Membranes and Body Walls
+│   ├── Habitat Ranges
+│   └── Reproductive Isolation
+├── Processes
+│   ├── Input Acquisition – feeding, respiration, absorption
+│   ├── Internal Transformation – digestion, metabolism, neural processing
+│   ├── Output Production – excretion, locomotion, secretion, growth
+│   ├── Feedback Reception – response to internal and external stimuli
+│   ├── Adaptation – phenotypic plasticity, behavioral shifts
+│   ├── Maintenance – homeostasis, healing, regulation
+│   ├── Growth and Development – cell division, tissue differentiation
+│   ├── Emergence – complex traits, multicellularity
+│   ├── Replication – asexual reproduction, mitosis, meiosis
+│   ├── Dissolution – senescence, death, decomposition
+│   └── Distribution – migration, seed dispersal, gene flow
+├── Behaviors (Systemic)
+│   ├── Adaptation – physiological or behavioral response to environment
+│   ├── Resilience – biological recovery after disruption
+│   ├── Vulnerability – sensitivity to disease or habitat loss
+│   ├── Rigidity – genetic or behavioral inflexibility
+│   ├── Emergence – rise of new traits or behaviors
+│   ├── Fragmentation – loss of biodiversity or genetic continuity
+│   ├── Homogenization – reduction in variation, monoculture
+│   ├── Heterogenization – diversification of traits and species
+│   ├── Feedback Loops – hormonal cycles, predator-prey dynamics
+│   ├── Repository Growth – accumulation of biodiversity, genetic libraries
+│   ├── Entropy – disorder through mutation, extinction, decay
+│   └── Self-Improvement – evolution of complex systems, neural learning
+├── Entities
+│   ├── Living Organisms
+│   │   ├── Living Creatures
+│   │   │   ├── Intelligent Beings
+│   │   │   │   └── Humans
+│   │   │   │       └── Cognitive Functions
+│   │   │   │           ├── Thinking, Planning, and Deciding
+│   │   │   │           │   └── Devise
+│   │   │   │           ├── Attention
+│   │   │   │           ├── Memory
+│   │   │   │           ├── Language
+│   │   │   │           └── Emotion
+│   │   │   └── Animals
+│   │   │       ├── Vertebrates
+│   │   │       │   ├── Mammals
+│   │   │       │   │   ├── Terrestrial Mammals
+│   │   │       │   │   │   ├── Herbivores
+│   │   │       │   │   │   │   ├── Deer
+│   │   │       │   │   │   │   ├── Elephants
+│   │   │       │   │   │   │   └── Zebras
+│   │   │       │   │   │   ├── Carnivores
+│   │   │       │   │   │   │   ├── Canines
+│   │   │       │   │   │   │   │   ├── Wolves
+│   │   │       │   │   │   │   │   ├── Foxes
+│   │   │       │   │   │   │   │   └── Domestic Dogs
+│   │   │       │   │   │   │   ├── Felines
+│   │   │       │   │   │   │   │   ├── Lions
+│   │   │       │   │   │   │   │   ├── Tigers
+│   │   │       │   │   │   │   │   └── Domestic Cats
+│   │   │       │   │   │   │   ├── Bears
+│   │   │       │   │   │   │   ├── Hyenas
+│   │   │       │   │   │   │   └── Mustelids
+│   │   │       │   │   │   │       ├── Weasels
+│   │   │       │   │   │   │       ├── Otters
+│   │   │       │   │   │   │       └── Badgers
+│   │   │       │   │   │   └── Omnivores
+│   │   │       │   │   │       ├── Bears
+│   │   │       │   │   │       ├── Pigs
+│   │   │       │   │   │       └── Humans
+│   │   │       │   │   ├── Aquatic Mammals
+│   │   │       │   │   │   ├── Whales
+│   │   │       │   │   │   │   ├── Blue Whale
+│   │   │       │   │   │   │   └── Humpback Whale
+│   │   │       │   │   │   ├── Dolphins
+│   │   │       │   │   │   │   ├── Bottlenose Dolphin
+│   │   │       │   │   │   │   └── Orca (Killer Whale)
+│   │   │       │   │   │   └── Seals
+│   │   │       │   │   │       ├── Harbor Seal
+│   │   │       │   │   │       └── Elephant Seal
+│   │   │       │   │   └── Aerial Mammals
+│   │   │       │   │       └── Bats
+│   │   │       │   │           ├── Fruit Bat
+│   │   │       │   │           └── Vampire Bat
+│   │   │       │   ├── Birds
+│   │   │       │   │   ├── Raptors (Eagle, Hawk)
+│   │   │       │   │   ├── Waterfowl (Duck, Swan)
+│   │   │       │   │   ├── Songbirds (Robin, Finch)
+│   │   │       │   │   ├── Flightless Birds (Ostrich, Penguin)
+│   │   │       │   │   └── Parrots (Macaw, Cockatoo)
+│   │   │       │   ├── Reptiles (Snakes, Lizards, Turtles, Crocodilians)
+│   │   │       │   ├── Amphibians (Frogs, Toads, Salamanders, Caecilians)
+│   │   │       │   └── Fish (Cartilaginous, Bony, Jawless)
+│   │   │       └── Invertebrates (Insects, Arachnids, Mollusks, Crustaceans, Worms, Cnidarians)
+│   │   ├── Plants (Flowering, Non-Flowering, Ferns, Mosses, Conifers)
+│   │   ├── Fungi (Mushrooms, Yeasts, Molds, Lichens)
+│   │   ├── Bacteria (Gram-Positive, Gram-Negative, Cyanobacteria)
+│   │   ├── Archaea (Methanogens, Halophiles, Thermophiles)
+│   │   └── Protists (Amoebas, Algae, Paramecia, Slime Molds)
+│   └── Viruses
+

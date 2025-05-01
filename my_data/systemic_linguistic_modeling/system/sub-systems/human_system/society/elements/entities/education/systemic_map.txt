@@ -1,68 +1,105 @@
-Educational Behavior System
+Educational System
 ├── Entities
 │   ├── Students
-│   ├── Teachers
-│   ├── Administrators
-│   ├── Institutions
-│   └── Educational Technologists
+│   │   └── By Learning Modality
+│   │       ├── Visual Learners
+│   │       ├── Auditory Learners
+│   │       ├── Kinesthetic Learners
+│   │       ├── Linguistic (Verbal) Learners
+│   │       ├── Logical-Mathematical Learners
+│   │       ├── Interpersonal Learners
+│   │       └── Intrapersonal Learners
+│   ├── Teachers and Educators
+│   │   └── By Teaching Style
+│   │       ├── Lecture-Based
+│   │       ├── Inquiry-Based
+│   │       ├── Collaborative/Cooperative
+│   │       ├── Experiential (Hands-on)
+│   │       ├── Flipped Classroom
+│   │       ├── Socratic Method
+│   │       └── Technology-Integrated
+│   ├── School Administrators
+│   ├── Educational Institutions (schools, universities, academies)
+│   ├── Government Education Bodies
+│   ├── Educational Technologists
+│   └── Parents and Guardians
 ├── Inputs
-│   ├── Curriculum Content
-│   ├── Learning Materials
-│   ├── Student Backgrounds
-│   ├── Teacher Expertise
-│   └── Institutional Policies
+│   ├── Curriculum and Syllabi
+│   ├── Learning Materials (books, tools, software)
+│   ├── Student Background and Readiness
+│   ├── Teacher Expertise and Training
+│   ├── Institutional Policies and Funding
+│   └── Cultural Expectations and Norms
 ├── Outputs
-│   ├── Learning Outcomes
-│   ├── Competency Certification
-│   ├── Critical Thinking
-│   ├── Academic Research
-│   └── Social Mobility
+│   ├── Fields of Study
+│   │   ├── Humanities and Social Sciences
+│   │   ├── Physical Sciences
+│   │   ├── Biological and Life Sciences
+│   │   ├── Formal Sciences (Math, Logic, CS)
+│   │   ├── Applied Sciences (Engineering, Medicine)
+│   │   └── Interdisciplinary Fields
+│   ├── Knowledge and Skills
+│   │   ├── Theoretical Knowledge
+│   │   ├── Practical Skills
+│   │   ├── Technical Proficiency
+│   │   ├── Soft Skills (communication, teamwork)
+│   │   ├── Cognitive Skills (problem-solving, reasoning)
+│   │   └── Digital and Media Literacy
+│   ├── Certified Competence (diplomas, degrees)
+│   ├── Critical and Creative Thinking
+│   ├── Research Contributions
+│   ├── Social Mobility and Economic Participation
+│   └── Civic Engagement and Cultural Continuity
 ├── Repositories
-│   ├── Knowledge Bases (textbooks, LMS)
-│   ├── Research Databases
-│   ├── Cultural and Ethical Norms
-│   └── Assessment Records
+│   ├── Expertise Records (specialized accreditation, faculty specialization)
+│   ├── Knowledge Bases (textbooks, libraries, LMS)
+│   ├── Research Publications
+│   ├── Student Records and Performance Data
+│   ├── Assessment Tools and Methodologies
+│   └── Cultural and Historical Narratives
 ├── Modifiers
-│   ├── Technological Change
-│   ├── Pedagogical Innovation
-│   ├── Socioeconomic Conditions
-│   ├── Language Diversity
-│   └── Policy Reform
+│   ├── Technological Innovation
+│   ├── Socioeconomic Disparities
+│   ├── Policy Changes
+│   ├── Globalization
+│   ├── Language and Communication Barriers
+│   └── Demographic Shifts
 ├── Boundaries
-│   ├── Grade Levels
-│   ├── Disciplines and Majors
-│   ├── School Types (public, private)
-│   └── Accreditation Standards
+│   ├── Grade Levels and Academic Stages
+│   ├── Subject Disciplines
+│   ├── Institutional Types (public, private, vocational)
+│   ├── Geographic and Access Constraints
+│   └── Accreditation and Evaluation Standards
 ├── Processes
-│   ├── Input Acquisition – enrolling students, acquiring materials, policies
-│   ├── Internal Transformation – teaching, learning, critical thinking
-│   ├── Output Production – educated individuals, test results, skills
-│   ├── Feedback Reception – exams, evaluations, classroom performance
-│   ├── Adaptation – revising instruction based on learner outcomes
-│   ├── Maintenance (Homeostasis) – institutional stability and curriculum control
-│   ├── Growth and Development – curriculum expansion, research production
-│   ├── Emergence – breakthrough learning, innovations in pedagogy
-│   ├── Replication – standardization, institutional expansion, graduation cycles
-│   ├── Dissolution – dropout, school failure, curriculum decay
-│   └── Distribution – delivery of education across demographics and locations
+│   ├── Input Acquisition – enrolling students, acquiring resources, hiring staff
+│   ├── Internal Transformation – teaching, studying, mentoring, peer interaction
+│   ├── Output Production – exams, portfolios, diplomas, competencies
+│   ├── Feedback Reception – grades, parent-teacher meetings, evaluations
+│   ├── Adaptation – changing curriculum, pedagogy, policies
+│   ├── Maintenance – institutional management, policy enforcement
+│   ├── Growth and Development – expansion of programs, research development
+│   ├── Emergence – novel learning methods, student-led innovations
+│   ├── Replication – curriculum standardization, school models
+│   ├── Dissolution – dropout, school closure, policy failure
+│   └── Distribution – delivering education across ages, regions, and platforms
 ├── Behaviors (Systemic)
-│   ├── Adaptation – Adjusting pedagogy or study methods based on performance
-│   ├── Resilience – Persisting through academic difficulty or failure
-│   ├── Vulnerability – Risk of dropout due to stress, poverty, or mismatch
-│   ├── Rigidity – Resistance to pedagogical or cognitive innovation
-│   ├── Cohesion – Alignment between learners, educators, and institutional goals
-│   ├── Fragmentation – Curriculum disconnection or learning inequality
-│   ├── Homogenization – Standardization of teaching at the expense of diversity
-│   ├── Heterogenization – Personalized learning paths or differentiated instruction
-│   ├── Assimilation – Integration of diverse students into shared learning culture
-│   ├── Pluralism – Coexistence of various educational philosophies and approaches
-│   ├── Dynamics – Evolution of methods, standards, and learning formats
-│   ├── Statics – Institutional inertia or unchanging practices
-│   ├── Emergence – Spontaneous discovery or breakthrough in learning
-│   ├── Suppression – Overregulation or high-stakes testing stifling innovation
-│   ├── Feedback Loops – Formative assessment, progress reports, revision cycles
-│   ├── Repository Growth – Expansion of curriculum, tools, or intellectual resources
-│   ├── Entropy – Confusion or decay due to lack of structure or poor policy
-│   ├── Self-Improvement – Lifelong learning, upskilling, reflective practice
-│   └── Delayed Gratification – Pursuit of long-term educational goals despite short-term cost
+│   ├── Adaptation – curriculum revision and educational reform
+│   ├── Resilience – persistence despite funding cuts or social disruption
+│   ├── Vulnerability – underperformance due to inequity or instability
+│   ├── Rigidity – resistance to change or reform
+│   ├── Cohesion – coordinated learning goals across systems
+│   ├── Fragmentation – disjointed content or unequal access
+│   ├── Homogenization – standardization that limits diversity of thought
+│   ├── Heterogenization – support for diverse approaches and learning styles
+│   ├── Assimilation – integration of minorities into the mainstream model
+│   ├── Pluralism – coexisting philosophies, methods, and institutions
+│   ├── Dynamics – ongoing innovation and structural change
+│   ├── Statics – persistent traditions or pedagogical inertia
+│   ├── Emergence – unexpected learning outcomes or grassroots innovations
+│   ├── Suppression – limitation of creativity through overregulation
+│   ├── Feedback Loops – formative and summative evaluation systems
+│   ├── Repository Growth – accumulation of institutional and curricular knowledge
+│   ├── Entropy – disorganization due to poor management or excessive complexity
+│   ├── Self-Improvement – teacher training, student self-regulation
+│   └── Delayed Gratification – investing in education for future benefit
 

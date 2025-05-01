@@ -1,4 +1,4 @@
-Economic Behavior System
+Economic System
 ├── Entities
 │   ├── Consumers
 │   ├── Producers
@@ -18,10 +18,13 @@ Economic Behavior System
 │   ├── Labor Allocation
 │   └── Innovation and Enterprise
 ├── Repositories
-│   ├── Accumulated Wealth
-│   ├── Economic Knowledge
-│   ├── Institutional Memory
-│   └── Market Tools
+│   ├── Financial Repositories (capital reserves, bank deposits, investment portfolios)
+│   ├── Human Capital (education, skilled labor, talent)
+│   ├── Physical Infrastructure (factories, roads, energy grids, communication systems)
+│   ├── Institutional Capital (laws, regulations, trade agreements, financial institutions)
+│   ├── Technological Assets (patents, production technologies, software platforms)
+│   ├── Informational Repositories (market data, economic models, research databases)
+│   └── Natural Resource Reserves (minerals, water, agricultural land)
 ├── Modifiers
 │   ├── Inflation Rates
 │   ├── Policy Shocks
@@ -45,24 +48,4 @@ Economic Behavior System
 │   ├── Replication – expanding businesses, copying successful models
 │   ├── Dissolution – bankruptcy, job loss, market exit
 │   └── Distribution – allocating wages, wealth, goods, services
-├── Behaviors (Systemic)
-│   ├── Adaptation – Changing spending or investment in response to shocks
-│   ├── Resilience – Maintaining economic activity during downturns
-│   ├── Vulnerability – Exposure to unemployment, inflation, market collapse
-│   ├── Rigidity – Failure to change economic strategies under new conditions
-│   ├── Cohesion – Synchronized behavior across agents (e.g. stable demand)
-│   ├── Fragmentation – Divergence in behavior (e.g. income inequality gaps)
-│   ├── Homogenization – Convergence of behavior (e.g. mass market trends)
-│   ├── Heterogenization – Behavioral diversification (e.g. niche investing)
-│   ├── Assimilation – Adoption of new tools or norms (e.g. mobile banking)
-│   ├── Pluralism – Coexistence of traditional and modern economic practices
-│   ├── Dynamics – Continuous shifts in preferences or technology adoption
-│   ├── Statics – Persistent patterns (e.g. saving habits, consumer loyalty)
-│   ├── Emergence – Spontaneous new behaviors (e.g. cryptocurrency usage)
-│   ├── Suppression – Regulation that prevents speculative behavior
-│   ├── Feedback Loops – Budgeting, income tracking, market response cycles
-│   ├── Repository Growth – Accumulation of economic experience or capital
-│   ├── Entropy – Disorganization due to instability or misinformation
-│   ├── Self-Improvement – Optimized economic behavior via education/tools
-│   └── Delayed Gratification – Saving or long-term investing behavior
 

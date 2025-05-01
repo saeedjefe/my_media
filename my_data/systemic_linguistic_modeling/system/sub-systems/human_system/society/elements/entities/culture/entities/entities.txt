@@ -1,0 +1,5 @@
+├── Entities
+│   ├── Individuals (as cultural participants)
+│   ├── Communities (ethnic, religious, linguistic)
+│   ├── Institutions (media, education, religion)
+│   └── Cultural Influencers (artists, thinkers, leaders)

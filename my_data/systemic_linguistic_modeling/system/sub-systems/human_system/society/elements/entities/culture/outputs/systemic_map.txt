@@ -1,0 +1,62 @@
+Systemic Representation: Entrepreneurial Culture System
+
+Entrepreneurial Culture System
+├── Entities
+│   ├── Entrepreneurs (aspiring and established)
+│   ├── Innovation Hubs (incubators, accelerators)
+│   ├── Educational Institutions (entrepreneurship programs)
+│   ├── Media Platforms (influencers, startup coverage)
+│   └── Government & Policy Agents (funding bodies, regulators)
+├── Inputs
+│   ├── Economic Opportunity Signals
+│   ├── Role Models and Success Narratives
+│   ├── Entrepreneurial Education and Training
+│   ├── Cultural Values (autonomy, ambition)
+│   └── Access to Capital and Resources
+├── Outputs
+│   ├── Entrepreneurial Norms and Mindsets
+│   ├── Business Ventures and Startups
+│   ├── Innovation and Risk-Taking Behavior
+│   ├── Societal Value Creation
+│   └── Cultural Shifts Toward Self-Reliance
+├── Repositories
+│   ├── Entrepreneurial Knowledge Bases
+│   ├── Case Studies and Biographies
+│   ├── Innovation Toolkits and Frameworks
+│   ├── Digital Start-up Archives
+│   └── Cultural Narratives and Symbols of Success
+├── Modifiers
+│   ├── Market Trends and Technological Change
+│   ├── Policy Environment (regulation, support)
+│   ├── Social Perception of Risk and Failure
+│   ├── Access to Networks and Mentorship
+│   └── Globalization and Competitive Pressure
+├── Boundaries
+│   ├── Economic Inequality and Entry Barriers
+│   ├── Cultural Beliefs about Work and Success
+│   ├── Geographic Disparities
+│   └── Institutional Constraints (legal, educational)
+├── Processes
+│   ├── Input Acquisition – gathering inspiration, training, funding
+│   ├── Internal Transformation – ideation, planning, team formation
+│   ├── Output Production – business creation, innovation, market entry
+│   ├── Feedback Reception – market reaction, peer evaluation, media response
+│   ├── Adaptation – pivoting, learning from failure, policy response
+│   ├── Maintenance – sustaining cultural relevance and entrepreneurial norms
+│   ├── Growth and Development – evolution of practices and ecosystem maturity
+│   ├── Emergence – rise of new business models, unexpected leaders
+│   ├── Replication – cultural propagation via media, education, and role models
+│   ├── Dissolution – cultural erosion, disillusionment, failure suppression
+│   └── Distribution – spreading entrepreneurial values and resources across groups
+├── Behaviors (Systemic)
+│   ├── Adaptation
+│   ├── Resilience
+│   ├── Emergence
+│   ├── Pluralism
+│   ├── Delayed Gratification
+│   ├── Self-Improvement
+│   ├── Innovation Orientation
+│   ├── Cohesion (within entrepreneurial communities)
+│   ├── Suppression (in hostile cultural/political settings)
+│   └── Feedback Loops (learning, mentoring, iteration)
+

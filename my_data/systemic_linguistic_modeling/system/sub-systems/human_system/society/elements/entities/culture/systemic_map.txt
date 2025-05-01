@@ -14,10 +14,16 @@ Cultural Behavior System
 │   └── Social Norms and Expectations
 ├── Outputs
 │   ├── Norms and Values
+│   │   └── Innovation Culture
+│   │       └── Entrepreneurial Culture
+│   │           ├── Self-Reliance Norms
+│   │           ├── Risk-Taking Tolerance
+│   │           ├── Start-up Orientation
+│   │           └── Creative Autonomy
 │   ├── Artistic and Literary Expression
 │   ├── Shared Belief Systems
 │   ├── Cultural Identity
-│   └── Innovation Culture
+│   └── Innovation Culture Outputs
 ├── Repositories
 │   ├── Oral Histories and Archives
 │   ├── Museums and Monuments
