@@ -1,0 +1,48 @@
+Revised Industry System
+├── Sectors (Classified by Economic Category)
+│   ├── Primary Industries
+│   │   ├── Agriculture Industry
+│   │   ├── Fishing Industry
+│   │   ├── Forestry and Logging Industry
+│   │   ├── Fossil Fuel Industry
+│   │   │   ├── Oil Industry
+│   │   │   └── Coal Industry
+                Natural gas industry  
+│   │   ├── Mining and Quarrying
+│   │   └── Renewable Resource Harvesting
+│   │       ├── Hydropower Industry
+│   │       ├── Solar Power Industry
+│   │       ├── Wind Energy Industry
+│   │       ├── Geothermal Industry
+│   │       └── Biomass Energy Industry
+│   
+│   ├── Secondary Industries
+│   │   ├── Manufacturing Industry
+│   │   ├── Construction Industry
+│   │   ├── Textile and Apparel Industry
+│   │   ├── Automotive Industry (Car Industry)
+│   │   ├── Chemical Industry
+│   │   ├── Food and Beverage Industry
+│   │   ├── Energy Generation (Nuclear, Fossil, Clean)
+│   │   ├── Recycling Industry
+│   │   └── Traditional and Light Industry
+│   
+│   ├── Tertiary Industries
+│   │   ├── Service Industries
+│   │   ├── Tourism Industry
+│   │   ├── Transport and Logistics Industry
+│   │   ├── Entertainment Industry
+│   │   └── Retail and Trade Services
+│   
+│   ├── Quaternary Industries
+│   │   ├── Technology Industry
+│   │   ├── Education and Research
+│   │   ├── Data Analytics and Information Services
+│   │   └── Scientific and Technical Consulting
+│   
+│   └── Quinary Industries
+│       ├── Government and Public Policy
+│       ├── Nonprofit Organizations
+│       ├── High-Level Corporate Management
+│       └── Think Tanks and Strategy Groups
+

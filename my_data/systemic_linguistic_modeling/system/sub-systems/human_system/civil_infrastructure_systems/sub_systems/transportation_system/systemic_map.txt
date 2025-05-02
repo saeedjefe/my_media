@@ -1,0 +1,65 @@
+Transportation System
+├── Entities
+│   ├── Transport Authorities (national, regional)
+│   ├── Public Transit Agencies
+│   ├── Logistics and Freight Companies
+│   ├── Civil Aviation Authorities
+│   ├── Port and Maritime Operators
+│   ├── Railway Corporations
+│   ├── Private Vehicle Owners and Operators
+│   ├── Customs and Border Agencies
+│   └── Regulatory and Safety Institutions
+├── Inputs
+│   ├── Vehicles and Fleets (cars, buses, trucks, trains, ships, aircraft)
+│   ├── Fuels and Energy (gasoline, electricity, hydrogen, aviation fuel)
+│   ├── Infrastructure (roads, rails, runways, ports)
+│   ├── Navigation and Communication Systems (GPS, air traffic control)
+│   ├── Human Resources (drivers, pilots, engineers, logistics staff)
+│   └── Regulatory Policies and Transit Agreements
+├── Outputs
+│   ├── Passenger Mobility (urban, intercity, international)
+│   ├── Freight and Goods Movement (domestic and global)
+│   ├── Economic Accessibility (to markets, jobs, services)
+│   ├── Emergency and Medical Transport
+│   └── Travel and Tourism Enablement
+├── Repositories
+│   ├── Fleet Databases and Schedules
+│   ├── Infrastructure Maps and Plans
+│   ├── Maintenance Records and Safety Logs
+│   ├── Emission and Efficiency Reports
+│   └── International Agreements and Route Permits
+├── Processes
+│   ├── Input Acquisition (vehicle procurement, fuel supply)
+│   ├── Routing and Scheduling
+│   ├── Transit Operations (driving, flying, shipping)
+│   ├── Ticketing and Access Management
+│   ├── Safety Monitoring and Regulation
+│   ├── Maintenance and Overhaul
+│   ├── Border and Customs Processing
+│   ├── Incident Response and Recovery
+│   ├── Feedback Reception (from users, sensors, audits)
+│   └── Distribution (of vehicles, cargo, people)
+├── Modifiers
+│   ├── Fuel Prices and Supply
+│   ├── Weather and Environmental Conditions
+│   ├── Technological Innovation (e.g., autonomous vehicles)
+│   ├── Urbanization and Population Shifts
+│   ├── Government Policy and Trade Agreements
+│   └── Geopolitical Events and Border Restrictions
+├── Boundaries
+│   ├── National and International Jurisdictions
+│   ├── Infrastructure Availability
+│   ├── Safety and Emission Standards
+│   └── Resource and Budget Constraints
+├── Behaviors
+│   ├── Adaptation (shift to electric vehicles, congestion control)
+│   ├── Resilience (handling strikes, disasters, fuel shortages)
+│   ├── Fragmentation (disconnected networks, underserved regions)
+│   ├── Cohesion (integrated multi-modal systems)
+│   ├── Feedback Loops (route optimization, user ratings, traffic sensors)
+│   ├── Rigidity (fixed infrastructure, outdated systems)
+│   ├── Vulnerability (terrorism, system overload, bottlenecks)
+│   ├── Emergence (ride-sharing, drones, hyperloop)
+│   ├── Repository Growth (usage data, system knowledge)
+│   └── Suppression (restricted movement, curfews, sanctions)
+

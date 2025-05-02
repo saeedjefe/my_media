@@ -1,0 +1,24 @@
+   ├── Primary Industries
+│   ├── Fossil Fuel Sectors
+│   │   ├── Oil Extraction
+│   │   ├── Natural Gas Production
+│   │   └── Coal Mining
+│   ├── Renewable Energy Sectors
+│   │   ├── Solar Energy
+│   │   ├── Wind Energy
+│   │   ├── Hydropower
+│   │   ├── Geothermal Energy
+│   │   └── Biomass Energy
+│   │   ├── Agriculture Industry
+│   │   ├── Fishing Industry
+│   │   ├── Forestry and Logging Industry
+│   │   |
+│   │   │
+│   │   │   
+│   │   ├── Mining and Quarrying
+│   │   └── Renewable Resource Harvesting
+│   │       ├── Hydropower Industry
+│   │       ├── Solar Power Industry
+│   │       ├── Wind Energy Industry
+│   │       ├── Geothermal Industry
+│   │       └── Biomass Energy Industry

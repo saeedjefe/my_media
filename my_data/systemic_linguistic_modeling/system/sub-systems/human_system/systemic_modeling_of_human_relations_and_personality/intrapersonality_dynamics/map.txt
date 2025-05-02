@@ -1,0 +1,64 @@
+Interpersonal Dynamics System
+├── Entities
+│   ├── Interacting Individuals (friends, partners, coworkers)
+│   ├── Roles (leader, follower, peer, supporter, competitor)
+│   ├── Relational Identities (parent-child, teacher-student)
+│   ├── Social Norms (respect, politeness, hierarchy)
+│   └── Interaction Contexts (home, workplace, public, digital)
+├── Inputs
+│   ├── Verbal Communication (tone, vocabulary, intent)
+│   ├── Nonverbal Signals (eye contact, posture, gestures)
+│   ├── Emotional Cues (affection, anger, anxiety)
+│   ├── Social Scripts and Cultural Expectations
+│   ├── Individual Backgrounds (experiences, traumas, values)
+│   └── Environmental Pressures (urgency, crowding, noise)
+├── Outputs
+│   ├── Cooperation or Conflict
+│   ├── Emotional States (validation, rejection, empathy)
+│   ├── Relationship Changes (bonding, distancing, role shift)
+│   ├── Decision Outcomes (agreement, compromise, defiance)
+│   └── Behavior Patterns (supportive, avoidant, dominant)
+├── Dependencies
+│   ├── Trust and Emotional Safety
+│   ├── Shared History and Familiarity
+│   ├── Power Balance (influence, dependency)
+│   ├── Social Status and Role Expectations
+│   └── Communication Skills and Emotional Intelligence
+├── Repositories
+│   ├── Shared Memories and Experiences
+│   ├── Relational Scripts (how conflict or affection is handled)
+│   ├── Relational Agreements (spoken or unspoken rules)
+│   └── Mutual Understanding or Misunderstanding
+├── Processes
+│   ├── Turn-Taking and Listening
+│   ├── Emotional Mirroring and Regulation
+│   ├── Negotiation and Role Rebalancing
+│   ├── Boundary Testing and Reinforcement
+│   ├── Trust Building or Breakdown
+│   ├── Repair Attempts (apologies, forgiveness)
+│   ├── Assertion and Defensiveness
+│   └── Social Influence and Conformity
+├── Modifiers
+│   ├── Individual Stress or Fatigue
+│   ├── Group Dynamics (size, familiarity)
+│   ├── Cultural Communication Norms
+│   ├── Technological Mediation (texting vs. face-to-face)
+│   ├── Conflict Style (passive, assertive, aggressive)
+│   └── Emotional Literacy and Regulation Capacity
+├── Boundaries
+│   ├── Personal Space and Privacy
+│   ├── Emotional Openness or Guardedness
+│   ├── Role Boundaries (friend vs. teacher)
+│   ├── Time and Availability
+│   └── Cultural and Ethical Constraints
+├── Behaviors
+│   ├── Adaptation (change in tone, style, strategy)
+│   ├── Cohesion (rapport, empathy, fluid communication)
+│   ├── Fragmentation (misunderstanding, avoidance)
+│   ├── Resilience (repair and re-connection)
+│   ├── Rigidity (inflexibility in style or roles)
+│   ├── Emergence (new roles or relationships)
+│   ├── Feedback Loops (reinforcement cycles, escalation)
+│   ├── Suppression (masking emotion or withholding)
+│   └── Repository Growth (deepening relationship intelligence)
+

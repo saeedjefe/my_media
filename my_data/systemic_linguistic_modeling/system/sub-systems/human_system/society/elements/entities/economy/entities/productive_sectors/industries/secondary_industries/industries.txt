@@ -1,32 +1,4 @@
-Revised Industry System
-├── Sectors (Classified by Economic Category)
-│   ├── Primary Industries
-│   ├── Fossil Fuel Sectors
-│   │   ├── Oil Extraction
-│   │   ├── Natural Gas Production
-│   │   └── Coal Mining
-│   ├── Renewable Energy Sectors
-│   │   ├── Solar Energy
-│   │   ├── Wind Energy
-│   │   ├── Hydropower
-│   │   ├── Geothermal Energy
-│   │   └── Biomass Energy
-│   │   ├── Agriculture Industry
-│   │   ├── Fishing Industry
-│   │   ├── Forestry and Logging Industry
-│   │   |
-│   │   │
-│   │   │   
-│   │   ├── Mining and Quarrying
-│   │   └── Renewable Resource Harvesting
-│   │       ├── Hydropower Industry
-│   │       ├── Solar Power Industry
-│   │       ├── Wind Energy Industry
-│   │       ├── Geothermal Industry
-│   │       └── Biomass Energy Industry
-│   
-│   ├── Secondary Industries
-│   ├── Energy Production
+   ├── Energy Production
 │   │   ├── Fossil Fuel-Based Power
 │   │   │   ├── Coal-Fired Power Plants
 │   │   │   ├── Natural Gas Plants
@@ -84,29 +56,3 @@ Revised Industry System
 │   │   ├── Recycling Industry
 │   │   └── Traditional and Light Industry
 │   
-│   ├── Tertiary Industries
-│   ├── Service Industry
-│   │   ├── Financial Services
-│   │   ├── Healthcare Industry
-│   │   ├── Education Services
-│   │   ├── Hospitality and Food Services
-│   │   ├── Real Estate and Property Services
-│   │   └── Legal and Administrative Services
-│   │   ├── Service Industries
-│   │   ├── Tourism Industry
-│   │   ├── Transport and Logistics Industry
-│   │   ├── Entertainment Industry
-│   │   └── Retail and Trade Services
-│   
-│   ├── Quaternary Industries
-│   │   ├── Technology Industry
-│   │   ├── Education and Research
-│   │   ├── Data Analytics and Information Services
-│   │   └── Scientific and Technical Consulting
-│   
-│   └── Quinary Industries
-│       ├── Government and Public Policy
-│       ├── Nonprofit Organizations
-│       ├── High-Level Corporate Management
-│       └── Think Tanks and Strategy Groups
-

@@ -1,0 +1,107 @@
+Agriculture System
+├── Entities
+│   ├── Farmers
+│   ├── Agricultural Technicians
+│   ├── Agri-businesses
+│   ├── Livestock
+│   ├── Crops
+│   └── Aquatic Organisms
+├── Inputs
+│   ├── Soil and Land Resources
+│   ├── Water and Irrigation
+│   ├── Seeds and Breeding Stock
+│   ├── Fertilizers and Pesticides
+│   ├── Agricultural Equipment
+│   ├── Labor and Knowledge
+│   └── Capital Investment
+├── Outputs
+│   ├── Animal Products (Meat, Dairy, Eggs)
+│   ├── Crops and Grains
+│   ├── Aquatic Products (Fish, Shellfish, Seaweed)
+│   ├── Oils (Vegetable, Animal, Seed, Fruit)
+│   ├── Fibers (Cotton, Wool)
+│   └── Herbs and Spices
+├── Repositories
+│   ├── Seed Banks
+│   ├── Soil Fertility
+│   ├── Genetic Stocks (Livestock and Crops)
+│   ├── Farming Knowledge and Practices
+│   └── Agricultural Infrastructure
+├── Modifiers
+│   ├── Climate Conditions
+│   ├── Technological Innovations
+│   ├── Policy and Subsidies
+│   ├── Market Demand
+│   └── Environmental Change
+├── Boundaries
+│   ├── Land Availability
+│   ├── Water Access Rights
+│   ├── Agricultural Zones and Regulations
+│   └── Seasonality
+├── Processes
+│   ├── Input Acquisition – seed sourcing, irrigation setup, animal procurement
+│   ├── Internal Transformation – planting, breeding, feeding, fertilizing
+│   ├── Output Production – harvesting, milking, collecting, processing
+│   ├── Feedback Reception – yield tracking, soil analysis, weather response
+│   ├── Maintenance – crop rotation, soil care, disease control
+│   ├── Growth and Development – crop growth, livestock rearing
+│   ├── Emergence – new crop strains, farming models
+│   ├── Replication – farm scaling, greenhouse replication
+│   ├── Dissolution – farm abandonment, land degradation
+│   └── Distribution – market delivery, exports, co-op sharing
+├── Behaviors (Systemic)
+│   ├── Adaptation – climate-resilient practices, organic shifts
+│   ├── Resilience – drought tolerance, pest resistance
+│   ├── Fragmentation – monoculture dominance, loss of biodiversity
+│   ├── Homogenization – GMO standardization
+│   ├── Feedback Loops – supply-demand response, soil nutrient cycling
+│   ├── Repository Growth – agrotechnical expertise accumulation
+│   └── Entropy – soil exhaustion, genetic erosion
+├── Subsystems
+│   ├── Farming
+│   │   ├── Animal Husbandry
+│   │   │   ├── Sheep Farming
+│   │   │   ├── Cattle Farming
+│   │   │   └── Poultry Farming
+│   │   ├── Aquatic Production
+│   │   │   ├── Aquatic Farming
+│   │   │   │   ├── Fish Farming
+│   │   │   │   ├── Shellfish Farming
+│   │   │   │   ├── Seaweed Farming
+│   │   │   │   ├── Crustacean Farming
+│   │   │   │   │   ├── Shrimp
+│   │   │   │   │   ├── Crab
+│   │   │   │   │   └── Lobster
+│   │   │   │   └── Mollusk Farming
+│   │   │   │       ├── Oyster
+│   │   │   │       ├── Mussel
+│   │   │   │       └── Clam
+│   │   │   └── Wild-Caught Harvesting
+│   │   └── Crop Farming
+│   │       ├── Cereal Crops (Wheat, Rice, Maize)
+│   │       ├── Vegetables
+│   │       │   ├── Leafy Greens (Spinach, Lettuce, Kale, Swiss Chard)
+│   │       │   ├── Cruciferous (Broccoli, Cauliflower, Cabbage, Brussels Sprouts)
+│   │       │   ├── Seeded (Tomato, Cucumber, Okra, Pumpkin, Bell Pepper, Zucchini)
+│   │       │   ├── Tuberous (Carrot, Beetroot, Radish, Turnip)
+│   │       │   ├── Stem Vegetables (Celery, Asparagus, Rhubarb, Kohlrabi)
+│   │       │   └── Nightshades (Eggplant, Tomato, Bell Pepper, Potato)
+│   │       ├── Fruit Orchards (Apple, Orange)
+│   │       ├── Legumes (Soybean, Lentil, Chickpea, Pea, Black Bean, Kidney Bean)
+│   │       ├── Tubers (Potato, Cassava)
+│   │       ├── Oilseeds (Sunflower, Canola)
+            └── **Nuts**
+                 ├──Almond  
+                 ├── Walnut  
+                 ├── Pistachio  
+                 ├── Cashew  
+                 ├── Hazelnut  
+                 └── Macadamia  
+│   │       ├── Industrial Crops (Cotton, Tobacco)
+│   │       └── Herbs (Basil, Parsley, Coriander, Mint, Thyme, Turmeric, Cinnamon, Black Pepper)
+│   └── Oils
+│       ├── Vegetable Oils (Corn Oil, Canola Oil, Soybean Oil)
+│       ├── Fruit Oils (Olive Oil, Avocado Oil, Coconut Oil, Palm Oil)
+│       ├── Animal Fats (Lard, Tallow, Butter, Ghee, Fish Oil)
+│       └── Seed Oils (Flaxseed, Sesame, Sunflower, Black Seed, Almond, Chia Seed)
+

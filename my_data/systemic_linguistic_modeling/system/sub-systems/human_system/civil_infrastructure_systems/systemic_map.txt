@@ -1,0 +1,68 @@
+Civil Infrastructure System
+├── Entities
+│   ├── Civil Engineers and Urban Planners
+│   ├── Utility and Sanitation Providers
+│   ├── Construction and Maintenance Crews
+│   ├── Transportation Authorities
+│   ├── Environmental Services
+│   └── Municipal Governments
+├── Inputs
+│   ├── Construction Materials (steel, concrete, asphalt)
+│   ├── Public Funding and Investments
+│   ├── Human Resources (technicians, sanitation workers)
+│   ├── Heavy Equipment and Vehicles
+│   ├── Energy Supply
+│   └── Zoning and Engineering Plans
+├── Outputs
+│   ├── Roads, Bridges, Tunnels
+│   ├── Transit Systems (bus, metro, rail)
+│   ├── Utility Networks (electric, water, sewage)
+│   ├── Communication Infrastructure (fiber, 5G towers)
+│   ├── Street Lighting and Public Fixtures
+│   ├── Drainage and Stormwater Systems
+│   └── Sanitation Infrastructure (bins, trucks, public waste stations)
+├── Repositories
+│   ├── Infrastructure Blueprints and Maps
+│   ├── Maintenance Logs and Service Records
+│   ├── Equipment Inventory (e.g., sweepers, loaders)
+│   ├── Traffic and Utility Usage Data
+│   └── Urban Cleansing Schedules and Performance Reports
+├── Processes
+│   ├── Input Acquisition
+│   ├── Design and Planning
+│   ├── Construction and Deployment
+│   ├── Quality Assurance and Regulation
+│   ├── Maintenance and Inspection
+│   ├── Upgrades and Retrofitting
+│   ├── Decommissioning
+│   ├── Sanitation and Cleansing Services
+│   │   ├── Street Sweeping
+│   │   ├── Trash Collection and Disposal
+│   │   ├── Graffiti Removal
+│   │   ├── Public Toilet Maintenance
+│   │   └── Storm Drain Cleaning
+│   └── Distribution and Accessibility
+├── Modifiers
+│   ├── Population Growth
+│   ├── Urban Density
+│   ├── Climate Conditions
+│   ├── Policy and Regulation
+│   ├── Technological Advancement
+│   └── Public Behavior and Waste Generation
+├── Boundaries
+│   ├── Geographic Jurisdictions
+│   ├── Budget Constraints
+│   ├── Environmental Compliance
+│   ├── Infrastructure Lifespan
+│   └── Workforce Availability
+├── Behaviors
+│   ├── Adaptation (smart waste systems, green retrofits)
+│   ├── Resilience (disaster-proof design)
+│   ├── Cohesion (interconnected public systems)
+│   ├── Fragmentation (neglected areas, service gaps)
+│   ├── Rigidity (obsolete infrastructure)
+│   ├── Feedback Loops (user reports, urban audits)
+│   ├── Vulnerability (pollution, blockages, underfunding)
+│   ├── Repository Growth (accumulated data and design knowledge)
+│   └── Emergence (integrated smart infrastructure)
+
