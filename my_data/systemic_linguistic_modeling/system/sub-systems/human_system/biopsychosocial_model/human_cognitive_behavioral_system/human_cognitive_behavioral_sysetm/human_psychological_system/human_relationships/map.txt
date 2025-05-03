@@ -1,0 +1,71 @@
+Human Relationship System
+├── Entities
+│   ├── Individuals
+│   │   ├── Family Members
+│   │   ├── Romantic Partners
+│   │   ├── Friends
+│   │   ├── Mentors and Mentees
+│   │   └── Colleagues and Peers
+│   └── Relationship Units
+│       ├── Dyads (e.g., parent-child, couple)
+│       └── Social Groups (families, teams, communities)
+├── Inputs
+│   ├── Communication (verbal, nonverbal, written)
+│   ├── Emotional Investment (trust, affection, empathy)
+│   ├── Shared Experiences (memories, time)
+│   ├── Social Context (culture, norms, expectations)
+│   ├── Personal Traits (temperament, values)
+│   └── External Pressures (work, health, distance)
+├── Outputs
+│   ├── Emotional States (joy, tension, security)
+│   ├── Relationship Growth or Decline
+│   ├── Decisions and Actions (co-parenting, breakups, commitments)
+│   ├── Social Capital (mutual support, reputation)
+│   └── Behavioral Changes (motivation, withdrawal, openness)
+├── Dependencies
+│   ├── Emotional Dependency
+│   ├── Functional Dependency
+│   ├── Cognitive Dependency
+│   ├── Economic Dependency
+│   ├── Physical or Logistical Dependency
+│   └── Social/Status-Based Dependency
+├── Repositories
+│   ├── Shared Memories and Narratives
+│   ├── Mutual Understandings
+│   ├── Commitments and Agreements
+│   ├── Cultural Scripts (e.g., marriage, friendship norms)
+│   └── Communication Histories
+├── Processes
+│   ├── Bonding and Attachment
+│   ├── Communication and Conflict Resolution
+│   ├── Boundary Negotiation
+│   ├── Role Definition and Shift
+│   ├── Trust Building and Breakdown
+│   ├── Repair and Reconnection
+│   ├── Withdrawal or Separation
+│   └── Feedback Reception (praise, silence, behavior)
+├── Modifiers
+│   ├── Personality Differences
+│   ├── Life Stage or Life Events
+│   ├── External Stressors (job loss, illness, relocation)
+│   ├── Technology (digital connection or overload)
+│   ├── Cultural Expectations
+│   └── Third Parties (children, in-laws, friends)
+├── Boundaries
+│   ├── Emotional Boundaries
+│   ├── Physical Space
+│   ├── Privacy and Information Sharing
+│   ├── Time Investment Limits
+│   └── Commitment Levels
+├── Behaviors
+│   ├── Adaptation (changing together)
+│   ├── Resilience (staying strong through difficulty)
+│   ├── Vulnerability (emotional openness)
+│   ├── Rigidity (refusal to change)
+│   ├── Fragmentation (distance, neglect)
+│   ├── Cohesion (emotional closeness and unity)
+│   ├── Emergence (new roles or dynamics)
+│   ├── Feedback Loops (arguments, affection, silence)
+│   ├── Dependency Shifts (from mutual to one-sided)
+│   └── Repository Growth (shared history and meaning)
+

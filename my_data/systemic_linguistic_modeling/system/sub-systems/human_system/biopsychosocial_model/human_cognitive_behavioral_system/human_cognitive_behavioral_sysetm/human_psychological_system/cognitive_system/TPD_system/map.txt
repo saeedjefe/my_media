@@ -1,0 +1,67 @@
+Thinking_Planning_Deciding_System
+├── Entities
+│   ├── Logical Reasoning (deductive, inductive, analogical)
+│   ├── Problem Solving (strategic, heuristic, trial-and-error)
+│   ├── Planning (short-term, long-term)
+│   ├── Decision-Making
+│   │   ├── Rational Decision-Making
+│   │   ├── Intuitive Decision-Making
+│   │   └── Emotional vs. Analytical Trade-offs
+│   └── Metacognition (thinking about one’s thinking)
+├── Inputs
+│   ├── Sensory Input and Information
+│   ├── Past Experience (from memory)
+│   ├── Goals and Intentions
+│   ├── Emotional Influences
+│   └── Environmental Constraints
+├── Processes
+│   ├── Abstract Thinking and Representation
+│   ├── Mental Simulation (projecting outcomes)
+│   ├── Hypothesis Generation and Testing
+│   ├── Prioritization and Strategy Formation
+│   └── Evaluation and Inhibition of Alternatives
+├── Outputs
+│   ├── Judgments
+│   ├── Plans (mental or externalized)
+│   ├── Intentions and Chosen Actions
+│   ├── Problem Solutions
+│   └── Behavioral Adjustments
+├── Repositories
+│   ├── Cognitive Frameworks and Schemas
+│   ├── Decision-Making Heuristics
+│   ├── Personal Rules and Values
+│   └── Experience-Derived Models (what worked before)
+├── Dependencies
+│   ├── Executive Function System
+│   ├── Attention and Memory Systems
+│   ├── Emotional Regulation (for balanced reasoning)
+│   ├── Prefrontal Cortex (especially dorsolateral and orbitofrontal)
+│   └── Social Feedback and Consequences
+├── Modifiers
+│   ├── Stress and Cognitive Load
+│   ├── Motivation and Time Pressure
+│   ├── Affective Biases (fear, confidence, anxiety)
+│   ├── Cultural and Social Norms
+│   └── Neurological Integrity (brain health)
+├── Boundaries
+│   ├── Working Memory Constraints
+│   ├── Information Overload
+│   ├── Biases and Cognitive Distortions
+│   └── Risk of Overplanning or Indecision
+├── Behaviors
+│   ├── Flexibility vs. Rigidity (problem-solving)
+│   ├── Suppression (of poor choices or impulses)
+│   ├── Emergence (of insight or creativity)
+│   ├── Fragmentation (erratic or disjointed thinking)
+│   ├── Feedback Loops (adjusting plans based on outcome)
+│   └── Adaptation (switching strategies or goals)
+├── Pathological Conditions (Cognitive Dysfunctions)
+│   ├── Dysexecutive Syndrome (impaired planning and goal-setting)
+│   ├── Frontal Lobe Syndrome (disorganized or impulsive behavior)
+│   ├── Schizophrenia (disorganized thinking, delusions)
+│   ├── OCD (rigid, repetitive, or intrusive decision loops)
+│   ├── ADHD (impulsivity, poor planning)
+│   ├── Autism Spectrum Disorder (rigid reasoning, social decision difficulty)
+│   ├── Depression (rumination, decision paralysis)
+│   └── Dementia (planning deterioration, poor risk judgment)
+

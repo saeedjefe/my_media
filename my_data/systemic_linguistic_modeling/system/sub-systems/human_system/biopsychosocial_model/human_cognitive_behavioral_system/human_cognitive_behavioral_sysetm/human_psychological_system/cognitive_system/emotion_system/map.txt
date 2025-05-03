@@ -1,0 +1,68 @@
+Emotion_System
+├── Entities
+│   ├── Basic Emotions (fear, joy, anger, sadness, disgust, surprise)
+│   ├── Complex Emotions (guilt, pride, shame, jealousy)
+│   ├── Affective States (mood, tone)
+│   ├── Emotional Regulation Mechanisms
+│   │   ├── Reappraisal
+│   │   ├── Suppression
+│   │   └── Expression Management
+│   └── Emotional Awareness (identifying and labeling emotions)
+├── Inputs
+│   ├── Sensory Input (stimulus valence, threat, reward)
+│   ├── Internal States (hunger, fatigue, hormones)
+│   ├── Memory and Associations (emotional triggers)
+│   ├── Social Cues (facial expressions, tone, posture)
+│   └── Cultural Scripts and Norms
+├── Processes
+│   ├── Appraisal (evaluation of stimulus relevance)
+│   ├── Affective Activation (neurochemical + physiological arousal)
+│   ├── Emotional Expression (facial, vocal, gestural)
+│   ├── Regulation (amplify, suppress, reframe)
+│   └── Social Display (modulating expression for interaction)
+├── Outputs
+│   ├── Emotional Experience (subjective feeling)
+│   ├── Physiological Response (e.g., heart rate, cortisol)
+│   ├── Social Signals (crying, smiling, shouting)
+│   └── Motivational Shifts (approach or avoidance)
+├── Repositories
+│   ├── Emotion Schemas (how emotions are interpreted and remembered)
+│   ├── Conditioned Responses (phobias, trauma links)
+│   └── Emotional Memory (e.g., flashbulb memories)
+├── Dependencies
+│   ├── Limbic System (especially amygdala, hippocampus)
+│   ├── Prefrontal Cortex (regulation, judgment)
+│   ├── Autonomic Nervous System
+│   ├── Language System (for emotion labeling)
+│   └── Cultural Learning (emotion expression norms)
+├── Modifiers
+│   ├── Hormonal Cycles
+│   ├── Personality Traits (e.g., neuroticism)
+│   ├── Social Environment (support, isolation)
+│   ├── Drugs or Medication
+│   └── Fatigue or Chronic Stress
+├── Boundaries
+│   ├── Intensity Thresholds (overwhelm vs. numbness)
+│   ├── Expressive Range (flat affect vs. overexpression)
+│   └── Cultural/Contextual Appropriateness
+├── Behaviors
+│   ├── Adaptation (emotional resilience, coping)
+│   ├── Rigidity (persistent mood states, e.g. dysthymia)
+│   ├── Fragmentation (emotional swings, instability)
+│   ├── Feedback Loops (emotion influencing thought and behavior)
+│   ├── Suppression (masking emotional states)
+│   ├── Emergence (of novel or mixed emotional states)
+│   └── Repository Growth (emotional intelligence, empathy)
+├── Pathological Conditions (Emotional Dysregulation)
+│   ├── Major Depressive Disorder (persistent sadness, anhedonia)
+│   ├── Generalized Anxiety Disorder (chronic worry and hyperarousal)
+│   ├── Bipolar Disorder (emotional lability, manic and depressive episodes)
+│   ├── Borderline Personality Disorder (emotional instability, reactivity)
+│   ├── PTSD (emotional numbing, hypervigilance)
+│   ├── Alexithymia (inability to identify/describe emotions)
+│   ├── Autism Spectrum Disorder (emotion perception difficulties)
+│   ├── Antisocial Personality Disorder (empathy deficit)
+│   └── Panic Disorder (sudden fear + physiological response)
+
+inability to express emotion in speech (aprosody)
+post trumatic stress disorder

@@ -1,0 +1,33 @@
+Human Social Behavior System
+├── Subsystems
+│   ├── Social Interaction System
+│   │   ├── Interpersonal Dynamics System
+│   │   ├── Group Interaction System
+│   │   ├── Cross-Cultural Interaction System
+│   │   ├── Digital/Mediated Interaction System
+│   │   └── Public and Institutional Interaction System
+│   ├── Human Relationship System
+│   │   ├── Family Relationship System
+│   │   ├── Romantic Relationship System
+│   │   ├── Professional Relationship System
+│   │   └── Peer and Friendship System
+│   ├── Communication System
+│   │   ├── Verbal Communication
+│   │   ├── Nonverbal Communication
+│   │   ├── Symbolic and Cultural Signaling
+│   │   └── Digital Communication
+│   ├── Social Role System
+│   │   ├── Family Roles (parent, child)
+│   │   ├── Institutional Roles (teacher, citizen)
+│   │   ├── Group Roles (leader, supporter)
+│   │   └── Identity-Based Roles (gender, age, status)
+│   ├── Norm and Ritual System
+│   │   ├── Etiquette and Manners
+│   │   ├── Cultural Scripts
+│   │   └── Social Rituals (greetings, ceremonies)
+│   └── Conflict and Cooperation System
+│       ├── Social Negotiation
+│       ├── Power Dynamics and Hierarchy
+│       ├── Group Cohesion and Fragmentation
+│       └── Conflict Resolution Mechanisms
+

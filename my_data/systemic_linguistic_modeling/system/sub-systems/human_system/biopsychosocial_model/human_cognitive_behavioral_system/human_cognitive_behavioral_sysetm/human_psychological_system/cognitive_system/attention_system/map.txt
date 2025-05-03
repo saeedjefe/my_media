@@ -1,0 +1,72 @@
+Attention_System
+├── Entities
+│   ├── Selective Attention
+│   │   ├── Endogenous (top-down, goal-driven)
+│   │   └── Exogenous (bottom-up, stimulus-driven)
+│   ├── Divided Attention
+│   │   ├── Multitasking
+│   │   └── Task Switching
+│   ├── Sustained Attention
+│   │   ├── Vigilance
+│   │   └── Mental Endurance
+│   ├── Focused Attention
+│   ├── Alternating Attention
+│   ├── Overt Attention (eye/head movement)
+│   ├── Covert Attention (mental shift without movement)
+│   ├── Supramodal Attention (cross-sensory attention control)
+│   └── Spatial Attention
+│       ├── Egocentric (relative to self/body position)
+│       ├── Allocentric (object-centered)
+│       └── Hemispatial Bias (left/right prioritization)
+├── Inputs
+│   ├── Sensory Stimuli (visual, auditory, tactile)
+│   ├── Task Demands
+│   ├── Internal Goals or Intentions
+│   ├── Salient Events (flashes, loud sounds)
+│   └── Spatial Layout and Environment
+├── Processes
+│   ├── Orientation (toward stimuli or space)
+│   ├── Selection (filtering relevant regions)
+│   ├── Amplification (enhancing spatial signal)
+│   ├── Inhibition (suppressing irrelevant regions)
+│   └── Shifting (moving spatial focus)
+├── Outputs
+│   ├── Perceptual Awareness
+│   ├── Reaction Time Optimization
+│   ├── Eye Movement Coordination
+│   └── Spatially Targeted Behavior
+├── Repositories
+│   ├── Attentional Templates (goal-based models)
+│   ├── Spatial Maps (mental representation of space)
+│   └── Learned Orienting Biases
+├── Dependencies
+│   ├── Sensory-Perceptual System
+│   ├── Cognitive Load Capacity
+│   ├── Executive Control System
+│   ├── Visual-Spatial Processing (parietal cortex)
+│   └── Emotional Relevance
+├── Modifiers
+│   ├── Fatigue
+│   ├── Distraction or Noise
+│   ├── Motivation
+│   ├── Environmental Complexity
+│   └── Neuropsychological Conditions (e.g. neglect)
+├── Boundaries
+│   ├── Working Memory Constraints
+│   ├── Spatial Field Limits
+│   └── Attentional Blink or Delay
+├── Behaviors
+│   ├── Adaptation (refocusing in new spatial contexts)
+│   ├── Rigidity (neglect or fixation)
+│   ├── Fragmentation (split or unstable focus)
+│   ├── Resilience (re-centering after interruption)
+│   └── Feedback Loops (adjusting spatial priority)
+├── Pathological Conditions (Disorders of Attention)
+│   ├── ADHD (Attention Deficit Hyperactivity Disorder)
+│   ├── Unilateral/Hemispatial Neglect (esp. after right parietal damage)
+│   ├── Traumatic Brain Injury (TBI)-related attentional deficits
+│   ├── Alzheimer's Disease (early-stage attentional decline)
+│   ├── Frontal Lobe Syndrome (affecting top-down attention)
+│   ├── Balint’s Syndrome (simultagnosia, optic ataxia)
+│   └── Schizophrenia (selective attention deficits, distractibility)
+

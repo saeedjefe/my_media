@@ -1,0 +1,78 @@
+Memory_System
+├── Entities
+│   ├── Working Memory
+│   │   ├── Phonological Loop (verbal rehearsal)
+│   │   └── Visuospatial Sketchpad (visual-spatial processing)
+│   ├── Short-Term Memory
+│   ├── Long-Term Memory
+│   │   ├── Declarative (Explicit)
+│   │   │   ├── Episodic Memory (events, experiences)
+│   │   │   └── Semantic Memory (facts, knowledge)
+│   │   └── Non-Declarative (Implicit)
+│   │       ├── Procedural Memory (skills, habits)
+│   │       ├── Priming
+│   │       └── Classical Conditioning
+	        operant conditioning
+		unconscious conditioning-> habits and rituals; habits can be maladaptive -> addiction and OCD
+		                      	
+│   └── Prospective Memory (remembering to act in the future)
+├── Inputs
+│   ├── Sensory Input (visual, auditory, etc.)
+│   ├── Attention and Encoding Effort
+│   ├── Emotional Salience
+│   └── Repetition and Association
+├── Processes
+│   ├── Encoding (transforming experience into memory trace)
+│   ├── Consolidation (stabilizing memory into long-term storage)
+│   ├── Storage (retention over time)
+│   ├── Retrieval (accessing stored information)
+│   ├── Reconsolidation (updating memory during retrieval)
+│   └── Forgetting (decay or interference)
+├── Outputs
+│   ├── Recall (free, cued, or serial)
+│   ├── Recognition
+│   ├── Skill Performance
+│   └── Prediction and Mental Simulation
+├── Repositories
+│   ├── Episodic Memory Stores (autobiographical archive)
+│   ├── Semantic Knowledge Base (world knowledge)
+│   ├── Motor and Procedural Routines
+│   └── Emotional Associations (memory-emotion links)
+├── Dependencies
+│   ├── Attention System (for encoding)
+│   ├── Hippocampus and Medial Temporal Lobe
+│   ├── Prefrontal Cortex (working memory, retrieval)
+│   ├── Sleep and Neurochemical Balance (e.g., acetylcholine)
+│   └── Emotional Arousal (modulates encoding strength)
+├── Modifiers
+│   ├── Stress and Cortisol Levels
+│   ├── Age and Cognitive Maturity
+│   ├── Brain Injury or Disease
+│   ├── Distractions during Encoding/Retrieval
+│   └── Medication and Substance Use
+├── Boundaries
+│   ├── Working Memory Capacity (~7±2 chunks)
+│   ├── Interference from Similar Information
+│   ├── Retrieval Cue Availability
+│   └── Emotional Overload or Suppression
+├── Behaviors
+│   ├── Adaptation (using mnemonic strategies)
+│   ├── Fragmentation (partial recall, intrusive memories)
+│   ├── Suppression (intentional forgetting)
+│   ├── Resilience (memory recovery after disruption)
+│   ├── Feedback Loops (learning via success/failure)
+│   └── Repository Growth (semantic expansion, skill acquisition)
+├── Pathological Conditions (Memory Disorders)
+│   ├── Alzheimer’s Disease (progressive episodic and semantic loss)
+│   ├── Amnesia
+│   │   ├── Anterograde Amnesia (inability to form new memories)
+│   │   └── Retrograde Amnesia (loss of past memories)
+│   ├── Korsakoff’s Syndrome (due to thiamine deficiency)
+│   ├── Mild Cognitive Impairment (MCI)
+│   ├── Dissociative Amnesia (trauma-related memory loss)
+│   ├── Traumatic Brain Injury (TBI)-induced memory loss
+│   ├── Transient Global Amnesia (sudden, temporary loss)
+│   └── PTSD (flashbacks, impaired memory integration)
+
+*posterior hippocampus associated with spatial information
+*prosopagnosia 
