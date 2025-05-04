@@ -1,4 +1,4 @@
-Biological System
+Bological System
 ├── Inputs
 │   ├── Nutrients (carbon, nitrogen, phosphorus)
 │   ├── Water

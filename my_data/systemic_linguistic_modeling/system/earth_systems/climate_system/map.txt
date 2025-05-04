@@ -1,0 +1,60 @@
+Climate_System
+├── Entities
+│   ├── Atmospheric Layers (Troposphere, Stratosphere, etc.)
+│   ├── Greenhouse Gases (CO₂, CH₄, H₂O vapor, N₂O)
+│   ├── Aerosols and Particulates
+│   ├── Clouds and Water Vapor
+│   ├── Ocean Currents (El Niño, Gulf Stream)
+│   ├── Land Cover (forests, deserts, ice)
+│   └── Human Influences (emissions, land use)
+├── Inputs
+│   ├── Solar Radiation
+│   ├── Volcanic Activity
+│   ├── Greenhouse Gas Emissions
+│   ├── Ocean Heat Content
+│   ├── Surface Reflectivity (Albedo)
+│   └── Anthropogenic Changes (deforestation, urbanization)
+├── Outputs
+│   ├── Temperature Changes
+│   ├── Precipitation Patterns
+│   ├── Wind and Storm Systems
+│   ├── Sea-Level Changes
+│   ├── Seasonal Variation
+│   └── Climate Extremes (droughts, floods, heatwaves)
+├── Processes
+│   ├── Radiation Balance (incoming vs. outgoing energy)
+│   ├── Convection and Heat Transfer
+│   ├── Greenhouse Effect
+│   ├── Ocean-Atmosphere Interaction
+│   ├── Cloud Formation and Feedback
+│   ├── Cryosphere-Climate Feedbacks
+│   └── Carbon and Water Cycles
+├── Repositories
+│   ├── Ice Cores (paleoclimate data)
+│   ├── Ocean Sediments
+│   ├── Tree Rings
+│   ├── Satellite Data Archives
+│   ├── Climate Models (GCMs)
+│   └── Global Weather Databases
+├── Modifiers
+│   ├── Solar Cycles and Milankovitch Cycles
+│   ├── Volcanic Eruptions
+│   ├── Urban Heat Island Effects
+│   ├── Land Use and Cover Change
+│   ├── Emission Regulations
+│   └── Climate Policies and International Agreements
+├── Dependencies
+│   ├── Hydrosphere (evaporation, currents)
+│   ├── Biosphere (carbon sinks, respiration)
+│   ├── Geosphere (volcanism, topography)
+│   ├── Human Systems (industrial emissions, agriculture)
+│   └── Cryosphere (ice-albedo feedback)
+├── Behaviors
+│   ├── Feedback Loops (positive and negative)
+│   ├── Adaptation (climate-resilient agriculture, migration)
+│   ├── Resilience (ecosystem recovery, atmospheric buffering)
+│   ├── Rigidity (inertia in ocean circulation)
+│   ├── Emergence (new climate zones, tipping points)
+│   ├── Fragmentation (regional climate divergence)
+│   └── Suppression (dimming effects from aerosols)
+

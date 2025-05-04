@@ -1,0 +1,51 @@
+Anthroposphere_System
+├── Entities
+│   ├── Urban Areas and Settlements
+│   ├── Infrastructure (roads, utilities, buildings)
+│   ├── Industrial Systems
+│   ├── Agricultural Systems
+│   ├── Economic Networks
+│   └── Institutions and Governance Structures
+├── Inputs
+│   ├── Natural Resources (energy, water, minerals)
+│   ├── Labor and Human Capital
+│   ├── Technological Innovation
+│   ├── Policy and Regulation
+│   └── Ecosystem Services
+├── Outputs
+│   ├── Goods and Services
+│   ├── Pollution and Waste
+│   ├── Technological Advancements
+│   ├── Urban Expansion
+│   └── Cultural and Knowledge Systems
+├── Processes
+│   ├── Urbanization
+│   ├── Industrial Production
+│   ├── Technological Development
+│   ├── Governance and Planning
+│   └── Resource Consumption
+├── Repositories
+│   ├── Knowledge Bases
+│   ├── Built Environment
+│   ├── Cultural Heritage
+│   └── Legal and Institutional Frameworks
+├── Modifiers
+│   ├── Global Markets
+│   ├── Political Systems
+│   ├── Education and Innovation
+│   ├── Climate and Environmental Constraints
+│   └── Resource Scarcity
+├── Dependencies
+│   ├── Biosphere (food, biomass)
+│   ├── Geosphere (minerals, land)
+│   ├── Atmosphere (air quality, temperature)
+│   ├── Hydrosphere (water supply)
+│   └── Climate System (sustainability and risk)
+├── Behaviors
+│   ├── Expansion and Contraction (urban growth/shrinkage)
+│   ├── Feedback Loops (e.g. carbon emissions → warming → impact)
+│   ├── Innovation
+│   ├── Fragmentation (inequality, digital divides)
+│   ├── Adaptation (policy reform, infrastructure change)
+│   └── Collapse or Emergence (e.g., crises or revolutions)
+

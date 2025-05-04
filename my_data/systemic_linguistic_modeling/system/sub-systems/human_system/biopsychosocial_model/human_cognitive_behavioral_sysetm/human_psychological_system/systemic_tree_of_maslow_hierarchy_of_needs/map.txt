@@ -1,0 +1,49 @@
+Maslow_Needs_Hierarchy_System
+├── Level 1: Physiological Needs (Foundational System)
+│   ├── Entities: Food, Water, Oxygen, Sleep, Sex, Temperature Regulation
+│   ├── Inputs: Nutrients, Oxygen, Shelter, Rest Opportunities
+│   ├── Outputs: Survival, Physical Energy, Homeostasis
+│   ├── Dependencies: Biological systems, Environment
+│   ├── Behaviors: Eating, Drinking, Sleeping, Seeking Shelter
+│   └── Pathologies: Malnutrition, Insomnia, Exhaustion, Illness
+
+├── Level 2: Safety Needs
+│   ├── Entities: Physical Security, Health, Stability, Protection
+│   ├── Inputs: Safe environment, Health care, Consistent routines
+│   ├── Outputs: Reduced anxiety, Predictability, Risk mitigation
+│   ├── Dependencies: Physiological fulfillment, social order
+│   ├── Behaviors: Avoidance, Risk management, Compliance
+│   └── Pathologies: PTSD, Hypervigilance, Chronic anxiety, Paranoia
+
+├── Level 3: Love and Belonging Needs (Social System)
+│   ├── Entities: Friendship, Intimacy, Affiliation, Social Connection
+│   ├── Inputs: Affection, Inclusion, Communication, Group Identity
+│   ├── Outputs: Trust, Loyalty, Emotional Fulfillment
+│   ├── Dependencies: Safety, Emotional Regulation, Attachment
+│   ├── Behaviors: Bonding, Social Participation, Attachment
+│   └── Pathologies: Loneliness, Rejection Sensitivity, Depression, Social Withdrawal
+
+├── Level 4: Esteem Needs
+│   ├── Entities: Self-Esteem, Respect, Achievement, Status, Recognition
+│   ├── Inputs: Feedback, Accomplishment, Validation, Responsibility
+│   ├── Outputs: Confidence, Motivation, Sense of Competence
+│   ├── Dependencies: Belonging, Cognitive Systems, Cultural Norms
+│   ├── Behaviors: Goal-striving, Performance, Comparison
+│   └── Pathologies: Inferiority Complex, Low Self-Worth, Narcissism, Perfectionism
+
+├── Level 5: Self-Actualization (Growth System)
+│   ├── Entities: Personal Growth, Fulfillment, Purpose, Creativity
+│   ├── Inputs: Autonomy, Challenge, Insight, Freedom
+│   ├── Outputs: Creative Expression, Meaningful Goals, Flow State
+│   ├── Dependencies: Esteem Satisfaction, Self-Awareness
+│   ├── Behaviors: Exploration, Innovation, Reflection
+│   └── Pathologies: Existential Anxiety, Stagnation, Disillusionment
+
+├── Level 6: Self-Transcendence (Extended Layer – optional in later theories)
+│   ├── Entities: Altruism, Spirituality, Collective Purpose
+│   ├── Inputs: Service, Meditation, Awe, Group Identity
+│   ├── Outputs: Unity, Compassion, Transpersonal Meaning
+│   ├── Dependencies: Self-Actualization, Ethical Maturity
+│   ├── Behaviors: Volunteering, Sacrifice, Vision-Driven Action
+│   └── Pathologies: Fanaticism, Loss of Self, Burnout from Overextension
+

@@ -1,0 +1,68 @@
+Developmental_Psychology_System
+├── Entities
+│   ├── Developmental Stages
+│   │   ├── Infancy (0–2 years)
+│   │   ├── Early Childhood (2–6)
+│   │   ├── Middle Childhood (6–12)
+│   │   ├── Adolescence (12–18)
+│   │   ├── Emerging Adulthood (18–25)
+│   │   ├── Adulthood (25–65)
+│   │   └── Late Adulthood (65+)
+│   ├── Developmental Domains
+│   │   ├── Cognitive Development
+│   │   ├── Emotional Development
+│   │   ├── Social Development
+│   │   ├── Moral Development
+│   │   └── Physical/Motor Development
+│   ├── Milestones
+│   │   ├── Language Acquisition
+│   │   ├── Identity Formation
+│   │   ├── Emotional Regulation
+│   │   └── Abstract Thinking
+├── Inputs
+│   ├── Genetic Information
+│   ├── Parental Influence
+│   ├── Nutrition and Health
+│   ├── Education and Play
+│   ├── Peer Interactions
+│   └── Cultural Norms and Values
+├── Outputs
+│   ├── Skill Acquisition (e.g., literacy, walking)
+│   ├── Identity Consolidation
+│   ├── Social Competence
+│   ├── Self-Regulation
+│   └── Maturity (emotional, cognitive, behavioral)
+├── Processes
+│   ├── Learning and Imitation
+│   ├── Attachment Formation
+│   ├── Socialization
+│   ├── Cognitive Growth (e.g., assimilation, accommodation)
+│   ├── Neural Pruning and Brain Maturation
+│   └── Life Transition Adaptation
+├── Repositories
+│   ├── Developmental Memory (episodic, emotional)
+│   ├── Social Scripts and Internalized Roles
+│   ├── Temperamental Patterns
+│   └── Culturally Shaped Schemas
+├── Modifiers
+│   ├── Parenting Style (authoritative, permissive, neglectful)
+│   ├── Socioeconomic Status
+│   ├── Educational Opportunity
+│   ├── Trauma or Neglect
+│   ├── Disability or Neurodivergence
+│   └── Access to Enrichment Activities
+├── Dependencies
+│   ├── Biological Maturation
+│   ├── Emotional System
+│   ├── Cognitive System
+│   ├── Social Environment
+│   ├── Language Development
+│   └── Educational System
+├── Behaviors
+│   ├── Developmental Progression
+│   ├── Regression (e.g., post-trauma)
+│   ├── Exploration and Curiosity
+│   ├── Adaptation (to stage transitions)
+│   ├── Identity Formation
+│   └── Feedback Loops (e.g., competence → motivation → growth)
+

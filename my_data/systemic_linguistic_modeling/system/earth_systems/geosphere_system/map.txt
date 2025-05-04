@@ -1,0 +1,45 @@
+Geosphere_System
+├── Entities
+│   ├── Crust, Mantle, Core
+│   ├── Tectonic Plates
+│   ├── Mountains, Valleys, Plains
+│   ├── Soils and Sedimentary Layers
+│   └── Rocks and Minerals
+├── Inputs
+│   ├── Internal Heat (radioactive decay)
+│   ├── Solar Energy (indirect surface impact)
+│   ├── Atmospheric and Biological Weathering
+│   └── Human Extraction (mining, drilling)
+├── Outputs
+│   ├── Earthquakes, Volcanoes
+│   ├── Landforms
+│   ├── Soil Formation
+│   ├── Fossil Fuels and Minerals
+│   └── Tectonic Features (ridges, trenches)
+├── Processes
+│   ├── Plate Tectonics and Subduction
+│   ├── Rock Cycle (igneous, sedimentary, metamorphic)
+│   ├── Soil Formation
+│   ├── Mountain Building
+│   └── Erosion, Sedimentation
+├── Repositories
+│   ├── Mineral Deposits
+│   ├── Fossil Records
+│   ├── Tectonic Histories
+│   └── Geologic Time Scale
+├── Modifiers
+│   ├── Climate (affects erosion)
+│   ├── Human Activity (mining, urbanization)
+│   ├── Seismic and Volcanic Activity
+│   └── Hydrosphere and Cryosphere Interactions
+├── Dependencies
+│   ├── Biosphere (soil enrichment, bioturbation)
+│   ├── Atmosphere (weathering, precipitation)
+│   ├── Hydrosphere (sediment transport)
+│   └── Solar Input (erosion and surface heating)
+├── Behaviors
+│   ├── Stability and Instability (e.g. fault slips)
+│   ├── Cyclicity (rock, mountain cycles)
+│   ├── Emergence (new land masses)
+│   └── Fragmentation (tectonic division)
+

@@ -1,0 +1,81 @@
+Enneagram_Personality_System
+├── Core System: 9 Personality Types
+│   ├── Type 1 – The Reformer (Idealist)
+│   │   ├── Entities: Integrity, Order, Morality
+│   │   ├── Inputs: Rules, Criticism, Expectations
+│   │   ├── Outputs: Improvement, Structure, Judgment
+│   │   ├── Behaviors: Perfectionism, Discipline, Repression
+│   │   └── Pathology: Obsessive rigidity, moral superiority, anger repression
+│
+│   ├── Type 2 – The Helper (Giver)
+│   │   ├── Entities: Love, Approval, Emotional Intuition
+│   │   ├── Inputs: Affection, Need of Others
+│   │   ├── Outputs: Caregiving, Connection
+│   │   ├── Behaviors: People-pleasing, Flattery, Overextension
+│   │   └── Pathology: Manipulation, loss of boundaries, neediness
+│
+│   ├── Type 3 – The Achiever (Performer)
+│   │   ├── Entities: Success, Recognition, Image
+│   │   ├── Inputs: Competition, Praise
+│   │   ├── Outputs: Accomplishment, Persona Projection
+│   │   ├── Behaviors: Ambition, Adaptability, Image Crafting
+│   │   └── Pathology: Burnout, deception, identity confusion
+│
+│   ├── Type 4 – The Individualist (Romantic)
+│   │   ├── Entities: Identity, Authenticity, Emotion
+│   │   ├── Inputs: Aesthetic Experience, Emotional Depth
+│   │   ├── Outputs: Artistic Expression, Longing
+│   │   ├── Behaviors: Withdrawal, Introspection, Moodiness
+│   │   └── Pathology: Melancholy, envy, emotional volatility
+│
+│   ├── Type 5 – The Investigator (Observer)
+│   │   ├── Entities: Knowledge, Autonomy, Boundaries
+│   │   ├── Inputs: Information, Silence, Privacy
+│   │   ├── Outputs: Insight, Analysis, Minimalism
+│   │   ├── Behaviors: Detachment, Hoarding of Time/Energy
+│   │   └── Pathology: Isolation, intellectual arrogance, withholding
+│
+│   ├── Type 6 – The Loyalist (Skeptic)
+│   │   ├── Entities: Security, Preparation, Trust
+│   │   ├── Inputs: Authority, Danger, Uncertainty
+│   │   ├── Outputs: Loyalty, Problem Anticipation
+│   │   ├── Behaviors: Anxiety, Doubt, Commitment
+│   │   └── Pathology: Paranoia, projection, self-doubt
+│
+│   ├── Type 7 – The Enthusiast (Generalist)
+│   │   ├── Entities: Freedom, Experience, Optimism
+│   │   ├── Inputs: Opportunity, Stimulation
+│   │   ├── Outputs: Plans, Ideas, Fun
+│   │   ├── Behaviors: Escapism, Impulsivity, Reframing
+│   │   └── Pathology: Addiction, avoidance of pain, overcommitment
+│
+│   ├── Type 8 – The Challenger (Protector)
+│   │   ├── Entities: Power, Control, Justice
+│   │   ├── Inputs: Threats, Injustice, Vulnerability
+│   │   ├── Outputs: Protection, Authority
+│   │   ├── Behaviors: Confrontation, Leadership, Control
+│   │   └── Pathology: Aggression, domination, emotional denial
+│
+│   ├── Type 9 – The Peacemaker (Mediator)
+│   │   ├── Entities: Peace, Comfort, Unity
+│   │   ├── Inputs: Conflict, Expectations, Demands
+│   │   ├── Outputs: Mediation, Agreement, Withdrawal
+│   │   ├── Behaviors: Numbing, Avoidance, Harmonizing
+│   │   └── Pathology: Inertia, passive-aggression, self-forgetting
+│
+├── Cross-System Components
+│   ├── Wings (adjacent type influences)
+│   ├── Integration Paths (growth direction)
+│   ├── Disintegration Paths (stress direction)
+│   ├── Instinctual Subtypes (self-preservation, social, sexual)
+│   ├── Centers of Intelligence
+│   │   ├── Head Center (Types 5, 6, 7) – Anxiety
+│   │   ├── Heart Center (Types 2, 3, 4) – Shame
+│   │   └── Gut Center (Types 8, 9, 1) – Anger
+├── System Behaviors
+│   ├── Rigidity (fixation on type core fear)
+│   ├── Adaptation (growth through integration path)
+│   ├── Fragmentation (type disintegration under stress)
+│   ├── Emergence (new traits via conscious growth)
+│   └── Feedback Loops (identity → behavior → reinforcement)
+

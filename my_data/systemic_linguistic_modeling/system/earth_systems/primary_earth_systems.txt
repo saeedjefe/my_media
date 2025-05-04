@@ -1,0 +1,49 @@
+Earth_System
+├── 1. Geosphere (Lithosphere)
+│   ├── Entities: Crust, Mantle, Core, Tectonic Plates, Rocks, Soils
+│   ├── Processes: Plate Tectonics, Volcanism, Erosion, Mountain Building
+│   ├── Inputs: Solar Energy, Internal Heat, Weathering Agents
+│   ├── Outputs: Landforms, Earthquakes, Mineral Cycles
+│   ├── Behaviors: Uplift, Subduction, Fragmentation
+│   └── Dependencies: Biosphere (soil formation), Hydrosphere (erosion), Atmosphere (weathering)
+
+├── 2. Atmosphere
+│   ├── Entities: Air Layers, Weather Systems, Greenhouse Gases
+│   ├── Processes: Convection, Radiation, Cloud Formation, Circulation
+│   ├── Inputs: Solar Radiation, Volcanic Emissions, Anthropogenic Gases
+│   ├── Outputs: Climate, Weather, Wind Currents
+│   ├── Behaviors: Oscillation (ENSO), Feedback Loops (greenhouse effects)
+│   └── Dependencies: Hydrosphere (evaporation), Biosphere (carbon exchange)
+
+├── 3. Hydrosphere
+│   ├── Entities: Oceans, Lakes, Rivers, Ice Caps, Groundwater
+│   ├── Processes: Evaporation, Precipitation, Runoff, Ice Melting
+│   ├── Inputs: Solar Energy, Rainfall, Glacial Movement
+│   ├── Outputs: Freshwater Flow, Ocean Currents, Flooding
+│   ├── Behaviors: Water Cycle, Thermal Circulation
+│   └── Dependencies: Atmosphere (weather), Geosphere (basins, runoff)
+
+├── 4. Biosphere
+│   ├── Entities: All Living Organisms (plants, animals, microbes)
+│   ├── Processes: Photosynthesis, Respiration, Decomposition, Evolution
+│   ├── Inputs: Sunlight, Water, Nutrients
+│   ├── Outputs: Biomass, Oxygen, Organic Matter
+│   ├── Behaviors: Adaptation, Biodiversity Cycles
+│   └── Dependencies: Geosphere (habitats), Atmosphere (gases), Hydrosphere (water)
+
+├── 5. Cryosphere
+│   ├── Entities: Glaciers, Ice Sheets, Permafrost, Snow
+│   ├── Processes: Freezing, Thawing, Glacial Flow, Ice Albedo Effect
+│   ├── Inputs: Atmospheric Temperature, Precipitation
+│   ├── Outputs: Sea-Level Change, Freshwater Storage
+│   ├── Behaviors: Retreat, Expansion, Feedback Loops
+│   └── Dependencies: Atmosphere (temperature), Hydrosphere (precipitation)
+
+├── 6. Anthroposphere (Human Systems)
+│   ├── Entities: Urban Areas, Infrastructure, Industry, Agriculture
+│   ├── Processes: Resource Extraction, Pollution, Land Use Change
+│   ├── Inputs: Natural Resources, Energy
+│   ├── Outputs: Waste, Emissions, Environmental Impact
+│   ├── Behaviors: Overexploitation, Innovation, Feedback Adaptation
+│   └── Dependencies: All other spheres (especially biosphere & geosphere)
+

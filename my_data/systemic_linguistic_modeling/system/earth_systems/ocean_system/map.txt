@@ -1,0 +1,58 @@
+Ocean_System
+├── Entities
+│   ├── Ocean Basins (Pacific, Atlantic, Indian, Arctic, Southern)
+│   ├── Surface Currents (Gulf Stream, Kuroshio, etc.)
+│   ├── Deep Ocean Circulation (Thermohaline Flow)
+│   ├── Marine Ecosystems (coral reefs, deep sea, coastal zones)
+│   ├── Sea Ice and Ice Shelves
+│   ├── Chemical Components (salinity, dissolved oxygen, pH)
+│   └── Human Activities (shipping, fishing, pollution)
+├── Inputs
+│   ├── Solar Energy (drives evaporation and currents)
+│   ├── River Inflows (freshwater, sediments, nutrients)
+│   ├── Atmospheric Gases (CO₂ absorption)
+│   ├── Glacial Melt and Ice Calving
+│   ├── Precipitation and Rainfall
+│   └── Anthropogenic Waste (plastics, chemicals)
+├── Outputs
+│   ├── Heat Redistribution (climate regulation)
+│   ├── Moisture Transfer (via evaporation)
+│   ├── Carbon Storage (deep ocean carbon sink)
+│   ├── Seafood and Marine Resources
+│   └── Feedback to Atmosphere (humidity, storm formation)
+├── Processes
+│   ├── Ocean Circulation (surface and deep)
+│   ├── Upwelling and Downwelling
+│   ├── Carbon Sequestration (biological pump)
+│   ├── Ocean-Atmosphere Interaction (ENSO, monsoons)
+│   ├── Salt and Nutrient Cycling
+│   └── Wave and Tidal Energy Exchange
+├── Repositories
+│   ├── Ocean Floor Sediments (climate archive)
+│   ├── Coral Reefs (biodiversity banks)
+│   ├── Marine Genetic Resources
+│   ├── Oil and Gas Reserves
+│   ├── Shipping Routes and Infrastructure
+│   └── Thermohaline Memory (long-term climate buffer)
+├── Modifiers
+│   ├── Climate Change (warming, acidification)
+│   ├── Volcanic Seafloor Activity
+│   ├── Marine Pollution and Overfishing
+│   ├── Sea Ice Extent and Freshwater Mixing
+│   ├── Ocean Exploitation Policies
+│   └── ENSO and Other Oscillations
+├── Dependencies
+│   ├── Solar Radiation (drives thermal gradients)
+│   ├── Atmospheric Winds (drives surface circulation)
+│   ├── Cryosphere (ice melt impacts salinity)
+│   ├── Biosphere (marine life, phytoplankton, reefs)
+│   └── Geosphere (seafloor spreading, basins)
+├── Behaviors
+│   ├── Feedback Loops (temperature → current shift → weather)
+│   ├── Adaptation (species migration, ecosystem shifts)
+│   ├── Homogenization (mixing of global waters)
+│   ├── Fragmentation (coral bleaching, dead zones)
+│   ├── Resilience (coral reef recovery, current rebalancing)
+│   ├── Rigidity (slow reversal of deep currents)
+│   └── Suppression (dampening of weather extremes)
+

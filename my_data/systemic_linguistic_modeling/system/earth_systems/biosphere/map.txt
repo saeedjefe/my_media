@@ -1,0 +1,51 @@
+Biosphere_System
+├── Entities
+│   ├── Plants (forests, grasslands, algae)
+│   ├── Animals (terrestrial, marine, airborne)
+│   ├── Microorganisms (bacteria, fungi, archaea)
+│   ├── Ecosystems (tundra, rainforest, coral reef)
+│   └── Biomes (savanna, desert, temperate forest)
+├── Inputs
+│   ├── Sunlight (photosynthesis)
+│   ├── Water and Nutrients (from soil, oceans)
+│   ├── Atmospheric Gases (CO₂, O₂)
+│   ├── Inter-species Interactions (pollination, predation)
+│   └── Human Interference (agriculture, deforestation)
+├── Outputs
+│   ├── Oxygen Production
+│   ├── Biomass Generation
+│   ├── Nutrient Cycling (carbon, nitrogen, phosphorus)
+│   ├── Biodiversity
+│   └── Ecosystem Services (pollination, filtration, habitat)
+├── Processes
+│   ├── Photosynthesis and Respiration
+│   ├── Evolution and Natural Selection
+│   ├── Succession and Colonization
+│   ├── Energy Flow (food chains, trophic levels)
+│   └── Decomposition and Regeneration
+├── Repositories
+│   ├── Genetic Diversity
+│   ├── Soil Seed Banks
+│   ├── Population Histories
+│   └── Ecological Knowledge (indigenous, scientific)
+├── Modifiers
+│   ├── Climate Change
+│   ├── Invasive Species
+│   ├── Habitat Destruction
+│   ├── Pollution
+│   ├── Fire Regimes
+│   └── Conservation Policies
+├── Dependencies
+│   ├── Atmosphere (for gases)
+│   ├── Hydrosphere (for water)
+│   ├── Geosphere (for nutrients and terrain)
+│   ├── Solar Input
+│   └── Anthroposphere (positive or negative impacts)
+├── Behaviors
+│   ├── Adaptation
+│   ├── Biodiversity Expansion or Collapse
+│   ├── Ecosystem Fragmentation
+│   ├── Emergence (new species, behaviors)
+│   ├── Resilience (ecosystem recovery)
+│   └── Homogenization (monoculture expansion)
+

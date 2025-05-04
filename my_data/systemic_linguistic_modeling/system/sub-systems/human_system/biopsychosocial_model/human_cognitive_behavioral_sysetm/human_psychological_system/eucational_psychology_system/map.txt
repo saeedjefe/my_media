@@ -1,0 +1,68 @@
+Educational_Psychology_System
+├── Entities
+│   └── Learners
+│       └── Learning Styles
+│           ├── Visual
+│           ├── Auditory
+│           ├── Kinesthetic
+│           └── Reading/Writing
+│       └── Cognitive Strengths
+│           ├── Logical-Mathematical
+│           ├── Verbal-Linguistic
+│           ├── Spatial
+│           └── Intrapersonal
+│       └── Motivation
+│           ├── Intrinsic Motivation
+│           ├── Extrinsic Motivation
+│           └── Goal Orientation (Mastery vs. Performance)
+├── Inputs
+│   └── Curriculum
+│   └── Instructional Design
+│   └── Learning Materials
+│   └── Assessments and Exams
+│   └── Feedback (Formative, Summative)
+│   └── Classroom Environment
+├── Outputs
+│   └── Skill Acquisition
+│   └── Conceptual Understanding
+│   └── Academic Achievement
+│   └── Critical Thinking
+│   └── Learning Retention
+│   └── Self-Regulated Learning
+├── Processes
+│   └── Active Learning
+│   └── Knowledge Construction
+│   └── Assessment and Evaluation
+│   └── Scaffolding and Differentiation
+│   └── Remediation and Acceleration
+│   └── Metacognitive Development
+├── Repositories
+│   └── Academic Records
+│   └── Learning Profiles and Portfolios
+│   └── Prior Knowledge and Schemas
+│   └── Educational Assessments
+├── Modifiers
+│   └── Teacher Effectiveness
+│   └── School Resources
+│   └── Family Background
+│   └── Peer Influence
+│   └── Cultural Attitudes Toward Education
+│   └── Learning Technologies
+├── Dependencies
+│   └── Cognitive Development Stage (e.g., Piaget, Vygotsky)
+│   └── Language Proficiency
+│   └── Emotional Regulation System
+│   └── Social Environment (classroom culture)
+│   └── Physical Health and Nutrition
+│   └── Educational Policy and Curriculum Standards
+├── Behaviors
+│   └── Engagement
+│       ├── Behavioral (participation, attendance)
+│       ├── Emotional (interest, enjoyment)
+│       └── Cognitive (strategy use, reflection)
+│   └── Mastery Orientation
+│   └── Performance Avoidance
+│   └── Surface vs. Deep Learning
+│   └── Self-Directed Learning
+│   └── Procrastination or Learned Helplessness
+
