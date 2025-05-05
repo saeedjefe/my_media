@@ -1,0 +1,40 @@
+What kind of bills do you have to pay?
+
+Public services are government outputs.
+Utilities are public services supplied by the government.
+Utilities are grouped into these categories: core utilities, communcation utilities, public infrustucture utilities, and environmental utilities.
+Core utilities comprise water supply, electricity, natural gas, swage and wastewater, and trash collection. 
+I have to pay directly for water supply, electricity, and natural gas. 
+Landline telephony, interent access, and mobile networks are recognized as distinct types within the broader classification of communicatio utilities.
+I also need to pay for these communcation utilities from time to time. 
+Landline telephony, internet access, and mobili networks are typically provided by private companies. 
+Public lighting, storm drianage, traffic systems, and public transport are considered subcateogries within the public infrustructure services.
+Money for these services are provided through government funding. 
+Government funding comes from tax revenues and non-tax revenues. 
+Tax revenues includes income tax, corporate tax, and also VAT.
+Non taxt re
+
+Environmental utilities consists mainly of recycling. 
+
+Utilities, which are grouped into core, communication, public infrustruture and environmental categories, are supplied by the goverment. 
+Core utilities comprise water supply, electricity, natural gass, swage and wastewater, and trash collection, among which I have to pay directly 
+for water supply, electricity, and natural gas. Similarly, I also need to pay for landline telephony, internet access, and mobile networks, eventhough
+these are typically provided by private companies. 
+
+
+
+
+
+
+Java format:
+
+Utilities are grouped into the following categories: core utilities, communication utilities, public infrastructor utilities, and environmental 
+utilities.
+Utilities are grouped into core, communication, public infrastructor, and environmental categoreies. 
+
+Core, communication, public infrastructor,and environmental utilities are calssified as subtypes of all utilities provided either by the 
+public or private sectors.
+ 
+Core, communication, public infrastructor, and environmental utilities are recognized as distinct types within the broader utility system. 
+Core, communication, public infrastructor, and environmental utilities are considered subcategories within the broader classifiaction of 
+supplied utilities. 

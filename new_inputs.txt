@@ -1,0 +1,11 @@
+Utilities are grouped into the following categories: core utilities, communication utilities, public infrastructor utilities, and environmental 
+utilities.
+Utilities are grouped into core, communication, public infrastructor, and environmental categoreies. 
+
+Core, communication, public infrastructor,and environmental utilities are calssified as subtypes of all utilities provided either by the 
+public or private sectors.
+ 
+Core, communication, public infrastructor, and environmental utilities are recognized as distinct types within the broader utility system. 
+Core, communication, public infrastructor, and environmental utilities are considered subcategories within the broader classifiaction of  
+supplied utilities. 
+

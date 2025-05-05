@@ -1,0 +1,68 @@
+Utility_System
+├── Entities
+│   ├── Core Utilities
+│   │   ├── Electricity
+│   │   ├── Water Supply
+│   │   ├── Natural Gas
+│   │   ├── Sewage and Wastewater
+│   │   ├── Trash Collection
+│   │   └── Heating/Cooling services
+│   ├── Communication Utilities
+│   │   ├── Landline Telephony
+│   │   ├── Internet Access
+│   │   ├── Mobile Networks
+│   │   └── Cable/Satellite TV
+│   ├── Public Infrastructure Utilities
+│   │   ├── Public Lighting
+│   │   ├── Storm Drainage
+│   │   ├── Traffic Systems
+│   │   └── Public Transport (if state-managed)
+│   └── Environmental Utilities
+│       ├── Recycling
+│       ├── Renewable Grid Tie-ins
+│       ├── Smart Energy Monitoring
+│       └── Green Water Systems
+├── Inputs
+│   ├── Energy (electricity, gas, solar)
+│   ├── Raw Water (surface, groundwater)
+│   ├── User Demand and Usage Patterns
+│   ├── Infrastructure and Maintenance Labor
+│   └── Government Regulation and Licensing
+├── Outputs
+│   ├── Delivered Utilities (water, electricity, etc.)
+│   ├── Data and Connectivity
+│   ├── Sanitation and Hygiene
+│   ├── Resource Conservation
+│   └── Public Safety and Accessibility
+├── Processes
+│   ├── Generation and Treatment (power, water, signal)
+│   ├── Distribution (pipelines, cables, roads)
+│   ├── Monitoring and Metering
+│   ├── Billing and Customer Service
+│   └── Emergency Maintenance and Repair
+├── Repositories
+│   ├── Utility Networks (pipes, cables, grids)
+│   ├── Consumption Data Records
+│   ├── Infrastructure Blueprints
+│   ├── Regulatory Databases
+│   └── Utility Provider Archives
+├── Modifiers
+│   ├── Weather and Climate Events
+│   ├── Technological Advancements
+│   ├── Market Prices (fuel, water rights)
+│   ├── Consumer Behavior
+│   └── Policy Shifts and Regulations
+├── Dependencies
+│   ├── Natural Resource Availability
+│   ├── Energy Systems
+│   ├── Urban Planning and Zoning
+│   ├── Environmental Regulations
+│   └── National Infrastructure and Funding
+├── Behaviors
+│   ├── Load Balancing (e.g. electricity demand)
+│   ├── Feedback Loops (usage → pricing)
+│   ├── Adaptation (climate-resilient upgrades)
+│   ├── Resilience (post-disaster recovery)
+│   ├── Emergence (smart city utilities)
+│   └── Fragmentation (service gaps, digital divide)
+

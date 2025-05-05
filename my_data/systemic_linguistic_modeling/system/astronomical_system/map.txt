@@ -1,0 +1,59 @@
+Astronomical_System
+├── Entities
+│   ├── Celestial Bodies
+│   │   ├── Planets (e.g., Earth, Mars, Jupiter)
+│   │   ├── Moons (e.g., Luna, Europa, Titan)
+│   │   ├── Stars (e.g., Sun, Red Dwarfs, Neutron Stars)
+│   │   ├── Asteroids and Comets
+│   │   ├── Galaxies and Nebulae
+│   │   └── Black Holes and Quasars
+│   ├── Space-Time Fabric
+│   ├── Cosmic Background Radiation
+│   └── Dark Matter / Dark Energy
+├── Inputs
+│   ├── Gravitational Forces
+│   ├── Nuclear Fusion (stellar cores)
+│   ├── Angular Momentum
+│   ├── Cosmic Microwave Background Energy
+│   └── External Impacts (collisions, gamma bursts)
+├── Outputs
+│   ├── Light and Radiation (visible, UV, infrared)
+│   ├── Heat and Particle Emissions
+│   ├── Gravitational Waves
+│   ├── Electromagnetic Fields
+│   └── Planetary Systems and Orbits
+├── Processes
+│   ├── Star Formation and Supernovae
+│   ├── Accretion and Orbit Stabilization
+│   ├── Cosmic Expansion (Hubble Flow)
+│   ├── Black Hole Formation and Merging
+│   ├── Galactic Evolution
+│   └── Planetary Weather and Geological Activity
+├── Repositories
+│   ├── Cosmic Dust and Debris Fields
+│   ├── Planetary Cores and Crusts
+│   ├── Orbital Data and Trajectories
+│   ├── Telescopic Archives and Astrophysical Databases
+│   └── Astronomical Observatories and Space Probes
+├── Modifiers
+│   ├── Supernova Events
+│   ├── Cosmic Radiation Fields
+│   ├── Gravitational Interactions
+│   ├── Solar Activity (flares, winds)
+│   ├── Dark Energy Expansion Pressure
+│   └── Technological Observation Limits
+├── Dependencies
+│   ├── Laws of Physics (Relativity, Quantum Mechanics)
+│   ├── Interstellar Medium
+│   ├── Particle and Wave Interactions
+│   ├── Galactic Gravitational Fields
+│   └── Human Observation Infrastructure (telescopes, satellites)
+├── Behaviors
+│   ├── Expansion (universe growth)
+│   ├── Collisions (galaxies, asteroids)
+│   ├── Orbit Stabilization and Decay
+│   ├── Emergence (new stars, planetary systems)
+│   ├── Fragmentation (asteroid fields, supernova debris)
+│   ├── Rigidity (gravity-bound systems)
+│   └── Feedback Loops (stellar radiation vs. planetary climate)
+
