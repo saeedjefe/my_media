@@ -4,7 +4,7 @@ Utility_System
 │   │   ├── Electricity
 │   │   ├── Water Supply
 │   │   ├── Natural Gas
-│   │   ├── Sewage and Wastewater
+│   │   ├── Sewage and Wastewater services
 │   │   ├── Trash Collection
 │   │   └── Heating/Cooling services
 │   ├── Communication Utilities
