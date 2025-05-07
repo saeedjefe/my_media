@@ -7,7 +7,7 @@ Government Inputs
 │    │    ├── Property Tax
 │    │    └── Customs Duties
 │    ├── Non-Tax Revenue
-│    │    ├── Service Fees (licenses, permits)
+│    │    ├── Service Fees (licenses, permits, utility bills)
 │    │    ├── Fines and Penalties
 │    │    └── Rental Income (government-owned properties)
 │    ├── Natural Resource Revenue

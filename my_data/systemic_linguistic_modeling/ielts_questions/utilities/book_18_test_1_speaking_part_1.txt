@@ -1,0 +1,70 @@
+at kind of bills do you have to pay?
+
+reasoning tree:
+Economic inputs are governemnt inputs.
+Non-tax revenues are economic inputs.
+Service fees are non-tax revenues.
+Bills are service fees. 
+
+reasoning tree: 
+Public services are government outputs.
+Infrastructure services are public services.
+Utilities are infrastrcture services.
+Utilities are grouped into these categories: core utilities, communcation utilities, public infrustucture
+utilities, and environmental utilities.
+
+
+
+
+Government inputs are required for its ouputs.
+Economic inputs are required for public services.
+No-tax revenues are required for infrastructure services.
+Service fees are required for utilities.
+Bills are requied for core utilities.
+Electricity bill is required for electricity.
+Water bill is required for water supply.
+Gas bill is required for natural gas. 
+
+
+
+result: 
+Non tax revenues generated through public fees help the economic equilibrium. 
+ 
+
+
+
+Core utilities comprise electricity, water supply, natural gas, garabage collection, and swage and wastewater services. 
+Landline telephony, internet access, mobile network are recognized as subcategories within the broader classification of communication utilities.
+Storm drianage, public lighting, and traffic systems fall into the category of public infrastructor utilities.
+Recycling, renewable grid, smart energy monitoring, and green water sysetms are considered distinct types within the domain of enviromenatal utilities.   
+
+
+Provision:
+Core, infrastructur, and environmental utilities are provided by the government.
+Communication utilities are typically provided by the private sector. 
+
+ 
+
+
+Residents are billed monthly. 
+Residents directly pay the bills for core and communcation utilities. 
+
+
+
+
+
+Individuals are social entities. 
+Residents are individuals.
+I am a resident. 
+
+
+Government is a systemic social entity.For a system to gain stability, there must be an equilibrium between its inputs and ouputs. 
+
+There are various public services provided, by the goverment, some of which require fees. These fees are classified as non-tax 
+revenues, which themselves are recognized as subcategories of economic inputs. However, the requirement to pay for these services does not apply
+to all types of utilities. Indeed, utilities could be grouped into core, communication, infrastructure, and environment categories, among which
+the payment for the core group, consisting mainly of electricity, water supply, natural gas, is direct, with residents billed monthly. For 
+this fiscal system to have stability, a balance beteen inputs and ouputs is a must. 
+
+
+

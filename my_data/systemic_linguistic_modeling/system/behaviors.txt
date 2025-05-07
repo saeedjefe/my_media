@@ -1,4 +1,3 @@
-
 Behaviors
 ├── Dynamics
 ├── Adaptability
@@ -17,8 +16,29 @@ Behaviors
 Behavior | Opposite Behavior
 Dynamics |  Statics
 Resilience | Vulnerability
-Social Cohesion | Fragmentation
+Cohesion | Fragmentation
 Homogenization | Heterogenization
 Assimilation | Pluralism
 Emergence | Suppression
 Entropy | Negentropy
+
+System_Behaviors
+├── Balance-Oriented Behaviors
+│   ├── Equilibrium ↔ Disequilibrium
+│   ├── Stability ↔ Disruption
+│   ├── Sustainability ↔ Unsustainability
+│   └── Homeostasis ↔ Dysregulation
+├── Change-Oriented Behaviors
+│   ├── Dynamics ↔ Statics
+│   ├── Adaptation ↔ Rigidity
+│   ├── Resilience ↔ Vulnerability
+│   └── Emergence ↔ Suppression
+├── Integration/Disintegration Behaviors
+│   ├── Cohesion ↔ Fragmentation
+│   ├── Homogenization ↔ Heterogenization
+│   ├── Assimilation ↔ Pluralism
+├── Feedback and Control Behaviors
+│   ├── Feedback Loops (positive, negative)
+│   ├── Repository Growth ↔ Resource Depletion
+│   └── Regulation ↔ Deregulation (or Chaos)
+ ---Goal
