@@ -1,0 +1,57 @@
+ELECTRICITY_UTILITY_SYSTEM
+│
+├── BOUNDARIES
+│   ├── Physical_Boundaries (grid reach, substations, microgrids)
+│   ├── Regulatory_Boundaries (market rules, tariffs, net metering)
+│   ├── Environmental_Boundaries (carbon intensity caps, renewable targets)
+│   └── Technological_Boundaries (grid interoperability, legacy systems)
+│
+├── ENTITIES
+│   ├── Grid_Operators
+│   ├── Power_Generation_Companies
+│   ├── Transmission_Operators (TSOs)
+│   ├── Distribution_Companies (DSOs)
+│   └── Regulatory_Commissions
+│
+├── REPOSITORIES
+│   ├── Power_Plants (thermal, hydro, solar, wind)
+│   ├── Substations and Transformers
+│   ├── Battery_Storage_Facilities
+│   └── Smart_Metering_Records
+│
+├── INPUTS
+│   ├── Fuel/Energy_Sources (coal, gas, solar, wind)
+│   ├── Grid_Stability_Data
+│   ├── Maintenance_Resources
+│   └── Customer_Fees
+│
+├── PROCESSES
+│   ├── Power_Generation
+│   ├── Voltage_Transformation
+│   ├── High-Voltage_Transmission
+│   ├── Local_Distribution
+│   └── Load_Balancing and Monitoring
+│
+├── OUTPUTS
+│   ├── Delivered_Electricity
+│   ├── Grid_Performance_Reports
+│   └── Billing and Consumption_Records
+│
+├── MODIFIERS
+│   ├── Peak_Demand_Fluctuations
+│   ├── Renewable_Energy_Variability
+│   ├── Infrastructure_Age
+│   └── Weather_Conditions
+│
+├── DEPENDENCIES
+│   ├── Fuel_Supply (for fossil-based plants)
+│   ├── Real-Time_Control_Systems
+│   ├── Cybersecurity_Safeguards
+│   └── Regulatory_Frameworks
+│
+└── GOALS
+    ├── Uninterrupted_Supply
+    ├── Grid_Stability
+    ├── Sustainability
+    └── Cost_Effectiveness
+

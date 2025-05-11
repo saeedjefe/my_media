@@ -1,0 +1,56 @@
+GAS_UTILITY_SYSTEM
+│
+├── BOUNDARIES
+│   ├── Physical_Boundaries (pipeline networks, storage terminals)
+│   ├── Regulatory_Boundaries (national energy laws, emission caps)
+│   ├── Market_Boundaries (price controls, import/export regulations)
+│   └── Environmental_Boundaries (methane leakage thresholds, safety zones)
+│
+├── ENTITIES
+│   ├── Gas_Distribution_Companies
+│   ├── Pipeline_Operators
+│   ├── Storage_Facility_Managers
+│   └── Energy_Regulators
+│
+├── REPOSITORIES
+│   ├── Natural_Gas_Reserves
+│   ├── Storage_Facilities (Underground, LNG Tanks)
+│   ├── Pipeline_Networks
+│   └── Consumption_Logs / Smart Meters
+│
+├── INPUTS
+│   ├── Natural_Gas (from producers or imports)
+│   ├── Energy (for compression and control systems)
+│   ├── Financial_Resources (capital, consumer fees)
+│   └── Monitoring_Data
+│
+├── PROCESSES
+│   ├── Gas_Extraction_and_Import
+│   ├── Compression and Pressure_Regulation
+│   ├── Odorization (for safety)
+│   ├── Transmission and Distribution
+│   └── Metering and Billing
+│
+├── OUTPUTS
+│   ├── Delivered_Natural_Gas (to homes/businesses)
+│   ├── Emission_Reports
+│   └── Usage_Data (billing, planning)
+│
+├── MODIFIERS
+│   ├── Seasonal_Demand
+│   ├── Pipeline_Integrity
+│   ├── Market_Pricing
+│   └── Regulatory_Changes
+│
+├── DEPENDENCIES
+│   ├── Global_Market_Supply
+│   ├── National_Grid_Connections
+│   ├── Infrastructure_Condition
+│   └── Emergency_Response_Capacity
+│
+└── GOALS
+    ├── Safe_Delivery
+    ├── Demand_Responsiveness
+    ├── Emissions_Control
+    └── Economic_Efficiency
+

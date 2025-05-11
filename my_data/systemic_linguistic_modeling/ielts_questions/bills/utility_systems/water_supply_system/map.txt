@@ -1,0 +1,62 @@
+WATER_UTILITY_SYSTEM
+│
+├── BOUNDARIES
+│   ├── Physical_Boundaries (catchment areas, treatment capacity limits)
+│   ├── Regulatory_Boundaries (water quality standards, pricing policies)
+│   ├── Institutional_Boundaries (jurisdictional overlaps, local authorities)
+│   └── Environmental_Boundaries (drought limits, aquifer recharge rates)
+│
+├── ENTITIES
+│   ├── Water_Utility_Operators
+│   ├── Treatment_Facility_Managers
+│   ├── Infrastructure_Contractors
+│   └── Regulatory_Agencies
+│
+├── REPOSITORIES
+│   ├── Natural_Water_Sources
+│   │   ├── Reservoirs
+│   │   ├── Lakes/Rivers
+│   │   └── Aquifers
+│   ├── Treated_Water_Storage
+│   │   ├── Elevated_Tanks
+│   │   └── Pressurized_Reservoirs
+│   └── Digital_Usage_Records
+│
+├── INPUTS
+│   ├── Raw_Water
+│   ├── Energy (for pumping, treatment)
+│   ├── Chemicals (chlorine, coagulants)
+│   ├── Labor and Technical_Services
+│   └── Service_Fees (from users)
+│
+├── PROCESSES
+│   ├── Water_Abstraction
+│   ├── Treatment
+│   │   ├── Coagulation & Filtration
+│   │   └── Disinfection
+│   ├── Storage & Pressurization
+│   └── Distribution via Utility_Networks
+│
+├── OUTPUTS
+│   ├── Potable_Water (to consumers)
+│   ├── Usage_Data (for billing and planning)
+│   └── Service_Reports
+│
+├── MODIFIERS
+│   ├── Seasonal_Variability (rainfall, drought)
+│   ├── Infrastructure_Age
+│   ├── Urban_Growth
+│   └── Consumer_Behavior (e.g., conservation)
+│
+├── DEPENDENCIES
+│   ├── Electricity_Grid
+│   ├── ICT_Systems (for metering and control)
+│   ├── Maintenance_Capabilities
+│   └── Regulatory_Approval
+│
+└── GOALS
+    ├── Safe and Equitable_Water_Access
+    ├── System_Reliability and Efficiency
+    ├── Financial_Sustainability
+    └── Compliance_with_Quality_Standards
+

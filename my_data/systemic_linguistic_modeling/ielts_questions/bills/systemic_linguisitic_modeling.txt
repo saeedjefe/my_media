@@ -1,0 +1,80 @@
+
+
+reasoning tree:
+Economic inputs are governemnt inputs.
+Non-tax revenues are economic inputs.
+Service fees are non-tax revenues.
+Bills are service fees.
+Utility bills are grouped into these categories: the water bill, the electricity bill, the gas bill
+
+
+reasoning tree:
+Public services are government outputs.
+Infrastructure services are public services.
+Utilities are infrastrcture services.
+
+composition & decomposition
+Utilities are grouped into these categories: core utilities, communcation utilities, public infrustucture
+utilities, and environmental utilities.
+core utilities comprise drinking water, natural gas, and electricity supply and waterwater services.
+
+reasoning tree:
+Social inputs are government inputs.
+behavioral inputs are social inputs.
+usage patterns(consumer behavior) are behavioral inputs.
+
+composition & decomposition:
+energy conservation, watse reducation, and sustainable practices, and the participation in comminunity initiatives
+are classified under behavioral inputs.
+
+
+composition and decomposition: 
+Basic needs are grouped into food, water, air, shelter, saniation, and sleep. 
+
+Dependency_reasoning tree:
+nominalized:
+the dependence of a government's system on its inputs
+the dependence of public service systems on economic inputs
+the dependence of infrastructure service systems on non-tax revenues
+the dependence of water supply systems on bill payments
+the dependence of  electricity supply systems on bill payments
+the dependence of  gas supply systems on bill payments
+
+
+
+
+
+
+means:
+mandatory contributions
+volunatry contributions
+
+
+
+reasoning tree:
+mandatory contributions:
+utilitiy bills
+
+
+
+voluntary contributions:
+consumer behavior
+
+
+purpose:
+the consistent delivery of essential services 
+the fulfillment of citizens' basic needs
+ 
+
+results:
+the fulfillment of citizens' basic needs
+the steady flow of funding
+social stability
+sustainable development
+the optimization of service management
+
+
+
+
+
+

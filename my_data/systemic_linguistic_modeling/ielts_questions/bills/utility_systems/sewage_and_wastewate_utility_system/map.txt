@@ -1,0 +1,56 @@
+SEWAGE_UTILITY_SYSTEM
+│
+├── BOUNDARIES
+│   ├── Physical_Boundaries (sewer service zones, treatment plant capacity)
+│   ├── Regulatory_Boundaries (effluent discharge limits, health standards)
+│   ├── Environmental_Boundaries (watershed protection, flood plains)
+│   └── Institutional_Boundaries (municipal vs. regional responsibility)
+│
+├── ENTITIES
+│   ├── Municipal_Wastewater_Authorities
+│   ├── Treatment_Operators
+│   ├── Infrastructure_Inspectors
+│   └── Environmental_Regulators
+│
+├── REPOSITORIES
+│   ├── Sewer_Networks
+│   ├── Collection_Stations
+│   ├── Treatment_Plants
+│   └── Monitoring_Records
+│
+├── INPUTS
+│   ├── Domestic_Wastewater
+│   ├── Industrial_Effluent
+│   ├── Rainwater_Runoff (combined systems)
+│   ├── Electricity (for pumping & treatment)
+│   └── Monitoring_Data
+│
+├── PROCESSES
+│   ├── Collection (via sewer infrastructure)
+│   ├── Transportation (gravity & pumps)
+│   ├── Treatment (primary, secondary, tertiary)
+│   └── Disposal or Reuse (discharge, irrigation)
+│
+├── OUTPUTS
+│   ├── Treated_Effluent
+│   ├── Sludge (for disposal or reuse)
+│   └── Compliance_Reports
+│
+├── MODIFIERS
+│   ├── Rainfall_Events (infiltration/inflow)
+│   ├── Industrial_Discharge_Quality
+│   ├── Infrastructure_Age
+│   └── Climate_Change
+│
+├── DEPENDENCIES
+│   ├── Energy_Supply
+│   ├── Public_Participation (proper disposal habits)
+│   ├── Real-Time_Monitoring_Tech
+│   └── Legal_Compliance_Support
+│
+└── GOALS
+    ├── Public_Health_Protection
+    ├── Environmental_Sustainability
+    ├── Regulatory_Compliance
+    └── Infrastructure_Longevity
+

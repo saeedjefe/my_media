@@ -25,7 +25,7 @@ Utility_System
 ├── Inputs
 │   ├── Energy (electricity, gas, solar)
 │   ├── Raw Water (surface, groundwater)
-│   ├── User Demand and Usage Patterns
+│   ├── User Demand and Usage Patterns(consumer behavior)
 │   ├── Infrastructure and Maintenance Labor
 │   └── Government Regulation and Licensing
 ├── Outputs
