@@ -4,14 +4,19 @@ reasoning tree:
 Economic inputs are governemnt inputs.
 Non-tax revenues are economic inputs.
 Service fees are non-tax revenues.
-Bills are service fees.
-Utility bills are grouped into these categories: the water bill, the electricity bill, the gas bill
+Utility payments are service fees.
 
+
+bills are means!!!!
 
 reasoning tree:
 Public services are government outputs.
 Infrastructure services are public services.
-Utilities are infrastrcture services.
+essential services are infrastrcture services.
+ utilities are essential services.
+
+essential services fulfill basic needs
+
 
 composition & decomposition
 Utilities are grouped into these categories: core utilities, communcation utilities, public infrustucture
@@ -24,7 +29,7 @@ behavioral inputs are social inputs.
 usage patterns(consumer behavior) are behavioral inputs.
 
 composition & decomposition:
-energy conservation, watse reducation, and sustainable practices, and the participation in comminunity initiatives
+energy conservation, watse reducation,  sustainable practices, and the participation in comminunity initiatives
 are classified under behavioral inputs.
 
 
@@ -33,12 +38,12 @@ Basic needs are grouped into food, water, air, shelter, saniation, and sleep.
 
 Dependency_reasoning tree:
 nominalized:
-the dependence of a government's system on its inputs
-the dependence of public service systems on economic inputs
-the dependence of infrastructure service systems on non-tax revenues
-the dependence of water supply systems on bill payments
-the dependence of  electricity supply systems on bill payments
-the dependence of  gas supply systems on bill payments
+the dependence of  ouputs on inputs
+the dependence of public services on economic inputs
+the dependence of infrastructure services on non-tax revenues
+the dependence of water supply on the water bill(bill payments)
+the dependence of  electricity supply  on the electricity bill(bill payments)
+the dependence of  gas supply  on the gas bill(bill payments)
 
 
 
@@ -53,7 +58,12 @@ volunatry contributions
 
 reasoning tree:
 mandatory contributions:
-utilitiy bills
+utility payments
+timely payments
+
+
+means:
+bills
 
 
 
@@ -63,7 +73,7 @@ consumer behavior
 
 purpose:
 the consistent delivery of essential services 
-the fulfillment of citizens' basic needs
+
  
 
 results:
@@ -73,8 +83,11 @@ social stability
 sustainable development
 the optimization of service management
 
+subject:a goverment
 
 
-
-
+A government relies on both mandatory and voluntary contributions for the consistent delivery of pulblic 
+services. For examle, the consistent delivery of infrastructure services  depends on utility payments and consumer 
+behavior. In other words, unless  water, electricity, and gas bills are paid, the government cannot provide 
+these services 
 

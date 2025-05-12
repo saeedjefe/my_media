@@ -1,13 +1,13 @@
 Utility_System
 ├── Entities
-│   ├── Core Utilities
+│   ├── essential Utilities
 │   │   ├── Electricity
 │   │   ├── Water Supply
 │   │   ├── Natural Gas
 │   │   ├── Sewage and Wastewater services
 │   │   ├── Trash Collection
 │   │   └── Heating/Cooling services
-│   ├── Communication Utilities
+│   ├── telecommunication services
 │   │   ├── Landline Telephony
 │   │   ├── Internet Access
 │   │   ├── Mobile Networks
