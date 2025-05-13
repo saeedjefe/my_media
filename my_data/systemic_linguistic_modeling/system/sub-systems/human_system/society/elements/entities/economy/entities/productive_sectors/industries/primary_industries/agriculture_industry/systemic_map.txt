@@ -1,107 +1,100 @@
-etgriculture System
-├── Entities
-│   ├── Farmers
-│   ├── Agricultural Technicians
-│   ├── Agri-businesses
-│   ├── Livestock
-│   ├── Crops
-│   └── Aquatic Organisms
-├── Inputs
-│   ├── Soil and Land Resources
-│   ├── Water and Irrigation
-│   ├── Seeds and Breeding Stock
-│   ├── Fertilizers and Pesticides
-│   ├── Agricultural Equipment
-│   ├── Labor and Knowledge
-│   └── Capital Investment
-├── Outputs
-│   ├── Animal Products (Meat, Dairy, Eggs)
-│   ├── Crops and Grains
-│   ├── Aquatic Products (Fish, Shellfish, Seaweed)
-│   ├── Oils (Vegetable, Animal, Seed, Fruit)
-│   ├── Fibers (Cotton, Wool)
-│   └── Herbs and Spices
-├── Repositories
-│   ├── Seed Banks
-│   ├── Soil Fertility
-│   ├── Genetic Stocks (Livestock and Crops)
-│   ├── Farming Knowledge and Practices
-│   └── Agricultural Infrastructure
-├── Modifiers
-│   ├── Climate Conditions
-│   ├── Technological Innovations
-│   ├── Policy and Subsidies
-│   ├── Market Demand
-│   └── Environmental Change
-├── Boundaries
-│   ├── Land Availability
-│   ├── Water Access Rights
-│   ├── Agricultural Zones and Regulations
-│   └── Seasonality
-├── Processes
-│   ├── Input Acquisition – seed sourcing, irrigation setup, animal procurement
-│   ├── Internal Transformation – planting, breeding, feeding, fertilizing
-│   ├── Output Production – harvesting, milking, collecting, processing
-│   ├── Feedback Reception – yield tracking, soil analysis, weather response
-│   ├── Maintenance – crop rotation, soil care, disease control
-│   ├── Growth and Development – crop growth, livestock rearing
-│   ├── Emergence – new crop strains, farming models
-│   ├── Replication – farm scaling, greenhouse replication
-│   ├── Dissolution – farm abandonment, land degradation
-│   └── Distribution – market delivery, exports, co-op sharing
-├── Behaviors (Systemic)
-│   ├── Adaptation – climate-resilient practices, organic shifts
-│   ├── Resilience – drought tolerance, pest resistance
-│   ├── Fragmentation – monoculture dominance, loss of biodiversity
-│   ├── Homogenization – GMO standardization
-│   ├── Feedback Loops – supply-demand response, soil nutrient cycling
-│   ├── Repository Growth – agrotechnical expertise accumulation
-│   └── Entropy – soil exhaustion, genetic erosion
-├── Subsystems
-│   ├── Farming
-│   │   ├── Animal Husbandry
-│   │   │   ├── Sheep Farming
-│   │   │   ├── Cattle Farming
-│   │   │   └── Poultry Farming
-│   │   ├── Aquatic Production
-│   │   │   ├── Aquatic Farming
-│   │   │   │   ├── Fish Farming
-│   │   │   │   ├── Shellfish Farming
-│   │   │   │   ├── Seaweed Farming
-│   │   │   │   ├── Crustacean Farming
-│   │   │   │   │   ├── Shrimp
-│   │   │   │   │   ├── Crab
-│   │   │   │   │   └── Lobster
-│   │   │   │   └── Mollusk Farming
-│   │   │   │       ├── Oyster
-│   │   │   │       ├── Mussel
-│   │   │   │       └── Clam
-│   │   │   └── Wild-Caught Harvesting
-│   │   └── Crop Farming
-│   │       ├── Cereal Crops (Wheat, Rice, Maize)
-│   │       ├── Vegetables
-│   │       │   ├── Leafy Greens (Spinach, Lettuce, Kale, Swiss Chard)
-│   │       │   ├── Cruciferous (Broccoli, Cauliflower, Cabbage, Brussels Sprouts)
-│   │       │   ├── Seeded (Tomato, Cucumber, Okra, Pumpkin, Bell Pepper, Zucchini)
-│   │       │   ├── Tuberous (Carrot, Beetroot, Radish, Turnip)
-│   │       │   ├── Stem Vegetables (Celery, Asparagus, Rhubarb, Kohlrabi)
-│   │       │   └── Nightshades (Eggplant, Tomato, Bell Pepper, Potato)
-│   │       ├── Fruit Orchards (Apple, Orange)
-│   │       ├── Legumes (Soybean, Lentil, Chickpea, Pea, Black Bean, Kidney Bean)
-│   │       ├── Tubers (Potato, Cassava)
-│   │       ├── Oilseeds (Sunflower, Canola)
-            └── **Nuts**
-                 ├──Almond  
-                 ├── Walnut  
-                 ├── Pistachio  
-                 ├── Cashew  
-                 ├── Hazelnut  
-                 └── Macadamia  
-│   │       ├── Industrial Crops (Cotton, Tobacco)
-│   │       └── Herbs (Basil, Parsley, Coriander, Mint, Thyme, Turmeric, Cinnamon, Black Pepper)
-│   └── Oils
-│       ├── Vegetable Oils (Corn Oil, Canola Oil, Soybean Oil)
-│       ├── Fruit Oils (Olive Oil, Avocado Oil, Coconut Oil, Palm Oil)
-│       ├── Animal Fats (Lard, Tallow, Butter, Ghee, Fish Oil)
-│       └── Seed Oils (Flaxseed, Sesame, Sunflower, Black Seed, Almond, Chia Seed)
+1 Agriculture System
+2 ├── Entities
+3 │   ├── Farmers
+4 │   ├── Agricultural Technicians
+5 │   ├── Agri-businesses
+6 │   ├── Livestock
+7 │   ├── Crops
+8 │   └── Aquatic Organisms
+9 ├── Inputs
+10 │   ├── Soil and Land Resources
+11 │   ├── Water and Irrigation
+12 │   ├── Seeds and Breeding Stock
+13 │   ├── Fertilizers and Pesticides
+14 │   ├── Agricultural Equipment
+15 │   ├── Labor and Knowledge
+16 │   └── Capital Investment
+17 ├── Outputs
+18 │   ├── Animal Products (Meat, Dairy, Eggs)
+19 │   ├── Crops and Grains
+20 │   ├── Aquatic Products (Fish, Shellfish, Seaweed)
+21 │   ├── Oils (Vegetable, Animal, Seed, Fruit)
+22 │   ├── Fibers (Cotton, Wool)
+23 │   └── Herbs and Spices
+24 ├── Repositories
+25 │   ├── Seed Banks
+26 │   ├── Soil Fertility
+27 │   ├── Genetic Stocks (Livestock and Crops)
+28 │   ├── Farming Knowledge and Practices
+29 │   └── Agricultural Infrastructure
+30 ├── Modifiers
+31 │   ├── Climate Conditions
+32 │   ├── Technological Innovations
+33 │   ├── Policy and Subsidies
+34 │   ├── Market Demand
+35 │   └── Environmental Change
+36 ├── Boundaries
+37 │   ├── Land Availability
+38 │   ├── Water Access Rights
+39 │   ├── Agricultural Zones and Regulations
+40 │   └── Seasonality
+41 ├── Processes
+42 │   ├── Input Acquisition – seed sourcing, irrigation setup, animal procurement
+43 │   ├── Internal Transformation – planting, breeding, feeding, fertilizing
+44 │   ├── Output Production – harvesting, milking, collecting, processing
+45 │   ├── Distribution – market delivery, exports, co-op sharing
+46 │   ├── Feedback Reception – yield tracking, soil analysis, weather response
+47 │   ├── Modification – switching crops, new techniques, policy adjustments
+48 │   ├── Maintenance – crop rotation, soil care, disease control
+49 │   ├── Growth – crop development, livestock fattening, aquaculture expansion
+50 │   ├── Dissolution – farm abandonment, land degradation
+51 │   ├── Replication – farm scaling, greenhouse replication
+52 │   └── Emergence – new crop strains, farming models
+53 ├── Behaviors (Systemic)
+54 │   ├── Adaptation – climate-resilient practices, organic shifts
+55 │   ├── Resilience – drought tolerance, pest resistance
+56 │   ├── Fragmentation – monoculture dominance, loss of biodiversity
+57 │   ├── Homogenization – GMO standardization
+58 │   ├── Feedback Loops – supply-demand response, soil nutrient cycling
+59 │   ├── Repository Growth – agrotechnical expertise accumulation
+60 │   └── Entropy – soil exhaustion, genetic erosion
+61 ├── Goals
+62 │   ├── Food Security
+63 │   ├── Sustainable Yield
+64 │   ├── Rural Development
+65 │   ├── Economic Contribution
+66 │   └── Biodiversity Preservation
+67 ├── Subsystems
+68 │   ├── Farming
+69 │   │   ├── Animal Husbandry
+70 │   │   │   ├── Sheep Farming
+71 │   │   │   ├── Cattle Farming
+72 │   │   │   └── Poultry Farming
+73 │   │   ├── Aquatic Production
+74 │   │   │   ├── Aquatic Farming
+75 │   │   │   │   ├── Fish Farming
+76 │   │   │   │   ├── Shellfish Farming
+77 │   │   │   │   ├── Seaweed Farming
+78 │   │   │   │   ├── Crustacean Farming
+79 │   │   │   │   │   ├── Shrimp
+80 │   │   │   │   │   ├── Crab
+81 │   │   │   │   │   └── Lobster
+82 │   │   │   │   └── Mollusk Farming
+83 │   │   │   │       ├── Oyster
+84 │   │   │   │       ├── Mussel
+85 │   │   │   │       └── Clam
+86 │   │   │   └── Wild-Caught Harvesting
+87 │   │   └── Crop Farming
+88 │   │       ├── Cereal Crops (Wheat, Rice, Maize)
+89 │   │       ├── Vegetables
+90 │   │       │   ├── Leafy Greens (Spinach, Lettuce, Kale, Swiss Chard)
+91 │   │       │   ├── Cruciferous (Broccoli, Cauliflower, Cabbage, Brussels Sprouts)
+92 │   │       │   ├── Seeded (Tomato, Cucumber, Okra, Pumpkin, Bell Pepper, Zucchini)
+93 │   │       │   ├── Tuberous (Carrot, Beetroot, Radish, Turnip)
+94 │   │       │   ├── Stem Vegetables (Celery, Asparagus, Rhubarb, Kohlrabi)
+95 │   │       │   └── Nightshades (Eggplant, Tomato, Bell Pepper, Potato)
+96 │   │       ├── Fruit Orchards (Apple, Orange)
+97 │   │       ├── Legumes (Soybean, Lentil, Chickpea, Pea, Black Bean, Kidney Bean)
+98 │   │       ├── Tubers (Potato, Cassava)
+99 │   │       ├── Oilseeds (Sunflower, Canola)
 

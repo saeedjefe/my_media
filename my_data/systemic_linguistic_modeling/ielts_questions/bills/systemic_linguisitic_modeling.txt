@@ -13,15 +13,21 @@ reasoning tree:
 Public services are government outputs.
 Infrastructure services are public services.
 essential services are infrastrcture services.
- utilities are essential services.
+utilities are essential services.
+
+
+reasoning tree:
+distribution
+delivery
+
 
 essential services fulfill basic needs
 
 
 composition & decomposition
-Utilities are grouped into these categories: core utilities, communcation utilities, public infrustucture
+Utilities are grouped into these categories: essential utilities, communcation utilities, public infrustucture
 utilities, and environmental utilities.
-core utilities comprise drinking water, natural gas, and electricity supply and waterwater services.
+essential utilities comprise drinking water, natural gas, and electricity supply and waterwater services.
 
 reasoning tree:
 Social inputs are government inputs.
@@ -72,6 +78,7 @@ consumer behavior
 
 
 purpose:
+the consistent distribution of essential services 
 the consistent delivery of essential services 
 
  
@@ -85,9 +92,4 @@ the optimization of service management
 
 subject:a goverment
 
-
-A government relies on both mandatory and voluntary contributions for the consistent delivery of pulblic 
-services. For examle, the consistent delivery of infrastructure services  depends on utility payments and consumer 
-behavior. In other words, unless  water, electricity, and gas bills are paid, the government cannot provide 
-these services 
 

@@ -23,4 +23,6 @@ Repositories
 │    ├── Professional Registries (Doctors, Engineers, Teachers)
 │    ├── Veteran and Military Service Records
 │    └── Talent Databases for Governance
+Strategic Resource Reserves – oil, grain, metals, etc.
+
 

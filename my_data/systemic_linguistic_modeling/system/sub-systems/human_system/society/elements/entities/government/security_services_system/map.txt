@@ -1,0 +1,74 @@
+Security_Services_System
+├── Entities
+│   ├── Police Departments
+│   ├── National Guard / Military Units
+│   ├── Intelligence Agencies
+│   ├── Judicial System (courts, prosecutors)
+│   ├── Emergency Services (fire, ambulance coordination)
+│   └── Community Watch & NGOs
+├── Inputs
+│   ├── Public Reports & 911 Calls
+│   ├── Intelligence Feeds
+│   ├── Legal Frameworks & Mandates
+│   ├── Budget Allocations
+│   └── Surveillance Data
+├── Outputs
+│   ├── Crime Prevention & Reduction
+│   ├── Incident Reports
+│   ├── Law Enforcement Actions (arrests, citations)
+│   ├── Community Safety Metrics
+│   └── Legal Proceedings
+├── Goals
+│   ├── Public Safety
+│   ├── Rule of Law
+│   ├── Crime Deterrence
+│   └── Social Order
+├── Repositories
+│   ├── Criminal Databases
+│   ├── Surveillance Archives
+│   ├── Case Files and Evidence Storage
+│   └── Legal Records
+├── Modifiers
+│   ├── Political Influence
+│   ├── Technological Advancements
+│   ├── Public Opinion
+│   ├── Media Framing
+│   └── Legal Reform
+├── Boundaries
+│   ├── Jurisdictional Limits
+│   ├── Inter-agency Coordination Protocols
+│   ├── Civil Rights and Liberties
+│   └── Ethical Constraints
+├── Processes
+│   ├── Input Acquisition
+│   │   ├── Surveillance & Crime Reporting
+│   │   ├── Public Witness Accounts
+│   │   └── Intelligence Gathering
+│   ├── Transformation
+│   │   ├── Analysis of Threats
+│   │   ├── Legal Classification (e.g., crime types)
+│   │   └── Strategic Planning for Response
+│   ├── Distribution
+│   │   ├── Deployment of Officers
+│   │   ├── Dispatch & Patrol Routing
+│   │   └── Information Sharing with Agencies
+│   ├── Feedback Loop
+│   │   ├── Community Policing Feedback
+│   │   ├── Internal Review Boards
+│   │   └── Complaint Systems
+│   ├── Modification
+│   │   ├── Policy Revisions
+│   │   └── Tactical Adjustments
+│   ├── Maintenance
+│   │   ├── Equipment & Facilities Maintenance
+│   │   └── Training Updates
+│   ├── Growth
+│   │   ├── Expansion of Jurisdiction
+│   │   └── New Unit Creation (e.g., cybercrime)
+│   ├── Dissolution
+│   │   ├── Disbanding Units (e.g., due to reform)
+│   │   └── Sunset of outdated practices
+│   └── Replication
+│       ├── Cadet Training Academies
+│       └── Procedural Standardization
+
