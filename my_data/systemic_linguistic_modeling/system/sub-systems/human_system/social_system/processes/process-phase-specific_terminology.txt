@@ -1,0 +1,76 @@
+Systemic Processes
+├── Input Acquisition
+│   ├── Sourcing
+│   ├── Procurement
+│   ├── Logistics
+│   ├── Recruitment
+│   ├── Intake
+│   └── Onboarding
+├── Internal Transformation
+│   ├── Processing
+│   ├── Assembly
+│   ├── Calibration
+│   ├── Conversion
+│   ├── Configuration
+│   └── Integration
+├── Output Production
+│   ├── Manufacturing
+│  
+│   ├── Service Execution
+│   ├── Packaging
+│  
+│   └── Release
+├── Distribution
+│   ├── Allocation
+│   ├── Routing
+│   ├── Dispatch
+│   ├── Channeling
+│   ├── Export
+│   └── Outreach
+    ├── Dissemination
+    ├── Delivery	
+├── Feedback Reception
+│   ├── Monitoring
+│   ├── Evaluation
+│   ├── Inspection
+│   ├── Audit
+│   ├── Feedback Collection
+│   └── Reporting
+├── Modification
+│   ├── Adjustment
+│   ├── Calibration
+│   ├── Tuning
+│   ├── Reform
+│   ├── Reconfiguration
+│   └── Adaptation
+├── Maintenance
+│   ├── Upkeep
+│   ├── Inspection
+│   ├── Repair
+│   ├── Servicing
+│   ├── Renewal
+│   └── Cleaning
+├── Growth & Development
+│   ├── Scaling
+│   ├── Capacity Building
+│   ├── Optimization
+│   ├── Expansion
+│   └── Maturation
+├── Emergence
+│   ├── Innovation
+│   ├── Formation
+│   ├── Hybridization
+│   └── Spontaneous Organization
+├── Replication
+│   ├── Duplication
+│   ├── Cloning
+│   ├── Franchising
+│   ├── Reproduction
+│   └── Proliferation
+├── Dissolution
+│   ├── Decommissioning
+│   ├── Phasing Out
+│   ├── Dismantling
+│   ├── Disintegration
+│   └── Retirement
+

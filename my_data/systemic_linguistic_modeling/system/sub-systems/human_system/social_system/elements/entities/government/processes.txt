@@ -11,22 +11,36 @@ Government Core Processes
 │    ├── Regulation Drafting
 │    ├── Strategic Planning (long-term programs)
 │    ├── Organizational Management (ministries, agencies)
-├── Output Production
-│    ├── Delivery of Public Services
-│    │    ├── Education
-│    │    ├── Healthcare
-│    │    ├── Social Welfare (e.g., Retirement Support)
-│    │    ├── Security (police, military)
-│    │    └── Infrastructure (roads, water, public transport)
-│    ├── Creation and Enforcement of Laws
-│    ├── Investment in Public Goods
-│    ├── Diplomatic Engagements
-│    └── Cultural Promotion (festivals, heritage protection)
-├── Distribution
-│    ├── Resource Redistribution (social transfers, grants)
-│    ├── Service Delivery (healthcare, education)
-│    ├── Infrastructure Access (roads, electricity, water)
-│    ├── Regulatory Distribution (laws applied across regions)
+14 ├── Output Production
+15 │    ├── Creation of Public Services
+16 │    │    ├── Education Programs
+17 │    │    ├── Healthcare Services
+18 │    │    ├── Social Welfare Schemes (e.g., Retirement, Unemployment Support)
+19 │    │    ├── Security Frameworks (Police, Military Readiness)
+20 │    │    └── Infrastructure Assets (Constructed Roads, Water Systems, Public Transport Facilities)
+21 │    ├── Legal and Policy Outputs
+22 │    │    ├── Drafting and Enactment of Laws
+23 │    │    └── Regulatory Frameworks
+24 │    ├── Public Goods Development
+25 │    │    ├── Environmental Conservation Projects
+26 │    │    └── National Research Initiatives
+27 │    ├── Diplomatic Instruments
+28 │    │    ├── Treaties
+29 │    │    └── International Agreements
+30 │    └── Cultural and Heritage Materials
+31 │         ├── Cultural Artifacts and Exhibitions
+32 │         └── Festival Programs and Heritage Documentation
+
+33 ├── Distribution
+34 │    ├── Delivery of Education (Schools, Online Platforms)
+35 │    ├── Delivery of Healthcare (Clinics, Hospitals, Mobile Units)
+36 │    ├── Disbursement of Social Welfare (Pensions, Subsidies)
+37 │    ├── Law Enforcement Deployment (Police Services)
+38 │    ├── Military Deployment and Readiness
+39 │    ├── Infrastructure Utilization (Operational Roads, Transport Access)
+40 │    ├── Access to Public Goods (Library Access, Clean Air)
+41 │    ├── Implementation of Diplomatic Engagements (Embassies, Missions)
+42 │    └── Cultural Participation (Public Festivals, Community Events)
 ├── Feedback Reception
 │    ├── Public Opinion Surveys
 │    ├── Election Results Analysis

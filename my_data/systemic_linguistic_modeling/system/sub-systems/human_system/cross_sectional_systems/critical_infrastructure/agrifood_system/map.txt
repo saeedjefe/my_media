@@ -1,0 +1,100 @@
+AgriFood_System
+├── Entities
+│   ├── Farmers & Agricultural Producers
+│   ├── Food Processors & Manufacturers
+│   ├── Distributors & Retailers
+│   ├── Consumers (Urban & Rural)
+│   ├── Food Safety & Regulatory Authorities
+│   ├── Financial Institutions (Agri-credit, Insurance)
+│   └── Research & Extension Services
+├── Inputs
+│   ├── Natural Resources (land, water, sunlight)
+│   ├── Agricultural Inputs (seeds, fertilizers, pesticides)
+│   ├── Machinery & Technology (irrigation, tractors, drones)
+│   ├── Labor (skilled & unskilled)
+│   ├── Capital & Credit Facilities
+│   └── Climate & Weather Data
+├── Outputs
+│   ├── Raw Food Products (grains, vegetables, meat, fish)
+│   ├── Processed Food (packaged goods, frozen meals)
+│   ├── Byproducts (animal feed, compostables)
+│   ├── Nutritional Value & Calories
+│   ├── Agricultural Waste
+│   └── Economic Value (agricultural GDP, trade)
+├── Goals
+│   ├── Food Availability
+│   ├── Food Accessibility (physical and economic)
+│   ├── Nutritional Adequacy
+│   ├── Food Safety & Quality
+│   ├── Environmental Sustainability
+│   └── Rural & Urban Livelihoods
+├── Repositories
+│   ├── Storage Facilities (silos, cold chains, warehouses)
+│   ├── Agricultural Land & Farms
+│   ├── Food Stock Reserves
+│   ├── Genetic Seed Banks
+│   └── Agri-Databases & Market Intelligence
+├── Modifiers
+│   ├── Climate Change & Weather Variability
+│   ├── Market Demand & Food Prices
+│   ├── Technological Advances (e.g., precision farming)
+│   ├── Policy & Subsidy Shifts
+│   ├── Conflict & Geopolitical Events
+│   └── Population Growth & Dietary Shifts
+├── Boundaries
+│   ├── Land Use & Zoning Regulations
+│   ├── Water Rights & Resource Limits
+│   ├── Trade Policies & Tariffs
+│   ├── Sanitary & Phytosanitary Standards
+│   └── Global Supply Chain Dependencies
+├── Processes
+│   ├── Input Acquisition
+│   │   ├── Seed & Input Procurement
+│   │   ├── Agri-Financing & Subsidy Application
+│   │   └── Weather & Climate Monitoring
+│   ├── Transformation
+│   │   ├── Cultivation & Harvesting
+│   │   ├── Animal Rearing
+│   │   └── Food Processing & Packaging
+│   ├── Distribution
+│   │   ├── Transportation to Markets
+│   │   ├── Wholesale & Retail Distribution
+│   │   └── E-commerce & Delivery Platforms
+│   ├── Feedback Loop
+│   │   ├── Consumer Preferences & Market Demand
+│   │   ├── Food Price Fluctuations
+│   │   └── Yield and Quality Metrics
+│   ├── Modification
+│   │   ├── Crop Switching & Diversification
+│   │   └── Precision Agriculture Adjustments
+│   ├── Maintenance
+│   │   ├── Soil Regeneration & Fertility Management
+│   │   └── Infrastructure Repairs (cold chains, irrigation)
+│   ├── Growth
+│   │   ├── Agri-Innovation & R&D
+│   │   └── Expansion of Food Access Networks
+│   ├── Dissolution
+│   │   ├── Decommissioning Fallow or Degraded Land
+│   │   └── Obsolete Equipment & Practice Retirement
+│   └── Replication
+│       ├── Knowledge Transfer & Extension Programs
+│       └── Scalable Agri-Enterprise Models
+├── System Behavior
+│   ├── Feedback Dynamics
+│   │   ├── Positive: Increased demand → higher production → resource strain
+│   │   └── Negative: Crop failure → price hike → reduced affordability
+│   ├── Resilience
+│   │   ├── Shock absorption (drought, war, pandemic)
+│   │   └── Adaptive capacity through innovation
+│   ├── Path Dependency
+│   │   └── Dependence on high-input monoculture systems
+│   ├── Non-linearity
+│   │   └── Small climate shifts → large yield impacts
+│   ├── Emergent Behavior
+│   │   └── Urban farming rise due to food insecurity
+│   ├── Cross-sector Linkages
+│   │   └── Interdependence with energy, water, transport, finance
+│   └── Temporal Dynamics
+│       ├── Seasonal cycles in production & pricing
+│       └── Long-term trends in soil fertility, climate adaptation
+
