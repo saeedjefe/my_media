@@ -1,0 +1,95 @@
+PublicTransportationSystem
+├── Entities
+│   ├── Buses
+│   ├── Subways
+│   ├── Trams
+│   ├── Ferries
+│   ├── Stations
+│   ├── Passengers
+│   └── Drivers
+├── Inputs
+│   ├── PassengerDemand
+│   ├── Fuel/Energy
+│   ├── WeatherConditions
+│   ├── TrafficConditions
+│   └── MaintenanceData
+├── Outputs
+│   ├── PassengerMovement
+│   ├── FareCollection
+│   ├── TransportData
+│   ├── RealTimeSchedules
+│   └── Emissions (if applicable)
+├── Goals
+│   ├── EnsureEfficientTransportation
+│   ├── ProvideAffordablePublicTransit
+│   ├── ReduceCongestion
+│   ├── MinimizeEnvironmentalImpact
+│   └── IncreaseAccessibility
+├── Boundaries
+│   ├── GeographicCoverageArea
+│   ├── TimeSchedule
+│   └── FinancialConstraints
+├── Modifiers
+│   ├── FuelEfficiency (for buses and ferries)
+│   ├── RealTimeData (e.g., traffic, weather)
+│   ├── GovernmentRegulations
+│   └── TechnologicalAdvancements
+├── Repositories
+│   ├── FleetInventory (buses, trains, etc.)
+│   ├── Schedules (timetables, service hours)
+│   ├── FareData (pricing, discount structures)
+│   └── PassengerData (ticket sales, passenger preferences)
+├── Dependencies
+│   ├── TrafficManagementSystem
+│   ├── RoadwayInfrastructure
+│   ├── WeatherForecastingSystem
+│   ├── GovernmentPolicies
+│   ├── EnergyGrid (for electric buses, etc.)
+│   └── PublicSafetyServices (e.g., police, emergency)
+├── Behavior
+│   ├── Movement of Vehicles
+│   ├── Passenger Boarding and Alighting
+│   ├── Fare Collection and Validation
+│   ├── Schedule Adherence
+│   └── Response to Delays and Disruptions
+├── Processes
+│   ├── Input Acquisition
+│   │   ├── AcquirePassengerDemandData (e.g., ticket sales, app-based demand)
+│   │   ├── AcquireFuelAndEnergyData (e.g., energy consumption, fuel levels)
+│   │   ├── AcquireTrafficAndWeatherData (e.g., real-time traffic, weather forecasts)
+│   │   └── AcquireMaintenanceData (e.g., vehicle status, scheduled repairs)
+│   ├── Transformation
+│   │   ├── AnalyzePassengerDemand (e.g., predict peak hours, route planning)
+│   │   ├── TransformTrafficData (e.g., optimize routes based on current conditions)
+│   │   ├── OptimizeFuelUsage (e.g., route planning for fuel efficiency)
+│   │   └── ScheduleVehicles (e.g., align vehicle availability with demand)
+│   ├── Distribution
+│   │   ├── DistributePassengerInformation (e.g., real-time schedules, alerts)
+│   │   ├── DistributeFuel/Energy to Vehicles (e.g., refueling stations, charging points)
+│   │   ├── Distribute Tickets (e.g., digital or physical tickets, access control)
+│   │   └── Distribute Maintenance Resources (e.g., spare parts, tools)
+│   ├── Feedback
+│   │   ├── CollectPassengerFeedback (e.g., surveys, ratings)
+│   │   ├── MonitorVehiclePerformance (e.g., on-time arrival, fuel efficiency)
+│   │   ├── EvaluateScheduleAdherence (e.g., delays, wait times)
+│   │   └── GatherEnvironmentalData (e.g., emissions, energy consumption)
+│   ├── Maintenance
+│   │   ├── PerformRoutineMaintenance (e.g., vehicle inspections, servicing)
+│   │   ├── PerformEmergencyRepairs (e.g., fixing breakdowns, system failures)
+│   │   ├── UpdateSchedules (e.g., adjust schedules due to incidents or demand)
+│   │   └── MaintainInfrastructure (e.g., stations, roads, charging stations)
+│   ├── Growth
+│   │   ├── ExpandServiceArea (e.g., adding new routes, stations)
+│   │   ├── IncreaseFleetSize (e.g., buying new vehicles, expanding capacity)
+│   │   ├── EnhanceTechnology (e.g., deploying electric buses, autonomous vehicles)
+│   │   └── ImproveServiceQuality (e.g., customer service enhancements, comfort upgrades)
+│   ├── Replication
+│   │   ├── ReplicateSuccessfulRoutes (e.g., duplicating high-demand routes)
+│   │   ├── ReplicateTechnology (e.g., deploying new technology in other regions)
+│   │   └── StandardizeProcesses (e.g., uniform scheduling and fare systems across regions)
+│   └── Dissolution
+│       ├── DecommissionOldVehicles (e.g., retiring outdated buses, trains)
+│       ├── RetireUnderutilizedRoutes (e.g., cutting low-demand services)
+│       ├── DecommissionStations (e.g., closing stations due to low usage)
+│       └── WithdrawResources (e.g., reducing fleet size during financial cutbacks)
+

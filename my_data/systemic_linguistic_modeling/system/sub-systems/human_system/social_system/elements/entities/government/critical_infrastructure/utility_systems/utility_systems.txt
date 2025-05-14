@@ -14,14 +14,9 @@ Utility_System
 │   │   └── Cable/Satellite TV
 │   ├── Public Infrastructure Utilities
 │   │   ├── Public Lighting
-│   │   ├── Storm Drainage
-│   │   ├── Traffic Systems
-│   │   └── Public Transport (if state-managed)
-│   └── Environmental Utilities
-│       ├── Recycling
-│       ├── Renewable Grid Tie-ins
-│       ├── Smart Energy Monitoring
-│       └── Green Water Systems
+│   │   ├── Storm Drainage system
+│   │   └── Public Transportation(if state-managed)
+│ 
 ├── Inputs
 │   ├── Energy (electricity, gas, solar)
 │   ├── Raw Water (surface, groundwater)
@@ -46,6 +41,8 @@ Utility_System
 │   ├── Infrastructure Blueprints
 │   ├── Regulatory Databases
 │   └── Utility Provider Archives
+	Strategic Resource Reserves
+	Energy Resource Reserves
 ├── Modifiers
 │   ├── Weather and Climate Events
 │   ├── Technological Advancements

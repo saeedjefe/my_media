@@ -1,0 +1,89 @@
+Paper_Recycling_System
+├── Collection
+│   └── Input: Paper waste (newspapers, cardboard, office paper)
+│   └── Method: Curbside collection, drop-off points
+├── Sorting
+│   └── Input: Mixed paper
+│   └── Process: Sorting by type (cardboard, mixed paper, etc.)
+├── Shredding
+│   └── Input: Sorted paper
+│   └── Process: Paper shredded into small pieces
+├── De-inking
+│   └── Input: Shredded paper
+│   └── Process: Removal of ink using water and chemicals
+├── Pulping
+│   └── Input: De-inked paper
+│   └── Process: Turning paper into pulp (water, chemicals)
+├── Drying & Forming
+│   └── Input: Paper pulp
+│   └── Output: New paper sheets
+├── Outputs
+│   └── New paper products (recycled paper, cardboard)
+├── Goals
+│   └── Waste reduction, saving trees, energy conservation
+
+Plastic_Recycling_System
+├── Collection
+│   └── Input: Plastic waste (bottles, containers, packaging)
+│   └── Method: Curbside collection, recycling bins
+├── Sorting
+│   └── Input: Mixed plastics
+│   └── Process: Separation by resin type (PET, HDPE, PVC, etc.)
+├── Shredding
+│   └── Input: Sorted plastics
+│   └── Process: Plastic shredded into small pieces
+├── Cleaning
+│   └── Input: Shredded plastics
+│   └── Process: Removal of contaminants (labels, food residue)
+├── Melting & Molding
+│   └── Input: Cleaned plastic pieces
+│   └── Output: Pellets, new plastic products
+├── Outputs
+│   └── Recycled plastic items (bottles, new containers)
+├── Goals
+│   └── Reduce plastic waste, save energy, promote recycling
+
+
+
+Metal_Recycling_System
+├── Collection
+│   └── Input: Metal waste (aluminum cans, scrap metal, industrial metals)
+│   └── Method: Curbside collection, drop-off points, industrial pickups
+├── Sorting
+│   └── Input: Mixed metals
+│   └── Process: Separation of ferrous and non-ferrous metals
+├── Shredding & Crushing
+│   └── Input: Sorted metals
+│   └── Process: Shredding or crushing into smaller pieces
+├── Smelting
+│   └── Input: Shredded or crushed metals
+│   └── Process: Melting metals to remove impurities
+├── Casting
+│   └── Input: Molten metal
+│   └── Output: New metal products
+├── Outputs
+│   └── Recycled metal products (aluminum cans, construction materials)
+├── Goals
+│   └── Recover valuable metals, reduce mining, and energy consumption
+
+Glass_Recycling_System
+├── Collection
+│   └── Input: Glass waste (bottles, jars, containers)
+│   └── Method: Curbside collection, drop-off points
+├── Sorting
+│   └── Input: Mixed glass
+│   └── Process: Sorting by color (clear, green, brown)
+├── Cleaning
+│   └── Input: Sorted glass
+│   └── Process: Removal of contaminants (labels, residue)
+├── Crushing
+│   └── Input: Cleaned glass
+│   └── Process: Crushing into small pieces (cullet)
+├── Melting & Molding
+│   └── Input: Cullet
+│   └── Output: New glass products (containers, insulation)
+├── Outputs
+│   └── Recycled glass items (bottles, tiles)
+├── Goals
+│   └── Reduce landfill waste, conserve raw materials, save energy
+

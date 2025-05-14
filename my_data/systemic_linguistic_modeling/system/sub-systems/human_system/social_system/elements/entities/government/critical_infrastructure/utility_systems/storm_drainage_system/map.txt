@@ -1,0 +1,38 @@
+StormDrainageSystem
+├── CatchBasin
+│   ├── CollectsRunoff
+│   ├── FiltersDebris
+│   └── DirectsWaterToPipe
+├── Gutter
+│   └── ChannelsWaterToCatchBasin
+├── Downspout
+│   └── DirectsWaterFromRoofToDrainage
+├── Swale
+│   ├── ChannelsWaterToGround
+│   ├── AllowsInfiltration
+│   └── ReducesRunoff
+├── Ditch
+│   ├── ChannelsWaterInOpenArea
+│   ├── HelpsReduceFlooding
+│   └── DirectsWaterToOverflowOrPipe
+├── StormwaterPipe
+│   ├── TransportsWater
+│   ├── DirectsWaterToTreatmentSystem
+│   └── DirectsWaterToInfiltrationSystem
+├── InfiltrationSystem
+│   ├── AllowsWaterToPercolate
+│   ├── RechargeGroundwater
+│   └── ReducesSurfaceRunoff
+├── StormwaterTreatmentSystem
+│   ├── RemovesPollutants
+│   ├── ImprovesWaterQuality
+│   └── ReleasesTreatedWater
+├── FloodControlSystem
+│   ├── DivertsExcessWater
+│   ├── PreventsFlooding
+│   └── ManagesOverflowWater
+└── DetentionPond
+    ├── StoresExcessWater
+    ├── SlowlyReleasesWater
+    └── ReducesFloodingImpact
+

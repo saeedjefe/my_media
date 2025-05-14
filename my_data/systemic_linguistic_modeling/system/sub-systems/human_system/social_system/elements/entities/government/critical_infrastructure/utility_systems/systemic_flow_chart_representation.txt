@@ -1,0 +1,114 @@
+
+
+
+goals:
+the consistent distribution of essential services 
+the consistent delivery of essential services 
+
+reasoning tree:
+distribution is a process
+delivery is distribution
+
+
+
+reasoning tree:
+Economic inputs are governemnt inputs.
+Non-tax revenues are economic inputs.
+Service fees are non-tax revenues.
+Utility payments are service fees.
+
+
+
+reasoning tree:
+Public services are government outputs.
+Infrastructure services are public services.
+essential services are infrastrcture services.
+essential utilities are essential services.
+
+
+reasoning tree:
+distribution
+delivery
+
+
+
+composition & decomposition
+Utilities are grouped into these categories: essential utilities, communcation utilities, public infrustucture
+utilities, and environmental utilities.
+essential utilities comprise drinking water, natural gas, and electricity supply and waterwater services.
+communitcation utilitis(essential) are grouped into landline telephony, internet access, mobile networks, cable/satellite TV
+public infrastrcuture utilities are composed of public lighting, strom drainage systems,  and public transportation.
+
+
+reasoning tree:
+Social inputs are government inputs.
+behavioral inputs are social inputs.
+usage patterns(consumer behavior) are behavioral inputs.
+
+composition & decomposition:
+energy conservation, watse reducation,  sustainable practices, and the participation in comminunity initiatives
+are classified under behavioral inputs.
+
+
+composition and decomposition: 
+Basic needs are grouped into food, water, air, shelter, saniation, and sleep. 
+
+Dependency_reasoning tree(outputs_inputs):
+nominalized:
+the reliance of ouputs on inputs
+
+the reliance of public services on economic inputs
+the reliance of infrastructure services on non-tax revenues
+the reliance of water supply on the water bill payments
+the reliance of  electricity supply  on the electricity bill payments
+the reliance of  gas supply  on the gas bill payments
+
+the reliance of energy supply on behavioral inputs
+the relaince of gas supply on consumer behavior 
+
+dependency_reasoning tree(distribution_repositories):
+the reliance of utility distribution on energy resource reserves 
+the reliance of natural gas distribution on energy resource reserves 
+
+
+
+
+
+
+means:
+mandatory contributions
+volunatry contributions
+
+
+
+reasoning tree:
+mandatory contributions:
+utility payments
+timely payments
+
+
+means:
+bills
+
+
+
+voluntary contributions:
+consumer behavior
+
+
+goals:
+the consistent distribution of essential services 
+the consistent delivery of essential services 
+
+ 
+
+results:
+the fulfillment of citizens' basic needs
+the steady flow of funding
+social stability
+sustainable development
+the optimization of service management
+
+subject:a goverment
+
+

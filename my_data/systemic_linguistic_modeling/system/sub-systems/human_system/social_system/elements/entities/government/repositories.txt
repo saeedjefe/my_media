@@ -24,5 +24,6 @@ Repositories
 │    ├── Veteran and Military Service Records
 │    └── Talent Databases for Governance
 Strategic Resource Reserves – oil, grain, metals, etc.
+Energy and Utility Resource reserves
 
 
