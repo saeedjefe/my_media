@@ -10,7 +10,7 @@ Behaviors
 ├── Repository Growth
 ├── Assimilation
 ├── Rigidity
-└── Cultural Pluralism
+└── Pluralism
 
 
 Behavior | Opposite Behavior

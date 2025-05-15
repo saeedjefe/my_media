@@ -2,8 +2,14 @@
 
 
 goals:
-the consistent distribution of essential services 
-the consistent delivery of essential services 
+the consistent distribution of essential services
+the consistent delivery of essential services
+results:
+behavior:
+goals:
+
+
+
 
 reasoning tree:
 distribution is a process
@@ -50,12 +56,13 @@ energy conservation, watse reducation,  sustainable practices, and the participa
 are classified under behavioral inputs.
 
 
-composition and decomposition: 
-Basic needs are grouped into food, water, air, shelter, saniation, and sleep. 
+composition and decomposition:
+Basic needs are grouped into food, water, air, shelter, saniation, and sleep.
 
 Dependency_reasoning tree(outputs_inputs):
 nominalized:
 the reliance of ouputs on inputs
+
 
 the reliance of public services on economic inputs
 the reliance of infrastructure services on non-tax revenues
@@ -66,21 +73,16 @@ the reliance of  gas supply  on the gas bill payments
 
 
 dependency_reasoning tree(distribution_repositories):
-the reliance of utility distribution on energy resource reserves 
-the reliance of natural gas distribution on energy resource reserves 
+the reliance of utility distribution on energy resource reserves
+the reliance of natural gas distribution on energy resource reserves
 
 
+effects:
 modifiers:
-the effects of Weather and Climate Events on energy resource reserves
-the effects of Technological Advancements on energy resource reserves
-the effects of Market Prices (fuel, water rights) on energy resource reserves
 the effects of behavioral inputs on energy resource reserves
-the effects of Policy Shifts and Regulations on energy reserves
+the effects of gas supply on consumer behavior
 
 
-
-
-behavior:
 
 
 
@@ -93,36 +95,4 @@ depend
 
 means:
 mandatory contributions
-volunatry contributions
-
-
-
-reasoning tree:
-mandatory contributions:
-utility payments
-timely payments
-
-
-means:
-bills
-
-
-
-voluntary contributions:
-consumer behavior
-
-
-
- 
-
-results:
-the fulfillment of citizens' basic needs
-the steady flow of funding
-social stability
-sustainable development
-the optimization of service management
-
-subjects:
-entities
-
 

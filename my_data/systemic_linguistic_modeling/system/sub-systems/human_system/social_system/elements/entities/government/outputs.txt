@@ -20,8 +20,7 @@ Government Outputs
 │    │    ├── Road and Bridge Construction
 │    │    ├── Public Transportation Systems
 │    │    └── Utilities (Water Supply, Sewage Management)
-      __ environmental services 
-	    	
+              environmental services 	    	
 ├── Regulatory Outputs
 │    ├── Laws and Regulations
 │    │    ├── Criminal Law

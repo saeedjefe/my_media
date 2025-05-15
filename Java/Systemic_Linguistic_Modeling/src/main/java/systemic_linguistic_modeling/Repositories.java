@@ -1,4 +1,4 @@
 package systemic_linguistic_modeling;
 
-public abstract class Modifiers {
+public class Repositories {
 }
