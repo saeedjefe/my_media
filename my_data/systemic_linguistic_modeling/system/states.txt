@@ -1,0 +1,19 @@
+System States
+├── Structural
+│   ├── Homogeneity
+│   ├── Heterogeneity
+│   ├── Modularity
+│   └── Hierarchy
+├── Functional
+│   ├── Operational
+│   ├── Disrupted
+│   └── Adaptive
+├── Dynamic
+│   ├── Stable
+│   ├── Unstable
+│   └── Emergent
+├── Relational
+│   ├── Open
+│   ├── Closed
+│   └── Interdependent
+

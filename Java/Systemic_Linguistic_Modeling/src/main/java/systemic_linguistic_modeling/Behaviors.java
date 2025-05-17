@@ -7,6 +7,7 @@ public interface Behaviors {
     void changeOrientedBehavior();
     void integrationBehavior();
     void feedbackControlBehavior();
+    void resilienceOrientedBehavior();
 
     // === Enums for Behavior Terms ===
 
@@ -49,4 +50,74 @@ public interface Behaviors {
         REGULATION,
         DEREGULATION
     }
+
+    // === NEW: Resilience-Oriented Terms ===
+    enum ResilienceOrientedTerms {
+
+        // ─── Core Systemic Tensions ───────────────────────────────
+        RESILIENCE,             // ↔ VULNERABILITY
+        VULNERABILITY,
+
+        ROBUSTNESS,             // ↔ FRAGILITY
+        FRAGILITY,
+
+        REDUNDANCY,             // ↔ SINGULAR_DEPENDENCY
+        SINGULAR_DEPENDENCY,
+
+        FLEXIBILITY,            // ↔ RIGIDITY
+        RIGIDITY,
+
+        ELASTICITY,             // ↔ BRITTLE_RESPONSE
+        BRITTLE_RESPONSE,
+
+        ANTIFRAGILITY,          // ↔ DEGRADABILITY
+        DEGRADABILITY,
+
+        // ─── Adaptive vs. Static Behaviors ────────────────────────
+        ADAPTATION,             // ↔ FIXITY
+        FIXITY,
+
+        SELF_ORGANIZATION,      // ↔ CENTRALIZED_CONTROL
+        CENTRALIZED_CONTROL,
+
+        FEEDBACK_INTEGRATION,   // ↔ FEEDBACK_SUPPRESSION
+        FEEDBACK_SUPPRESSION,
+
+        LEARNING,               // ↔ IGNORANCE
+        IGNORANCE,
+
+        PLASTICITY,             // ↔ INFLEXIBILITY
+        INFLEXIBILITY,
+
+        // ─── Preventive vs. Reactive Failures ─────────────────────
+        PREPAREDNESS,           // ↔ UNPREPAREDNESS
+        UNPREPAREDNESS,
+
+        RESPONSIVENESS,         // ↔ DELAYED_RESPONSE
+        DELAYED_RESPONSE,
+
+        RECOVERY,               // ↔ COLLAPSE
+        COLLAPSE,
+
+        CONTAINMENT,            // ↔ ESCALATION
+        ESCALATION,
+
+        MITIGATION,             // ↔ EXACERBATION
+        EXACERBATION,
+
+        // ─── Transformative vs. Static Futures ────────────────────
+        TRANSFORMATION,         // ↔ STASIS
+        STASIS,
+
+        REINVENTION,            // ↔ OBSOLESCENCE
+        OBSOLESCENCE,
+
+        EMERGENCE,              // ↔ SUPPRESSION
+        SUPPRESSION,
+
+        EVOLUTION,              // ↔ DEGENERATION
+        DEGENERATION
+    }
+
+
 }

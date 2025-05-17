@@ -41,4 +41,5 @@ System_Behaviors
 │   ├── Feedback Loops (positive, negative)
 │   ├── Repository Growth ↔ Resource Depletion
 │   └── Regulation ↔ Deregulation (or Chaos)
+    resilience 	
  ---Goal

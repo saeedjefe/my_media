@@ -1,14 +1,30 @@
-package systemic_linguistic_modeling;
+package systemic_linguistic_modeling.society;
 
-public class SocialSystem extends System{
+import systemic_linguistic_modeling.Entities;
+import systemic_linguistic_modeling.System;
+
+public class SocialSystem extends System {
 
 
-    public SocialSystem(Goals goals, Entities entities, Inputs inputs, Outputs outputs, Repositories repositories, Boundaries boundaries, Modifiers modifiers, Dependencies dependencies) {
-        super(goals, entities, inputs, outputs, repositories, boundaries, modifiers, dependencies);
+
+
+
+     public SocialSystem() {
+        super(new Entities());
+        entities.addEntities(new Individuals("Citizens"));
+        entities.addEntities(new Individuals("Migrants"));
+        entities.addEntities(new Individuals("Refugees"));
+        entities.addEntities(new Individuals("Activists"));
+        entities.addEntities(new Individuals("Students"));
+    }
+
+    public void showEntities(){
+         entities.printEntities();
     }
 
     @Override
     public void balanceOrientedBehavior() {
+
 
     }
 
