@@ -1,0 +1,14 @@
+PROCREATION SYSTEM (PS)
+├── Sexual Reproduction System
+│   ├── Involves two parents
+│   ├── Combines male & female gametes
+│   ├── High genetic variation
+│   ├── Includes courtship and mating
+│   └── Found in most animals and flowering plants
+
+└── Asexual Reproduction System
+    ├── Involves one parent
+    ├── Produces clones
+    ├── Fast and energy-efficient
+    ├── Common in plants, bacteria, some animals
+    └── Less genetic diversity

@@ -1,0 +1,56 @@
+Recycling System
+├── Inputs
+│   ├── Post-Consumer Waste
+│   │   ├── Paper
+│   │   ├── Plastics
+│   │   ├── Glass
+│   │   ├── Metals
+│   │   ├── Electronics
+│   │   └── Organics
+│   ├── Energy
+│   ├── Labor
+│   ├── Water (for cleaning)
+│   └── Technological Tools
+│       ├── Sorting Machines
+│       └── Chemical Recyclers
+├── Outputs
+│   ├── Recycled Raw Materials
+│   │   ├── Plastic Pellets
+│   │   ├── Pulp (from paper)
+│   │   ├── Crushed Glass
+│   │   └── Scrap Metals
+│   ├── Compost and Biogas
+│   ├── Reusable Components
+│   └── Educational and Environmental Awareness
+├── Repositories
+│   ├── Recycling Guidelines
+│   ├── Material Recovery Facility Records
+│   ├── Waste Stream Analytics
+│   └── Public Education Resources
+├── Boundaries
+│   ├── Local Recycling Capabilities
+│   ├── Waste Contamination Thresholds
+│   ├── Economic Viability of Materials
+│   ├── Legal Restrictions
+│   └── Collection Infrastructure
+├── Goals
+│   ├── Resource Conservation
+│   ├── Landfill Diversion
+│   ├── Circular Economy Promotion
+│   ├── Emission Reduction
+│   └── Sustainable Material Management
+├── Processes
+│   ├── Collection
+│   ├── Transportation
+│   ├── Sorting
+│   ├── Cleaning
+│   ├── Shredding / Compacting
+│   ├── Chemical Processing
+│   └── Market Redistribution
+├── Modifiers
+│   ├── Public Behavior and Awareness
+│   ├── Technological Advancements
+│   ├── Policy and Regulation Changes
+│   ├── Economic Incentives (e.g., deposit schemes)
+│   └── Global Material Demand
+

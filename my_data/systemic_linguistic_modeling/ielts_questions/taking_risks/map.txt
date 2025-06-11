@@ -1,0 +1,52 @@
+RISK-TAKING BEHAVIOR SYSTEM (RTBS)
+├── Entities
+│   ├── Individual/Organization
+│   ├── Risk Opportunity
+│   ├── Outcome
+│   ├── Environment
+│   ├── Feedback Mechanism
+│   └── Support Network
+├── Inputs
+│   ├── Motivation
+│   ├── Information
+│   ├── Resources
+│   ├── Emotional State
+│   └── External Signals
+├── Outputs
+│   ├── Success
+│   ├── Failure
+│   ├── Learning
+│   ├── Behavioral Change
+│   └── Impact on Others
+├── Dependencies
+│   ├── Cognitive Capacity
+│   ├── Trust in Environment
+│   ├── Access to Information
+│   ├── Support Systems
+│   └── Past Experiences
+├── Boundaries
+│   ├── Temporal
+│   ├── Personal vs. Professional
+│   ├── Ethical
+│   └── Organizational
+├── Modifiers
+│   ├── Personality Traits
+│   ├── Culture
+│   ├── Age & Life Stage
+│   ├── Economic Conditions
+│   └── Technology & Tools
+├── Repositories
+│   ├── Memory
+│   ├── Knowledge Databases
+│   ├── Social Networks
+│   ├── Financial Records
+│   └── Emotional Archive
+└── Processes
+    ├── Input Acquisition
+    ├── Transformation
+    ├── Output Production
+    ├── Distribution
+    ├── Maintenance
+    ├── Feedback Loop
+    ├── Replication
+    └── Dissolution

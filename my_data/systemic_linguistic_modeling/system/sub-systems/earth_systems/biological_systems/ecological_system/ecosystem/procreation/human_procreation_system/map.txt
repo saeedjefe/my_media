@@ -1,0 +1,55 @@
+HUMAN PROCREATION SUBSYSTEM
+├── Entities
+│   ├── Male and Female Parents
+│   ├── Healthcare Providers
+│   ├── Government Policies
+│   ├── Technologies (IVF, surrogacy)
+│   └── Children
+├── Inputs
+│   ├── Hormonal readiness
+│   ├── Emotional connection
+│   ├── Economic resources
+│   ├── Medical support
+│   └── Legal permissions (for assisted methods)
+├── Outputs
+│   ├── Childbirth
+│   ├── Family structure
+│   ├── Population growth
+│   ├── Emotional bonding
+│   └── Social identity formation
+├── Dependencies
+│   ├── Biological health
+│   ├── Sociocultural norms
+│   ├── Financial stability
+│   ├── Access to healthcare
+│   └── Legal frameworks
+├── Boundaries
+│   ├── Age boundaries (fertility window)
+│   ├── Legal status (marriage, adoption laws)
+│   ├── Ethical boundaries (cloning, gene editing)
+│   ├── Religious views
+│   └── Medical limitations
+├── Modifiers
+│   ├── Socioeconomic factors
+│   ├── Technological access
+│   ├── Education level
+│   ├── Gender roles
+│   ├── Media influence
+│   └── Policy changes
+├── Repositories
+│   ├── Genetic information
+│   ├── Family planning services
+│   ├── Laws and policies
+│   ├── Cultural traditions
+│   └── Medical institutions
+└── Processes
+    ├── Attraction
+    ├── Mating
+    ├── Fertilization
+    ├── Gestation
+    ├── Birth
+    ├── Parental care
+    ├── Adoption or surrogacy (optional)
+    ├── Feedback Loop (parenting experience affects future decisions)
+    ├── Dissolution (child loss, infertility)
+    └── Adaptation (changing reproductive trends over time)

@@ -1,0 +1,56 @@
+SELF SYSTEM (SS)
+├── Entities
+│   ├── Mind
+│   ├── Body
+│   ├── Emotions
+│   ├── Identity
+│   ├── Social Environment
+│   └── Cultural Context
+├── Inputs
+│   ├── Sensory Information
+│   ├── External Feedback
+│   ├── Life Experiences
+│   ├── Media & Technology
+│   ├── Education
+│   └── Cultural Messages
+├── Outputs
+│   ├── Behavior
+│   ├── Emotional Response
+│   ├── Self-Expression
+│   ├── Goal Setting
+│   └── Adaptation
+├── Dependencies
+│   ├── Neurological Development
+│   ├── Psychological Health
+│   ├── Environmental Stability
+│   ├── Social Validation
+│   └── Access to Resources
+├── Boundaries
+│   ├── Internal vs. External Influences
+│   ├── Conscious vs. Subconscious
+│   ├── Past vs. Present Self
+│   ├── Ideal vs. Real Self
+│   └── Private vs. Public Self
+├── Modifiers
+│   ├── Personality Traits
+│   ├── Age and Life Stage
+│   ├── Trauma or Life Events
+│   ├── Technology Use
+│   ├── Meditation/Mindfulness
+│   └── Therapy or Guidance
+├── Repositories
+│   ├── Memory
+│   ├── Belief Systems
+│   ├── Emotional Archive
+│   ├── Language & Thought Patterns
+│   └── Social Scripts
+└── Processes
+    ├── Input Acquisition
+    ├── Self-Observation
+    ├── Reflection & Analysis
+    ├── Emotional Interpretation
+    ├── Behavioral Response
+    ├── Feedback Loop
+    ├── Maintenance
+    ├── Adaptation
+    └── Dissolution

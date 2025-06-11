@@ -1,0 +1,38 @@
+TECHNOLOGICAL SYSTEMS
+├── Information & Communication Technology (ICT)
+│   ├── Computing Systems
+│   ├── Networking Systems
+│   ├── Telecommunications
+│   └── Software & AI
+├── Energy & Power Systems
+│   ├── Fossil Fuels
+│   ├── Renewables
+│   ├── Nuclear
+│   └── Smart Grids
+├── Transportation & Mobility
+│   ├── Road
+│   ├── Rail
+│   ├── Air
+│   ├── Maritime
+│   └── Space
+├── Manufacturing & Industry
+│   ├── Automation
+│   ├── Production
+│   ├── Additive Mfg.
+│   └── Supply Chain
+├── Construction & Civil Eng.
+│   ├── BIM
+│   ├── Structures
+│   └── Smart Cities
+├── Healthcare & Biotech
+│   ├── Diagnostics
+│   ├── Therapeutics
+│   └── Health Informatics
+├── Environmental Systems
+│   ├── Waste
+│   ├── Water
+│   └── Climate
+└── Defense & Security
+    ├── Weapons
+    ├── Surveillance
+    └── Cybersecurity

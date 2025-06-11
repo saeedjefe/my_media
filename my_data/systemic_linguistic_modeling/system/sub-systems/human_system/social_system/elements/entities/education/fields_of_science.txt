@@ -1,0 +1,84 @@
+SCIENCE
+├── NATURAL SCIENCES
+│   ├── Physics
+│   │   ├── Classical Mechanics
+│   │   ├── Thermodynamics
+│   │   ├── Electromagnetism
+│   │   ├── Quantum Physics
+│   │   └── Relativity
+│   ├── Chemistry
+│   │   ├── Organic Chemistry
+│   │   ├── Inorganic Chemistry
+│   │   ├── Physical Chemistry
+│   │   └── Analytical Chemistry
+│   ├── Biology
+│   │   ├── Zoology
+│   │   ├── Botany
+│   │   ├── Microbiology
+│   │   ├── Genetics
+│   │   └── Ecology
+│   ├── Earth Science
+│   │   ├── Geology
+│   │   ├── Meteorology
+│   │   ├── Oceanography
+│   │   └── Paleontology
+│   └── Astronomy
+│       ├── Astrophysics
+│       ├── Cosmology
+│       └── Planetary Science
+├── SOCIAL SCIENCES
+│   ├── Psychology
+│   │   ├── Cognitive Psychology
+│   │   ├── Clinical Psychology
+│   │   └── Developmental Psychology
+│   ├── Sociology
+│   │   ├── Criminology
+│   │   ├── Social Theory
+│   │   └── Demography
+│   ├── Anthropology
+│   │   ├── Cultural Anthropology
+│   │   ├── Physical Anthropology
+│   │   └── Linguistic Anthropology
+│   ├── Economics
+│   │   ├── Microeconomics
+│   │   ├── Macroeconomics
+│   │   └── Development Economics
+│   ├── Political Science
+│   │   ├── Political Theory
+│   │   ├── Comparative Politics
+│   │   └── International Relations
+│   └── Human Geography
+│       ├── Urban Geography
+│       └── Cultural Geography
+├── FORMAL SCIENCES
+│   ├── Mathematics
+│   │   ├── Algebra
+│   │   ├── Geometry
+│   │   ├── Calculus
+│   │   └── Number Theory
+│   ├── Logic
+│   ├── Statistics
+│   └── Computer Science
+│       ├── Algorithms
+│       ├── Artificial Intelligence
+│       └── Theoretical CS
+├── APPLIED SCIENCES
+│   ├── Engineering
+│   │   ├── Mechanical Engineering
+│   │   ├── Electrical Engineering
+│   │   ├── Civil Engineering
+│   │   └── Chemical Engineering
+│   ├── Medicine
+│   │   ├── Anatomy
+│   │   ├── Pharmacology
+│   │   └── Surgery
+│   ├── Health Sciences
+│   ├── Agricultural Sciences
+│   └── Environmental Sciences
+├── INTERDISCIPLINARY SCIENCES
+│   ├── Cognitive Science
+│   ├── Neuroscience
+│   ├── Bioinformatics
+│   ├── Astrobiology
+│   └── Environmental Science
+

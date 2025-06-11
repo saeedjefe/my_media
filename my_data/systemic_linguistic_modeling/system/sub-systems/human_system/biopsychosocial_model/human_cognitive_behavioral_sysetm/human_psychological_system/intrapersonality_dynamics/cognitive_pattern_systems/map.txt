@@ -1,0 +1,59 @@
+COGNITIVE PATTERNS SYSTEM (CPS)
+├── Entities
+│   ├── Perception
+│   ├── Memory
+│   ├── Attention
+│   ├── Belief Systems
+│   ├── Language Processing
+│   ├── Problem-Solving Mechanism
+│   └── Metacognition
+├── Inputs
+│   ├── Sensory Information
+│   ├── Prior Knowledge
+│   ├── Emotional State
+│   ├── External Feedback
+│   ├── Cultural & Social Cues
+│   └── Technological Tools
+├── Outputs
+│   ├── Decision-Making
+│   ├── Behavioral Response
+│   ├── Learning Outcome
+│   ├── Error Correction
+│   ├── Creative Insight
+│   └── Bias Adjustment
+├── Dependencies
+│   ├── Neurological Functioning
+│   ├── Attention Span
+│   ├── Working Memory
+│   ├── Educational Exposure
+│   └── Emotional Regulation
+├── Boundaries
+│   ├── Conscious vs. Subconscious Thinking
+│   ├── Logical vs. Emotional Interpretation
+│   ├── Individual vs. Cultural Influence
+│   ├── Innate vs. Learned Patterns
+│   └── Short-Term vs. Long-Term Cognitive Habits
+├── Modifiers
+│   ├── Personality Traits
+│   ├── Age and Developmental Stage
+│   ├── Education Level
+│   ├── Technology Use
+│   ├── Mental Health Status
+│   └── Stress and Fatigue
+├── Repositories
+│   ├── Long-Term Memory
+│   ├── Schema Archive
+│   ├── Cognitive Biases
+│   ├── Language Database
+│   ├── Heuristics and Rules of Thumb
+│   └── Self-Concept
+└── Processes
+    ├── Input Acquisition
+    ├── Pattern Recognition
+    ├── Analysis and Interpretation
+    ├── Belief Updating
+    ├── Feedback Loop
+    ├── Storage
+    ├── Application
+    ├── Replication
+    └── Dissolution

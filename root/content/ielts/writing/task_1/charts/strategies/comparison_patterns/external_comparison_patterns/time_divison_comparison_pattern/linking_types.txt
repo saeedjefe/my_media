@@ -73,7 +73,8 @@ There were significant fluctuations in beef consumption.
 
 (Body)
 Beef consumption fluctuated widely.(a more genreic approach)
-Beef consumption ranged from almost  180 grams to 220 grams over the first half of the period.(volatile-trend point-to-point numerical extention)
+Beef consumption ranged from almost  180 grams to 220 grams over the first half of the period.
+volatile-trend point-to-point numerical extention)
 Beef consumption experienced  a substantial decline of more than 70 grams. 
 Beef consumption reached a final figure of 110 grams in 2014.(the-starting-and-end one-point numerical-extention)
 
@@ -129,7 +130,8 @@ Beef consumption  peaked at 230 grams in 1982.
 Beef consumption again declined sharply but briefly (from 230 grams) to 210 grams in 1984.
 Beef consumption recovered. 
 Beef consumption reached 230 grams in 1985.
-Beef consumption flatten out at/plateaued at/levell off at/reach a plateau at 230 grams over the next following years.
+Beef consumption flatten out at/plateaued at/levell off at/reach a plateau at 230 grams over the next following
+ years.
 From 1988 onwards, beef consumption declined substantially.
 Beef consumption hit an all-time low of 90 grams.
 Beef consumption incresed mariginally(from 90) to almost 100 grams.
@@ -154,22 +156,28 @@ and hit an all-time low of 90 grams. But it increased margianlly to 100, stabili
 
 2-adverbial_function linking
 
-Beef Consumption started at almost 215 grams 1979. Then, although it dipped to 175 in 1981, it rebounded and peaked at 230 grams in 1982.
-However, it again declined sharply but briefly to 210 gram before it recovered and reached 230 grams in 1985. From 1985 onwards, beef
-consumption decreased substantially and hit an all-time low of 90 grams. Nevertheless, it increased margianlly to 100, stabilized at 100 grams, and ened at 100 grams. 
+Beef Consumption started at almost 215 grams 1979. Then, although it dipped to 175 in 1981, it rebounded and peaked
+at 230 grams in 1982. However, it again declined sharply but briefly to 210 gram before it recovered and reached
+230 grams in 1985. From 1985 onwards, beefconsumption decreased substantially and hit an all-time low of 90 grams.
+Nevertheless, it increased margianlly to 100, stabilized at 100 grams, and ened at 100 grams. 
 
 reduction:
 
-Beef consumption started at almost 215 grams in 1979. Then, despite dipping to 175 grams in 1981, it rebounded and peaked at 230 grams in 1982.
-However, it again declined sharply and briefly to 210 grams before recovering  and reaching 230 grams in 1985. From 1985 onwards, beef
-consumption decreased substantially, hitting an all-time low of 90 grams. Nevertheless, it increased marginally to 100 grams, stabilizing at that level and ending at 100 grams.
+Beef consumption started at almost 215 grams in 1979. Then, despite dipping to 175 grams in 1981, it rebounded and
+peaked at 230 grams in 1982. 
+However, it again declined sharply and briefly to 210 grams before recovering  and reaching 230 grams in 1985.
+From 1985 onwards, beef consumption decreased substantially, hitting an all-time low of 90 grams.
+Nevertheless, it increased marginally to
+100 grams, stabilizing at that level and ending at 100 grams.
 
 
 3-adjectival_function linking plus nominalization version:
 
-Beef consumption, which had an initial figure of almost 215 grams in 1979, experienced a dip to 175 grams in 1981, which is followd by a rebound
-to 230 grams. Thereafter, a sharp and brief decline to 210 was followed by a recovery to 230 grams in 1985. From 1985 onwards, a substantial
-decrease in beef consumption led to an all-time low of 90 grams. A marginal increase followed, however, which resulted in  a period of stability and a final figure of 100 grams. 
+Beef consumption, which had an initial figure of almost 215 grams in 1979, experienced a dip to 175 grams in 1981,
+which is followd by a rebound
+to 230 grams. Thereafter, a sharp and brief decline to 210 was followed by a recovery to 230 grams in 1985. 
+From 1985 onwards, a substantial decrease in beef consumption led to an all-time low of 90 grams.
+A marginal increase followed, however, which resulted in  a period of stability and a final figure of 100 grams. 
 
 
 Reduced version:

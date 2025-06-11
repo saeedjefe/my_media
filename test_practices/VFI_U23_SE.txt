@@ -1,0 +1,2 @@
+This chart provides an overview of how weight is distributed among Newtown's adult population, with age groups shown on the horizontal axis and corresponding percentages on the vertical axis. 
+

@@ -1,0 +1,119 @@
+SCIENCE
+├── ENTITIES
+│   ├── Scientists
+│   ├── Institutions
+│   ├── Instruments
+│   └── Nature (subject of study)
+├── INPUTS
+│   ├── Observations
+│   ├── Data
+│   ├── Questions
+│   ├── Prior Knowledge
+│   └── Funding & Resources
+├── PROCESSES
+│   ├── Hypothesis Formulation
+│   ├── Experimentation
+│   ├── Data Analysis
+│   ├── Peer Review
+│   └── Theory Building
+├── OUTPUTS
+│   ├── Theories
+│   ├── Models
+│   ├── Publications
+│   ├── Technologies
+│   └── Predictions
+├── GOALS
+│   ├── Explanation
+│   ├── Prediction
+│   ├── Control
+│   └── Advancement of Knowledge
+├── BOUNDARIES
+│   ├── Ethical Constraints
+│   ├── Methodological Constraints
+│   └── Disciplinary Limits
+├── REPOSITORIES
+│   ├── Journals
+│   ├── Databases
+│   ├── Archives
+│   └── Patents
+└── MODIFIERS
+    ├── Culture
+    ├── Technology
+    ├── Economy
+    └── Paradigms
+SCIENCE SYSTEM (SS)
+├── Entities
+│   ├── Scientists
+│   ├── Theories
+│   ├── Data
+│   ├── Institutions
+│   ├── Tools & Technology
+│   ├── Peer Review System
+│   └── Public & Policy Makers
+
+├── Inputs
+│   ├── Observations
+│   ├── Hypotheses
+│   ├── Funding
+│   ├── Education
+│   ├── Technological Advances
+│   ├── Societal Needs
+│   └── Historical Knowledge
+
+├── Outputs
+│   ├── New Theories
+│   ├── Innovations
+│   ├── Policy Recommendations
+│   ├── Scientific Publications
+│   ├── Educational Content
+│   ├── Technological Applications
+│   └── Public Awareness
+
+├── Dependencies
+│   ├── Empirical Evidence
+│   ├── Critical Thinking
+│   ├── Open Communication
+│   ├── Ethical Standards
+│   └── Access to Resources
+
+├── Boundaries
+│   ├── Natural vs. Social Sciences
+│   ├── Pure vs. Applied Science
+│   ├── Scientific Method
+│   ├── Disciplinary Limits
+│   └── Cultural & Political Context
+
+├── Modifiers
+│   ├── Funding Priorities
+│   ├── Political Climate
+│   ├── Public Perception
+│   ├── Technological Development
+│   ├── Global Collaboration
+│   └── Ethical Frameworks
+
+├── Repositories
+│   ├── Scientific Literature
+│   ├── Research Archives
+│   ├── Knowledge Databases
+│   ├── Institutional Memory
+│   └── Educational Systems
+
+├── Processes
+│   ├── Input Acquisition (observation, hypothesis)
+│   ├── Experimentation
+│   ├── Analysis
+│   ├── Publication
+│   ├── Feedback Loop (peer review, replication)
+│   ├── Maintenance (knowledge preservation)
+│   ├── Replication (verifying results)
+│   ├── Adaptation (updating theories)
+│   └── Dissolution (discarding false claims)
+
+└── Goals
+    ├── Pursuit of Knowledge
+    ├── Understanding Natural Phenomena
+    ├── Solving Practical Problems
+    ├── Improving Human Life (medicine, technology)
+    ├── Predicting Future Trends (climate models, AI)
+    ├── Advancing Society through Innovation
+    └── Preserving and Sharing Knowledge across Generations

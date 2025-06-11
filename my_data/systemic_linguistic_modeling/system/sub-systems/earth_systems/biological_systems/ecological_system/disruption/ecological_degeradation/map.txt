@@ -1,0 +1,6 @@
+ECOLOGICAL DEGRADATION (Superordinate)
+├── Biodiversity Loss
+├── Soil Erosion
+├── Deforestation
+├── Desertification
+└── Overfishing

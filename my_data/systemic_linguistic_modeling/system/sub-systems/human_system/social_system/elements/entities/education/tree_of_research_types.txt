@@ -1,0 +1,45 @@
+RESEARCH
+├── BY PURPOSE
+│   ├── Basic (Pure) Research
+│   │   └── Aims to expand knowledge without immediate application
+│   └── Applied Research
+│       └── Aims to solve practical problems
+├── BY APPROACH
+│   ├── Quantitative Research
+│   │   ├── Descriptive
+│   │   ├── Correlational
+│   │   ├── Experimental
+│   │   └── Quasi-experimental
+│   └── Qualitative Research
+│       ├── Ethnography
+│       ├── Case Study
+│       ├── Phenomenology
+│       ├── Grounded Theory
+│       └── Narrative Analysis
+├── BY METHOD
+│   ├── Experimental
+│   ├── Observational
+│   ├── Survey
+│   ├── Simulation
+│   └── Modeling
+├── BY DATA TYPE
+│   ├── Empirical Research
+│   │   ├── Quantitative (numerical data)
+│   │   └── Qualitative (non-numerical data)
+│   └── Theoretical Research
+│       └── Uses models, analysis, logic rather than data collection
+├── BY LOGIC
+│   ├── Deductive Research
+│   │   └── Tests a hypothesis from theory
+│   └── Inductive Research
+│       └── Builds theory from observations
+├── BY TIME DIMENSION
+│   ├── Cross-sectional
+│   └── Longitudinal
+├── BY SETTING
+│   ├── Field Research
+│   └── Laboratory Research
+├── MIXED METHODS
+│   ├── Sequential (Qual → Quant or Quant → Qual)
+│   └── Concurrent (both simultaneously)
+

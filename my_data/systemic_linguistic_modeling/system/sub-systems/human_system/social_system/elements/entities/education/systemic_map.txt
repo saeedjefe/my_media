@@ -1,105 +1,141 @@
-Educational System
-├── Entities
+EDUCATION_SYSTEM
+├── ENTITIES
 │   ├── Students
-│   │   └── By Learning Modality
-│   │       ├── Visual Learners
-│   │       ├── Auditory Learners
-│   │       ├── Kinesthetic Learners
-│   │       ├── Linguistic (Verbal) Learners
-│   │       ├── Logical-Mathematical Learners
-│   │       ├── Interpersonal Learners
-│   │       └── Intrapersonal Learners
-│   ├── Teachers and Educators
-│   │   └── By Teaching Style
-│   │       ├── Lecture-Based
-│   │       ├── Inquiry-Based
-│   │       ├── Collaborative/Cooperative
-│   │       ├── Experiential (Hands-on)
-│   │       ├── Flipped Classroom
-│   │       ├── Socratic Method
-│   │       └── Technology-Integrated
-│   ├── School Administrators
-│   ├── Educational Institutions (schools, universities, academies)
-│   ├── Government Education Bodies
-│   ├── Educational Technologists
-│   └── Parents and Guardians
-├── Inputs
-│   ├── Curriculum and Syllabi
-│   ├── Learning Materials (books, tools, software)
-│   ├── Student Background and Readiness
-│   ├── Teacher Expertise and Training
-│   ├── Institutional Policies and Funding
-│   └── Cultural Expectations and Norms
-├── Outputs
-│   ├── Fields of Study
-│   │   ├── Humanities and Social Sciences
-│   │   ├── Physical Sciences
-│   │   ├── Biological and Life Sciences
-│   │   ├── Formal Sciences (Math, Logic, CS)
-│   │   ├── Applied Sciences (Engineering, Medicine)
-│   │   └── Interdisciplinary Fields
-│   ├── Knowledge and Skills
-│   │   ├── Theoretical Knowledge
-│   │   ├── Practical Skills
-│   │   ├── Technical Proficiency
-│   │   ├── Soft Skills (communication, teamwork)
-│   │   ├── Cognitive Skills (problem-solving, reasoning)
-│   │   └── Digital and Media Literacy
-│   ├── Certified Competence (diplomas, degrees)
-│   ├── Critical and Creative Thinking
-│   ├── Research Contributions
-│   ├── Social Mobility and Economic Participation
-│   └── Civic Engagement and Cultural Continuity
-├── Repositories
-│   ├── Expertise Records (specialized accreditation, faculty specialization)
-│   ├── Knowledge Bases (textbooks, libraries, LMS)
-│   ├── Research Publications
-│   ├── Student Records and Performance Data
-│   ├── Assessment Tools and Methodologies
-│   └── Cultural and Historical Narratives
-├── Modifiers
-│   ├── Technological Innovation
-│   ├── Socioeconomic Disparities
-│   ├── Policy Changes
+│   │   └── Learning_Modality
+│   │       ├── Visual
+│   │       ├── Auditory
+│   │       ├── Kinesthetic
+│   │       ├── Verbal
+│   │       ├── Logical
+│   │       ├── Interpersonal
+│   │       └── Intrapersonal
+│   ├── Educators
+│   │   └── Teaching_Style
+│   │       ├── Lecture_Based
+│   │       ├── Inquiry_Based
+│   │       ├── Collaborative
+│   │       ├── Experiential
+│   │       ├── Flipped_Classroom
+│   │       ├── Socratic
+│   │       └── Technology_Integrated
+│   ├── Administrators
+│   ├── Institutions
+│   ├── Government_Bodies
+│   ├── Technologists
+│   └── Parents_Guardians
+
+├── INPUTS
+│   ├── Curriculum
+│   ├── Learning_Materials
+│   ├── Student_Background
+│   ├── Teacher_Training
+│   ├── Policies_Funding
+│   └── Cultural_Expectations
+
+├── PROCESSES
+│   ├── Enrollment
+│   ├── Teaching_Learning
+│   ├── Assessment
+│   ├── Feedback
+│   ├── Curriculum_Adaptation
+│   ├── Institutional_Maintenance
+│   ├── Program_Development
+│   ├── Innovation
+│   ├── Standardization
+│   ├── Dropout_or_Closure
+│   └── Distribution_Access
+
+├── OUTPUTS
+│   ├── Fields_of_Study
+│   │   ├── Humanities
+│   │   ├── Sciences
+│   │   ├── Engineering
+│   │   ├── Medicine
+│   │   └── Interdisciplinary
+│   ├── Skills
+│   │   ├── Practical
+│   │   ├── Technical
+│   │   ├── Cognitive
+│   │   ├── Soft_Skills
+│   │   └── Digital_Literacy
+│   ├── Degrees_Certificates
+│   ├── Critical_Thinking
+│   ├── Research_Output
+│   ├── Economic_Participation
+│   └── Civic_Engagement
+
+├── REPOSITORIES
+│   ├── Knowledge_Base
+│   ├── Research_Archives
+│   ├── Student_Records
+│   ├── Assessment_Data
+│   └── Cultural_Narratives
+
+├── MODIFIERS
+│   ├── Technology
+│   ├── Socioeconomic_Factors
+│   ├── Policy_Change
 │   ├── Globalization
-│   ├── Language and Communication Barriers
-│   └── Demographic Shifts
-├── Boundaries
-│   ├── Grade Levels and Academic Stages
-│   ├── Subject Disciplines
-│   ├── Institutional Types (public, private, vocational)
-│   ├── Geographic and Access Constraints
-│   └── Accreditation and Evaluation Standards
-├── Processes
-│   ├── Input Acquisition – enrolling students, acquiring resources, hiring staff
-│   ├── Internal Transformation – teaching, studying, mentoring, peer interaction
-│   ├── Output Production – exams, portfolios, diplomas, competencies
-│   ├── Feedback Reception – grades, parent-teacher meetings, evaluations
-│   ├── Adaptation – changing curriculum, pedagogy, policies
-│   ├── Maintenance – institutional management, policy enforcement
-│   ├── Growth and Development – expansion of programs, research development
-│   ├── Emergence – novel learning methods, student-led innovations
-│   ├── Replication – curriculum standardization, school models
-│   ├── Dissolution – dropout, school closure, policy failure
-│   └── Distribution – delivering education across ages, regions, and platforms
-├── Behaviors (Systemic)
-│   ├── Adaptation – curriculum revision and educational reform
-│   ├── Resilience – persistence despite funding cuts or social disruption
-│   ├── Vulnerability – underperformance due to inequity or instability
-│   ├── Rigidity – resistance to change or reform
-│   ├── Cohesion – coordinated learning goals across systems
-│   ├── Fragmentation – disjointed content or unequal access
-│   ├── Homogenization – standardization that limits diversity of thought
-│   ├── Heterogenization – support for diverse approaches and learning styles
-│   ├── Assimilation – integration of minorities into the mainstream model
-│   ├── Pluralism – coexisting philosophies, methods, and institutions
-│   ├── Dynamics – ongoing innovation and structural change
-│   ├── Statics – persistent traditions or pedagogical inertia
-│   ├── Emergence – unexpected learning outcomes or grassroots innovations
-│   ├── Suppression – limitation of creativity through overregulation
-│   ├── Feedback Loops – formative and summative evaluation systems
-│   ├── Repository Growth – accumulation of institutional and curricular knowledge
-│   ├── Entropy – disorganization due to poor management or excessive complexity
-│   ├── Self-Improvement – teacher training, student self-regulation
-│   └── Delayed Gratification – investing in education for future benefit
+│   ├── Language_Barriers
+│   └── Demographics
+
+├── BOUNDARIES
+│   ├── Grade_Levels
+│   ├── Subjects
+│   ├── Institution_Types
+│   ├── Geography
+│   └── Accreditation
+
+├── BEHAVIORS
+│   ├── Adaptation
+│   ├── Resilience
+│   ├── Vulnerability
+│   ├── Rigidity
+│   ├── Cohesion
+│   ├── Fragmentation
+│   ├── Homogenization
+│   ├── Heterogenization
+│   ├── Pluralism
+│   ├── Suppression
+│   ├── Innovation
+│   └── Feedback_Loops
+
+├── GOALS
+│   ├── Personal Development
+│   │   ├── Self-Directed Learning
+│   │   ├── Confidence Building
+│   │   └── Lifelong Learning Mindset
+│   ├── Academic Excellence
+│   │   ├── High Achievement
+│   │   ├── Conceptual Mastery
+│   │   └── Critical Thinking
+│   ├── Economic Empowerment
+│   │   ├── Job Readiness
+│   │   ├── Entrepreneurship
+│   │   └── Innovation Capability
+│   ├── Social Integration
+│   │   ├── Citizenship and Ethics
+│   │   ├── Cultural Competence
+│   │   └── Equity and Inclusion
+│   ├── Scientific and Research Advancement
+│   │   ├── Inquiry and Curiosity
+│   │   └── Contribution to Knowledge
+│   └── System Sustainability
+│       ├── Policy Responsiveness
+│       ├── Institutional Stability
+│       └── Environmental Literacy
+
+├── DEPENDENCIES
+│   ├── Curriculum → Policy_Change, Cultural_Expectations
+│   ├── Learning_Materials → Technology, Teacher_Training
+│   ├── Student_Performance → Socioeconomic_Factors, Teacher_Quality
+│   ├── Feedback → Assessment_Data, Student_Records
+│   ├── Assessment → Curriculum, Accreditation_Standards
+│   ├── Degree_Certification → Institutional_Type, Accreditation
+│   ├── Research_Output → Knowledge_Base, Research_Archives
+│   ├── Teaching_Learning → Educators, Learning_Modality
+│   ├── Innovation → Technologists, Globalization
+│   ├── Dropout_or_Closure → Funding, Demographics, Policy_Change
+│   ├── Access_Distribution → Geography, Technology, Institution_Type
+│   └── Institutional_Policies → Government_Bodies, Accreditation
 

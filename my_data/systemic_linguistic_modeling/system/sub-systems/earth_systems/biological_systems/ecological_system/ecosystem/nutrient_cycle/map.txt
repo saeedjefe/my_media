@@ -1,0 +1,57 @@
+NUTRIENT CYCLE SYSTEM (NCS)
+├── Entities
+│   ├── Producers
+│   ├── Consumers
+│   ├── Decomposers
+│   ├── Abiotic Environment
+│   ├── Energy Flow
+│   └── Human Influence
+├── Inputs
+│   ├── Organic Matter
+│   ├── Minerals & Nutrients
+│   ├── Water
+│   ├── Atmospheric Gases
+│   ├── Human Intervention
+│   └── Solar Energy
+├── Outputs
+│   ├── Released Nutrients
+│   ├── Growth of Organisms
+│   ├── Waste and Excretion
+│   ├── Oxygen Production
+│   ├── Carbon Dioxide Emission
+│   └── Soil Enrichment
+├── Dependencies
+│   ├── Decomposition Rate
+│   ├── Climate Conditions
+│   ├── Biodiversity
+│   ├── Soil Health
+│   ├── Water Availability
+│   └── Energy Supply
+├── Boundaries
+│   ├── Ecosystem Limitations
+│   ├── Natural vs. Artificial Systems
+│   ├── Open vs. Closed Cycles
+│   ├── Geographical Constraints
+│   └── Human-made Barriers
+├── Modifiers
+│   ├── Climate Change
+│   ├── Pollution
+│   ├── Farming Practices
+│   ├── Deforestation
+│   ├── Urban Development
+│   └── Technology Use
+├── Repositories
+│   ├── Soil
+│   ├── Water Bodies
+│   ├── Living Organisms
+│   ├── Dead Matter
+│   └── Atmosphere
+└── Processes
+    ├── Input Acquisition
+    ├── Transformation
+    ├── Output Production
+    ├── Distribution
+    ├── Maintenance
+    ├── Feedback Loop
+    ├── Replication
+    └── Dissolution

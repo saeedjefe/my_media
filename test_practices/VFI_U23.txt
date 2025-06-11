@@ -1,0 +1,14 @@
+The bar chart provides information on four weight categories reported in five age groups, ranging from 20 to 69
+in a city called Newtown in the year 2010. 
+
+The most striking feature of the chart is that there was a positive correlation between obesity and age, with
+more 80 percent of people over 60 being either overweight or obese.
+
+70 percent of People aged 20-29 fell into the ideal weight category, while this rate for people over 60  
+stood at only 15 percent. In contrast, more than half of 30-to-39-year-olds had an ideal weight, whereas this figure 
+for inhabitants between 40 and 59 years old was almost 40 percent. 
+
+In contrast, while more than half of the population between 50 and 60 were obese, this ratio among the
+younger age groups was significantly lower, with less 5 %, almost 10 percent, and less than 25 percent of people
+in 20-29, 30-39, and 40-49 age brackets, respectively, falling into this category. 
+

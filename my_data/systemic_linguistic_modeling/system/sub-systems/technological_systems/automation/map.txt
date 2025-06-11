@@ -1,0 +1,54 @@
+AUTOMATION SYSTEM
+├── Entities
+│   ├── Human Operators
+│   ├── Controllers
+│   ├── Software Agents
+│   ├── Machines
+│   ├── Sensors & Actuators
+│   └── Data Systems
+├── Inputs
+│   ├── Raw Data
+│   ├── Commands
+│   ├── Rules
+│   ├── Energy
+│   └── Materials
+├── Outputs
+│   ├── Processed Data
+│   ├── Actions
+│   ├── Tasks
+│   └── Feedback
+├── Dependencies
+│   ├── Power
+│   ├── Network
+│   ├── Cloud
+│   ├── Humans
+│   └── APIs
+├── Boundaries
+│   ├── Physical
+│   ├── Logical
+│   ├── Temporal
+│   └── Functional
+├── Behaviors
+│   ├── Self-monitoring
+│   ├── Decision-making
+│   ├── Error Handling
+│   ├── Adaptive
+│   └── Synchronization
+├── Modifiers
+│   ├── User Preferences
+│   ├── Environment
+│   ├── Time
+│   ├── Regulations
+│   └── ML Models
+├── Processes
+│   ├── Data Acquisition
+│   ├── Processing
+│   ├── Execution
+│   ├── Logging
+│   └── Feedback Loop
+└── Repositories
+    ├── Configuration Files
+    ├── Historical Data
+    ├── Rule Base
+    ├── Knowledge Base
+    └── Cloud Storage

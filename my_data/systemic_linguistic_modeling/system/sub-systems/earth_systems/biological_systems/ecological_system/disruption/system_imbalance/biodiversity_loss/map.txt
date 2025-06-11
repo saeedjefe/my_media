@@ -1,0 +1,72 @@
+BIODIVERSITY LOSS SYSTEM (BDS)
+├── Entities
+│   ├── Species
+│   ├── Habitat
+│   ├── Ecosystem
+│   ├── Human Activity
+│   ├── Climate Conditions
+│   ├── Government Policies
+│   └── Invasive Species
+├── Inputs
+│   ├── Deforestation
+│   ├── Pollution
+│   ├── Overexploitation
+│   ├── Climate Change
+│   ├── Urban Development
+│   ├── Agriculture Expansion
+│   └── Introduction of Invasive Species
+├── Outputs
+│   ├── Species Extinction
+│   ├── Population Decline
+│   ├── Loss of Genetic Diversity
+│   ├── Ecosystem Imbalance
+│   ├── Reduced Resilience
+│   ├── Decreased Ecosystem Services
+│   └── Increased Vulnerability
+├── Dependencies
+│   ├── Healthy Habitats
+│   ├── Environmental Stability
+│   ├── Regulation & Enforcement
+│   ├── Public Awareness
+│   └── Technology Use
+├── Boundaries
+│   ├── Geographical
+│   ├── Temporal
+│   ├── Ecological
+│   ├── Political
+│   └── Biological
+├── Modifiers
+│   ├── Climate Change
+│   ├── Land Use Changes
+│   ├── Pollution Levels
+│   ├── Conservation Efforts
+│   ├── Technological Impact
+│   ├── Globalization
+│   └── Economic Pressures
+├── Repositories
+│   ├── Gene Banks
+│   ├── Protected Areas
+│   ├── Species Records
+│   ├── Historical Data
+│   └── International Agreements
+├── Processes
+│   ├── Input Acquisition
+│   ├── Transformation
+│   ├── Output Production
+│   ├── Feedback Loop
+│   ├── Maintenance
+│   ├── Replication
+│   └── Dissolution
+└── Goals
+    ├── Human-Driven Goals (Contributing to Loss)
+    │   ├── Economic Growth
+    │   ├── Resource Extraction
+    │   ├── Agricultural Expansion
+    │   ├── Urban Development
+    │   └── Short-Term Profit Maximization
+    └── Conservation Goals (Aiming to Reduce Loss)
+        ├── Preservation of Natural Habitats
+        ├── Restoration of Ecosystems
+        ├── Sustainable Development
+        ├── Endangered Species Protection
+        └── Long-Term Environmental Stewardship

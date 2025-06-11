@@ -1,0 +1,45 @@
+Legal Requirements System
+├── Inputs
+│   ├── Legislative Acts (Statutes, Bills)
+│   ├── Judicial Rulings (Case Law)
+│   ├── Constitutional Provisions
+│   ├── Administrative Rules and Regulations
+│   └── International Treaties and Agreements
+├── Outputs
+│   ├── Enforceable Obligations
+│   │   ├── Civil Duties (e.g., contracts, taxes)
+│   │   └── Criminal Prohibitions (e.g., theft, fraud)
+│   ├── Rights and Protections
+│   ├── Licenses and Permits
+│   └── Sanctions and Penalties
+├── Repositories
+│   ├── Legal Codes and Statute Books
+│   ├── Case Law Databases
+│   ├── Regulatory Registers
+│   └── Official Gazettes / Bulletins
+├── Boundaries
+│   ├── Jurisdictional Limits (national, state, local)
+│   ├── Temporal Validity (laws over time)
+│   ├── Scope of Application (e.g., sectors or populations)
+│   ├── Enforcement Capacity
+│   └── Interpretation Limits
+├── Goals
+│   ├── Rule of Law
+│   ├── Social Order
+│   ├── Protection of Rights
+│   ├── Justice and Equity
+│   └── Predictability and Compliance
+├── Processes
+│   ├── Lawmaking (legislation, regulation)
+│   ├── Legal Interpretation (courts, agencies)
+│   ├── Implementation and Enforcement (police, regulators)
+│   ├── Legal Counseling and Representation
+│   └── Adjudication and Dispute Resolution
+├── Modifiers
+│   ├── Political Climate
+│   ├── Public Opinion
+│   ├── Technological Innovation
+│   ├── Economic Conditions
+│   ├── International Norms and Pressures
+│   └── Social Movements
+

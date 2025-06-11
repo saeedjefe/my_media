@@ -1,68 +1,56 @@
-Intrapersonal_Dynamics_System
+INTERPERSONAL DYNAMICS SYSTEM (IDS)
 ├── Entities
-│   ├── Self-Dialogue (internal monologue, metacognition)
-│   ├── Emotional Regulation (reappraisal, suppression)
-│   ├── Value Systems and Internalized Norms
-│   ├── Self-Concept and Identity
-│   ├── Cognitive Dissonance Structures (belief conflict)
-│   ├── Conflict Resolution Mechanisms
-│   ├── Internal Motivational Drives (competing needs/goals)
-│   └── Self-Awareness and Introspection
+│   ├── Individuals
+│   ├── Communication Patterns
+│   ├── Emotional Bonds
+│   ├── Power Structures
+│   ├── Shared Goals or Conflicts
+│   └── Cultural & Social Norms
 ├── Inputs
-│   ├── External Feedback (criticism, praise, evaluation)
-│   ├── Emotional Reactions (to events or thoughts)
-│   ├── Self-Generated Thoughts and Memories
-│   ├── Internalized Cultural and Moral Norms
-│   └── Sensory and Physiological States (fatigue, arousal)
-├── Processes
-│   ├── Internal Negotiation (resolving conflicting desires)
-│   ├── Reframing and Self-Talk
-│   ├── Self-Monitoring and Correction
-│   ├── Prioritization (which goal to act on)
-│   └── Acceptance, Resistance, or Denial of Inner Experience
+│   ├── Personality Traits
+│   ├── Past Experiences
+│   ├── Emotional State
+│   ├── Social/Cultural Background
+│   ├── Environmental Context
+│   └── External Stressors
 ├── Outputs
-│   ├── Coherent or Conflicted Emotional States
-│   ├── Decisions and Actions Reflecting Inner Resolution
-│   ├── Psychological Growth or Stagnation
-│   └── Consistency or Instability in Behavior
-├── Repositories
-│   ├── Internal Belief Systems
-│   ├── Moral Judgments
-│   ├── Past Experiences and Emotional Associations
-│   ├── Self-Schemas and Roles
-│   └── Ideal Self vs. Actual Self Templates
+│   ├── Behavioral Outcomes
+│   ├── Emotional Responses
+│   ├── Conflict or Harmony
+│   ├── Trust or Mistrust
+│   └── Role Clarification
 ├── Dependencies
-│   ├── Self System (self-esteem, self-awareness)
-│   ├── Emotional System (for affective processing)
-│   ├── Cognitive System (reasoning, memory)
-│   ├── Motivational System (for value prioritization)
-│   └── Executive Function System (self-control, inhibition)
-├── Modifiers
-│   ├── Emotional Intensity
-│   ├── Internalized Shame or Guilt
-│   ├── Mental Health Status (anxiety, depression)
-│   ├── Trauma History
-│   └── Neurodivergence (e.g., in ASD or ADHD)
+│   ├── Effective Communication
+│   ├── Mutual Respect
+│   ├── Emotional Intelligence
+│   ├── Shared Values or Goals
+│   └── Psychological Safety
 ├── Boundaries
-│   ├── Tolerance for Ambiguity or Conflict
-│   ├── Level of Self-Insight
-│   ├── Ability to Delay Gratification
-│   └── Limits of Self-Control and Energy
-├── Behaviors
-│   ├── Adaptation (flexible self-management)
-│   ├── Rigidity (compulsion, black-and-white thinking)
-│   ├── Fragmentation (identity instability, internal chaos)
-│   ├── Resilience (stability in inner conflict)
-│   ├── Emergence (personal insight or self-growth)
-│   ├── Suppression (inhibition of impulses or thoughts)
-│   └── Feedback Loops (self-evaluation → emotional regulation)
-├── Pathological Conditions (Internal Conflict and Self-Regulation Disorders)
-│   ├── Obsessive-Compulsive Disorder (rigid, looping self-dialogue)
-│   ├── Depression (negative self-evaluation, cognitive rigidity)
-│   ├── Anxiety Disorders (internal worry loops)
-│   ├── Dissociative Identity Disorder (extreme identity fragmentation)
-│   ├── Borderline Personality Disorder (unstable self-image and affect)
-│   ├── Bipolar Disorder (intense internal state swings)
-│   ├── Eating Disorders (value conflict over control and self-worth)
-│   └── PTSD (dissonance between memory and emotional response)
-
+│   ├── Personal vs. Professional
+│   ├── Emotional Boundaries
+│   ├── Time-Based (relationship stages)
+│   ├── Cultural/Relational Norms
+│   └── Physical Boundaries
+├── Modifiers
+│   ├── Personality Differences
+│   ├── Life Stage
+│   ├── Gender & Identity Roles
+│   ├── Technology Use
+│   ├── Power Imbalance
+│   └── Trauma or Past Relationships
+├── Repositories
+│   ├── Memory of Past Interactions
+│   ├── Learned Communication Styles
+│   ├── Internalized Relationship Beliefs
+│   ├── Emotional Archive
+│   └── Social Scripts
+└── Processes
+    ├── Input Acquisition
+    ├── Emotional Interpretation
+    ├── Behavioral Response
+    ├── Feedback Loop
+    ├── Maintenance
+    ├── Conflict Resolution
+    ├── Bond Formation
+    ├── Replication
+    └── Dissolution

@@ -1,0 +1,51 @@
+VOLITIONAL PROCESS SYSTEM (VPS)
+├── Entities
+│   ├── Individual
+│   ├── Goals
+│   ├── Willpower
+│   ├── Executive Function
+│   ├── Motivation
+│   └── Decision-Making Mechanism
+├── Inputs
+│   ├── Awareness of Goal
+│   ├── Available Resources (time, energy, tools)
+│   ├── Environmental Cues (triggers for action)
+│   ├── Internal Desire (personal drive)
+│   └── Feedback from Previous Actions
+├── Outputs
+│   ├── Conscious Decisions
+│   ├── Goal-Directed Actions
+│   ├── Delayed Gratification
+│   ├── Self-Control
+│   └── Adaptive Learning
+├── Dependencies
+│   ├── Working Memory
+│   ├── Attention Span
+│   ├── Emotional Regulation
+│   └── Prior Knowledge or Experience
+├── Boundaries
+│   ├── Short-term vs. Long-term Goals
+│   ├── Voluntary vs. Habitual Actions
+│   ├── Personal Autonomy vs. External Influence
+│   └── Ethical/Moral Constraints
+├── Modifiers
+│   ├── Fatigue or Stress
+│   ├── External Distractions
+│   ├── Reward/Punishment Structure
+│   ├── Confidence and Self-Efficacy
+│   └── Access to Role Models
+├── Repositories
+│   ├── Past Successes/Failures
+│   ├── Strategies for Self-Control
+│   ├── Value Systems and Beliefs
+│   ├── Learned Techniques (e.g., time management)
+│   └── Moral Frameworks
+└── Processes
+    ├── Goal Setting (defining desired outcome)
+    ├── Planning (mapping steps and resources)
+    ├── Initiation (starting despite resistance)
+    ├── Maintenance (staying focused over time)
+    ├── Self-Assessment (checking progress and motivation)
+    ├── Adjustment (changing tactics based on feedback)
+    ├── Completion or Abandonment (ending the process)
+    └── Reflection (learning from experience)

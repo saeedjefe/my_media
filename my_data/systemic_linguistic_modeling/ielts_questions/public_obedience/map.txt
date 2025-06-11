@@ -1,0 +1,47 @@
+Public Obedience System
+├── Inputs
+│   ├── Legal Requirements
+│   ├── Cultural Norms
+│   ├── Moral Education
+│   ├── Social Conditioning
+│   ├── Institutional Authority (police, schools, governments)
+│   └── Communication and Media Messaging
+├── Outputs
+│   ├── Lawful Behavior
+│   ├── Social Harmony
+│   ├── Rule Compliance
+│   ├── Reduced Crime and Conflict
+│   └── Trust in Institutions
+├── Repositories
+│   ├── Legal Codes and Penalties
+│   ├── Social Expectations (norm archives)
+│   ├── Behavioral Data and Surveillance
+│   ├── Institutional Trust Records
+│   └── Educational Curricula
+├── Boundaries
+│   ├── Jurisdictional Authority
+│   ├── Level of Surveillance and Enforcement
+│   ├── Cultural Context
+│   ├── Political Legitimacy
+│   └── Psychological Thresholds for Resistance
+├── Goals
+│   ├── Social Stability
+│   ├── Predictable Behavior
+│   ├── Legal Compliance
+│   ├── Institutional Respect
+│   └── Peaceful Coexistence
+├── Processes
+│   ├── Rule Dissemination (laws, norms, codes of conduct)
+│   ├── Behavioral Monitoring
+│   ├── Positive Reinforcement (incentives, praise)
+│   ├── Negative Reinforcement (fines, punishments)
+│   ├── Internalization (belief acceptance)
+│   └── Public Modeling (role-model behavior)
+├── Modifiers
+│   ├── Public Trust or Distrust
+│   ├── Media Influence
+│   ├── Peer Behavior and Social Proof
+│   ├── Leadership Examples
+│   ├── Crisis or Emergency Conditions
+│   └── Technological Enforcement Tools (CCTV, digital IDs)
+

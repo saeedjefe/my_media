@@ -1,0 +1,59 @@
+POLLINATION SYSTEM (PS)
+├── Entities
+│   ├── Flowering Plants
+│   ├── Pollinators
+│   ├── Pollen
+│   ├── Nectar & Scents
+│   ├── Reproductive Structures
+│   ├── Environmental Conditions
+│   └── Human Influence
+├── Inputs
+│   ├── Pollen production
+│   ├── Pollinator movement
+│   ├── Nectar availability
+│   ├── Flower color and scent
+│   ├── Weather patterns
+│   ├── Habitat quality
+│   └── Agricultural influence
+├── Outputs
+│   ├── Fertilization
+│   ├── Seed production
+│   ├── Fruit development
+│   ├── Genetic diversity
+│   ├── Ecosystem support
+│   ├── Human food supply
+│   └── Pollinator decline (if disrupted)
+├── Dependencies
+│   ├── Presence of pollinators
+│   ├── Biodiversity
+│   ├── Floral resources
+│   ├── Climate stability
+│   └── Reduced pesticide use
+├── Boundaries
+│   ├── Geographical
+│   ├── Temporal (seasonal)
+│   ├── Ecological (species-specific interaction)
+│   ├── Species boundaries (some pollinators only work with certain plants)
+│   └── Human impact (farming, urbanization)
+├── Modifiers
+│   ├── Climate change
+│   ├── Urban expansion
+│   ├── Monoculture farming
+│   ├── Pesticide use
+│   ├── Conservation efforts
+│   └── Artificial pollination technology
+├── Repositories
+│   ├── Floral memory (pollinators)
+│   ├── Gene banks
+│   ├── Ecological records
+│   ├── Scientific research
+│   └── Traditional agricultural knowledge
+└── Processes
+    ├── Input acquisition (pollen, nectar, pollinators)
+    ├── Attraction (color, scent)
+    ├── Transfer (pollen movement)
+    ├── Fertilization
+    ├── Feedback loop (reward → future visits)
+    ├── Maintenance (repeating each season)
+    ├── Replication (across plants and pollinators)
+    └── Dissolution (loss due to environmental damage)

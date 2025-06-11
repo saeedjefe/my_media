@@ -1,0 +1,7 @@
+Behavioral Pattern
+└── Social Norm
+    ├── Law (formal, codified)
+    ├── Moral Norm (ethically driven)
+    ├── Etiquette (social politeness)
+    └── Custom (traditional, culturally specific practice)
+

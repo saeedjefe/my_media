@@ -9,7 +9,7 @@ counterclockwise description:
 .In the north of the area 
 .At the north end of the area 
 .On the northern edge of the area 
-.To the north of the area 
+ 
 
 
 2. North-East
@@ -17,26 +17,25 @@ counterclockwise description:
 .In the north-east of the area
 .At the north-eastern corner of the area 
 .On the north-eastern edge of the area 
-.To the north-east of the area 
+
 
 3. East
 
 .In the east of the area
 .At the eastern boundary of the area
-.To the east of the area 
+ 
  
 
 4. South-East
 .In the south-east of the area
 .At the south-eastern corner of the area
 .On the south-eastern edge of the area
-.To the south-east of the area
 
 5. South
 .In the south of the area
 .At the south end of the area
 .On the southern edge of the area
-.To the south of the area
+
 
 
 6. South-West
@@ -48,13 +47,13 @@ counterclockwise description:
 7. West
 .In the west of the area
 .At the western boundary of the area
-.To the west of the area
+
 
 8. North-West
 .In the north-west of the area
 .At the north-western corner of the area
 .On the north-western edge of the area
-.To the north-west of the area
+
 
 9. Center
 In the center of the area
@@ -96,9 +95,9 @@ at the back left-hand corner of somewhere
 
 
 2-left
-on the left-hand side of somewhere
-on the left side of somewhere
-to the left of somewhere
+on the left-hand side of somewhere(speaking)
+on the left side of somewhere(writing)
+
 
 
 3-front
@@ -107,7 +106,7 @@ at the front left-hand corner of somewhere
 at the front right-hand corner of somewhere
 
 4-right
-on the right-hand side of somewhere
-on the right side of a somewhere
-to the right side of a somewhere
+on the right-hand side of somewhere(speaking)
+on the right side of a somewhere(writing)
+
 

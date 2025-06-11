@@ -112,7 +112,6 @@ the element = 15-to-59-year-olds(noun phrase version)
 
 
 
-
 step five: 
 In this phase, we should build a bridge between 'the whole' and 'the element', starting with the
 most neutral verbs. In other words, 'to be verbs' which are literally linking verbs, creating a

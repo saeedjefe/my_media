@@ -1,0 +1,57 @@
+AIR POLLUTION SYSTEM (APS)
+├── Entities
+│   ├── Pollutants (CO₂, NOx, PM2.5)
+│   ├── Industrial Sources
+│   ├── Vehicles
+│   ├── Natural Sources (volcanoes, wildfires)
+│   ├── Government Regulators
+│   ├── Urban Population
+│   └── Monitoring Systems
+├── Inputs
+│   ├── Emissions from factories and vehicles
+│   ├── Agricultural burning
+│   ├── Construction dust
+│   ├── Volcanic ash
+│   ├── Wildfire smoke
+│   └── Consumer behavior (e.g., fuel use)
+├── Outputs
+│   ├── Smog formation
+│   ├── Respiratory diseases
+│   ├── Acid rain
+│   ├── Greenhouse gas increase
+│   ├── Climate change acceleration
+│   └── Reduced visibility / quality of life
+├── Dependencies
+│   ├── Energy demand
+│   ├── Transportation networks
+│   ├── Industrial growth
+│   ├── Lack of regulation
+│   └── Public awareness
+├── Boundaries
+│   ├── Urban vs. rural pollution levels
+│   ├── Indoor vs. outdoor air quality
+│   ├── Seasonal variations
+│   ├── National policies
+│   └── Atmospheric layers
+├── Modifiers
+│   ├── Economic development
+│   ├── Technological innovation
+│   ├── Policy enforcement
+│   ├── Urbanization
+│   ├── Climate conditions
+│   └── Public health awareness
+├── Repositories
+│   ├── Air quality monitoring data
+│   ├── Historical pollution records
+│   ├── Government regulations
+│   ├── Scientific research
+│   └── Public media coverage
+└── Processes
+    ├── Emission
+    ├── Dispersion
+    ├── Accumulation
+    ├── Health impact
+    ├── Feedback loop (public response)
+    ├── Regulation attempts
+    ├── Dissolution (clean-up efforts)
+    └── Adaptation (clean energy shift)

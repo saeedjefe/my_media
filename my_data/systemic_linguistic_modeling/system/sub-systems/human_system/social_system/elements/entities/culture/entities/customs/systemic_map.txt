@@ -1,0 +1,87 @@
+CUSTOMS_SYSTEM
+├── ENTITIES
+│   ├── Individuals
+│   ├── Families
+│   ├── Elders and Tradition Bearers
+│   ├── Communities and Ethnic Groups
+│   ├── Religious Institutions
+│   ├── Cultural Organizations
+│   └── Governments and Lawmakers
+
+├── INPUTS
+│   ├── Historical Practices
+│   ├── Religious Beliefs
+│   ├── Oral Traditions
+│   ├── Ritual Scripts
+│   ├── Environmental Conditions
+│   ├── Moral and Ethical Norms
+│   └── Foreign Influences
+
+├── PROCESSES
+│   ├── Cultural Transmission (education, storytelling, imitation)
+│   ├── Ritual Performance
+│   ├── Seasonal or Lifecycle Observance (e.g., weddings, funerals)
+│   ├── Social Reinforcement (praise, shame, sanctions)
+│   ├── Adaptation to Modern Contexts
+│   ├── Intergenerational Negotiation
+│   └── Codification into Law or Policy
+
+├── OUTPUTS
+│   ├── Behavioral Norms
+│   ├── Social Cohesion
+│   ├── Cultural Identity
+│   ├── Ethical Standards
+│   ├── Community Symbols (dress, food, music)
+│   ├── Traditional Practices (rituals, greetings, holidays)
+│   └── Legal or Quasi-Legal Norms (customary law)
+
+├── REPOSITORIES
+│   ├── Oral Histories
+│   ├── Folklore and Mythology
+│   ├── Sacred Texts
+│   ├── Cultural Archives and Museums
+│   ├── Ritual Artifacts
+│   └── Embodied Memory (gestures, crafts, performance)
+
+├── MODIFIERS
+│   ├── Globalization
+│   ├── Urbanization
+│   ├── Religious Reform
+│   ├── State Intervention
+│   ├── Technology and Media
+│   ├── Migration and Diaspora
+│   └── Climate and Environmental Change
+
+├── BOUNDARIES
+│   ├── Generational Boundaries (youth vs. elders)
+│   ├── Religious vs. Secular Customs
+│   ├── Regional Variations
+│   ├── Gender Norms
+│   ├── Insider vs. Outsider (ethnic or tribal customs)
+│   └── Formal Law vs. Customary Practice
+
+├── GOALS
+│   ├── Social Harmony
+│   ├── Group Identity Preservation
+│   ├── Moral Continuity
+│   ├── Respect for Ancestral Wisdom
+│   ├── Regulation of Behavior
+│   └── Cultural Survival Across Generations
+
+├── BEHAVIORS
+│   ├── Conformity
+│   ├── Resistance or Reinterpretation
+│   ├── Cultural Revival
+│   ├── Hybridization (fusion of customs)
+│   ├── Transmission Delay or Loss
+│   ├── Ritual Innovation
+│   └── Assimilation or Acculturation
+
+├── DEPENDENCIES
+│   ├── Customs → Religious Beliefs, Environment, History
+│   ├── Transmission → Elders, Language, Ritual Spaces
+│   ├── Continuity → Institutional Support, Family Structures
+│   ├── Evolution → Modern Media, Law, Political Pressure
+│   ├── Ritual Validity → Seasonal Timing, Community Consensus
+│   └── Acceptance → Social Status, Peer Behavior
+

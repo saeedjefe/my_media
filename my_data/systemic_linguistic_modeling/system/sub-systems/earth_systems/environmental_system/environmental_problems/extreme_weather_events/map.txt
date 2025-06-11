@@ -1,0 +1,59 @@
+EXTREME WEATHER EVENTS SYSTEM (EWES)
+├── Entities
+│   ├── Climate system
+│   ├── Greenhouse gases
+│   ├── Weather patterns
+│   ├── Affected populations
+│   ├── Emergency services
+│   ├── Insurance companies
+│   └── Government agencies
+├── Inputs
+│   ├── CO₂ and methane emissions
+│   ├── Ocean temperature rise
+│   ├── Deforestation
+│   ├── Urban heat islands
+│   ├── Natural variability (El Niño, etc.)
+│   └── Human-induced warming
+├── Outputs
+│   ├── Heatwaves
+│   ├── Floods
+│   ├── Droughts
+│   ├── Storms (hurricanes, typhoons)
+│   ├── Crop failure
+│   ├── Displacement of people
+│   └── Financial losses
+├── Dependencies
+│   ├── Rising global temperatures
+│   ├── Carbon emission levels
+│   ├── Land use changes
+│   ├── Urban infrastructure
+│   └── Government preparedness
+├── Boundaries
+│   ├── Seasonal vs. permanent shifts
+│   ├── Local vs. global weather patterns
+│   ├── Predictable vs. unpredictable events
+│   ├── Natural vs. anthropogenic causes
+│   └── Resilient vs. vulnerable communities
+├── Modifiers
+│   ├── Climate change
+│   ├── Urban development
+│   ├── Energy consumption
+│   ├── Disaster preparedness
+│   ├── Media coverage
+│   └── International cooperation
+├── Repositories
+│   ├── Meteorological records
+│   ├── Climate change projections
+│   ├── Historical disaster data
+│   ├── Insurance claims
+│   └── Public policy documents
+└── Processes
+    ├── Trigger (rising emissions)
+    ├── Development (warming → instability)
+    ├── Event occurrence (storm, drought)
+    ├── Damage assessment
+    ├── Response (relief, aid, relocation)
+    ├── Feedback loop (increased awareness)
+    ├── Adaptation (climate-resilient architecture)
+    ├── Replication (similar events elsewhere)
+    └── Dissolution (event ends)

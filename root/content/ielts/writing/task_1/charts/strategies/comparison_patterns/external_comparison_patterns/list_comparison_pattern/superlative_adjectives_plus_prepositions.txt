@@ -7,8 +7,8 @@ the + least + adjective
 
 
 Telegram is the most popular social media app in the world. 
-But being too generic, this sentence lacks statistical information. Therefore, we
-need to add numbers to the previous sentence. 
+But being too generic, this sentence lacks statistical information. Therefore, 
+we need to add numbers to the previous sentence. 
 
 how to add numbers to the text:
 

@@ -1,0 +1,9 @@
+The given line graph compares average C02 emissions per person in four European countries, UK, Italy, Sweden, and Portugal, over a period of 40 years from 1967 to 2007. 
+
+Overall, UK and Sweden started with the greatest levels of carbon emissions even though they both followed a downward trend in the following years. In contrast, Portugal and Italy, although having started with small figures, experienced an upward trajectory, with Italy overtaking Sweden in the middle of the period in question. 
+
+In 1967, UK was the greatest producer of CO2, with 11 tonnes per person, followed by Sweden at 9 tonnes. In contrast, 
+Portugal and Italy produced only 1 tonnes and 4 tonnes of carbon emissions in the same year, respectively.
+
+Over the following 4 decades, however, the production of CO2 in UK and Sweden fell dramatically, with UK ending at almost 9 tonnes and Sweden at 7 tonnes, lower than Italy whose CO2 level grew to 7 tonnes in 2007. Meanwhile, 
+after a dramatic rise of 4 tonnes, Portugal reached 5 tonnes, becoming the smallest producer of CO2 alongside Sweden. 

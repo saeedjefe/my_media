@@ -1,0 +1,12 @@
+EVENT (Superordinate)
+└── INCIDENT
+    ├── Accident
+    ├── Crime
+    ├── Emergency
+    ├── Disaster
+    ├── Conflict
+    ├── Misconduct
+    ├── Security Breach
+    ├── Workplace Incident
+    ├── Cyber Incident
+    └── Medical Incident

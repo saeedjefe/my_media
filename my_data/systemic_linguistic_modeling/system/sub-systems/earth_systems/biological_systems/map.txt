@@ -1,0 +1,7 @@
+SYSTEM (Superordinate)
+└── BIOLOGICAL SYSTEM
+    └── ECOLOGICAL SYSTEM
+        └── ECOSYSTEM
+            ├── Forest Ecosystem
+            ├── Marine Ecosystem
+            └── Desert Ecosystem

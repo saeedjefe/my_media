@@ -1,0 +1,51 @@
+Foreign Language Learning System
+├── Inputs
+│   ├── Learning Materials (Textbooks, Videos, Apps)
+│   ├── Native Speaker Exposure (Conversations, Media)
+│   ├── Instructor Guidance (Teachers, Tutors)
+│   ├── Time and Practice Commitment
+│   ├── Cognitive Capacity and Prior Knowledge
+│   └── Motivation and Personal Goals
+├── Processes
+│   ├── Vocabulary Acquisition
+│   ├── Grammar and Syntax Learning
+│   ├── Listening Comprehension
+│   ├── Speaking Practice
+│   ├── Reading Comprehension
+│   ├── Writing Practice
+│   ├── Feedback and Correction
+│   └── Cognitive Internalization and Retention
+├── Modifiers
+│   ├── Learning Environment (Supportive, Immersive)
+│   ├── Technology Use (Apps, AI, VR)
+│   ├── Cultural Context and Relevance
+│   ├── Learning Strategy (e.g. spaced repetition)
+│   └── Emotional and Psychological Factors (Anxiety, Confidence)
+├── Repositories
+│   ├── Memory Storage (Short- and Long-Term)
+│   ├── Language Reference Materials (Dictionaries, Notes)
+│   ├── Language Habits and Routines
+│   └── Accumulated Feedback and Experience
+├── Outputs
+│   ├── Communicative Competence (Speaking, Writing)
+│   ├── Receptive Competence (Listening, Reading)
+│   ├── Cultural Understanding
+│   └── Academic or Professional Application
+├── Boundaries
+│   ├── Time Constraints
+│   ├── Access to Native Environment or Instruction
+│   ├── Socioeconomic Limits
+│   └── Age or Cognitive Plasticity
+├── Behaviors
+│   ├── Adaptability to New Structures
+│   ├── Persistence and Routine Formation
+│   ├── Code-Switching and Multilingual Processing
+│   ├── Self-correction and Feedback Loops
+│   └── Transfer of Learning (applying prior linguistic knowledge)
+├── Goals
+│   ├── Basic Communication
+│   ├── Academic Achievement
+│   ├── Professional Proficiency
+│   ├── Cultural Integration
+│   └── Personal Fulfillment or Travel
+

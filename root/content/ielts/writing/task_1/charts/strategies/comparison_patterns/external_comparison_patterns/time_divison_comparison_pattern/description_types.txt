@@ -61,7 +61,7 @@ dummy_there:
 there is a significant increase in chicken consumption from 145 grams in 1979 to 200 grams in 1989. 
 
 predicative adjective:
-the increase in chicken consumption was significant from 145 grams in 1979 to 200 grams in 1989.
+The increase in chicken consumption was significant from 145 grams in 1979 to 200 grams in 1989.
 
 passive form:
 a significant increase from 145 grams in 1979 to 200 grams in 1989 in chicken consumption was recorded

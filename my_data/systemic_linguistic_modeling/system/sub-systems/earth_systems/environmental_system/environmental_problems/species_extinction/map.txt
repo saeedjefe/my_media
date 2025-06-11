@@ -1,0 +1,58 @@
+SPECIES EXTINCTION SYSTEM (SES)
+├── Entities
+│   ├── Endangered species
+│   ├── Ecosystem
+│   ├── Human activities (hunting, deforestation)
+│   ├── Climate change
+│   ├── Invasive species
+│   ├── Government agencies
+│   └── Conservation organizations
+├── Inputs
+│   ├── Habitat destruction
+│   ├── Overhunting/poaching
+│   ├── Climate shifts
+│   ├── Introduction of invasive species
+│   ├── Pollution
+│   ├── Illegal wildlife trade
+│   └── Agricultural expansion
+├── Outputs
+│   ├── Complete extinction
+│   ├── Genetic diversity loss
+│   ├── Food chain disruption
+│   ├── Loss of ecological services
+│   ├── Collapse of ecosystems
+│   └── Ethical/public concern
+├── Dependencies
+│   ├── Habitat availability
+│   ├── Conservation efforts
+│   ├── Policy enforcement
+│   ├── Public support
+│   └── Funding for research
+├── Boundaries
+│   ├── Natural range of species
+│   ├── Political borders
+│   ├── Time-based (fast vs. slow extinction)
+│   ├── Geographic isolation
+│   └── Species type (plants vs. animals)
+├── Modifiers
+│   ├── Climate change
+│   ├── Technological intervention
+│   ├── Laws and treaties
+│   ├── Public campaigns
+│   ├── Trade restrictions
+│   └── Restoration programs
+├── Repositories
+│   ├── IUCN Red List
+│   ├── Zoological records
+│   ├── Historical species accounts
+│   ├── Conservation databases
+│   └── Legal agreements (CITES, CBD)
+└── Processes
+    ├── Input acquisition (pressures on species)
+    ├── Transformation (population decline)
+    ├── Output production (extinction)
+    ├── Feedback loop (awareness and response)
+    ├── Maintenance (conservation actions)
+    ├── Replication (other species affected)
+    ├── Dissolution (species lost forever)
+    └── Recovery attempts (captive breeding, reintroduction)

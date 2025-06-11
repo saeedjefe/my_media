@@ -1,0 +1,58 @@
+WATER CONTAMINATION SYSTEM (WCS)
+├── Entities
+│   ├── Pollutants (plastics, chemicals, pathogens)
+│   ├── Industrial facilities
+│   ├── Agricultural runoff
+│   ├── Urban waste systems
+│   ├── Aquatic ecosystems
+│   ├── Government regulators
+│   └── Consumers
+├── Inputs
+│   ├── Industrial discharge
+│   ├── Fertilizer/pesticide runoff
+│   ├── Sewage overflow
+│   ├── Plastic waste
+│   ├── Mining or oil spill contaminants
+│   └── Household chemicals
+├── Outputs
+│   ├── Drinking water contamination
+│   ├── Fish death or mutation
+│   ├── Algal blooms
+│   ├── Loss of biodiversity
+│   ├── Human illness
+│   └── Regulatory action
+├── Dependencies
+│   ├── Waste management infrastructure
+│   ├── Water treatment systems
+│   ├── Rainfall/runoff patterns
+│   ├── Industrial practices
+│   └── Public hygiene habits
+├── Boundaries
+│   ├── Groundwater vs. surface water
+│   ├── Rural vs. urban water systems
+│   ├── Legal jurisdiction (local vs. national)
+│   ├── Short-term vs. long-term contamination
+│   └── Domestic vs. industrial use
+├── Modifiers
+│   ├── Climate change (floods/droughts)
+│   ├── Population density
+│   ├── Technological progress
+│   ├── Policy changes
+│   ├── Global trade
+│   └── Education level of public
+├── Repositories
+│   ├── Water quality reports
+│   ├── Government databases
+│   ├── Scientific studies
+│   ├── Historical usage patterns
+│   └── Public awareness campaigns
+└── Processes
+    ├── Input entry (contaminant release)
+    ├── Transport through water bodies
+    ├── Bioaccumulation in food chain
+    ├── Detection and testing
+    ├── Public reaction
+    ├── Legislative response
+    ├── Remediation
+    ├── Replication (in new areas)
+    └── Dissolution (clean-up success/failure)

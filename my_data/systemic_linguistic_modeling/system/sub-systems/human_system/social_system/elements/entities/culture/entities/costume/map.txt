@@ -1,0 +1,64 @@
+CLOTHING (Superordinate)
+├── Casual Wear
+├── Formal Wear
+├── Uniforms
+├── Traditional Dress
+└── Costumes
+    ├── Stage Costume
+    ├── Historical Costume
+    ├── Festival Costume
+    └── Disguise
+
+COSTUME SYSTEM (CS)
+├── Entities
+│   ├── Wearer
+│   ├── Designer
+│   ├── Audience / Observer
+│   ├── Context / Purpose
+│   ├── Materials & Tools
+│   └── Cultural Meaning
+├── Inputs
+│   ├── Design Concept
+│   ├── Cultural Norms
+│   ├── Available Resources
+│   ├── Identity or Role
+│   ├── Technology
+│   └── Historical Reference
+├── Outputs
+│   ├── Visual Representation
+│   ├── Emotional Response
+│   ├── Social Signaling
+│   ├── Behavioral Influence
+│   └── Cultural Expression
+├── Dependencies
+│   ├── Functionality
+│   ├── Authenticity
+│   ├── Acceptability
+│   └── Symbolic Meaning
+├── Boundaries
+│   ├── Cultural
+│   ├── Temporal
+│   ├── Contextual
+│   └── Personal vs. Public
+├── Modifiers
+│   ├── Socioeconomic Status
+│   ├── Gender & Identity
+│   ├── Technological Advances
+│   ├── Globalization
+│   └── Media Influence
+├── Repositories
+│   ├── Cultural Memory
+│   ├── Fashion Industry
+│   ├── Media Archives
+│   ├── Institutional Collections
+│   └── Digital Platforms
+└── Processes
+    ├── Input Acquisition
+    ├── Design
+    ├── Construction
+    ├── Wearing
+    ├── Observation / Interpretation
+    ├── Feedback Loop
+    ├── Maintenance
+    ├── Replication
+    └── Dissolution

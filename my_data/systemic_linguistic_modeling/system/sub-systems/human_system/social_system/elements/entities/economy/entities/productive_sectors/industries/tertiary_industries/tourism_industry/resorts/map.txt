@@ -1,0 +1,56 @@
+RESORT SYSTEM (RS)
+├── Entities
+│   ├── Guests / Visitors
+│   ├── Staff / Employees
+│   ├── Facilities & Infrastructure
+│   ├── Management / Owners
+│   ├── Local Community
+│   └── Natural Environment
+├── Inputs
+│   ├── Guest Demand
+│   ├── Capital Investment
+│   ├── Human Resources
+│   ├── Utilities & Supplies
+│   ├── Regulatory Requirements
+│   └── Marketing Efforts
+├── Outputs
+│   ├── Accommodation Services
+│   ├── Recreational Activities
+│   ├── Catering & Dining
+│   ├── Customer Satisfaction
+│   ├── Revenue
+│   └── Environmental Impact
+├── Dependencies
+│   ├── Tourism Industry
+│   ├── Transportation Network
+│   ├── Weather & Climate
+│   ├── Technology Systems
+│   └── Government Policies
+├── Boundaries
+│   ├── Geographical
+│   ├── Temporal
+│   ├── Legal
+│   ├── Economic
+│   └── Cultural
+├── Modifiers
+│   ├── Sustainability Practices
+│   ├── Economic Conditions
+│   ├── Technological Integration
+│   ├── Global Events
+│   └── Competitive Landscape
+├── Repositories
+│   ├── Booking Platforms
+│   ├── Customer Feedback
+│   ├── Operational Data
+│   ├── Cultural & Environmental Archives
+│   └── Brand Identity
+└── Processes
+    ├── Input Acquisition
+    ├── Service Planning
+    ├── Guest Experience Delivery
+    ├── Feedback Collection
+    ├── Maintenance & Upkeep
+    ├── Distribution of Revenue
+    ├── Feedback Loop
+    ├── Replication
+    └── Dissolution

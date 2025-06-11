@@ -61,8 +61,7 @@ public interface Behaviors {
         ROBUSTNESS,             // ↔ FRAGILITY
         FRAGILITY,
 
-        REDUNDANCY,             // ↔ SINGULAR_DEPENDENCY
-        SINGULAR_DEPENDENCY,
+
 
         FLEXIBILITY,            // ↔ RIGIDITY
         RIGIDITY,
@@ -96,27 +95,12 @@ public interface Behaviors {
         RESPONSIVENESS,         // ↔ DELAYED_RESPONSE
         DELAYED_RESPONSE,
 
-        RECOVERY,               // ↔ COLLAPSE
-        COLLAPSE,
-
         CONTAINMENT,            // ↔ ESCALATION
         ESCALATION,
 
         MITIGATION,             // ↔ EXACERBATION
         EXACERBATION,
-
-        // ─── Transformative vs. Static Futures ────────────────────
-        TRANSFORMATION,         // ↔ STASIS
-        STASIS,
-
-        REINVENTION,            // ↔ OBSOLESCENCE
-        OBSOLESCENCE,
-
-        EMERGENCE,              // ↔ SUPPRESSION
-        SUPPRESSION,
-
-        EVOLUTION,              // ↔ DEGENERATION
-        DEGENERATION
+        WEATHER_THE_PROBLEM
     }
 
 

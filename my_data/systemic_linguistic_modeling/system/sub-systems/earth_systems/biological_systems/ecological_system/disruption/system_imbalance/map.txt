@@ -1,0 +1,5 @@
+ECOSYSTEM IMBALANCE (Broader Concept)
+├── Biodiversity Loss
+├── Invasive Species Spread
+├── Disruption of Food Chains
+└── Altered Nutrient Cycles

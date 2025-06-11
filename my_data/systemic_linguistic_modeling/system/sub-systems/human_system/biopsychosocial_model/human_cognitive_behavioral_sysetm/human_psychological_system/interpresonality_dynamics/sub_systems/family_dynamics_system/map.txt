@@ -1,0 +1,51 @@
+FAMILY DYNAMICS SYSTEM (FDS)
+├── Entities
+│   ├── Parents/Caregivers
+│   ├── Children/Siblings
+│   ├── Extended Family
+│   ├── Communication Patterns
+│   ├── Emotional Bonds
+│   └── Cultural Norms
+├── Inputs
+│   ├── Parenting Style (authoritative, authoritarian, etc.)
+│   ├── Emotional Support (warmth, attention, validation)
+│   ├── Rules & Expectations (discipline, boundaries)
+│   ├── Modeling Behavior (actions imitated by children)
+│   ├── Conflict or Harmony (frequency and resolution of disputes)
+│   └── Social/Cultural Influences (traditions, gender roles)
+├── Outputs
+│   ├── Emotional Security or Insecurity
+│   ├── Behavioral Patterns (prosocial or aggressive behavior)
+│   ├── Attachment Styles (secure, anxious, avoidant)
+│   ├── Self-Worth Perception
+│   └── Social Relationship Skills
+├── Dependencies
+│   ├── Consistent Caregiving
+│   ├── Safe and Stable Environment
+│   ├── Socioeconomic Stability
+│   └── Mental Health of Family Members
+├── Boundaries
+│   ├── Home vs. School/Peer Environment
+│   ├── Childhood vs. Adulthood (role shifts)
+│   ├── Privacy vs. Shared Family Life
+│   └── Biological vs. Learned Behavior
+├── Modifiers
+│   ├── Birth of Siblings
+│   ├── Divorce or Separation
+│   ├── Moving House
+│   ├── Financial Hardship
+│   └── External Stressors (e.g., illness)
+├── Repositories
+│   ├── Family History and Traditions
+│   ├── Memory of Past Interactions
+│   ├── Internalized Values and Beliefs
+│   ├── Emotional Archive (positive/negative associations)
+│   └── Cultural Identity and Practices
+└── Processes
+    ├── Input Acquisition (receiving messages from caregivers)
+    ├── Emotional Interpretation (understanding tone and intent)
+    ├── Behavioral Response (reacting to environment)
+    ├── Feedback Loop (observing consequences and adjusting behavior)
+    ├── Maintenance (reinforcing patterns through repetition)
+    ├── Replication (passing on learned behaviors)
+    └── Dissolution (changing harmful patterns with awareness)

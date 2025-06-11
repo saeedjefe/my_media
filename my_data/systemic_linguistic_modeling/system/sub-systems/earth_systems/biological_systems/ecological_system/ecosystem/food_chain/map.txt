@@ -1,0 +1,58 @@
+FOOD CHAIN SYSTEM (FCS)
+├── Entities
+│   ├── Producers
+│   ├── Primary Consumers
+│   ├── Secondary Consumers
+│   ├── Tertiary Consumers
+│   ├── Decomposers
+│   ├── Energy Source (sunlight)
+│   └── Environment
+├── Inputs
+│   ├── Sunlight
+│   ├── Water & Nutrients
+│   ├── Organic Matter
+│   ├── Oxygen
+│   ├── Carbon Dioxide
+│   └── Human Influence
+├── Outputs
+│   ├── Energy Transfer
+│   ├── Biomass Production
+│   ├── Waste Products
+│   ├── Dead Organisms
+│   ├── Nutrient Recycling
+│   └── Ecological Balance
+├── Dependencies
+│   ├── Photosynthesis
+│   ├── Availability of Prey
+│   ├── Decomposition
+│   ├── Environmental Conditions
+│   └── Human Impact
+├── Boundaries
+│   ├── Physical Environment
+│   ├── Species Range
+│   ├── Artificial Barriers
+│   ├── Trophic Levels
+│   └── Open vs. Closed Systems
+├── Modifiers
+│   ├── Climate Change
+│   ├── Pollution
+│   ├── Habitat Loss
+│   ├── Overhunting/Fishing
+│   ├── Invasive Species
+│   └── Technology Use
+├── Repositories
+│   ├── Soil
+│   ├── Plants
+│   ├── Animal Tissue
+│   ├── Dead Biomass
+│   └── Atmosphere
+└── Processes
+    ├── Input Acquisition
+    ├── Energy Conversion
+    ├── Feeding
+    ├── Reproduction
+    ├── Death
+    ├── Decomposition
+    ├── Feedback Loop
+    ├── Replication
+    └── Dissolution

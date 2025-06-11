@@ -1,0 +1,51 @@
+ATRAZINE SYSTEM
+├── Entities
+│   ├── Atrazine (herbicide)
+│   ├── Target Weeds
+│   ├── Crops (e.g., maize)
+│   ├── Soil Microbes
+│   ├── Water Sources
+│   ├── Amphibians & Aquatic Life
+│   └── Regulatory Bodies
+├── Inputs
+│   ├── Agricultural Application
+│   ├── Rainfall / Irrigation
+│   ├── Soil Composition
+│   ├── Temperature / Sunlight
+│   └── Human Policies
+├── Outputs
+│   ├── Weed Suppression
+│   ├── Crop Yield Increase
+│   ├── Water Contamination
+│   ├── Hormonal Disruption in Wildlife
+│   └── Policy Response (e.g., bans, usage limits)
+├── Dependencies
+│   ├── Agricultural Demand
+│   ├── Weather Conditions
+│   ├── Regulatory Oversight
+│   └── Ecosystem Sensitivity
+├── Boundaries
+│   ├── Field Level vs. Watershed Level
+│   ├── Legal Restrictions
+│   ├── Temporal Persistence (how long it lasts in environment)
+│   └── Species Sensitivity
+├── Modifiers
+│   ├── Climate Change
+│   ├── Land Use Patterns
+│   ├── Technological Alternatives
+│   └── Public Awareness
+├── Repositories
+│   ├── Government Pesticide Databases
+│   ├── Scientific Research Archives
+│   ├── Environmental Monitoring Reports
+│   └── Legal and Policy Documents
+└── Processes
+    ├── Application
+    ├── Runoff / Leaching
+    ├── Absorption by Plants
+    ├── Degradation in Environment
+    ├── Exposure to Wildlife
+    ├── Detection in Water
+    ├── Regulation and Ban Enforcement
+    └── Substitution with Alternatives
+

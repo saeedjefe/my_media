@@ -1,0 +1,56 @@
+ECOSYSTEM SYSTEM (ES)
+├── Entities
+│   ├── Producers
+│   ├── Consumers
+│   ├── Decomposers
+│   ├── Abiotic Factors
+│   ├── Habitat
+│   ├── Energy Flow
+│   └── Nutrient Cycles
+├── Inputs
+│   ├── Sunlight
+│   ├── Water
+│   ├── Air (O₂, CO₂)
+│   ├── Nutrients
+│   ├── Organisms
+│   └── External Energy Sources
+├── Outputs
+│   ├── Oxygen
+│   ├── Carbon Dioxide
+│   ├── Organic Matter
+│   ├── Waste Products
+│   ├── Biomass Production
+│   └── Energy Loss
+├── Dependencies
+│   ├── Climate Conditions
+│   ├── Soil Quality
+│   ├── Water Availability
+│   ├── Species Interactions
+│   └── Human Influence
+├── Boundaries
+│   ├── Physical (geography)
+│   ├── Biological (species range)
+│   ├── Temporal (seasonal or long-term changes)
+│   ├── Open vs. Closed Systems
+│   └── Artificial vs. Natural Boundaries
+├── Modifiers
+│   ├── Environmental Changes
+│   ├── Human Activities
+│   ├── Natural Disasters
+│   ├── Seasonal Variation
+│   └── Technology Use
+├── Repositories
+│   ├── Soil Nutrients
+│   ├── Gene Pool
+│   ├── Water Reservoirs
+│   ├── Atmosphere
+│   └── Food Chains/Webs
+└── Processes
+    ├── Input Acquisition
+    ├── Energy Transformation
+    ├── Output Production
+    ├── Resource Distribution
+    ├── Maintenance
+    ├── Feedback Loop
+    ├── Replication
+    └── Dissolution

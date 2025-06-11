@@ -1,0 +1,50 @@
+AUTONOMIC BEHAVIOR SYSTEM (ABS)
+├── Entities
+│   ├── Individual
+│   ├── Habitual Responses
+│   ├── Reflexes
+│   ├── Emotional Triggers
+│   ├── Environmental Stimuli
+│   └── Basal Ganglia / Limbic System
+├── Inputs
+│   ├── Repeated Situational Triggers
+│   ├── Emotional States (fear, comfort, stress)
+│   ├── Physical Conditions (fatigue, hunger)
+│   ├── Learned Associations (classical conditioning)
+│   └── Environmental Cues (places, people, objects)
+├── Outputs
+│   ├── Habitual Actions (nail-biting, phone-checking)
+│   ├── Reflexive Movements (blinking, pulling away from pain)
+│   ├── Automatic Emotional Responses (anxiety in certain situations)
+│   ├── Conditioned Behaviors (based on past experiences)
+│   └── Stress Response Patterns (fight-or-flight reactions)
+├── Dependencies
+│   ├── Basal Ganglia (habit formation)
+│   ├── Amygdala (emotional triggers)
+│   ├── Limbic System (emotional memory)
+│   └── Energy Conservation Needs
+├── Boundaries
+│   ├── Conscious vs. Unconscious Control
+│   ├── Learned vs. Innate Behavior
+│   ├── Adaptive vs. Maladaptive Habits
+│   └── Internal vs. External Triggers
+├── Modifiers
+│   ├── Frequency of Exposure
+│   ├── Strength of Emotional Association
+│   ├── Stress Levels
+│   ├── Changes in Environment
+│   └── Age and Cognitive Maturity
+├── Repositories
+│   ├── Habit Loops (cue → routine → reward)
+│   ├── Emotional Memories
+│   ├── Motor Skill Memory
+│   ├── Neural Pathways Reinforced by Repetition
+│   └── Trauma-Related Conditioning
+└── Processes
+    ├── Trigger Detection (recognizing a familiar situation)
+    ├── Routine Activation (automatically performing the behavior)
+    ├── Reward Reception (feeling relief or pleasure)
+    ├── Consolidation (strengthening the habit loop)
+    ├── Repetition (making the behavior more automatic)
+    ├── Disruption (breaking the cycle through awareness)
+    └── Replacement (substituting new habits for old ones)

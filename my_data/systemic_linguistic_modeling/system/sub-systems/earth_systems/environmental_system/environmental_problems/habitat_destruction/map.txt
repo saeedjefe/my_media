@@ -1,0 +1,56 @@
+HABITAT DESTRUCTION SYSTEM (HDS)
+├── Entities
+│   ├── Forests, wetlands, coral reefs
+│   ├── Human activity (logging, construction)
+│   ├── Wildlife species
+│   ├── Government planners
+│   ├── Local communities
+│   └── Conservation groups
+├── Inputs
+│   ├── Deforestation
+│   ├── Urban expansion
+│   ├── Agriculture conversion
+│   ├── Mining or drilling operations
+│   ├── Infrastructure projects
+│   └── Climate-related events
+├── Outputs
+│   ├── Species displacement
+│   ├── Biodiversity loss
+│   ├── Fragmented habitats
+│   ├── Ecosystem collapse
+│   ├── Human-wildlife conflict
+│   └── Policy responses
+├── Dependencies
+│   ├── Economic development goals
+│   ├── Land-use planning
+│   ├── Population growth
+│   ├── Lack of protected areas
+│   └── Weak enforcement of laws
+├── Boundaries
+│   ├── Protected vs. unprotected land
+│   ├── Natural vs. human-made boundaries
+│   ├── Coastal vs. inland habitat
+│   ├── Legal protections
+│   └── Ecological thresholds
+├── Modifiers
+│   ├── Technological advancement
+│   ├── Corporate influence
+│   ├── Public awareness
+│   ├── Policy changes
+│   ├── Migration of humans or animals
+│   └── Climate change effects
+├── Repositories
+│   ├── Satellite imagery
+│   ├── Environmental assessments
+│   ├── Historical ecosystem maps
+│   ├── NGO reports
+│   └── Government archives
+└── Processes
+    ├── Input acquisition (land clearing)
+    ├── Transformation (habitat fragmentation)
+    ├── Output production (loss of species)
+    ├── Feedback loop (ecosystem imbalance)
+    ├── Maintenance (partial recovery)
+    ├── Replication (new destruction sites)
+    ├── Dissolution (complete loss of habitat)
+    └── Restoration attempts

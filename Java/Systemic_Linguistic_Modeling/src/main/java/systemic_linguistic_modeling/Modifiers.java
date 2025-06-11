@@ -27,8 +27,7 @@ public interface Modifiers {
         SPECIALIZATION,
         GENERALIZATION,
         RECONFIGURABILITY,
-        LATENCY,
-        ROBUSTNESS
+        LATENCY
     }
 
     enum InformationalModifiers {

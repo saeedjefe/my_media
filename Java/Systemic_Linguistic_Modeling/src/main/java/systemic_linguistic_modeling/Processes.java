@@ -27,12 +27,15 @@ public interface Processes {
     // === Enums for Process Terms (formerly 'Verb') ===
 
     enum InputAcquisitionTerms {
+        FOUNTAINHEAD,
         SOURCING,
         PROCUREMENT,
         LOGISTICS,
         RECRUITMENT,
         INTAKE,
-        ONBOARDING
+        ONBOARDING,
+        COMPILATION,
+
     }
 
     enum InternalTransformationTerms {
@@ -59,7 +62,9 @@ public interface Processes {
         EXPORT,
         OUTREACH,
         DISSEMINATION,
-        DELIVERY
+        DELIVERY,
+        DISPERSING,
+        BE_DISTRIBUTED
     }
 
     enum FeedbackReceptionTerms {

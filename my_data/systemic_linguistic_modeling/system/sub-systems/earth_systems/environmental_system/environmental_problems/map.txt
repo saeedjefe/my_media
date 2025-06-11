@@ -1,0 +1,61 @@
+ENVIRONMENTAL PROBLEMS SYSTEM (EPS)
+├── Entities
+│   ├── Human Activity
+│   ├── Climate Change
+│   ├── Pollution
+│   ├── Resource Depletion
+│   ├── Biodiversity Loss
+│   ├── Waste Generation
+│   └── Government Policies
+├── Inputs
+│   ├── Industrialization
+│   ├── Urban Expansion
+│   ├── Agricultural Practices
+│   ├── Consumer Behavior
+│   ├── Technological Growth
+│   ├── Population Growth
+│   └── Economic Development Goals
+├── Outputs
+│   ├── Air Pollution
+│   ├── Water Contamination
+│   ├── Soil Degradation
+│   ├── Habitat Destruction
+│   ├── Species Extinction
+│   ├── Extreme Weather Events
+│   ├── Health Issues
+│   ├── Ecosystem Imbalance
+│   └── Social Conflict
+├── Dependencies
+│   ├── Natural Resources
+│   ├── Regulation & Enforcement
+│   ├── Public Awareness
+│   ├── Technology Use
+│   └── Global Cooperation
+├── Boundaries
+│   ├── Geographical
+│   ├── Temporal
+│   ├── Political
+│   ├── Ecological
+│   └── Economic
+├── Modifiers
+│   ├── Climate Change
+│   ├── Corporate Influence
+│   ├── Policy Implementation
+│   ├── Education & Media
+│   ├── Sustainability Efforts
+│   └── Globalization
+├── Repositories
+│   ├── Historical Data
+│   ├── Scientific Research
+│   ├── Legal Documents
+│   ├── Environmental Records
+│   └── Media Archives
+└── Processes
+    ├── Input Acquisition
+    ├── Transformation
+    ├── Output Production
+    ├── Feedback Loop
+    ├── Maintenance
+    ├── Replication
+    ├── Dissolution
+    └── Adaptation

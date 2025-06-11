@@ -1,0 +1,8 @@
+The given diagram illustrates the process of the production of electricity through the use of a Geothermal power plant. 
+
+Overall, the procedure consists of 5 stages, starting with the pumping down of cold water and ending with the distribution of electricity to the electricity grids.
+
+First, cold water, kept in a water reservior, is pumped down for 4.5 km so as to reach the injection wells. Then, 
+the pumped water goes through the Geothermal zone in which hard rocks heat up the cold water so that it becomes hot before entering the production well where it is pumped up. Following this, the hot pumped up water enters a condenser 
+where it is converted into steam, with the steam powering a turbine. A generator, subsequently, is powered by the 
+turbine, with electricity being generated. In the final stage, the generated electricity is distributed via electricity grids. 

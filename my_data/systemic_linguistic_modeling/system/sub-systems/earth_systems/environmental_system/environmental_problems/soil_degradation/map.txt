@@ -1,0 +1,57 @@
+SOIL DEGRADATION SYSTEM (SDS)
+├── Entities
+│   ├── Soil
+│   ├── Farming Practices
+│   ├── Deforestation
+│   ├── Industry and mining
+│   ├── Government agencies
+│   ├── Farmers
+│   └── Consumers
+├── Inputs
+│   ├── Intensive agriculture
+│   ├── Monoculture farming
+│   ├── Pesticide/chemical use
+│   ├── Overgrazing
+│   ├── Erosion by wind/water
+│   └── Urban sprawl
+├── Outputs
+│   ├── Loss of fertility
+│   ├── Desertification
+│   ├── Reduced crop yield
+│   ├── Nutrient depletion
+│   ├── Increased runoff
+│   └── Dust storms
+├── Dependencies
+│   ├── Agricultural demand
+│   ├── Land ownership models
+│   ├── Government regulation
+│   ├── Climate conditions
+│   └── Market pressures
+├── Boundaries
+│   ├── Arable vs. non-arable land
+│   ├── Organic vs. chemical farming zones
+│   ├── Temporal scale (slow vs. rapid degradation)
+│   ├── Geographical regions
+│   └── Private vs. public land
+├── Modifiers
+│   ├── Climate change
+│   ├── Technology (irrigation, machinery)
+│   ├── Economic incentives
+│   ├── Conservation education
+│   ├── Soil restoration techniques
+│   └── Global supply chains
+├── Repositories
+│   ├── Soil analysis reports
+│   ├── Agricultural records
+│   ├── Environmental databases
+│   ├── Government soil protection laws
+│   └── Traditional farming knowledge
+└── Processes
+    ├── Input Acquisition (chemicals, tillage)
+    ├── Transformation (nutrient loss, compaction)
+    ├── Output Production (erosion, infertility)
+    ├── Feedback Loop (farmers observe decline)
+    ├── Maintenance (soil conservation)
+    ├── Replication (spreading degradation)
+    ├── Dissolution (recovery through composting, etc.)
+    └── Policy adaptation
