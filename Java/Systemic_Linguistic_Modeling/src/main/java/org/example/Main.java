@@ -1,20 +1,18 @@
 package org.example;
 
-import systemic_linguistic_modeling.society.SocialSystem;
-import systemic_linguistic_modeling.society.government.GovernmentSystem;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import layer_three.CulturalEvents;
+import layer_two.Event;
+
 public class Main {
     public static void main(String[] args) {
 
+        CulturalEvents culturalEvents = new CulturalEvents();
+        culturalEvents.addEvents(new Event("performing arts"));
+        culturalEvents.addEvents(new Event("visual arts"));
+        culturalEvents.addEvents(new Event(""));
+        culturalEvents.printEvents();
 
-        SocialSystem socialSystem = new SocialSystem();
-        socialSystem.showEntities();
-        socialSystem.showInputs();
-        GovernmentSystem governmentSystem = new GovernmentSystem();
-        governmentSystem.showEntities();
-        governmentSystem.showInputs();
 
     }
 }

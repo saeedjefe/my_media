@@ -1,0 +1,111 @@
+WORK SITUATION SYSTEM (WSS)
+{
+    // === Entities / Elements ===
+    Entities {
+        Individual,
+        Employer / Organization,
+        Colleagues / Team,
+        Workplace Environment,
+        Job Role,
+        Technology & Tools,
+        Economic Conditions
+    }
+
+    // === Inputs ===
+    Inputs {
+        Skill_Level,
+        Job_Market_Trends,
+        Company_Policies,
+        Personal_Expectations,
+        Cultural_Workplace_Norms,
+        Technological_Access,
+        Health_and_Stress_Levels
+    }
+
+    // === Outputs ===
+    Outputs {
+        Productivity,
+        Job_Satisfaction_or_Dissatisfaction,
+        Career_Development,
+        Burnout_or_Motivation,
+        Feedback_to_Management,
+        Employee_Retention_or_Resignation,
+        Innovation_or_Stagnation
+    }
+
+    // === Dependencies ===
+    Dependencies {
+        Fair_Working_Conditions,
+        Clear_Communication_Channels,
+        Access_to_Training_and_Growth,
+        Leadership_Quality,
+        Mental_and_Physical_Health,
+        Economic_Stability_of_the_Organization
+    }
+
+    // === Boundaries ===
+    Boundaries {
+        Remote_vs._Onsite_Work,
+        Full-Time_vs._Part-Time,
+        Contractual_Status_(permanent,_temporary),
+        Industry_Type_(creative,_technical,_service),
+        Cultural_Attitudes_toward_Work,
+        Generational_Work_Ethics_(e.g., Gen Z vs. Baby Boomers)
+    }
+
+    // === Modifiers ===
+    Modifiers {
+        Automation_and_AI_Advance,
+        Globalization_of_Job_Markets,
+        Economic_Recession_or_Growth,
+        Organizational_Leadership_Style,
+        Work-Life_Balance_Practices,
+        Government_Regulation_(labor_laws,_remote_work_policies),
+        Social_Trends_(e.g., gig economy, remote work culture)
+    }
+
+    // === Repositories ===
+    Repositories {
+        Past_Work_Experience,
+        Professional_Skills_Archive,
+        Digital_Work_History_(LinkedIn,_CV,_performance_reviews),
+        Memory_of_Workplace_Interactions,
+        Institutional_Knowledge_within_Company,
+        Legal_Workplace_Records
+    }
+
+    // === Processes ===
+    Processes {
+        Input_Acquisition (recognizing job market and role expectations),
+        Evaluation (assessing job fit and satisfaction),
+        Behavioral_Response (adapting, negotiating, or resigning),
+        Feedback_Loop (learning from performance reviews or workplace interactions),
+        Maintenance (repeating successful behaviors or routines),
+        Replication (applying lessons to future roles),
+        Dissolution (changing jobs or career paths due to dissatisfaction),
+        Adaptation (shifting work habits based on new demands)
+    }
+
+    // === System Behaviors ===
+    Behaviors {
+        Compliance_with_Workplace_Culture,
+        Resistance_to_Change,
+        Proactive_Career_Development,
+        Burnout_Tendencies,
+        Motivation_or_Disengagement,
+        Networking_and_Relationship_Building,
+        Response_to_Feedback,
+        Shift_in_Work_Models (e.g., remote vs. office-based)
+    }
+
+    // === Goals ===
+    Goals {
+        Job_Satisfaction,
+        Career_Advancement,
+        Financial_Independence,
+        Work-Life_Balance,
+        Skill_Development,
+        Long-Term_Employment,
+        Recognition_and_Responsibility
+    }
+}

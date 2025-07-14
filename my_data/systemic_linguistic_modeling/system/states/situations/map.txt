@@ -1,0 +1,54 @@
+SITUATION SYSTEM (SS)
+├── Subsystem 1: Personal Situation
+│   ├── Examples: job loss, health issues, family conflict
+│   ├── Goals: stability, emotional balance, growth
+│   ├── Behaviors: adaptation, decision-making, coping
+│   └── Outputs: change in lifestyle, personal development
+
+├── Subsystem 2: Social Situation
+│   ├── Examples: peer pressure, group dynamics, cultural norms
+│   ├── Goals: belonging, integration, identity formation
+│   ├── Behaviors: conformity, resistance, cooperation
+│   └── Outputs: social cohesion or conflict
+
+├── Subsystem 3: Economic Situation
+│   ├── Examples: inflation, unemployment, recession
+│   ├── Goals: financial recovery, policy implementation
+│   ├── Behaviors: saving, spending, investing
+│   └── Outputs: market trends, employment levels, inequality
+
+├── Subsystem 4: Political Situation
+│   ├── Examples: election periods, protests, policy shifts
+│   ├── Goals: governance, power distribution, reform
+│   ├── Behaviors: voting, activism, negotiation
+│   └── Outputs: legal change, public awareness
+
+├── Subsystem 5: Environmental Situation
+│   ├── Examples: climate change, pollution, resource depletion
+│   ├── Goals: sustainability, regulation, mitigation
+│   ├── Behaviors: adaptation, awareness, activism
+│   └── Outputs: ecological impact, policy response
+
+├── Subsystem 6: Educational Situation
+│   ├── Examples: poor performance, school environment, access to learning
+│   ├── Goals: improvement, equity, opportunity
+│   ├── Behaviors: studying, teaching, reforming policies
+│   └── Outputs: skill development, career readiness
+
+├── Subsystem 7: Health Situation
+│   ├── Examples: disease outbreaks, mental health crisis, aging population
+│   ├── Goals: treatment, prevention, well-being
+│   ├── Behaviors: medical intervention, lifestyle change
+│   └── Outputs: improved health, system strain
+
+├── Subsystem 8: Work / Professional Situation
+│   ├── Examples: job satisfaction, workplace stress, automation
+│   ├── Goals: productivity, work-life balance, innovation
+│   ├── Behaviors: job search, upskilling, unionization
+│   └── Outputs: career advancement, labor mobility
+
+└── Subsystem 9: Emergency / Crisis Situation
+    ├── Examples: natural disasters, pandemics, wars
+    ├── Goals: survival, recovery, resilience
+    ├── Behaviors: preparedness, emergency response
+    └── Outputs: long-term instability or rebuilding

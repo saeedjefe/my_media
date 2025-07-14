@@ -1,0 +1,43 @@
+RELIGIOUS_EVENT
+├── WORSHIP_EVENTS
+│   ├── Regular Services (e.g., Sunday Mass, Jumu'ah prayer, Puja)
+│   ├── Prayer Gatherings (e.g., Meditation Circles, Rosary Meetings)
+│   └── Chanting or Recitation Rituals (e.g., Vedic Chanting, Zikr)
+│
+├── SACRAMENTAL RITES
+│   ├── Baptism / Initiation Rites
+│   ├── Confirmation / Bar & Bat Mitzvah / Upanayana
+│   └── Eucharist / Communion / Sacred Meals
+│
+├── FESTIVAL EVENTS
+│   ├── Birth Celebrations (e.g., Christmas, Buddha Jayanti)
+│   ├── Resurrection/Renewal (e.g., Easter, Nowruz)
+│   ├── Fasting Festivals (e.g., Ramadan, Yom Kippur)
+│   └── Light or Harvest Festivals (e.g., Diwali, Sukkot)
+│
+├── PILGRIMAGES
+│   ├── Individual or Communal (e.g., Hajj, Kumbh Mela, Santiago)
+│   ├── Local Sacred Journeys (e.g., village processions)
+│   └── Penitential Walks (e.g., Via Dolorosa, Shikoku trail)
+│
+├── LIFE CYCLE RITES
+│   ├── Birth Rituals (e.g., Aqiqah, Baptism)
+│   ├── Marriage Ceremonies (e.g., Nikah, Christian Wedding, Vivaha)
+│   ├── Ordinations / Vows (e.g., Monk Initiations, Nun Professions)
+│   └── Funeral and Mourning Rites (e.g., Antyesti, Requiem Mass)
+│
+├── PURIFICATION & ATONEMENT
+│   ├── Confession and Penance (e.g., Ash Wednesday, Yom Kippur)
+│   ├── Fasting and Abstinence (e.g., Lent, Ramadan)
+│   └── Ritual Cleansing (e.g., Mikveh, Ghusl, Ablutions)
+│
+├── APOCALYPTIC OR REVELATORY EVENTS
+│   ├── Visionary Celebrations (e.g., Transfiguration)
+│   ├── End-Time Commemorations (e.g., Advent, Qiyamah-themed rituals)
+│   └── Prophetic Events (e.g., Annunciation, Night Journey)
+│
+└── INTERFAITH / HYBRID RITUALS
+    ├── Interfaith Prayer Services
+    ├── Syncretic Festivals (e.g., Dia de los Muertos, Santería rites)
+    └── Post-secular Spiritual Gatherings
+

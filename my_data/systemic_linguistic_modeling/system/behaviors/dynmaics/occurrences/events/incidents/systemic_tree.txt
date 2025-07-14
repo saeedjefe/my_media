@@ -1,0 +1,54 @@
+INCIDENT SYSTEM (IS)
+├── Entities
+│   ├── Individuals
+│   ├── Organizations
+│   ├── Systems or Processes
+│   └── Timeframe
+
+├── Inputs
+│   ├── Human Action
+│   ├── Environmental Conditions
+│   ├── System Vulnerability
+│   └── Past Experience / Memory
+
+├── Outputs
+│   ├── Feedback for improvement
+│   ├── Policy change
+│   ├── Damage or harm
+│   ├── Increased awareness
+│   └── Behavioral shift
+
+├── Dependencies
+│   ├── Level of preparedness
+│   ├── Reporting culture
+│   ├── Transparency
+│   └── Response capability
+
+├── Boundaries
+│   ├── Minor vs. Major
+│   ├── Intentional vs. Accidental
+│   ├── Personal vs. Public
+│   ├── One-time vs. Recurring
+│   └── Physical vs. Digital
+
+├── Modifiers
+│   ├── Training & Awareness
+│   ├── Technology use
+│   ├── Regulatory environment
+│   └── Cultural tolerance for mistakes
+
+├── Repositories
+│   ├── Incident reports
+│   ├── Historical records
+│   ├── Institutional memory
+│   └── Digital logs
+
+└── Processes
+    ├── Detection → identifying the incident
+    ├── Evaluation → understanding its impact
+    ├── Response → taking corrective action
+    ├── Feedback Loop → learning from the incident
+    ├── Maintenance → preventing future problems
+    ├── Replication → applying lessons elsewhere
+    ├── Dissolution → when similar incidents stop occurring
+    └── Adaptation → changing behavior based on past incidents

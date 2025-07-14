@@ -1,0 +1,61 @@
+CULTURAL_EVENT
+├── ENTITIES
+│   ├── Organizers
+│   ├── Participants
+│   ├── Performers
+│   └── Artifacts
+│
+├── INPUTS
+│   ├── Historical Memory
+│   ├── Local Resources
+│   ├── Social Context
+│   └── Trigger Events (anniversaries, cycles)
+│
+├── OUTPUTS
+│   ├── Cultural Expression
+│   ├── Shared Experience
+│   └── Documentation (archives, media)
+│
+├── MODIFIERS
+│   ├── Scale (local → global)
+│   ├── Accessibility (public, restricted)
+│   └── Mediation (live, recorded, virtual)
+│
+├── REPOSITORIES
+│   ├── Oral Tradition
+│   ├── Visual Archives
+│   └── Embodied Practices
+│
+├── BOUNDARIES
+│   ├── Temporal (seasonal, annual)
+│   ├── Spatial (venue, territory)
+│   └── Social (inclusive/exclusive)
+│
+├── BEHAVIORS
+│   ├── Balance-Oriented (e.g., continuity)
+│   ├── Change-Oriented (e.g., hybridization)
+│   ├── Integration (e.g., multicultural blending)
+│   └── Feedback-Control (e.g., public response)
+│
+├── PROCESSES
+│   ├── Planning
+│   ├── Execution
+│   ├── Media Sharing
+│   └── Reflection
+│
+├── DEPENDENCIES
+│   ├── Cultural Institutions
+│   ├── Sponsors / Community
+│   └── Historical Knowledge
+│
+├── GOALS
+│   ├── Identity Reinforcement
+│   ├── Heritage Transmission
+│   └── Collective Belonging
+│
+└── STATES
+    ├── Dormant
+    ├── Active
+    ├── Revived
+    └── Evolving
+

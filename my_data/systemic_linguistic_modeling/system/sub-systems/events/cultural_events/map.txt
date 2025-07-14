@@ -1,0 +1,38 @@
+CULTURAL_EVENT
+├── RITUAL_EVENTS
+│   ├── Religious Rituals (e.g., Baptism, Puja, Mass)
+│   ├── Initiation Rites (e.g., Bar/Bat Mitzvah, Coming-of-age ceremonies)
+│   └── Death Rites (e.g., Funerals, Ancestor Worship)
+│
+├── FESTIVALS
+│   ├── Religious Festivals (e.g., Diwali, Easter, Ramadan)
+│   ├── Seasonal Festivals (e.g., Harvest Festival, Spring Equinox)
+│   ├── Ethnic/Cultural Festivals (e.g., Lunar New Year, Kwanzaa)
+│   └── Arts & Music Festivals (e.g., Carnival, Edinburgh Fringe)
+│
+├── COMMEMORATIVE EVENTS
+│   ├── National Days (e.g., Independence Day, Bastille Day)
+│   ├── Memorials (e.g., Holocaust Remembrance Day)
+│   └── Historical Reenactments (e.g., Civil War Reenactments)
+│
+├── PERFORMANCE EVENTS
+│   ├── Theatre (e.g., Folk Dramas, Masked Performances)
+│   ├── Dance (e.g., Kathakali, Flamenco, Traditional Circle Dances)
+│   └── Music (e.g., Gamelan Recitals, Sacred Chanting)
+│
+├── TRANSITIONAL EVENTS (RITES OF PASSAGE)
+│   ├── Birth Celebrations
+│   ├── Coming of Age
+│   ├── Marriage Ceremonies
+│   └── Retirement / Eldership Rites
+│
+├── PILGRIMAGES & PROCESSIONS
+│   ├── Sacred Journeys (e.g., Hajj, Camino de Santiago)
+│   ├── Devotional Marches (e.g., Thaipusam)
+│   └── Symbolic Parades (e.g., Day of the Dead processions)
+│
+├── REVIVAL / HYBRID EVENTS
+│   ├── Neo-traditional Festivals
+│   ├── Diasporic Cultural Re-creations
+│   └── Fusion Rituals (e.g., Interfaith Ceremonies)
+

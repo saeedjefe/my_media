@@ -1,0 +1,45 @@
+Behaviors
+├── Dynamics
+├── Adaptability
+├── Homogenization
+├── Heterogenization
+├── Fragmentation
+├── Cohesion
+├── Resilience
+├── Emergence
+├── Repository Growth
+├── Assimilation
+├── Rigidity
+└── Pluralism
+
+
+Behavior | Opposite Behavior
+Dynamics |  Statics
+Resilience | Vulnerability
+Cohesion | Fragmentation
+Homogenization | Heterogenization
+Assimilation | Pluralism
+Emergence | Suppression
+Entropy | Negentropy
+
+System_Behaviors
+├── Balance-Oriented Behaviors
+│   ├── Equilibrium ↔ Disequilibrium
+│   ├── Stability ↔ Disruption
+│   ├── Sustainability ↔ Unsustainability
+│   └── Homeostasis ↔ Dysregulation
+├── Change-Oriented Behaviors
+│   ├── Dynamics ↔ Statics
+│   ├── Adaptation ↔ Rigidity
+│   ├── Resilience ↔ Vulnerability
+│   └── Emergence ↔ Suppression
+├── Integration/Disintegration Behaviors
+│   ├── Cohesion ↔ Fragmentation
+│   ├── Homogenization ↔ Heterogenization
+│   ├── Assimilation ↔ Pluralism
+├── Feedback and Control Behaviors
+│   ├── Feedback Loops (positive, negative)
+│   ├── Repository Growth ↔ Resource Depletion
+│   └── Regulation ↔ Deregulation (or Chaos)
+    resilience 	
+ ---Goal

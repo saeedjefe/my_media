@@ -1,0 +1,6 @@
+STATE (Superordinate)
+├── Situation
+├── Condition
+├── Status
+├── Scenario
+└── Circumstance

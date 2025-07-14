@@ -1,0 +1,73 @@
+PERSONAL SITUATION SYSTEM (PSS)
+├── Entities
+│   ├── Individual
+│   ├── Time
+│   ├── Resources
+│   ├── Beliefs
+│   ├── Life stage
+│   └── Social environment
+
+├── Inputs
+│   ├── Life events (job loss, relocation)
+│   ├── Economic conditions
+│   ├── Psychological state
+│   ├── Cultural expectations
+│   ├── Technology access
+│   └── Health condition
+
+├── Outputs
+│   ├── Behavioral response
+│   ├── Emotional reaction
+│   ├── Decision-making
+│   ├── Identity shift
+│   ├── Feedback for future actions
+│   ├── Adaptation or resignation
+│   └── Stress or personal growth
+
+├── Dependencies
+│   ├── Resource availability
+│   ├── Mental and physical health
+│   ├── Support networks
+│   ├── Past experiences
+│   └── Cultural values
+
+├── Boundaries
+│   ├── Temporary vs. permanent
+│   ├── Self-induced vs. external
+│   ├── Private vs. public impact
+│   ├── Age-related perspectives
+│   └── Severity and acceptance
+
+├── Modifiers
+│   ├── Education level
+│   ├── Global exposure
+│   ├── Technological use
+│   ├── Economic conditions
+│   ├── Trauma history
+│   ├── Health status
+│   └── Policy support
+
+├── Repositories
+│   ├── Memory of past hardships
+│   ├── Cultural scripts and values
+│   ├── Digital records (medical, financial)
+│   ├── Educational and career archives
+│   └── Emotional memory and conditioning
+
+├── Processes
+│   ├── Recognizing the situation
+│   ├── Evaluating options
+│   ├── Responding (acceptance or action)
+│   ├── Learning from results
+│   ├── Maintaining successful strategies
+│   ├── Adapting to new challenges
+│   ├── Replicating effective behaviors
+│   └── Dissolving ineffective habits
+
+└── Goals
+    ├── Emotional balance
+    ├── Improvement of conditions
+    ├── Long-term security
+    ├── Personal development
+    ├── Career or life progression
+    └── Fulfillment of needs

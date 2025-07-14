@@ -1,0 +1,67 @@
+Incident
+├── Accident
+│   ├── Car_Accident
+│   ├── Industrial_Accident
+│   ├── Slip_and_Fall
+│   └── Medical_Error
+│
+├── Conflict
+│   ├── Verbal_Argument
+│   ├── Physical_Altercation
+│   ├── Workplace_Conflict
+│   └── Political_Instability
+│
+├── Breach
+│   ├── Security_Breach
+│   ├── Data_Breach
+│   ├── Policy_Breach
+│   └── Ethical_Breach
+│
+├── Disruption
+│   ├── Operational_Disruption
+│   ├── Technological_Disruption
+│   ├── Environmental_Disruption
+│   └── Social_Disruption
+│
+├── Mishap
+│   ├── Minor_Mishap
+│   ├── Miscommunication
+│   ├── Equipment_Malfunction
+│   └── Procedural_Slip
+│
+├── Blunder
+│   ├── Strategic_Blunder
+│   ├── Tactical_Blunder
+│   ├── Personal_Blunder
+│   └── Administrative_Blunder
+│
+│
+├── Violation
+│   ├── Legal_Violation
+│   ├── Moral_Violation
+│   ├── Regulatory_Violation
+│   └── Human_Rights_Violation
+│
+├── Emergency
+│   ├── Natural_Emergency (e.g., flood, fire)
+│   ├── Medical_Emergency
+│   ├── Technological_Emergency (e.g., cyberattack)
+│   └── Social_Emergency (e.g., public panic)
+│
+├── Lapse
+│   ├── Judgment_Lapse
+│   ├── Memory_Lapse
+│   ├── Attention_Lapse
+│   └── Ethical_Lapse
+│
+├── Glitch
+│   ├── Software_Glitch
+│   ├── Hardware_Glitch
+│   ├── Network_Glitch
+│   └── System_Glitch
+│
+└── Misstep
+    ├── Career_Misstep
+    ├── Diplomatic_Misstep
+    ├── Financial_Misstep
+    └── Personal_Misstep
