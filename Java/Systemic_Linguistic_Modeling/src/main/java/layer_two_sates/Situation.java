@@ -1,4 +1,4 @@
-package layer_two;
+package layer_two_sates;
 
 import layer_one.States;
 
@@ -20,5 +20,12 @@ public class Situation  implements States {
         for(Situation situation: situations){
             System.out.println(situation);
         }
+    }
+
+
+
+    @Override
+    public void implementStates(SystemState systemState) {
+
     }
 }

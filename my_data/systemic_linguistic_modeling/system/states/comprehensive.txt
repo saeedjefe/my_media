@@ -1,0 +1,228 @@
+HUMAN_STATE_SYSTEM {
+
+    // === Main System States ===
+    SystemState {
+        STABLE,
+        UNSTABLE,
+        ADAPTIVE,
+        FRAGILE,
+        RESILIENT,
+        EMERGENT,
+        TRANSITIONAL
+    }
+
+    // === Domains of Human States ===
+    Domain {
+
+        // 1. Biological / Physiological States
+        BIOLOGICAL_STATE {
+            AWAKE,
+            ASLEEP,
+            REM_SLEEP,
+            NREM_SLEEP,
+            FATIGUED,
+            ENERGIZED,
+            ILL,
+            HEALTHY,
+            STARVING,
+            HYDRATED,
+            PAINFUL,
+            RESTED,
+            HORMONAL_IMBALANCE,
+            RECOVERING
+        }
+
+        // 2. Emotional / Affective States
+        EMOTIONAL_STATE {
+            HAPPY,
+            SAD,
+            ANGRY,
+            FEARFUL,
+            ANXIOUS,
+            CALM,
+            EXCITED,
+            DEPRESSED,
+            HOPEFUL,
+            FRUSTRATED,
+            BOREDOM,
+            GRATITUDE,
+            JEALOUSY,
+            GRIEF,
+            EUPHORIA
+        }
+
+        // 3. Cognitive / Mental States
+        COGNITIVE_STATE {
+            ALERT,
+            DISTRACTED,
+            FOCUSED,
+            CONFUSED,
+            CREATING,
+            PROBLEM_SOLVING,
+            DAYDREAMING,
+            MEDITATIVE,
+            REMEMBERING,
+            FORGETTING,
+            LEARNING,
+            DECIDING
+        }
+
+        // 4. Consciousness States
+        CONSCIOUSNESS_STATE {
+            FULLY_CONSCIOUS,
+            SUBCONSCIOUS,
+            UNCONSCIOUS,
+            ALTERED_CONSCIOUSNESS,
+            HYPNOTIC,
+            FLOW_STATE,
+            DISSOCIATIVE,
+            DREAMING,
+            AWARE,
+            AUTOMATIC_BEHAVIOR
+        }
+
+        // 5. Social / Relational States
+        SOCIAL_STATE {
+            CONNECTED,
+            ISOLATED,
+            ACCEPTED,
+            REJECTED,
+            TRUSTED,
+            DISTRUSTED,
+            DOMINANT,
+            SUBMISSIVE,
+            IN_LOVE,
+            LONELY,
+            INCLUDED,
+            EXCLUDED
+        }
+
+        // 6. Developmental / Life Stage States
+        DEVELOPMENTAL_STATE {
+            INFANT,
+            CHILD,
+            ADOLESCENT,
+            ADULT,
+            MIDLIFE,
+            ELDERLY,
+            DEPENDENT,
+            INDEPENDENT,
+            CAREGIVER,
+            RETIRING
+        }
+
+        // 7. Moral / Ethical States
+        MORAL_STATE {
+            GUILTY,
+            INNOCENT,
+            REMORSEFUL,
+            COMPASSIONATE,
+            SHAMED,
+            PROUD,
+            ETHICALLY_CONFLICTED
+        }
+
+        // 8. Spiritual / Existential States
+        SPIRITUAL_STATE {
+            TRANSCENDENT,
+            MEANINGFUL,
+            LOST,
+            PURPOSEFUL,
+            DESPAIRING,
+            PEACEFUL,
+            AWAKENED
+        }
+    }
+
+    // === Inputs – What influences human states? ===
+    Input {
+        BIOLOGICAL_INPUTS (hormones, neurotransmitters),
+        ENVIRONMENTAL_STIMULI (light, noise, temperature),
+        SOCIAL_INTERACTIONS,
+        CULTURAL_NORMS,
+        TECHNOLOGICAL_EXPOSURE,
+        LIFE_EVENTS,
+        INFORMATION_LOAD
+    }
+
+    // === Outputs – What results from human states? ===
+    Output {
+        BEHAVIORAL_RESPONSE,
+        DECISION_MAKING,
+        EMOTIONAL_EXPRESSION,
+        COMMUNICATION_STYLE,
+        LEARNING_CAPACITY,
+        RELATIONSHIP_QUALITY
+    }
+
+    // === Dependencies – What does the system rely on? ===
+    Dependency {
+        HOMEOSTASIS,
+        SLEEP_QUALITY,
+        NUTRITION,
+        MENTAL_HEALTH_SUPPORT,
+        SOCIAL_CONNECTION,
+        SAFETY_AND_SECURITY
+    }
+
+    // === Boundaries – Where does the system begin/end? ===
+    Boundary {
+        INDIVIDUAL_vs._COLLECTIVE_STATE,
+        TEMPORARY_vs._CHRONIC_STATE,
+        VOLUNTARY_vs._INHERENT_STATE,
+        CULTURAL_VARIES_IN_EXPRESSION
+    }
+
+    // === Modifiers – What changes the system? ===
+    Modifier {
+        TECHNOLOGY_USE,
+        GLOBALIZATION,
+        LIFE_STAGE,
+        TRAUMA_OR_PAST_EXPERIENCE,
+        EDUCATIONAL_LEVEL,
+        ECONOMIC_CONDITIONS
+    }
+
+    // === Repositories – Where is memory stored? ===
+    Repository {
+        MEMORY_OF_PAST_STATES,
+        EMOTIONAL_MEMORY,
+        CULTURAL_SCRIPTS,
+        EDUCATIONAL_BACKGROUNDS,
+        DIGITAL_PROFILES
+    }
+
+    // === Processes – How does the system function? ===
+    Process {
+        INPUT_ACQUISITION (recognizing internal/external stimuli),
+        EVALUATION (interpreting meaning),
+        STATE_SHIFT (changing from one state to another),
+        FEEDBACK_LOOP (learning from outcomes),
+        ADAPTATION (adjusting behavior),
+        MAINTENANCE (repeating effective patterns),
+        DISSOLUTION (abandoning ineffective responses),
+        REPLICATION (applying lessons elsewhere)
+    }
+
+    // === System Behaviors – Emergent patterns ===
+    Behavior {
+        HABIT_FORMATION,
+        COPING_MECHANISMS,
+        RESILIENCE_BUILDING,
+        EMOTIONAL_REGULATION,
+        COGNITIVE_BIAS,
+        SOCIAL_CONFORMITY,
+        IDENTITY_REINFORCEMENT
+    }
+
+    // === Goals – Why do states change? ===
+    Goal {
+        SURVIVAL,
+        WELLBEING,
+        GROWTH,
+        CONNECTION,
+        SECURITY,
+        PURPOSE,
+        SELF_REALIZATION
+    }
+}

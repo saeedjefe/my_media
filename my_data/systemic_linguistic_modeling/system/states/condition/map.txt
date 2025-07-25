@@ -1,0 +1,150 @@
+CONDITION_SYSTEM {
+
+    // === 1. Subordinates of Physical Condition ===
+    PHYSICAL_CONDITION {
+        HEALTHY,
+        ILL,
+        INJURED,
+        RECOVERING,
+        CHRONICALLY_ILL,
+        DISABLED,
+        FATIGUED,
+        ENERGIZED,
+        MALNOURISHED,
+        WELL_NOURISHED,
+        OVERWEIGHT,
+        UNDERWEIGHT,
+        ATHLETIC,
+        WEAK,
+        PAINFUL,
+        PAIN_FREE,
+        SLEEP_DEPRIVED,
+        WELL_RESTED,
+        HORMONALLY_BALANCED,
+        HORMONALLY_IMBALANCED,
+        IMMUNE_SUPPRESSED,
+        IMMUNE_RESILIENT
+    }
+
+    // === 2. Subordinates of Mental Condition ===
+    MENTAL_CONDITION {
+        STABLE,
+        UNSTABLE,
+        ANXIOUS,
+        CALM,
+        DEPRESSED,
+        EUPHORIC,
+        STRESSED,
+        RELAXED,
+        FOCUSED,
+        DISTRACTED,
+        MOTIVATED,
+        APOATHETIC,
+        CREATIVE,
+        BLOCKED,
+        CLEAR_THINKING,
+        CONFUSED,
+        TRAUMATIZED,
+        HEALED,
+        EMOTIONALLY_REGULATED,
+        EMOTIONALLY_DYSREGULATED,
+        COGNITIVELY_FLEXIBLE,
+        RIGID_THINKING,
+        MENTALLY_RESILIENT,
+        MENTALLY_FRAGILE
+    }
+
+    // === Inputs – What influences these conditions? ===
+    Input {
+        GENETICS,
+        LIFESTYLE_CHOICES,
+        NUTRITION,
+        EXERCISE,
+        SLEEP_QUALITY,
+        SOCIAL_SUPPORT,
+        TRAUMA_HISTORY,
+        EDUCATIONAL_BACKGROUND,
+        TECHNOLOGICAL_EXPOSURE,
+        ENVIRONMENTAL_STRESSORS
+    }
+
+    // === Outputs – What results from these conditions? ===
+    Output {
+        BEHAVIORAL_RESPONSE,
+        DECISION_MAKING,
+        LEARNING_CAPACITY,
+        RELATIONSHIP_QUALITY,
+        PRODUCTIVITY,
+        EMOTIONAL_EXPRESSION,
+        PHYSICAL_PERFORMANCE
+    }
+
+    // === Dependencies – What do these conditions rely on? ===
+    Dependency {
+        ACCESS_TO_HEALTHCARE,
+        MENTAL_HEALTH_SUPPORT,
+        ECONOMIC_STABILITY,
+        SAFE_LIVING_ENVIRONMENT,
+        SOCIAL_INTEGRATION
+    }
+
+    // === Boundaries – Where do they begin/end? ===
+    Boundary {
+        TEMPORARY_vs._CHRONIC,
+        BIOLOGICAL_vs._ENVIRONMENTAL_CAUSES,
+        INDIVIDUAL_vs._SYSTEMIC_FACTORS,
+        CULTURAL_ATTITUDES_TOWARD_HEALTH
+    }
+
+    // === Modifiers – What changes them? ===
+    Modifier {
+        AGE,
+        LIFE_STAGE,
+        GLOBALIZATION,
+        TECHNOLOGY_USE,
+        POLICY_CHANGES,
+        SOCIAL_TRENDS
+    }
+
+    // === Repositories – Where is memory stored? ===
+    Repository {
+        MEDICAL_RECORDS,
+        EMOTIONAL_MEMORY,
+        DIGITAL_HEALTH_APPS,
+        CULTURAL_NARRATIVES_ABOUT_HEALTH,
+        EDUCATIONAL_BACKGROUNDS
+    }
+
+    // === Processes – How do they change? ===
+    Process {
+        INPUT_ACQUISITION (recognizing symptoms),
+        EVALUATION (diagnosis or self-assessment),
+        INTERVENTION (treatment or lifestyle change),
+        FEEDBACK_LOOP (monitoring progress),
+        ADAPTATION (adjusting habits),
+        MAINTENANCE (repeating healthy behaviors),
+        DISSOLUTION (abandoning harmful patterns)
+    }
+
+    // === System States ===
+    SystemState {
+        STABLE,
+        UNSTABLE,
+        GROWING,
+        DECLINING,
+        EMERGENCY,
+        NORMAL,
+        RESILIENT,
+        FRAGILE
+    }
+
+    // === Goals ===
+    Goal {
+        WELLBEING,
+        FUNCTIONALITY,
+        LONGEVITY,
+        MENTAL_CLARITY,
+        EMOTIONAL_BALANCE,
+        SOCIAL_INTEGRATION
+    }
+}

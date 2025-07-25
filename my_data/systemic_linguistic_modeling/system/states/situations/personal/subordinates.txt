@@ -1,0 +1,60 @@
+PERSONAL_SITUATION
+├── Financial_Situation
+│   ├── Debt_Crisis
+│   ├── Economic_Stability
+│   ├── Job_Security
+│   └── Income_Challenge
+
+├── Health_Situation
+│   ├── Chronic_Illness
+│   ├── Mental_Health_Crisis
+│   ├── Recovery_Process
+│   └── Physical_Disability
+
+├── Work_Situation
+│   ├── Job_Dissatisfaction
+│   ├── Unemployment
+│   ├── Career_Transition
+│   └── Workplace_Stress
+
+├── Social_Situation
+│   ├── Isolation
+│   ├── Peer_Pressure
+│   ├── Family_Conflict
+│   └── Relationship_Change
+
+├── Emotional_Situation
+│   ├── Anxiety
+│   ├── Depression
+│   ├── Life_Transition
+│   └── Identity_Crisis
+
+├── Educational_Situation
+│   ├── Academic_Underperformance
+│   ├── Learning_Disability
+│   ├── Motivation_Loss
+│   └── Career_Goal_Reassessment
+
+├── Housing_Situation
+│   ├── Homelessness
+│   ├── Overcrowding
+│   ├── Relocation
+│   └── Unaffordable_Living_Costs
+
+├── Legal_Situation
+│   ├── Immigration_Status
+│   ├── Criminal_Record
+│   ├── Custody_Dispute
+│   └── Contractual_Obligation
+
+├── Family_Situation
+│   ├── Parental_Responsibility
+│   ├── Caregiving_Demands
+│   ├── Bereavement
+│   └── Domestic_Change
+
+└── Life_Stage_Situation
+    ├── Childhood_Challenges
+    ├── Midlife_Transition
+    ├── Retirement_Adjustment
+    └── Aging_and_Independence

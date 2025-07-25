@@ -20,6 +20,8 @@ public interface  States {
         RIGID
     }
 
+    public void implementStates(SystemState systemState);
+
 
     // Method to set and get current system stat
 }

@@ -1,0 +1,19 @@
+SITUATION (Superordinate)
+├── Personal Situation (human)
+├── Social Situation (group)
+└── Non-Personal Situation (system, organization, environment)
+    ├── Political Situation
+    ├── Economic Situation
+    ├── Environmental Situation
+    ├── Technological Situation
+    ├── Organizational Situation
+    ├── Market Situation
+    ├── Geopolitical Situation
+    ├── Military Situation
+    ├── Legal Situation
+    ├── Security Situation
+    ├── Ecological Situation
+    ├── Infrastructure Situation
+    ├── Supply Chain Situation
+    ├── Digital Situation
+    └── Cultural Situation

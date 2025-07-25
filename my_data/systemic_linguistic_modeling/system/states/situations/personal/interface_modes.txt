@@ -1,0 +1,101 @@
+FINANCIAL_SITUATION_SYSTEM {
+
+    // === States (Current Conditions) – Immediate status of the financial system
+    State {
+        STABLE,
+        VOLATILE,
+        INDEBTED,
+        SECURE,
+        UNSTABLE,
+        EMERGENCY,
+        FRAGILE,
+        RESILIENT
+    }
+
+    // === Goals – Desired future states
+    Goal {
+        FINANCIAL_STABILITY,
+        WEALTH_ACCUMULATION,
+        DEBT_FREE_STATUS,
+        RETIREMENT_SECURITY,
+        ECONOMIC_INDEPENDENCE,
+        PASSIVE_INCOME_GENERATION,
+        EMERGENCY_FUND_COMPLETION
+    }
+
+    // === Inputs – What feeds or influences the system
+    Input {
+        INCOME_STREAMS,
+        SAVINGS_AND_ASSETS,
+        FINANCIAL_KNOWLEDGE,
+        MARKET_CONDITIONS,
+        GOVERNMENT_POLICY_(e.g., tax laws),
+        FAMILY_SUPPORT,
+        EDUCATIONAL_BACKGROUND,
+        TECHNOLOGICAL_ACCESS_(banking,_apps)
+    }
+
+    // === Outputs – What results from the system
+    Output {
+        EXPENDITURE_PATTERNS,
+        DEBT_REDUCTION_PROGRESS,
+        INVESTMENT_RETURNS,
+        FINANCIAL_DECISION_MAKING,
+        LIFESTYLE_ADJUSTMENTS,
+        RISK_TOLERANCE_LEVEL,
+        FINANCIAL_LITERACY_GROWTH,
+        ASSET_ACQUISITION,
+        INFLUENCE_ON_FAMILY_ECONOMICS
+    }
+
+    // === Processes – How the system operates
+    Process {
+        BUDGETING,
+        PLANNING,
+        SPENDING_CONTROL,
+        INVESTING,
+        FEEDBACK_LOOP_(reviewing performance),
+        ADAPTATION_(changing strategies),
+        MAINTENANCE_(repeating successful behaviors),
+        DISSOLUTION_(abandoning ineffective methods)
+    }
+
+    // === Dependencies – What the system relies on
+    Dependency {
+        ECONOMIC_STABILITY,
+        ACCESS_TO_BANKING_SERVICES,
+        POLICY_REGULATIONS,
+        PERSONAL_DISCIPLINE,
+        EMPLOYMENT_OPPORTUNITIES,
+        TECHNOLOGY_USE_(budgeting_apps,_online_banking)
+    }
+
+    // === Boundaries – Where the system begins/ends
+    Boundary {
+        SHORT_TERM_vs._LONG_TERM_FINANCIAL_SITUATION,
+        INDIVIDUAL_vs._HOUSEHOLD_FINANCE,
+        LEGAL_REGULATION,
+        CULTURAL_ATTITUDES_TOWARD_WEALTH
+    }
+
+    // === Modifiers – What changes how the system behaves
+    Modifier {
+        INFLATION,
+        INTEREST_RATES,
+        GLOBAL_MARKET_SHIFTS,
+        LIFE_STAGE_(student,_working,_retirement),
+        HEALTH_ISSUES_(affecting income or spending),
+        TECHNOLOGICAL_ADVANCE_(new tools for money management),
+        SOCIAL_TRENDS_(consumption patterns)
+    }
+
+    // === Repositories – Where knowledge is stored
+    Repository {
+        PAST_FINANCIAL_HISTORY,
+        DIGITAL_BANKING_RECORDS,
+        CREDIT_REPORTS,
+        BUDGETING_APPLICATIONS,
+        INSTITUTIONAL_KNOWLEDGE,
+        CULTURAL_NARRATIVES_ABOUT_WEALTH
+    }
+}
