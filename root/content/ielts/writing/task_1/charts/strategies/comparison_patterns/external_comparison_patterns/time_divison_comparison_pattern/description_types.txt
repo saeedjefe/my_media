@@ -1,39 +1,97 @@
-description types:
+Description types:
 
-1-verb_phrased_based description
+In the first step, we need a subject which describes what the statistical information is 
+all about. 
 
-2-noun_phrase_based description:
+Writing the simplest version of what the figure is all about might be a good idea. 
+
+Chicken is consumed.
+
+However, we shoud talk about how chicken is consumed, with the simple verbs to use 
+being either 'to increase' or 'to decrease'.
+
+Therefore, we should convert the simple version into a subject which could be followed a verb, in this case 
+to increase or to decrease. 
+
+Chicken is consumed. 
+By converting 'is consumed' into a noun phrase, we may be able to use the entire clause, as a subject. 
+is consumed
+consumption
+
+The use of 'the' before an abstract noun phrase is a common pattern. 
+'the consumption'
+
+Now, we should add the subject of the 'is consumed' to the 'consumption' by using a prepsition 'of',
+which is again a common pattern. 
+
+the consumption of chicken
+
+So far, so good!! Now we have a abstract noun phrase with a subject in the form of a prepositonal phrase.
+To avoid redundancy, we may eliminate the unnessary parts of our abstract noun phrase, with the leftover 
+being only noun phrase.
+
+Chicken conusmption
+
+Now that we have engineered the cleanest version of the subject, we may apply the description 
+types for describing a numerical value over a period of time. In this article, two types of
+descriptions are suggestd: verb_based and noun_phrase_based
+
+1-verb_based description
+
+an action verb(intransitive) + an adverb of manner
+
+Ex:
+"to increase significantly"
+
+Chicken consumption increased significantly.
+
+But again, this is not the cleanest version to be used.
+In other words, we can again convert this clause into an abstract
+noun phrase.
+
+Chicken consumption increased significantly -> 
+a significant increase in chicken consumption
+
+Now that the noun phrase has been engineerd, we may use a noun_phrase_based descrition.
+
+2-noun_phrase_based description
+
+There are four approaches for this type of description:
 2-1 dummy_there
 2-2 metaphorical_verbs
 2-3 predicative adjective
 2-4 passive form
 
 
-1-verb_phrase_based description:
-Chicken consumption increased significantly.
-
-2-noun_phrase_based description:
-
-nominalization:
-abstract_noun_phrase
-a significant increase in chicken cosumption
-
 2-1 dummy_there_description:
-there is a significant increase in chicken consumption 
-
-2-2 metaphorical_verbs
-chicken consumption experienced/saw a significant increase
+There is a significant increase in chicken consumption. 
 
 
+2-2 metaphorical_verbs:
+In this version, we may think of "chicken consumption" as a living organism who can 
+can precieve statistical information, with verbs of perception comming into play.
 
-2-3 predicative_adjective(not common):
-the increase in chicken consumption was significant
+to see
+to observe
 
-2-4 passive_form:
+chicken consumption saw/observed a significant increase.
+
+we may also use 'to experience'
+
+Chicken cosumption experienced a significant increase. 
+
+
+2-3passive_form:
 a significant increase in chicken consumption was recorded
 a significant increase was recorded in chicken consumption
 
 
+2-4 predicative_adjective(not common):
+the increase in chicken consumption was significant
+
+
+However, verbalizing statistical information without adding the numrical values is 
+worthless. 
 
 
 Numerical extention:
@@ -73,11 +131,13 @@ a significant increase from 145 grams in 1979 to 200 grams in 1989 was recorded 
 from 170 grams to 230 grams over/during the first half of the period(in question) 
 between 170 grams and 230 grams over/during the first half of the period(in question).
 
+The verbs to be used in this particular type of description are "to range" and "to fluctuate". 
+
 Chicken consumption ranged from almost  170 grams to 220 grams over the first half of the period.
 Chicken consumption fluctuated between almost  170 grams and 220 grams over the first half of the period.
 
 
-one_point_numerical extention:
+2- one_point_numerical extention:
 at 220 grams in 1979
 at 100 grams in 2004
 
@@ -91,13 +151,13 @@ an all-time high/low of
 
 
 
-stable-trend one-point numerical extention
+2-1 stable-trend one-point numerical extention
 fish consumption remained constant/unchanged at 50 grams over 20 years
 fish consumption stabilized at 50 grams over 20 years
 beef consumption plateaued/flattened out at 240 grams for 5 years
 
 
-volatile-trend one-point numerical-extention
+2-2 volatile-trend one-point numerical-extention
 beef consumption peaked at 240 grams in 1984
 beef consumption reached a peak of 240 grams in 1984
 beef consumption reached an all-time high/low of 240 grams in 1984
@@ -105,7 +165,7 @@ beef consumption hit an all-time high/low of 240 grams in 1984
 
 
                 
-the-starting-and-end one-point numerical-extention:
+2-3 the-starting-and-end one-point numerical-extention:
 
 
 verb-based description:
@@ -121,7 +181,8 @@ a final figure of 50 grams
 
 to reach x
 to hit x
-
+Chicken conumption reached a peak of 300 grams
+Chikcen consumption hit an all time hime at 300 grams.
 
 
 

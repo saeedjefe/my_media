@@ -5,7 +5,7 @@ teachers alike, however, these collocations have been broken down into categorie
 on the type of statistical illustrations, namely bar charts, pie charts,
 tables, and line graphs. However, this approach may debilitate our cognitive ability
 regrading the analysis of statistical information since real classifications go
-beyong the type of statistical medium used for conveying data. In other words, the same form
+beyong the type of statistical medium used for conveying data. 
 Therefore, I have developed a new way of grouping collocations and describing statistical data which
 is called "comparison_patterns"  not based on the type of a statistical
 medium but rather on our perception, understanding and thinking of the data.  
@@ -109,7 +109,7 @@ The list of words used for two aforementiond patterns as follows:
 
 2- External comparison pattern:
 
-2-1: list comparison patter:
+2-1: list comparison pattern:
 This is the pattern by which we may compare A with B, C ,.. . Compared to the
 internal comparison pattern, this type of comparison is more frequently used in
 the IELTS exam. 
