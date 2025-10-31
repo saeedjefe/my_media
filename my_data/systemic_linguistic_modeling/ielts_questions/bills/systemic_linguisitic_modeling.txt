@@ -48,14 +48,12 @@ Basic needs are grouped into food, water, air, shelter, saniation, and sleep.
 
 Dependency_reasoning tree:
 nominalized:
-the dependence of  ouputs on inputs
+the dependence of ouputs on inputs
 the dependence of public services on economic inputs
 the dependence of infrastructure services on non-tax revenues
 the dependence of water supply on the water bill(bill payments)
-the dependence of  electricity supply  on the electricity bill(bill payments)
-the dependence of  gas supply  on the gas bill(bill payments)
-
-
+the dependence of electricity supply on the electricity bill(bill payments)
+the dependence of gas supply on the gas bill(bill payments)
 
 
 

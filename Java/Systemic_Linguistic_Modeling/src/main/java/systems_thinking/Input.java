@@ -4,7 +4,7 @@ public abstract class Input {
 
     String name;
 
-    public Input(String name){
+    public Input(){
         this.name = name;
     }
 

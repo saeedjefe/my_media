@@ -5,9 +5,10 @@ import java.util.ArrayList;
 
 public class Inputs extends Input{
     ArrayList<Input> inputs = new ArrayList<>();
-
+    String name;
     public Inputs(String name) {
-        super(name);
+        this.name = name;
+
     }
 
     public void addInputs(Input input){

@@ -1,13 +1,13 @@
-package human_systems.auditory;
+package society.government;
 
 import systems_thinking.System;
 
-public class AuditorySystem extends System  {
+public class GovernmentSystem extends System {
 
-   ExternalEar externalEar;
-   InnerEar innerEar;
-   BrainStem brainStem;
 
+    public GovernmentSystem(){
+
+    }
 
     @Override
     public void balanceOrientedBehavior() {
