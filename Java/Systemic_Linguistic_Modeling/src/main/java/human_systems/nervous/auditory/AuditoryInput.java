@@ -1,16 +1,15 @@
 package human_systems.nervous.auditory;
 
 import superordinates.Sound;
-import systems_thinking.Inputs;
 
 import java.util.EnumMap;
 import java.util.Map;
 
-public class AuditoryInput extends Inputs {
+public class AuditoryInput  {
 
     Sound sound;
     public AuditoryInput(String name) {
-        super(name);
+
 
     }
 
