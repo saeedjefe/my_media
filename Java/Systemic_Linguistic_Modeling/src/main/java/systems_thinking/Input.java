@@ -1,6 +1,7 @@
 package systems_thinking;
 
-public abstract class Input {
+public interface  Input {
 
+    void addInputs();
 
 }

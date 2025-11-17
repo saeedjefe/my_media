@@ -5,7 +5,15 @@ So far, we have identified several elements for systems thinking, each of which
 should be declared as parameters inside the constructor of the subclasses of the
 class system.
  */
-public abstract class System {
+public abstract class System implements Behaviors, Dependencies,
+        Goals,Modifiers, Processes, Repositories, States, Boundaries, Input, Output, Entity{
+
+
+
+    public System(){
+
+
+    }
 
 
 

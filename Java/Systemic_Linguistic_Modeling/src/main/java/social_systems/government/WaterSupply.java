@@ -1,6 +1,6 @@
 package social_systems.government;
 
-public class WaterSupply extends Utilities{
+public class WaterSupply  {
 
 
 }

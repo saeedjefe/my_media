@@ -1,12 +1,8 @@
-package social_systems.government;
+package Judo_ontology;
 
 import systems_thinking.System;
 
-import java.util.ArrayList;
-
-public class GovernmentSystem extends System {
-
-
+public class Judo extends System {
     @Override
     public void balanceOrientedBehavior(BalanceOrientedTerms balanceOrientedTerms) {
 
@@ -109,18 +105,6 @@ public class GovernmentSystem extends System {
 
     @Override
     public void addEntities(EntityTypes entityTypes) {
-
-        ArrayList<Ministry> ministries = new ArrayList<>();
-        Finance finance = new Finance();
-        ministries.add(finance);
-
-        switch (entityTypes){
-            case BIOLOGICAL -> {
-
-            }
-
-        }
-
 
     }
 

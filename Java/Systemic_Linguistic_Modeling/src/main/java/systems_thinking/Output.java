@@ -1,7 +1,7 @@
 package systems_thinking;
 
-public abstract class Output {
+public interface Output {
 
-
+    void addOutputs();
 
 }
