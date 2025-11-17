@@ -22,7 +22,6 @@ public interface Adverbial extends Function{
     void inference();
     void replacement();
     void expectation();
-
     void generalization();
     void specialization();
     void accompaniment();
