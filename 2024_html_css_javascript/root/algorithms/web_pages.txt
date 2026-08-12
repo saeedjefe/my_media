@@ -1,0 +1,9 @@
+brainstorming
+draw a pattern
+draw a flowchart
+start writing
+modify your script
+organize the html template
+write a bash script automating the transfer of text into the html template
+do the final check 
+push to the github

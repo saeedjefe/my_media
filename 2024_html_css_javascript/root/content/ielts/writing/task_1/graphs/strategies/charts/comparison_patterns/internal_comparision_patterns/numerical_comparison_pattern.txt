@@ -1,0 +1,6 @@
+numerical comparison pattern + time_division_comparison_pattern
+
+A has doubled in size
+A has tripled in size
+A has quadripled in size
+A is halved

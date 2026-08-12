@@ -1,0 +1,13 @@
+the importance of architecture 
+book8 reading perfect for nominalization teaching:
+the use of metadata
+modular approach regarding web development
+the importance of bash scripting and some linux commands like find, xarg, sed
+the most important aim of science should be to improve people's lives(suggestion
+or necessity) argumentative senctence; (counter examples and supporting
+examples)
+semantic or metaphoric extention
+counterexamples' purposes -> effects -> (necessity or suggestion)"the purpose of science should be to improve the quality of people's lives
+again the pattern and flowchart show to work for lecutres(Mahbobe)
+in order to learn to use a command on linux, try to learn the syntax. Syntax is everything. 
+always try to learn skills that make the process more effecient even if it can take a lot of time.  

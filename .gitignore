@@ -1,1 +1,11 @@
 book16
+
+# Vim temporary files
+**/*.swp
+**/*.swo
+
+# Local recovery copy
+2024_html_css_javascript/_inner_conflicts_backup/
+
+# Downloaded Git installer package
+2024_html_css_javascript/git_1%3a2.43.0-1ubuntu7.1_amd64.deb
