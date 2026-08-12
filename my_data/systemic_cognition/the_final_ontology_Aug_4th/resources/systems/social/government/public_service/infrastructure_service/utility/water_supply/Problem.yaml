@@ -1,0 +1,73 @@
+problem:
+
+  accessProblem:
+    - Inadequate Potable Water Access
+    - Unequal Service Access
+    - Unserved Community
+    - Limited Rural Water Access
+    - Insufficient Emergency Water Access
+
+  qualityProblem:
+    - Water Quality Deterioration
+    - Source Water Contamination
+    - Treatment Quality Deficiency
+    - Distribution Water Contamination
+    - Regulatory Quality Noncompliance
+
+  availabilityProblem:
+    - Water Resource Scarcity
+    - Seasonal Water Shortage
+    - Groundwater Depletion
+    - Surface Water Reduction
+    - Drought-Related Supply Deficiency
+
+  capacityProblem:
+    - Demand-Capacity Imbalance
+    - Insufficient Treatment Capacity
+    - Insufficient Storage Capacity
+    - Insufficient Pumping Capacity
+    - Insufficient Distribution Capacity
+
+  infrastructureProblem:
+    - Infrastructure Aging
+    - Pipeline Deterioration
+    - Pump Failure
+    - Reservoir Deterioration
+    - Treatment Facility Obsolescence
+    - Distribution Leakage
+
+  serviceProblem:
+    - Service Disruption
+    - Unreliable Water Supply
+    - Low Network Pressure
+    - Intermittent Supply
+    - Slow Service Restoration
+
+  operationalProblem:
+    - Treatment Inefficiency
+    - Energy Inefficiency
+    - Maintenance Deficiency
+    - Monitoring Deficiency
+    - Emergency Response Deficiency
+    - Operational Data Deficiency
+
+  financialProblem:
+    - Financial Instability
+    - Revenue Insufficiency
+    - Maintenance Funding Deficiency
+    - Capital Funding Deficiency
+    - High Operational Cost
+
+  regulatoryProblem:
+    - Regulatory Noncompliance
+    - Reporting Deficiency
+    - Permit Noncompliance
+    - Environmental Noncompliance
+    - Safety Noncompliance
+
+  environmentalProblem:
+    - Climate-Related Vulnerability
+    - Watershed Degradation
+    - Flood Vulnerability
+    - Ecosystem Stress
+    - Unsustainable Water Abstraction

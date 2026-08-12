@@ -1,0 +1,7 @@
+CommunicationSystem
+│
+├── Telecommunications
+├── Internet Infrastructure
+├── Postal Services
+├── Broadcasting
+└── Satellite Communications

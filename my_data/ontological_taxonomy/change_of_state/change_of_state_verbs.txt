@@ -1,0 +1,40 @@
+CHANGE-OF-STATE VERB TAXONOMY (with Neuroscientific States)
+
+1. PHYSICAL
+  1.1 Phase: melt, freeze, thaw, evaporate, condense, crystallize, solidify
+  1.2 Shape/Form: grow, shrink, expand, contract, fold, flatten, inflate, deflate, stretch, compress
+  1.3 Integrity: break, shatter, crack, split, tear, crush, erode, corrode, rust
+  1.4 Appearance: darken, brighten, redden, yellow, dim, fade, blur, sharpen, polish
+  1.5 Chemical/Energetic: oxidize, ignite, burn, cool, heat, deactivate, activate
+
+2. BIOLOGICAL (non-neural)
+  2.1 Growth/Development: mature, age, develop, bloom, wither, decay, rot
+  2.2 Health: heal, recover, convalesce, deteriorate, weaken, strengthen, sicken, infect
+
+3. NEUROSCIENTIFIC / PHYSIOLOGICAL-COGNITIVE STATES
+  3.1 Consciousness/Arousal: wake, wake up, fall asleep, rouse, faint, pass out, revive, sober up
+  3.2 Attention/Focus: attend, focus, defocus, habituate, sensitize
+  3.3 Memory/Encoding: learn, remember, forget, consolidate (memory), retrieve
+  3.4 Perception/Threshold: notice, detect, perceive, adapt
+  3.5 Valence/Affect (neuro-affective): calm, excite, depress, arouse (affective)
+
+4. COGNITIVE (belief/knowledge)
+  realize, discover, understand, misinterpret, reassess, infer, deduce, recognize
+
+5. AFFECTIVE (emotion)
+  anger, sadden, cheer (up), frighten, annoy, frustrate, amuse, calm (down)
+
+6. SOCIAL/ROLE/STATUS
+  marry, divorce, promote, demote, elect, appoint, knight, convict, pardon, inherit, forfeit
+
+7. ECONOMIC/VALUATION
+  appreciate, depreciate, cheapen, rise, fall, inflate, deflate
+
+8. INFORMATIONAL/REPRESENTATION
+  encode, decode, digitize, translate, categorize, reclassify, rename, relabel, reveal, expose, redact
+
+9. LOCATIVE/SPATIAL
+  arrive, depart, enter, exit, stand up, sit down, rise, descend, relocate, align, rotate, invert
+
+10. NORMATIVE/DEONTIC
+  permit, forbid, require, authorize, ban

@@ -1,0 +1,60 @@
+Transfer-of-Possession/Availability Verbs
+│
+├── 1. Core Change-of-Possession Verbs (Levin Class 13.1: "Give" verbs)
+│   │
+│   ├── give
+│   ├── lend
+│   ├── loan
+│   ├── lease
+│   ├── feed
+│   ├── pass
+│   ├── pay
+│   ├── refund
+│   ├── render
+│   ├── rent
+│   ├── repay
+│   ├── sell
+│   ├── serve
+│   └── trade
+│       [[1]]
+│
+├── 2. Provision / Enablement Verbs
+│   │
+│   ├── provide
+│   ├── supply
+│   ├── furnish
+│   ├── offer
+│   ├── present
+│   ├── deliver
+│   ├── hand (over)
+│   ├── send
+│   ├── forward
+│   ├── issue
+│   ├── grant
+│   ├── award
+│   ├── allocate
+│   ├── assign
+│   ├── distribute
+│   ├── dispense
+│   ├── administer
+│   ├── afford
+│   ├── equip
+│   └── accommodate
+│
+├── 3. Commercial / Institutional Transfer Verbs
+│   │
+│   ├── sell          ← (also in 13.1)
+│   ├── rent          ← (also in 13.1)
+│   ├── donate
+│   ├── contribute
+│   ├── bequeath
+│   ├── endow
+│   └── subsidize
+│
+└── 4. Abstract / Figurative Provision Verbs
+    │
+    ├── yield
+    ├── produce
+    ├── afford        ← (also in 2)
+    ├── grant         ← (also in 2)
+    └── offer         ← (also in 2)

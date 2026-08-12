@@ -1,0 +1,134 @@
+VOLITIONAL_MOTOR_ACTION_VERBS
+│   // Actions initiated consciously and executed via primary motor cortex
+│
+├── 1. WHOLE_BODY_MOVEMENT → Full-body locomotion or repositioning
+│   ├── walk → move at a regular pace
+│   ├── run → move faster than walking
+│   ├── jump → push off ground into air
+│   ├── hop → jump on one foot
+│   ├── skip → step and hop alternately
+│   ├── crawl → move on hands and knees
+│   ├── climb → ascend using limbs
+│   ├── slide → move smoothly along surface
+│   ├── roll → turn over repeatedly
+│   ├── tumble → fall end-over-end
+│   ├── squat → bend knees to lower body
+│   ├── stretch → extend muscles fully
+│   ├── bend → lean forward/downward
+│   └── crouch → stay low with bent legs
+│
+├── 2. POSTURAL_TRANSITIONS → Changing physical position
+│   ├── get up → rise from sitting/lying
+│   ├── stand up → assume upright stance
+│   ├── sit up → raise torso from lying
+│   ├── lie down → assume horizontal position
+│   ├── rise → elevate oneself slowly
+│   ├── kneel → rest on one or both knees
+│   ├── balance → maintain stability
+│   ├── steady → stabilize after movement
+│   ├── lean → incline body to one side
+│   └── turn around → rotate 360°
+│
+├── 3. ARM_HAND_FINGER_ACTIONS → Upper limb manipulation
+│   ├── GRASPING & HOLDING
+│   │   ├── grasp → take hold firmly
+│   │   ├── hold → keep in hand
+│   │   ├── squeeze → press together
+│   │   ├── release → let go
+│   │   └── pinch → grip between thumb and finger
+│   │
+│   ├── MOVING & POSITIONING
+│   │   ├── lift → raise upward
+│   │   ├── lower → bring down
+│   │   ├── raise → elevate
+│   │   ├── reach → extend toward something
+│   │   ├── wave → move hand side-to-side
+│   │   ├── point → direct finger at object
+│   │   ├── gesture → use motion to communicate
+│   │   └── face → orient toward direction
+│   │
+│   ├── TOOL USE & INTERACTION
+│   │   ├── press → apply force (button)
+│   │   ├── tap → touch lightly and quickly
+│   │   ├── click → make short sound (mouse)
+│   │   ├── twist → rotate
+│   │   ├── rotate → spin around axis
+│   │   ├── flip → turn over
+│   │   ├── fold → bend paper/fabric
+│   │   ├── unfold → open folded item
+│   │   └── spin → whirl rapidly
+│
+├── 4. LEG_FOOT_ACTIONS → Lower limb motion
+│   ├── kick → strike with leg/foot
+│   ├── step → move one foot forward
+│   ├── stomp → step heavily
+│   ├── stamp → bring foot down hard
+│   ├── shuffle → drag feet while walking
+│   ├── march → walk formally in rhythm
+│   ├── jog → run slowly for exercise
+│   ├── pedal → operate bike pedals
+│   ├── skate → glide on ice/wheels
+│   ├── ski → glide on snow
+│   ├── dance → move rhythmically
+│   ├── tiptoe → walk on toes
+│   └── stampede → rush forward as a group
+│
+├── 5. SPEECH_ARTICULATION_AND_FACIAL_EXPRESSION → Controlled facial/vocal actions
+│   // Note: Only when done *intentionally*
+│   ├── smile → curve mouth upward
+│   ├── frown → lower eyebrows and mouth
+│   ├── grimace → distort face (e.g., pain)
+│   ├── wink → close one eye briefly
+│   ├── nod → move head up/down (yes)
+│   ├── shake head → move side-to-side (no)
+│   ├── purse lips → press lips together tightly
+│   ├── raise eyebrow → show surprise/doubt
+│   ├── whistle → produce sound through lips
+│   └── yawn → open mouth wide (if deliberate)
+│
+├── 6. OBJECT_MANIPULATION → Interacting with items
+│   ├── WRITING & DRAWING
+│   │   ├── write → form letters
+│   │   ├── type → press keys
+│   │   ├── draw → sketch lines
+│   │   ├── paint → apply pigment
+│   │   ├── erase → remove marks
+│   │   └── cut → slice with tool
+│   │
+│   ├── BUILDING & ORGANIZING
+│   │   ├── glue → join with adhesive
+│   │   ├── stick → attach
+│   │   ├── place → put in location
+│   │   ├── set → arrange
+│   │   ├── arrange → order intentionally
+│   │   ├── stack → pile vertically
+│   │   └── pile → heap loosely
+│   │
+│   ├── MOVING_OBJECTS
+│   │   ├── carry → transport in hands
+│   │   ├── drag → pull behind
+│   │   ├── pull → exert force toward self
+│   │   ├── push → exert force away
+│   │   ├── throw → propel through air
+│   │   ├── catch → intercept moving object
+│   │   ├── drop → let fall
+│   │   ├── toss → throw gently
+│   │   └── launch → send out forcefully
+│   │
+│   └── PRECISION_ACTIONS
+│       ├── tear → rip apart
+│       ├── fold → crease material
+│       ├── roll → wrap into cylinder
+│       └── flip → reverse orientation
+│
+└── 7. TRANSPORTATION_AND_NAVIGATION → Controlling vehicles/movement systems
+    ├── ride → travel on vehicle
+    ├── drive → operate car
+    ├── steer → control direction
+    ├── pilot → fly aircraft
+    ├── row → propel boat with oars
+    ├── sail → travel by wind power
+    ├── fly → operate aircraft
+    ├── glide → descend smoothly
+    ├── land → arrive safely on ground
+    └── dock → secure vessel to pier

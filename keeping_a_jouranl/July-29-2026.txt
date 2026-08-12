@@ -1,0 +1,54 @@
+System Processes
+│
+├── Enabling Processes
+│   ├── Planning
+│   ├── Procurement
+│   ├── Authorization
+│   ├── Scheduling
+│   └── Coordination
+│
+└── Operational Processes
+    ├── Intake
+    ├── Collection
+    ├── Filtration
+    ├── Pumping
+    ├── Delivery
+    └── ...
+
+Purpose
+    ↓
+
+Planning / Decision Layer
+-------------------------
+Source Identification
+Source Evaluation
+Procurement
+Authorization
+Scheduling
+
+Operational Layer
+-----------------
+Input Acquisition
+Preparation
+Transformation
+Distribution
+...
+
+Physical Processes
+------------------
+Intake
+Pumping
+Collection
+Filtration
+Delivery
+...
+
+Decision-Making Entity
+        │
+        ├── Planning
+        ├── Policy
+        ├── Budgeting
+        ├── Procurement
+        ├── Contracting
+        ├── Authorization
+        └── System Creation

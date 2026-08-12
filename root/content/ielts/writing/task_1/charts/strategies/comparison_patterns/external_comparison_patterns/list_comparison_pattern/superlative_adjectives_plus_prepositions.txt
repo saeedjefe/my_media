@@ -13,41 +13,41 @@ we need to add numbers to the previous sentence.
 how to add numbers to the text:
 
 'with and at' numercial description:
+
 prepositions(with, at) for adding numbers
 paranthesis:
 
 
 You may have seen 'with' as a preposition whereby numbers can be added to a
-sentence where 'the most' or 'the least' is being described. 
+sentence where the most or the least is being described. 
 
 Telegram is the most popular social media app, with 1 billion users worldwide. 
 
-Nonetheless, the use of 'with' in statistical contexts  needs
-further linguisitics clarification. To tackle the problem, the sentence should be 
-reversed-engineered, helping you have a firmer grasp of the concept.
+Nonetheless, the use of 'with' in statistical contexts needs
+further linguisitics explanation. To tackle the problem, Tehranian Polymath has tried to
+reverse-engineer the sentence so that his inference helps you have a firmer grasp of the concept.
  
 Look at the reverse-engineered version:
 
 Telegram is the most popular social media app.
 Telegram has 1 billion users.
 
-Now, to merge to sentence into one, we may use either an adverb or an adjective
+Now, to merge two sentence into one, we may use either an adverb or an adjective
 clause. 
 
 Let's start with the adjective clause:
 
 Telegram, which has 1 billion users, is the most popular social media app.
 
-There is a usage of 'with' which expresses possession, making 'with' a perfect
-candidate for the adjective clause taking either 'have' or 'has' as a verb.
+There is a usage of with which expresses possession, making 'with' a perfect
+candidate for the adjective clause with 'has or have' as a verb.
 
 example:
 a man who has a white beard -> a man with while beard
 telegram which has 1 billion users -> telegram with 1 billion users
 Telegram, with 1 billion users, is the most popular social media app. 
 
-Since adjective clause which precedes the reduction is non-restricitve, 
-'with' can be used in three adverbial positions: initial, mid, and final. 
+With adjective clause preceding the reducntion being non-restricitve, 'with' can be used in three adverbial positions, initial, mid, and final. 
 
 Initial:
 with 1 billion users, Telegram is the most popular social media app.
@@ -67,27 +67,26 @@ information to a sentence.
 
 Telegram is the most popular app, at 1 billion users.
 
-But again, the question is where this 'semantic extension(at 1 billin users)' comes from.
+But again the question is where this 'semantic extension' comes from.
 
-Let's reverse-engineer the sentence for further clarification:
+Tehranian Polymath has tried to reverse-engineer the sentence for further clarification:
 
 Telegram stands at 1 billion users.
 Telegram is the most popular app.
 
-To merge these two sentences into one sentence again, we may use either an
+To merge these to sentences into one sentence again, we may use either an
 adjective or an adverb clause.
 
 This time, I am going to use an adverb clause and, then, reduce it.
 
-Because Telegram stands at 1 billino users, telegram is the most popular app.
+Because Telegram stands at 1 billino uses, telegram is the most popular app.
 
-Since 'stand' here is a 'linking verb', expressing neither an action nor an emotion, we may replace it with 
-'to be' despite the fact that 'is' dosen't express the metaphorical sense of 'stand' which means
+Since 'stand' here is a 'linking verb', expressing neither an action nor an emotion, we may replace it with 'to be' despite the fact that 'is' dosen't express the metaphorical sense of 'stand' which means
 being steady not moving.
 
 Because telegram is at 1 billion users, it is the most popular app.
 
-With telegram being repeated twice, the reduction of the adverb caluse is possible.  
+Now, let's reduce the adverb clause. 
 
 Being at 1 billion users, Telegram is the most popular app. 
 

@@ -1,0 +1,107 @@
+1) Body-Part / Contact-Point Roots (10)
+Root	Meaning / Contact Point
+Te	Hand / Arm
+Seoi	Shoulder / Back carry
+Kata	Shoulder
+Tai	Body / Torso
+Koshi	Hip
+Ashi	Foot / Leg
+Hiza	Knee
+Eri	Lapel / Collar (grip point)
+Obi	Belt (grip point / reference)
+Mune	Chest (rare, used in Makikomi/Uki techniques)
+2) Mechanical / Action Roots (17)
+Root	Meaning / Action
+Nage	Throw
+Gari / Kari	Reap / Cut (foot/leg action)
+Harai	Sweep
+Guruma	Wheel / Rotation
+Otoshi	Drop
+Gaeshi	Reversal / Counterthrow
+Makikomi	Wrap-In / Sacrifice Spiral
+Tsuri	Lift
+Tsuri-komi	Lift + Draw inward
+Uki	Floating Application
+Hiki-otoshi	Pull-Drop
+Sukui	Scoop
+Oshi	Push / Press
+Ura	Inside / Backward Turning
+Hane	Spring / Springing Lift
+Sumi	Corner / Edge Motion
+Sasae	Propping / Block
+3) Modifiers / Qualifiers (Expanded) (26)
+
+Scalar / Size
+
+O — Major / Large
+
+Ko — Minor / Small
+
+Ippon — Single / Full
+
+Directional / Spatial
+
+Mae — Forward
+
+Ushiro — Rear / Backward
+
+Yoko — Side
+
+Uchi — Inside
+
+Soto — Outside
+
+Okuri — Sliding / Follow-through
+
+Sumi — Corner / Edge
+
+Motion / Energy Quality
+
+De — Advancing / Entering
+
+Hiki — Pulling
+
+Tsuri — Lifting / Hoisting
+
+Komi — Drawing inward
+
+Uki — Floating / Suspension
+
+Mechanical / Structural
+
+ASHI — Foot / Leg (modifier use)
+
+TE — Hand / Arm (modifier use)
+
+KATA — Shoulder (modifier use)
+
+TAI — Body / Torso (modifier use)
+
+KOSHI — Hip (modifier use)
+
+HIZA — Knee (modifier use)
+
+SEOI — Shoulder / Back carry (modifier use)
+
+OBI — Belt (modifier use)
+
+ERI — Lapel / Collar (modifier use)
+
+Sasae — Propping / Blocking
+
+Makikomi — Wrap-In / Sacrifice Spiral
+
+Grip / Hands
+
+Morote — Both hands (grip style)
+
+Kata — Single hand (grip style)
+
+4) Technique-Class Markers (6)
+Root	Meaning / Technique Type
+Waza	Technique (generic)
+Nage	Throw
+Osae-komi	Hold / Pin
+Shime	Strangle / Choke
+Kansetsu	Joint Lock
+Sutemi	Sacrifice Technique (used in Nage-waza)

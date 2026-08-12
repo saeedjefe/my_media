@@ -1,0 +1,135 @@
+SOCIO_DEVELOPMENTAL_TRANSITION_VERBS
+│   // Verbs that mark entry into new social roles, institutions, or identity states
+│   // Not just actions — they are *threshold crossings* in human development
+│
+├── 1. EDUCATIONAL_TRANSITIONS → Entry into formal knowledge systems
+│   │   // Marks cognitive advancement and institutional belonging
+│   │
+│   ├── ENTRY_PHASES
+│   │   ├── enter school (primary)
+│   │   ├── start kindergarten
+│   │   ├── begin high school
+│   │   └── enroll in university
+│   │
+│   ├── COMPLETION_EVENTS
+│   │   ├── graduate (from school/university)
+│   │   ├── complete secondary education
+│   │   └── finish vocational training
+│   │
+│   └── NONLINEAR_PATHWAYS
+│       ├── drop out (of school/college)
+│       ├── return to study
+│       └── pursue higher education
+│
+├── 2. WORK & ECONOMIC_PARTICIPATION → Integration into labor system
+│   │   // Entry into economic agency and self-sufficiency
+│   │
+│   ├── INITIAL_ENTRY
+│   │   ├── start work
+│   │   ├── join the workforce
+│   │   ├── get a job
+│   │   └── obtain employment
+│   │
+│   ├── CAREER_MOBILITY
+│   │   ├── change careers
+│   │   ├── switch jobs
+│   │   └── launch a business
+│   │
+│   └── EXIT_OR_RETIREMENT
+│       ├── retire
+│       ├── take early retirement
+│       └── re-enter the job market
+│
+├── 3. LEGAL & CIVIC_INTEGRATION → Recognition by state and law
+│   │   // Becomes a rights-bearing member of society
+│   │
+│   ├── RIGHTS_ACQUISITION
+│   │   ├── vote
+│   │   ├── gain citizenship
+│   │   ├── register to vote
+│   │   └── serve on a jury
+│   │
+│   ├── CONTRACTUAL_AUTONOMY
+│   │   ├── sign a contract
+│   │   ├── open a bank account
+│   │   └── obtain a license (driver’s, professional)
+│   │
+│   └── TAXATION_AND_DUTY
+│       ├── pay taxes
+│       └── report income
+│
+├── 4. FAMILY & RELATIONSHIP_ROLES → Formation of intimate bonds
+│   │   // Shift from dependence to interdependence
+│   │
+│   ├── PARTNERSHIP_FORMATION
+│   │   ├── get married
+│   │   ├── become engaged
+│   │   └── form a partnership
+│   │
+│   ├── PARENTHOOD & CAREGIVING
+│   │   ├── have a child
+│   │   ├── become a parent
+│   │   └── adopt
+│   │
+│   └── INDEPENDENCE_FROM_FAMILY
+│       ├── move out
+│       ├── live independently
+│       └── leave home
+│
+├── 5. IDENTITY_CONSTRUCTION & COMMUNITY_AFFILIATION → Self-definition
+│   │   // Emergence of personal worldview and belonging
+│   │
+│   ├── PERSONAL_IDENTITY
+│   │   ├── come out (as LGBTQ+)
+│   │   ├── identify as (e.g., non-binary, disabled)
+│   │   └── find one’s voice
+│   │
+│   ├── CULTURAL_BELONGING
+│   │   ├── claim heritage
+│   │   ├── affiliate with (a group, party, movement)
+│   │   └── join a community
+│   │
+│   └── PHILOSOPHICAL_COMMITMENTS
+│       ├── convert (to religion/belief)
+│       ├── declare values
+│       └── commit to a cause
+│
+├── 6. CULTURAL & RELIGIOUS_RITES → Ritualized passage markers
+│   │   // Formal recognition through tradition
+│   │
+│   ├── INITIATION_CEREMONIES
+│   │   ├── undergo initiation
+│   │   ├── mark adulthood
+│   │   └── perform rite of passage
+│   │
+│   ├── RELIGIOUS_MILESTONES
+│   │   ├── celebrate Bar/Bat Mitzvah
+│   │   ├── receive confirmation
+│   │   └── go on pilgrimage (e.g., Hajj)
+│   │
+│   └── TRADITIONAL_RECOGNITION
+│       ├── inherit traditions
+│       └── assume elder status
+│
+└── 7. INSTITUTIONAL_ENTRY_POINTS → Access to structured power systems
+    │   // Enters regulated domains with rules, authority, consequences
+    │
+    ├── STATE_SERVICE
+    │   ├── enlist (in military)
+    │   ├── be drafted
+    │   └── report for duty
+    │
+    ├── PROTECTION & ASYLUM
+    │   ├── apply for asylum
+    │   ├── seek refugee status
+    │   └── enter protective custody
+    │
+    ├── CARE SYSTEMS
+    │   ├── enter foster care
+    │   ├── be admitted to hospital/institution
+    │   └── leave care
+    │
+    └── LEADERSHIP ROLES
+        ├── assume office
+        ├── take oath of office
+        └── succeed to position

@@ -1,0 +1,101 @@
+dependency:
+
+  structuralDependency:
+    - Water Source Infrastructure
+    - Water Treatment Infrastructure
+    - Water Storage Infrastructure
+    - Water Transmission Infrastructure
+    - Water Distribution Infrastructure
+    - Pumping Infrastructure
+    - Monitoring Infrastructure
+
+  resourceDependency:
+    - Raw Water Availability
+    - Treatment Chemical Availability
+    - Electrical Energy Availability
+    - Fuel Availability
+    - Spare Part Availability
+    - Financial Resource Availability
+    - Skilled Workforce Availability
+
+  informationDependency:
+    - Water Quality Information
+    - Water Demand Information
+    - Asset Condition Information
+    - Hydraulic Model Information
+    - Geographic Information
+    - Regulatory Information
+    - Weather Information
+    - Operational Performance Information
+    - Customer Information
+    - Sensor Information
+
+  functionalDependency:
+    - Water Abstraction
+    - Water Treatment
+    - Water Storage
+    - Water Transmission
+    - Water Distribution
+    - Water Quality Monitoring
+    - Asset Maintenance
+    - Laboratory Analysis
+    - Customer Service
+    - Emergency Response
+
+  temporalDependency:
+    - Seasonal Water Availability
+    - Treatment Duration
+    - Pump Operating Schedule
+    - Maintenance Schedule
+    - Inspection Interval
+    - Regulatory Reporting Period
+    - Asset Lifecycle
+    - Emergency Response Time
+
+  spatialDependency:
+    - Watershed Location
+    - Source Water Location
+    - Treatment Plant Location
+    - Storage Facility Location
+    - Pumping Station Location
+    - Distribution Network Layout
+    - Customer Service Area
+    - Elevation Profile
+
+  causalDependency:
+    - Rainfall
+    - River Flow
+    - Groundwater Recharge
+    - Water Demand
+    - Energy Supply
+    - Infrastructure Condition
+    - Equipment Reliability
+    - Treatment Effectiveness
+
+  hierarchicalDependency:
+    - Water Resource Authority
+    - Water Utility
+    - Treatment Facility
+    - Distribution Zone
+    - Pumping Station
+    - Operational Unit
+    - Field Team
+
+  feedbackDependency:
+    - Water Quality Feedback
+    - Pressure Monitoring Feedback
+    - Flow Monitoring Feedback
+    - Leakage Detection Feedback
+    - Customer Complaint Feedback
+    - Regulatory Audit Feedback
+    - Operational Performance Feedback
+
+  environmentalDependency:
+    - Climate Condition
+    - Hydrological Condition
+    - Environmental Flow
+    - Source Water Quality
+    - Drought Condition
+    - Flood Condition
+    - Ambient Temperature
+    - Ecosystem Condition

@@ -1,0 +1,102 @@
+resource:
+
+  naturalResource:
+    - Surface Water
+    - Groundwater
+    - Rainwater
+    - Spring Water
+    - Seawater
+    - Watershed Runoff
+    - Aquifer Recharge
+
+  materialResource:
+    - Treatment Chemical
+    - Filter Media
+    - Pipe Material
+    - Pump Component
+    - Valve Component
+    - Meter Component
+    - Laboratory Material
+    - Maintenance Material
+    - Spare Part
+    - Protective Equipment
+
+  energyResource:
+    - Electrical Energy
+    - Fuel
+    - Solar Energy
+    - Hydropower
+    - Backup Power
+    - Battery Capacity
+
+  humanResource:
+    - Treatment Expertise
+    - Engineering Expertise
+    - Maintenance Expertise
+    - Laboratory Expertise
+    - Operational Expertise
+    - Management Expertise
+    - Emergency Response Expertise
+    - Regulatory Expertise
+    - Information Technology Expertise
+    - Customer Service Expertise
+
+  financialResource:
+    - Capital Funding
+    - Operational Revenue
+    - Maintenance Funding
+    - Infrastructure Investment
+    - Emergency Funding
+    - Development Grant
+    - Loan Financing
+    - Tariff Revenue
+    - Environmental Funding
+    - Renewal Funding
+
+  informationalResource:
+    - Water Quality Data
+    - Water Demand Data
+    - Source Water Data
+    - Asset Condition Data
+    - Operational Performance Data
+    - Customer Data
+    - Maintenance Data
+    - Regulatory Data
+    - Climate Data
+    - Emergency Data
+
+  technologicalResource:
+    - SCADA Technology
+    - Sensor Technology
+    - Smart Meter Technology
+    - Geographic Information Technology
+    - Hydraulic Modeling Technology
+    - Laboratory Technology
+    - Leak Detection Technology
+    - Cybersecurity Technology
+    - Communication Technology
+    - Decision Support Technology
+
+  infrastructuralResource:
+    - Intake Infrastructure
+    - Treatment Infrastructure
+    - Storage Infrastructure
+    - Pumping Infrastructure
+    - Transmission Infrastructure
+    - Distribution Infrastructure
+    - Monitoring Infrastructure
+    - Laboratory Infrastructure
+    - Maintenance Infrastructure
+    - Emergency Supply Infrastructure
+
+  temporalResource:
+    - Operational Time
+    - Maintenance Window
+    - Planning Horizon
+    - Emergency Response Time
+    - Treatment Time
+    - Storage Duration
+    - Inspection Interval
+    - Renewal Period
+    - Construction Period
+    - Recovery Time

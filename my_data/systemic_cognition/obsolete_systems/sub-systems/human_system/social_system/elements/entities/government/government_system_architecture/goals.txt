@@ -1,0 +1,72 @@
+GovernmentSystem
+└── Goals
+    ├── PublicWelfare
+    │   ├── ProtectPublicHealth
+    │   ├── ImproveQualityOfLife
+    │   ├── ReducePoverty
+    │   └── PromoteSocialWellbeing
+    │
+    ├── PublicSafetyAndSecurity
+    │   ├── ProtectLifeAndProperty
+    │   ├── MaintainPublicOrder
+    │   ├── ProtectNationalSecurity
+    │   └── ImproveEmergencyPreparedness
+    │
+    ├── JusticeAndRights
+    │   ├── UpholdRuleOfLaw
+    │   ├── ProtectHumanRights
+    │   ├── EnsureEqualJustice
+    │   └── ResolveDisputesFairly
+    │
+    ├── PublicServiceProvision
+    │   ├── EnsureHealthcareAccess
+    │   ├── EnsureEducationAccess
+    │   ├── EnsureCleanWaterAccess
+    │   ├── EnsureSanitationAccess
+    │   ├── EnsureEnergyAccess
+    │   ├── EnsureTransportationAccess
+    │   ├── EnsureCommunicationAccess
+    │   └── EnsureEmergencyServices
+    │
+    ├── InfrastructureDevelopment
+    │   ├── DevelopInfrastructure
+    │   ├── MaintainInfrastructure
+    │   ├── ModernizeInfrastructure
+    │   └── ImproveInfrastructureResilience
+    │
+    ├── EconomicProsperity
+    │   ├── PromoteEconomicGrowth
+    │   ├── PromoteEmployment
+    │   ├── EncourageInvestment
+    │   ├── MaintainPriceStability
+    │   ├── ReduceEconomicInequality
+    │   └── SupportInnovation
+    │
+    ├── EnvironmentalSustainability
+    │   ├── ProtectNaturalResources
+    │   ├── ReducePollution
+    │   ├── PreserveBiodiversity
+    │   ├── PromoteRenewableResources
+    │   └── ImproveClimateResilience
+    │
+    ├── SocialDevelopment
+    │   ├── PromoteSocialInclusion
+    │   ├── PromoteEquality
+    │   ├── StrengthenCommunityCohesion
+    │   ├── PreserveCulturalHeritage
+    │   └── SupportScientificAdvancement
+    │
+    ├── InstitutionalEffectiveness
+    │   ├── ImproveAdministrativeEfficiency
+    │   ├── EnsureTransparency
+    │   ├── StrengthenAccountability
+    │   ├── PreventCorruption
+    │   ├── ImproveResponsiveness
+    │   └── StrengthenPublicTrust
+    │
+    └── FiscalSustainability
+        ├── CollectRevenue
+        ├── AllocateResourcesEfficiently
+        ├── MaintainFiscalBalance
+        ├── ControlPublicDebt
+        └── EnsureLongTermFinancialSustainability

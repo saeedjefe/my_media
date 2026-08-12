@@ -1,0 +1,42 @@
+GovernmentSystem
+└── Purposes
+    ├── ProtectSociety
+    │   ├── ProtectHumanLife
+    │   ├── ProtectRightsAndFreedoms
+    │   ├── ProtectProperty
+    │   └── ProtectNationalSovereignty
+    │
+    ├── PromotePublicWellbeing
+    │   ├── ImproveQualityOfLife
+    │   ├── PromotePublicHealth
+    │   ├── PromoteEducation
+    │   ├── PromoteSocialJustice
+    │   └── PromoteEconomicProsperity
+    │
+    ├── ProvidePublicServices
+    │   ├── ProvideHealthcare
+    │   ├── ProvideEducation
+    │   ├── ProvideWaterSupply
+    │   ├── ProvideEnergyServices
+    │   ├── ProvideTransportation
+    │   ├── ProvideCommunicationServices
+    │   └── ProvideEmergencyServices
+    │
+    ├── MaintainSocialOrder
+    │   ├── MaintainRuleOfLaw
+    │   ├── ResolveConflicts
+    │   ├── EnsurePublicSafety
+    │   └── MaintainPoliticalStability
+    │
+    ├── StewardNationalResources
+    │   ├── ManageNaturalResources
+    │   ├── ProtectTheEnvironment
+    │   ├── PreservePublicAssets
+    │   └── EnsureSustainability
+    │
+    └── EnsureLongTermNationalDevelopment
+        ├── DevelopInfrastructure
+        ├── PromoteScientificAdvancement
+        ├── StrengthenInstitutions
+        ├── FosterInnovation
+        └── ImproveNationalResilience

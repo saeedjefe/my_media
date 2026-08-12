@@ -1,0 +1,6 @@
+EnergySystem
+│
+├── OilAndGasSubsystem
+├── CoalSubsystem
+├── PetroleumRefiningSubsystem
+└── RenewableEnergySubsystem

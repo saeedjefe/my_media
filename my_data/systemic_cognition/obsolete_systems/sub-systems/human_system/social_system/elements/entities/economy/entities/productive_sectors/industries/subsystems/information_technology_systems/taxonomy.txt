@@ -1,0 +1,7 @@
+InformationTechnologySystem
+│
+├── HardwareManufacturing
+├── ElectronicsManufacturing
+├── CommunicationEquipment
+├── SoftwareIndustry
+└── ITServices

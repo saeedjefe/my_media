@@ -91,7 +91,7 @@ between 15 and 59 years of age
 over 6o
 in the 0-14 age group
 in the 15-59 age group
-'between,  over, and in' are both prepositions. 
+'between,  over, and in' are all prepositions. 
 
 noun phrase version:
 
@@ -119,7 +119,7 @@ bridge.
 
 
 
-But placing just 'is, am, are, was, were, been, or been' is not as simple as it might seem. To use a
+But placing just 'is, am, are, was, were,  or been' is not as simple as it might seem. To use a
 'to be verb' we had better understand the concepts of subject complements. If you haven't already,
 you may read the article concerning subject complements. 
  
@@ -164,7 +164,7 @@ Syntactic analysis:
 'a man' is also a noun phrase. 
 
 There is a concept in philosophy called hierarchical relationship in which a superordinate
-encompasses a breader category which itself includes a smaller entity called a suboridinate. 
+encompasses a broader category which itself includes a smaller entity called a suboridinate. 
 
 Ex: 'a human' is a superordinate to 'a man', with 'a man' being a subordinate to 'a human'. 
 
@@ -233,7 +233,7 @@ The greatest percentage of Yemen's population is in the 0-14 age group, standing
 
 Wiht standing being a semantic extension, we can be pretty sure that it is a linking verb. 
 
-The greatest percentage of Yemen's population is in the 0-14 age group, bing at 50.1%.
+The greatest percentage of Yemen's population is in the 0-14 age group, being at 50.1%.
 The greatest percentage of Yemen's population is in the 0-14 age group, at 50.1%.
 
 Going further down the list:
@@ -275,7 +275,7 @@ the item + ARM verbs + percent + of + the whole
 
 There three versions of 'the element'.
 
-Let's write all of the for the age group over 60 years of age:
+Let's write all of the age group over 60 years of age:
 
 over 60 years of age 
 people aged 60 and over

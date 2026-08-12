@@ -1,0 +1,40 @@
+VERB: HAVE
+│
+├── 1. PRIMARY MEANING CATEGORIES (General)
+│   ├── Possession → "I have a book"
+│   ├── Composition → "The cell has a nucleus"
+│   ├── Experience (Event-Based) → "I had dinner"
+│   └── State Encounter → "I had trouble..." ← You are here
+│
+└── 2. SUBCATEGORY: HAVE + Abstract Obstacle
+    │   // Signifies resistance to volitional action
+    │
+    ├── TROUBLE DOMAIN
+    │   ├── have trouble (doing X)
+    │   ├── have difficulty (with Y)
+    │   ├── have problems (when Z)
+    │   └── have challenges (in A)
+    │
+    ├── NEUROCOGNITIVE INTERPRETATION
+    │   ├── Volition present → "I wanted to get up"
+    │   ├── Motor intent formed → Prefrontal cortex active
+    │   ├── Execution delayed/blocked → due to fatigue, depression, inertia
+    │   └── Gap recognized → hence "trouble"
+    │
+    ├── ONTOLOGICAL STATUS OF "TROUBLE"
+    │   ├── Not physical object → immaterial obstacle
+    │   ├── Emergent from system-state mismatch:
+    │   │   Desired state: awake, upright
+    │   │   Actual state: tired, low energy
+    │   └── Therefore: "Trouble" = systemic friction
+    │
+    ├── MODALITY OF CONTROL
+    │   ├── Partial agency → "I could eventually get up"
+    │   ├── Impaired initiation → akin to "akinesia" (lack of movement) in Parkinson’s
+    │   └── Not full volitional failure → still possible after effort
+    │
+    └── FUNCTION IN SENTENCE
+        ├── Questions availability of smooth transition
+        ├── Implies expectation: "getting up should be easy"
+        ├── Reveals normative assumption about daily functioning
+        └── Invites reflection on biological readiness vs. social demand

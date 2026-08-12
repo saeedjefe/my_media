@@ -12,7 +12,7 @@ noun based descriptions:
 
 Based on Tehranian Polymath's methodology, generally speaking, comparison patterns could be either
 interanl or external. If you see only one line on a graph, having taken time divisions into account,
-you may compare the line with itself.However, if you zome out, you can see the big picture. This big
+you may compare the line with itself.However, if you zoom out, you can see the big picture. This big
 picture could be lablled as the overall trend. The overall trend could appear in four different states: upward(adj), downward(adj),
 volatile(adj), and stable(adj). 
 

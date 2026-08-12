@@ -1,0 +1,114 @@
+
+
+
+
+1-
+an organization is an entity
+an organization consists of/is composed of/ is made up of/comprises units
+
+a water utility organization is an entity
+a water utility organization consists of a units
+
+
+2-
+boundaries
+
+how boundaries are measured?
+
+
+
+3-
+repositories
+how repositories are found?
+
+
+4-
+dependencies
+how dependencies are met?
+
+
+5-
+modifiers 
+modifiers affect outputs and entities
+
+
+
+
+
+6-
+states 
+what the current states is?
+
+
+
+7-
+outputs
+
+
+
+
+8- 
+functional behaviors
+an input acquistion unit performs/is responsible for functional behaviors
+
+
+
+input acquisiton is a functinal behavior
+preparation is a functional behavior
+transformation is a functional behavior
+output production is a fucntional behavior
+distribution is a functional behavrior 
+
+
+functional behaviors consist of/ are composed of/comprise processes 
+
+
+
+input acquisition consists of sourcing
+input acquisition consists of procurement
+input acquisition consists of recruitment
+input acquisition consists of intake
+input acquisition consists of collection 
+input acquisition consists of import
+
+sourcing is a process
+procurement is a process
+recruitment is a process
+intake is a process
+collection is a process
+import is a process
+
+
+9-
+behavioral pattern
+
+
+
+
+
+
+connecting entities:
+a utility operator is an operator
+a water utilitiy operator is a utility operator
+
+
+
+
+
+the water utility operator is responsible for functional behaviors
+the water utility operator is responsible for input acquition
+the water utility operator is responsible for water abstraction
+
+
+10-
+
+inputs are provided by the system
+inputs are acquired by entities or the system
+inputs are consumed by the processes
+
+
+11-
+
+outputs are 
+
+

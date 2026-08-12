@@ -1,0 +1,29 @@
+STRUCTURAL DOMAIN
+──────────────────────────
+Entities
+Repositories
+Boundaries
+Dependencies
+Modifiers
+
+BEHAVIORAL DOMAIN
+──────────────────────────
+Behavioral Patterns
+State
+
+OPERATIONAL DOMAIN
+──────────────────────────
+Functional Behaviors
+Processes
+
+RESOURCE DOMAIN
+──────────────────────────
+Inputs
+Resources
+Repositories
+
+OUTPUT DOMAIN
+──────────────────────────
+Outputs
+Outcomes
+Value Created

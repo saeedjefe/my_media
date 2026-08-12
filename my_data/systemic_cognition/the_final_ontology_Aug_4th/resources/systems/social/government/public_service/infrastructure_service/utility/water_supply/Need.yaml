@@ -1,0 +1,73 @@
+need:
+
+  accessNeed:
+    - Potable Water Availability
+    - Equitable Water Access
+    - Rural Service Availability
+    - Vulnerable Community Access
+    - Emergency Water Availability
+
+  qualityNeed:
+    - Drinking Water Safety
+    - Water Quality Assurance
+    - Source Water Protection
+    - Treatment Quality Improvement
+    - Distribution Quality Preservation
+
+  capacityNeed:
+    - Treatment Capacity Enhancement
+    - Storage Capacity Enhancement
+    - Pumping Capacity Enhancement
+    - Distribution Capacity Enhancement
+    - Future Demand Accommodation
+
+  infrastructureNeed:
+    - Infrastructure Rehabilitation
+    - Pipeline Renewal
+    - Asset Replacement
+    - Distribution Network Expansion
+    - Infrastructure Modernization
+
+  serviceNeed:
+    - Service Continuity
+    - Supply Reliability
+    - Adequate Network Pressure
+    - Rapid Service Restoration
+    - Customer Service Improvement
+
+  operationalNeed:
+    - Operational Efficiency
+    - Energy Efficiency
+    - Water Loss Reduction
+    - Preventive Maintenance
+    - Water Quality Monitoring
+    - Operational Data Availability
+
+  organizationalNeed:
+    - Skilled Workforce Availability
+    - Emergency Preparedness
+    - Effective Governance
+    - Risk Management Capability
+    - Asset Management Capability
+    - Decision Support Capability
+
+  financialNeed:
+    - Financial Sustainability
+    - Capital Funding Availability
+    - Maintenance Funding Availability
+    - Revenue Stability
+    - Affordable Service Provision
+
+  regulatoryNeed:
+    - Regulatory Compliance
+    - Environmental Compliance
+    - Public Health Compliance
+    - Safety Compliance
+    - Reporting Compliance
+
+  environmentalNeed:
+    - Sustainable Water Resource Management
+    - Climate Resilience
+    - Watershed Preservation
+    - Environmental Impact Reduction
+    - Ecosystem Protection

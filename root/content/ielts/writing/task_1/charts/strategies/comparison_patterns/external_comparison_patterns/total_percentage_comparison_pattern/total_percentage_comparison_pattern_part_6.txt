@@ -75,7 +75,7 @@ step 5:
 dis
 In this stage, we should build the 'adverbial bridge'
 Look at the question:'The first chart below shows how energy is used'. 'how' is a clear sign of the
-averbial function 'means or methods', purpose. Looking at the table created by Tehranian Polymath, we can
+averbial function 'means or methods' for a purpose. Looking at the table created by Tehranian Polymath, we can
 choose between the following prepositions: by/via/through/with/by dint of/by means of
 In our case, 'by' seems to be the best and simplest option. Let's pick this one over others.
 bridge = by
@@ -87,7 +87,7 @@ which is 42%.
 the percent+ of + the whole(clause) + the bridge + the item
 42% + of Australian household energy is used + for + heating.
 Now, let's write our sentence:
-42% of Australian household energy is used by heating. 
+42% of Australian household energy is used for heating. 
 
 done
 
@@ -97,7 +97,7 @@ step 1:
 
 We have already figured some variables to use for this formula:
 the whole(noun phrase) + the adjectival bridge + the item 
-Australian household energy +  which is used by + heating
+Australian household energy +  which is used for + heating
 
 'which is used' is an ajective clause with a 'to be' verb, 'is'. Therefore, it can be reduced.
 
@@ -107,7 +107,7 @@ Australian household energy + used by + heating
 step 3:
 adding the subject and the verb to create a clause
 the percentage + of + the whole + the adjectival bridge + the item + linking verbs + percent
-the percentage + of + Australian household energy + used by heating + stands at/is + 42%.
+the percentage + of + Australian household energy + used for heating + stands at/is + 42%.
 
 
 Item Based Description:
@@ -123,8 +123,8 @@ Reasoning Tree Leverage:
 We are pretty sure that you have heard the term 'Synonyms'. However, we use a different approach for
 that in which synonyms could be further classified into either superordiantes, subordinates, or
 coordinates.To make this classification more understanble, Tehranan Polymath has create a digagram
-'the resoning tree' inwhich the top most item is the most generic term, with the items down the tree being more
-specific. In addition, the items which are next eacher in the tree are called coordinates.   
+'the resoning tree' in which the top most item is the most generic term, with the items down the tree being more
+specific. In addition, the items which are next tp each other in the tree are called coordinates.   
                 
 			                                  energy use                 
 energy consumption(amount used, quantified) 	     energy utilization(purposeful use of energy)
@@ -137,8 +137,8 @@ With utilization being a purposeful use of energy, the closest match could be co
 Percent Based Description(leveraging resoning tree):
 Australian household energy consumption
 the consumption of Australian household energy
-Australian household energy is consumed by heating
-42% of Australian household energy is consumed by heating
+Australian household energy is consumed for heating
+42% of Australian household energy is consumed for heating
 
 Percentage Based Description(leveraging reasoning tree):
 The percentage of Australian household energy consumed by heating stands at/is 42%.

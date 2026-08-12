@@ -1,0 +1,17 @@
+Was it delivered to us? → RECEIPT
+Did we draw it into the process? → INTAKE
+Did we gather it from one or more sources? → COLLECTION
+Did we permit it to enter under controlled conditions? → ADMISSION
+Did we bring it across from another system? → IMPORT
+
+Resource Mobalization:
+Allocation: “Three of our five tankers will be used for this emergency.”
+
+Assignment: “Tanker 1 serves District A; Tanker 2 serves Hospital B.”
+
+Deployment: The tankers are sent to those locations.
+
+Activation: They begin supplying water.
+
+
+the importance of watershed for the water supply

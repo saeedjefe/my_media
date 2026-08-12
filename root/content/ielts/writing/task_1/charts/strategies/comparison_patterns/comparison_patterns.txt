@@ -5,7 +5,7 @@ teachers alike, however, these collocations have been broken down into categorie
 on the type of statistical illustrations, namely bar charts, pie charts,
 tables, and line graphs. However, this approach may debilitate our cognitive ability
 regrading the analysis of statistical information since real classifications go
-beyong the type of statistical medium used for conveying data. 
+beyond the type of statistical medium used for conveying data. 
 Therefore, I have developed a new way of grouping collocations and describing statistical data which
 is called "comparison_patterns"  not based on the type of a statistical
 medium but rather on our perception, understanding and thinking of the data.  
@@ -14,7 +14,7 @@ To give you an overview, I am going to start with some exmaples chosen from the
 book 'new insight into IELTS':
 
 "The car is the most common means of transport for British and Australian
-schoolchildren, with 65 of students in both countries getting to school in this
+schoolchildren, with 65% of students in both countries getting to school in this
 way." 
 
 The above mentioned sentence may seem a little complicated at first. But what if
@@ -34,16 +34,16 @@ schoolchildren.
 With a superaltive adjective used in the first sentence 'the most popular means
 of transport", it is not very difficult to label this comparison as "list". 
 
-In the second sentence, however, a precentage of a total is mentioned,
-supporting the the first sentence in which a totally different pattern is used.
+In the second sentence, however, a precentage of a total is mentioned(percentage comparison pattern),
+supporting the  first sentence in which a totally different pattern is used.
 
 Look at the next example:
 
-In contrast, only 10 percent of of Singaporean students use cars, and this is the
+In contrast, only 10 percent  of Singaporean students use cars, and this is the
 least common method of transport there.
 
 Not very difficult to guess this time, the same comparison patterns are used in
-this sentence as well but in reverse order, compare to the the first example,
+this sentence as well but in reverse order, compared to the the first example,
 total percentage pattern and then list comparison pattern. 
 
 
@@ -69,7 +69,7 @@ first sentence, it is not very difficult to
 
 
 
-Being a firm believer in flowcharts, at first I want  you to look at the this
+Being a firm believer in flowcharts, at first I want  you to look at this
 representation of comparison patterns:
 
 >
@@ -116,7 +116,7 @@ the IELTS exam.
 
 Look at the line graphs, and tell me whether we should compare the line graphs
 externally if we do care about the ... in a specific year. Indeed, in this type
-of pattern, there is a fixed formula the most fundamental element of which is
+of pattern, there is a fixed formula, the most fundamental element of which is
 superlative ajective. 
 
 
@@ -145,7 +145,7 @@ A is three times as big/small as B.
 
 Hence, classifying the apporach on the basis of how we perceive information
 not only can give us a better understanding of data but also a more straight
-forward way of thinking about verbally conveying information. 
+forward way of thinking about conveying information verbally. 
 
 Nevertheless, this is just the tip of the ice berg. Thus, if you are  willing
 to improve your understnaing of comparison patterns and how they work, enter each

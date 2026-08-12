@@ -1,0 +1,59 @@
+MOTOR_ACTION_VERBS
+│
+├── 1. PRIMARY_MOTOR_CORTEX → Voluntary, learned, precise movements
+│   │   // Executes signals from brain to muscles via corticospinal tract
+│   │
+│   ├── SPEECH PRODUCTION (Articulation)
+│   │   speak, say, whisper, shout, scream, murmur
+│   │   articulate, enunciate, pronounce, stutter, mumble
+│   │   sigh, groan, laugh, cry (vocal expression)
+│   │
+│   ├── MANUAL DEXTERITY (Hand/Arm Use)
+│   │   write, type, draw, sign, gesture, point
+│   │   hold, grasp, squeeze, release, pick up
+│   │   press, click, tap, turn, flip, lift
+│   │   wave, nod, bow, shrug, clap
+│   │
+│   ├── GROSS MOTOR MOVEMENTS (Whole Body)
+│   │   walk, run, jump, hop, skip, crawl
+│   │   kick, punch, throw, catch, block
+│   │   climb, swim, ride, skate, dance
+│   │   sit, stand, bend, stretch, squat
+│   │
+│   └── FACIAL EXPRESSION
+│       smile, frown, grimace, wink, blink (voluntary)
+│       raise eyebrow, pout, purse lips
+│
+├── 2. BRAINSTEM & SPINAL REFLEXES → Involuntary, automatic responses
+│   │   // No cortical input required; fast protective mechanisms
+│   │
+│   ├── PROTECTIVE REFLEXES
+│   │   blink (involuntary), flinch, recoil, jerk
+│   │   cough, sneeze, gag, vomit
+│   │   yawn, hiccup, shudder
+│   │
+│   ├── POSTURAL ADJUSTMENTS
+│   │   sway, tremble, shake, twitch
+│   │   arch back, stiffen, relax (muscle tone)
+│   │
+│   ├── INGESTIVE BEHAVIORS
+│   │   swallow, chew, salivate
+│   │   gulp, sip, bite, grind
+│   │
+│   └── RESPIRATORY AUTOMATISM
+│       breathe, inhale, exhale, gasp
+│       pant, wheeze, snore, huff
+│
+└── 3. SUBCORTICAL REGIONS (Basal Ganglia, Cerebellum) → Learned, Automatic Movements
+    │   // Skilled actions that become unconscious with practice
+    │
+    ├── HABITUAL MOTION
+    │   pedal (bicycle), steer (car), row
+    │   knit, crochet, play piano (after mastery)
+    │
+    ├── RHYTHMIC PATTERNS
+    │   march, jog, bounce, rock
+    │
+    └── BALANCE & COORDINATION
+        balance, steady, wobble, stumble
+        glide, slide, roll, tumble

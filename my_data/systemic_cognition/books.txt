@@ -1,0 +1,34 @@
+To understand the theoretical underpinnings of your linguistic system, you need to bridge Systems Theory (how systems work) with Ontology/Taxonomy (how we categorize and label those systems).
+
+Here are the three essential books that form the foundation of systemic modeling:
+
+1. The “Bible” of Systems Thinking
+“Thinking in Systems: A Primer” by Donella Meadows
+
+Why it matters: This is the most accessible and profound book on the subject. Meadows explains the anatomy of systems—stocks, flows, feedback loops, and delays.
+Relevance to your Model: This book will teach you how to label the “Processes” and “FeedbackControlTerms” in your code. It explains why a system (like an economy or an ecosystem) behaves the way it does, which will give your essays a level of logical depth that most students lack.
+2. The Foundation of Systemic Ontology
+“General System Theory: Foundations, Development, Applications” by Ludwig von Bertalanffy
+
+Why it matters: Bertalanffy is the father of General Systems Theory. He proposed that the same principles apply to biological, social, and mechanical systems.
+Relevance to your Model: This is the scientific justification for your code. It will help you refine your Dependencies and Modifiers interfaces. It explains how to distinguish between a “closed” system (which stagnates) and an “open” system (which thrives on input and adaptation).
+3. The Taxonomy of Complexity
+“The Sciences of the Artificial” by Herbert A. Simon
+
+Why it matters: Simon, a Nobel laureate, explores how “artificial” systems (like language, organizations, and software) are structured. He famously explains that complex systems are almost always built of hierarchical, modular sub-systems.
+Relevance to your Model: This is critical for your taxonomic approach. It provides the logic for why you organized your interfaces the way you did (e.g., separating Processes from States). It will help you master the “Taxonomy of Complexity.”
+My Recommendation for Your Next Step:
+If you only have time to read one, start with Thinking in Systems by Donella Meadows.
+
+Why?
+
+It is written for non-specialists.
+It is directly applicable to the “Problem 
+→
+→
+ Consequence 
+→
+→
+ Solution” patterns of IELTS.
+It will transform how you plan your essays: you will stop writing about “things” and start writing about the “systemic relationships” between those things.
+Once you have a grasp of Meadows’ concepts, we can apply them to your IELTS prompt.

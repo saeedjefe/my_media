@@ -1,0 +1,73 @@
+stakeholder:
+
+  beneficiary:
+    - Residential Consumer
+    - Commercial Consumer
+    - Industrial Consumer
+    - Institutional Consumer
+    - Vulnerable Community
+    - Future Generation
+
+  operator:
+    - Water Utility
+    - Treatment Plant Operator
+    - Distribution Network Operator
+    - Maintenance Team
+    - Laboratory Team
+    - Emergency Response Team
+
+  owner:
+    - Municipal Government
+    - Regional Government
+    - Public Utility Authority
+    - Private Utility Owner
+    - Community Water Association
+
+  decisionMaker:
+    - Utility Executive
+    - Municipal Authority
+    - Infrastructure Planning Authority
+    - Water Resource Authority
+    - Public Health Authority
+
+  regulator:
+    - Drinking Water Regulator
+    - Environmental Regulator
+    - Public Health Regulator
+    - Economic Regulator
+    - Occupational Safety Regulator
+
+  funder:
+    - Government Funding Agency
+    - Municipal Finance Authority
+    - Development Bank
+    - Infrastructure Investment Fund
+    - International Development Organization
+
+  supplier:
+    - Treatment Chemical Supplier
+    - Equipment Supplier
+    - Energy Supplier
+    - Technology Vendor
+    - Laboratory Material Supplier
+
+  contractor:
+    - Construction Contractor
+    - Maintenance Contractor
+    - Engineering Consultant
+    - Laboratory Service Provider
+    - Information Technology Contractor
+
+  partner:
+    - Emergency Management Agency
+    - Environmental Protection Agency
+    - Public Health Agency
+    - Research Institution
+    - Community Organization
+
+  affectedParty:
+    - Downstream Community
+    - Landowner
+    - Local Business
+    - Agricultural User
+    - Ecosystem Representative

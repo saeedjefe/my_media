@@ -1,0 +1,95 @@
+WaterSupplySystem
+│
+├── Inputs
+│   ├── River water
+│   ├── Groundwater
+│   ├── Rainwater
+│   ├── Electricity
+│   ├── Treatment chemicals
+│   ├── Human resources
+│   ├── Funding
+│   └── Equipment
+│
+├── Outputs
+│   ├── Potable water
+│   ├── Water quality reports
+│   ├── Wastewater (during treatment)
+│   ├── Sludge
+│   └── Water supply service
+│
+├── Behaviors
+│   ├── Supply water continuously
+│   ├── Monitor water quality
+│   ├── Regulate water pressure
+│   ├── Detect leaks
+│   ├── Respond to emergencies
+│   ├── Maintain infrastructure
+│   └── Bill customers
+│
+├── Processes
+│   ├── Water abstraction
+│   ├── Coagulation
+│   ├── Flocculation
+│   ├── Sedimentation
+│   ├── Filtration
+│   ├── Disinfection
+│   ├── Storage
+│   ├── Pumping
+│   ├── Distribution
+│   ├── Meter reading
+│   └── Maintenance
+│
+├── Dependencies
+│   ├── River system
+│   ├── Groundwater system
+│   ├── Electric power system
+│   ├── Chemical suppliers
+│   ├── Government regulations
+│   ├── Weather conditions
+│   └── Communication system
+│
+├── Boundaries
+│   ├── Intake facilities
+│   ├── Treatment plant
+│   ├── Reservoirs
+│   ├── Pumping stations
+│   ├── Distribution network
+│   └── Service area
+│
+├── Modifiers
+│   ├── Drought
+│   ├── Flood
+│   ├── Population growth
+│   ├── Seasonal demand
+│   ├── Pipe failures
+│   ├── Equipment failures
+│   ├── Water contamination
+│   └── Policy changes
+│
+├── States
+│   ├── Normal operation
+│   ├── High demand
+│   ├── Low reservoir level
+│   ├── Maintenance mode
+│   ├── Emergency operation
+│   ├── Contamination alert
+│   └── Drought condition
+│
+├── Goals
+│   ├── Provide safe drinking water
+│   ├── Ensure continuous supply
+│   ├── Meet water quality standards
+│   ├── Minimize water loss
+│   ├── Maintain adequate pressure
+│   ├── Protect public health
+│   └── Operate efficiently
+│
+└── Repositories
+    ├── Reservoirs
+    ├── Storage tanks
+    ├── Water quality database
+    ├── Sensor database
+    ├── Customer database
+    ├── GIS network database
+    ├── Maintenance records
+    └── Asset inventory

@@ -1,0 +1,168 @@
+systems thinking and walking:
+
+
+
+activity:
+verbs used:
+to engage in an activity
+to be involved in an activity
+
+
+
+
+
+
+ontological taxonomy:
+physical activity is an activity:
+a low intensity physical actvity is a physical activity.
+walking is an outdoor activity
+walking is an outdoor low intensity pysical activity
+
+
+ontological taxonomy:
+social activity is an activity.
+walking can be a social activity.
+
+
+systems involved:
+
+1-human biological systems:
+
+1-1 endocrine system:
+
+
+modifier:
+walking as a low intensity outdoor physical acitvity is associated with lower levels of stress hormones.
+
+
+ontological taxonomy:
+endocrine hormones are hormones. 
+
+ontological taxonomy
+stress hormones are endocrine hormones.
+cortisol is a stress hormone.
+epinephrine is a stress hormone.
+norepinephrine is a stree horomone.
+
+decomposition: 
+cortisol, epinephrine, and norepinephrine fall into the category of stress hormones.
+
+
+
+1-2: blood glucose regulatin system
+
+ontoloical taxonomy:
+
+Insulin is a blood glucose regulation hormone. 
+Glucagon is a blood glucose regulation hormone. 
+
+
+
+Insuling causes the uptake, storage and use of glucose by muscles, adipose tissue and liver. 
+This leads to a reduction in blood glucose concentration. 
+
+Glucagon leads to the breakdown of liver glycogen. 
+This leads to a increase in blood glucose concentraton. 
+
+
+modifier:
+walking as a low intensity outdoor physical activity is linked to a better blood glucose management. 
+walking is associated with a reduction in insulin blood levels. 
+walking is associtaed with an increase in glucogon blood levels. 
+
+
+
+
+1-3 nervous system:
+
+
+
+brain chemicals:
+growth factors are brain chemicals.
+neurotrophins are growth factors.
+brain-derived neurotrophic factors are neurotrophins.
+
+BDNF is associated with the generation of new neuron cells, called neurogenesis. 
+
+
+
+modifier:
+walking as a low intensity outdoor physical acitvity is linked to the generation of new neuron cells, 
+called neurigenesis. 
+walking as a low intensity outdoor physical acitvity correlates with higher levels of BDNF. 
+
+
+1-4: visceral motor system:
+an increase in heartrate is a visceral motor system activity
+an increase in skin temperature is a visceral motor system activity
+sweating is a viceral motor system activity
+an increase in cutenous blood flow is a visceral motor system activity
+gut motility is a visceral motor system activity 
+
+walking as a low intensity outdoor physical acitvity is associated with visceral motor system activities. 
+
+
+Environmental psychological system:
+
+ontological taxonomy:
+
+sunlight is nature exposure
+
+natural sounds are nature exposure
+birdsong is a natural sound
+
+
+nature fragrance is nature exposure
+plant fragrance is nature fragrance
+flower fragrance is plant fragrance
+rose fragrance is flower fragrance
+
+tree fragrance is plant fragrance 
+citrus fragrance is tree fragrance
+pine gragrance is tree fragrance
+
+limbic system:
+amygdala is a component of the limbic system
+amygdala plays a key role in the experience and expression of emotion
+
+
+
+mood and resotration chemicals are body chemicals
+serotonin is a mood and restoration chemical.
+endorphines are mood and restoration chemicals.
+
+
+
+modifier:
+
+
+nature exposure is associated a better mood.
+nature exposure is associated with highr levels of serotonin and endorphins.   
+ 
+
+nature exposure reduces stress. 
+nature exposure reduces amygdala reactivity, lowers cortisol, and enhances parasymapthetic tone. 
+
+
+sunlight exposure regulate body's circadian rhythm
+regulated circadian rythm promotes cortisol awaking response in the morning and timely melatonin onset at night.
+
+soical cognition:
+
+oxytocin is considered a social interaction chemical
+
+ontological taxonomy:
+
+possitive social exchanges are social interactions
+greetings are social interactions
+positive social cues are social interactions
+
+ontological taxonomy:
+smiles, nods, gazes are all social cues. 
+
+modifiers:
+positive social exchanges are  linked to higher levels of oxytocin
+percieved social inclusion is associated with stabalized serotonin function
+stabalzed serotonin function promotes emotional resilience
+
+

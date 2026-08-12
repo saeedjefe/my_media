@@ -1,0 +1,131 @@
+EconomySystem
+│
+├── EnergySystem
+│   ├── Oil and Gas Extraction
+│   ├── Coal Mining
+│   ├── Petroleum Refining
+│   ├── Natural Gas Processing
+│   ├── Electricity Generation
+│   ├── Steam and Hot Water Supply
+│   └── Renewable Energy
+│
+├── MaterialsSystem
+│   ├── Metal Ore Mining
+│   ├── Other Mining
+│   ├── Basic Metals
+│   ├── Cement, Lime and Plaster
+│   ├── Tiles and Ceramics
+│   ├── Other Non-Metallic Mineral Products
+│   ├── Chemical Products
+│   ├── Rubber and Plastics
+│   ├── Paper Products
+│   └── Containers and Packaging
+│
+├── ManufacturingSystem
+│   ├── Machinery and Equipment
+│   ├── Electrical Machinery
+│   ├── Fabricated Metal Products
+│   ├── Motor Vehicles and Parts
+│   ├── Computer, Electronic and Optical Products
+│   ├── Communication Equipment
+│   ├── Textiles
+│   ├── Leather and Footwear
+│   ├── Wood Products
+│   ├── Food Products
+│   ├── Beverage Products
+│   ├── Sugar
+│   └── Pharmaceuticals and Medicinal Products
+│
+├── ConstructionSystem
+│   ├── Industrial Contracting
+│   ├── Mass Housing Construction
+│   ├── Commercial Construction
+│   ├── Civil Engineering
+│   └── Property Development
+│
+├── TransportationAndLogisticsSystem
+│   ├── Transportation
+│   ├── Warehousing
+│   ├── Distribution
+│   ├── Wholesale Trade
+│   └── Supply Chain Services
+│
+├── InformationTechnologySystem
+│   ├── Software Development
+│   ├── IT Services
+│   ├── Information Processing
+│   ├── Data Services
+│   └── Cloud and Computing Services
+│
+├── CommunicationSystem
+│   ├── Telecommunications
+│   ├── Internet Infrastructure
+│   ├── Satellite Communications
+│   ├── Postal Services
+│   └── Network Infrastructure
+│
+├── MediaAndCultureSystem
+│   ├── Publishing
+│   ├── Printing
+│   ├── Broadcasting
+│   ├── Film
+│   ├── Music
+│   ├── Arts
+│   ├── Entertainment
+│   ├── Sports
+│   └── Creative Industries
+│
+├── CommerceSystem
+│   ├── Retail Trade
+│   ├── E-Commerce
+│   ├── Hotels
+│   ├── Restaurants
+│   └── Consumer Services
+│
+├── FinancialSystem
+│   ├── Banks
+│   ├── Credit Institutions
+│   ├── Investments
+│   ├── Financial Intermediation
+│   ├── Insurance
+│   ├── Pension Funds
+│   ├── Capital Markets
+│   ├── Exchange-Traded Funds
+│   ├── Financing Instruments
+│   └── Mortgage Finance
+│
+├── RealEstateSystem
+│   ├── Residential Real Estate
+│   ├── Commercial Real Estate
+│   ├── Property Management
+│   ├── Land Development
+│   └── Real Estate Services
+│
+├── HealthcareSystem
+│   ├── Hospitals
+│   ├── Pharmaceuticals
+│   ├── Biotechnology
+│   ├── Medical Equipment
+│   └── Healthcare Services
+│
+├── AgricultureAndFoodSystem
+│   ├── Agriculture
+│   ├── Livestock
+│   ├── Fisheries
+│   ├── Forestry
+│   ├── Food Processing
+│   └── Beverage Production
+│
+├── ProfessionalServicesSystem
+│   ├── Engineering Services
+│   ├── Technical Testing
+│   ├── Consulting
+│   ├── Scientific Research
+│   └── Business Support Services
+│
+└── PublicAdministrationSystem
+    ├── Government Administration
+    ├── Regulation
+    ├── Tax Administration
+    ├── Public Infrastructure Management
+    └── Public Services

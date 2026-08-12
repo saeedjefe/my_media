@@ -1,0 +1,24 @@
+EconomySystem
+│
+├── EconomicSubsystems
+│   │
+│   ├── EnergySystem
+│   ├── MaterialsSystem
+│   ├── ProductionSystem
+│   ├── ServiceSystem
+│   ├── FinancialSystem
+│   ├── InformationSystem
+│   └── InfrastructureSystem
+│
+├── Industries
+│
+├── Inputs
+├── Outputs
+├── Behaviors
+├── Processes
+├── Dependencies
+├── Boundaries
+├── Modifiers
+├── States
+├── Goals
+└── Repositories

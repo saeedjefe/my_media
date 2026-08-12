@@ -1,0 +1,231 @@
+behavioralPattern:
+
+  balanceOrientedPattern:
+
+    equilibrium:
+      - Supply-Demand Balance
+      - Reservoir Inflow-Outflow Balance
+      - Distribution Pressure Balance
+      - Treatment Capacity Balance
+
+    disequilibrium:
+      - Demand-Capacity Imbalance
+      - Pressure Imbalance
+      - Reservoir Deficit
+      - Treatment Overload
+
+    stability:
+      - Stable Water Supply
+      - Stable Water Quality
+      - Stable Network Pressure
+      - Stable Service Continuity
+
+    disruption:
+      - Service Interruption
+      - Infrastructure Failure
+      - Water Source Contamination
+      - Pump Failure
+
+    sustainability:
+      - Sustainable Water Abstraction
+      - Sustainable Energy Consumption
+      - Sustainable Asset Utilization
+      - Sustainable Service Delivery
+
+    unsustainability:
+      - Groundwater Overexploitation
+      - Unsustainable Energy Consumption
+      - Chronic Infrastructure Deterioration
+      - Long-Term Financial Deficit
+
+    homeostasis:
+      - Automatic Pressure Regulation
+      - Reservoir Level Regulation
+      - Chlorine Residual Regulation
+      - Flow Regulation
+
+    dysregulation:
+      - Pressure Instability
+      - Treatment Process Instability
+      - Reservoir Level Instability
+      - Water Quality Instability
+
+  changeOrientedPattern:
+
+    adaptation:
+      - Seasonal Operation Adjustment
+      - Drought Response Adaptation
+      - Demand Pattern Adaptation
+      - Climate Adaptation
+
+    rigidity:
+      - Fixed Operating Policy
+      - Inflexible Infrastructure
+      - Limited Operational Flexibility
+      - Technology Lock-In
+
+    resilience:
+      - Emergency Supply Recovery
+      - Backup Source Activation
+      - Rapid Service Restoration
+      - Infrastructure Recovery
+
+    vulnerability:
+      - Single Source Dependence
+      - Aging Infrastructure Exposure
+      - Flood Susceptibility
+      - Drought Susceptibility
+
+    emergence:
+      - Smart Network Emergence
+      - Digital Monitoring Adoption
+      - Decentralized Water Supply Development
+      - Integrated Resource Management
+
+    suppression:
+      - Leak Suppression
+      - Contamination Suppression
+      - Pressure Surge Suppression
+      - Demand Peak Suppression
+
+  interactionPattern:
+
+    dynamics:
+      - Source-Demand Interaction
+      - Pressure-Flow Interaction
+      - Treatment-Distribution Interaction
+      - Reservoir-Network Interaction
+
+    statics:
+      - Fixed Network Topology
+      - Permanent Asset Configuration
+      - Established Service Area
+      - Stable Organizational Structure
+
+    coordination:
+      - Treatment-Storage Coordination
+      - Pumping-Distribution Coordination
+      - Utility-Regulator Coordination
+      - Utility-Emergency Agency Coordination
+
+    cooperation:
+      - Interutility Cooperation
+      - Regional Water Sharing
+      - Joint Emergency Response
+      - Research Collaboration
+
+    competition:
+      - Water Resource Competition
+      - Budget Competition
+      - Energy Resource Competition
+      - Infrastructure Investment Competition
+
+    synchronization:
+      - Pump Scheduling Synchronization
+      - Reservoir Operation Synchronization
+      - Maintenance Scheduling Synchronization
+      - Sensor Data Synchronization
+
+  integrationPattern:
+
+    cohesion:
+      - Integrated Distribution Network
+      - Organizational Cohesion
+      - Operational Cohesion
+      - Information System Integration
+
+    fragmentation:
+      - Isolated Supply Zones
+      - Departmental Fragmentation
+      - Asset Fragmentation
+      - Information Fragmentation
+
+    homogenization:
+      - Standardized Operating Procedures
+      - Standardized Equipment
+      - Standardized Monitoring
+      - Standardized Service Delivery
+
+    heterogenization:
+      - Diverse Water Sources
+      - Diverse Treatment Technologies
+      - Diverse Customer Requirements
+      - Diverse Infrastructure Components
+
+    assimilation:
+      - Technology Integration
+      - Regulatory Adoption
+      - Organizational Integration
+      - Workforce Knowledge Integration
+
+    pluralism:
+      - Multiple Water Sources
+      - Multiple Treatment Strategies
+      - Multiple Stakeholder Interests
+      - Multiple Service Models
+
+  feedbackLoopPattern:
+
+    positiveFeedbackLoop:
+      - Infrastructure Deterioration Reinforcement
+      - Leakage Propagation
+      - Groundwater Depletion Reinforcement
+      - Financial Decline Reinforcement
+
+    negativeFeedbackLoop:
+      - Pressure Control Feedback
+      - Reservoir Level Control
+      - Chlorine Dose Adjustment
+      - Demand Response Control
+
+  repositoryTrendPattern:
+
+    repositoryGrowth:
+      - Reservoir Storage Increase
+      - Asset Register Expansion
+      - Customer Database Growth
+      - Operational Knowledge Growth
+
+    resourceDepletion:
+      - Reservoir Depletion
+      - Groundwater Depletion
+      - Chemical Inventory Depletion
+      - Financial Reserve Depletion
+
+    accumulation:
+      - Treated Water Accumulation
+      - Maintenance Backlog Accumulation
+      - Operational Knowledge Accumulation
+      - Asset Inventory Accumulation
+
+    drainage:
+      - Reservoir Drawdown
+      - Budget Expenditure
+      - Energy Consumption
+      - Water Loss
+
+  controlPattern:
+
+    regulation:
+      - Pressure Regulation
+      - Flow Regulation
+      - Water Quality Regulation
+      - Treatment Process Regulation
+
+    deregulation:
+      - Operational Restriction Removal
+      - Market Liberalization
+      - Administrative Decentralization
+      - Policy Relaxation
+
+    stabilization:
+      - Pressure Stabilization
+      - Supply Stabilization
+      - Demand Stabilization
+      - Financial Stabilization
+
+    optimization:
+      - Energy Optimization
+      - Treatment Optimization
+      - Network Optimization
+      - Asset Utilization Optimization

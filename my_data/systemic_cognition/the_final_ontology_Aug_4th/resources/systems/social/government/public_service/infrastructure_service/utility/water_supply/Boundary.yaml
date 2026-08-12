@@ -1,0 +1,49 @@
+boundary:
+
+  physicalBoundary:
+    - Service Area Boundary
+    - Watershed Boundary
+    - Catchment Boundary
+    - Municipal Boundary
+    - Distribution Network Boundary
+    - Treatment Facility Boundary
+    - Reservoir Boundary
+    - Infrastructure Boundary
+
+  temporalBoundary:
+    - Planning Horizon
+    - Project Lifetime
+    - Operational Period
+    - Maintenance Window
+    - Emergency Response Period
+    - Asset Lifecycle
+    - Regulatory Compliance Period
+
+  organizationalBoundary:
+    - Utility Responsibility Boundary
+    - Departmental Responsibility Boundary
+    - Ownership Boundary
+    - Operational Authority Boundary
+    - Maintenance Responsibility Boundary
+
+  jurisdictionalBoundary:
+    - Municipal Jurisdiction
+    - Regional Jurisdiction
+    - National Jurisdiction
+    - Regulatory Jurisdiction
+    - Water Rights Jurisdiction
+
+  operationalBoundary:
+    - Water Treatment Boundary
+    - Water Storage Boundary
+    - Water Transmission Boundary
+    - Water Distribution Boundary
+    - Water Quality Monitoring Boundary
+    - Emergency Operations Boundary
+
+  informationalBoundary:
+    - Data Access Boundary
+    - Information Sharing Boundary
+    - Security Boundary
+    - Privacy Boundary
+    - Operational Information Boundary

@@ -1,0 +1,46 @@
+Entering values in big projects is a huge deal. Since the entire task can become repitive, the avoidance of
+doing repitive task could become crucial. Therefore, it might be a good idea to enter the values in an
+organized text format, and then think about the entire process again and agin, and finally find the strategy
+through which values could be injected. The following is the answer provided by chat gpt.
+ 
+My proposed progression is:
+
+YAML first for designing and reviewing the ontology values.
+
+JSON second when you want stricter machine validation, APIs, or database exchange.
+
+RDF/OWL later only when you need formal semantic reasoning, inference, or interoperability with ontology tools.
+
+A advantage of an interdiciplinary approach is to that we can apply the same concept to other domains. The
+follwoing is one of them.
+
+An even deeper observation
+
+I now think your architecture should reflect ontology, not Java.
+
+In ontology engineering there are two fundamental kinds of concepts:
+
+Taxonomic concepts
+
+They classify.
+
+Examples:
+
+Boundary
+Stakeholder
+Entity
+Repository
+
+These are naturally represented as enums.
+
+Behavioral concepts
+
+They organize activities.
+
+Examples:
+
+Decision Making
+Planning
+Governance
+
+These are naturally represented as interfaces.

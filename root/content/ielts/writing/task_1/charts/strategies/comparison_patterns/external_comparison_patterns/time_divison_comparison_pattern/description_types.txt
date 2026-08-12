@@ -10,7 +10,7 @@ Chicken is consumed.
 However, we shoud talk about how chicken is consumed, with the simple verbs to use 
 being either 'to increase' or 'to decrease'.
 
-Therefore, we should convert the simple version into a subject which could be followed a verb, in this case 
+Therefore, we should convert the simple version into a subject which could be by followed a verb, in this case 
 to increase or to decrease. 
 
 Chicken is consumed. 
@@ -81,7 +81,7 @@ we may also use 'to experience'
 Chicken cosumption experienced a significant increase. 
 
 
-2-3passive_form:
+2-3 passive_form:
 a significant increase in chicken consumption was recorded
 a significant increase was recorded in chicken consumption
 

@@ -1,0 +1,210 @@
+WATER_UTILITY_SYSTEM
+│
+├── BOUNDARIES
+│   │
+│   ├── PhysicalBoundaries
+│   │   ├── CatchmentArea
+│   │   ├── TreatmentCapacityLimits
+│   │   ├── DistributionNetworkLimits
+│   │   └── StorageCapacityLimits
+│   │
+│   ├── RegulatoryBoundaries
+│   │   ├── WaterQualityStandards
+│   │   ├── PricingPolicies
+│   │   └── EnvironmentalRegulations
+│   │
+│   ├── InstitutionalBoundaries
+│   │   ├── UtilityJurisdiction
+│   │   ├── MunicipalAuthority
+│   │   └── RegulatoryAuthority
+│   │
+│   └── EnvironmentalBoundaries
+│       ├── DroughtLimits
+│       ├── AquiferRechargeLimits
+│       └── ClimateConstraints
+│
+├── ENTITIES
+│   │
+│   ├── WaterUtilityOperator
+│   ├── TreatmentFacilityManagers
+│   ├── InfrastructureContractors
+│   ├── RegulatoryAgencies
+│   └── Consumers
+│
+├── REPOSITORIES
+│   │
+│   ├── NaturalWaterRepositories
+│   │   ├── Rivers
+│   │   ├── Lakes
+│   │   ├── Reservoirs
+│   │   └── Aquifers
+│   │
+│   ├── WaterStorageRepositories
+│   │   ├── ElevatedTanks
+│   │   └── PressurizedReservoirs
+│   │
+│   ├── InformationRepositories
+│   │   ├── WaterQualityDatabase
+│   │   ├── UsageRecords
+│   │   ├── GISNetworkDatabase
+│   │   └── MaintenanceRecords
+│   │
+│   └── KnowledgeRepositories
+│       ├── OperationalProcedures
+│       └── RegulatoryDocuments
+│
+├── INPUTS
+│   │
+│   ├── RawWater
+│   ├── Electricity
+│   ├── TreatmentChemicals
+│   ├── HumanResources
+│   ├── TechnicalServices
+│   └── FinancialResources
+│
+├── FUNCTIONAL_BEHAVIORS
+│   │
+│   ├── InputAcquisition
+│   │   │
+│   │   ├── Sourcing
+│   │   ├── Procurement
+│   │   ├── Intake
+│   │   └── Collection
+│   │
+│   ├── Preparation
+│   │   │
+│   │   ├── Sorting
+│   │   ├── Configuration
+│   │   ├── Calibration
+│   │   └── Integration
+│   │
+│   ├── Transformation
+│   │   │
+│   │   ├── WaterAbstraction
+│   │   ├── Coagulation
+│   │   ├── Flocculation
+│   │   ├── Sedimentation
+│   │   ├── Filtration
+│   │   └── Disinfection
+│   │
+│   ├── OutputProduction
+│   │   │
+│   │   ├── PotableWaterGeneration
+│   │   └── TreatmentByproductManagement
+│   │
+│   ├── Distribution
+│   │   │
+│   │   ├── Pumping
+│   │   ├── Routing
+│   │   └── Delivery
+│   │
+│   ├── Feedback
+│   │   │
+│   │   ├── Monitoring
+│   │   ├── Measurement
+│   │   ├── Inspection
+│   │   └── Reporting
+│   │
+│   ├── Adaptation
+│   │   │
+│   │   ├── DemandAdjustment
+│   │   ├── DroughtManagement
+│   │   └── EmergencyResponse
+│   │
+│   └── Maintenance
+│       │
+│       ├── Inspection
+│       ├── Repair
+│       ├── Replacement
+│       └── Renewal
+│
+├── OUTPUTS
+│   │
+│   ├── PotableWater
+│   ├── WaterQualityReports
+│   ├── UsageInformation
+│   ├── CustomerServices
+│   └── TreatmentByproducts
+│
+├── DEPENDENCIES
+│   │
+│   ├── ElectricitySystem
+│   ├── ICTSystems
+│   ├── ChemicalSuppliers
+│   ├── MaintenanceServices
+│   ├── GovernmentRegulations
+│   └── EnvironmentalSystems
+│
+├── MODIFIERS
+│   │
+│   ├── SeasonalVariability
+│   ├── Drought
+│   ├── Flood
+│   ├── PopulationGrowth
+│   ├── InfrastructureAge
+│   ├── ConsumerBehavior
+│   └── ClimateChange
+│
+├── STATES
+│   │
+│   ├── NormalOperation
+│   ├── HighDemand
+│   ├── LowReservoirLevel
+│   ├── MaintenanceMode
+│   ├── EmergencyOperation
+│   └── ContaminationAlert
+│
+├── GOALS
+│   │
+│   ├── SafeWaterAccess
+│   ├── ReliableSupply
+│   ├── WaterQualityCompliance
+│   ├── FinancialSustainability
+│   ├── ResourceEfficiency
+│   └── EnvironmentalProtection
+│
+└── BEHAVIORAL_PATTERNS
+    │
+    ├── BalancePatterns
+    │   ├── Equilibrium
+    │   ├── Stability
+    │   ├── Homeostasis
+    │   ├── Sustainability
+    │   └── Dysregulation
+    │
+    ├── ChangePatterns
+    │   ├── Dynamics
+    │   ├── Adaptation
+    │   ├── Emergence
+    │   ├── Rigidity
+    │   └── Suppression
+    │
+    ├── IntegrationPatterns
+    │   ├── Cohesion
+    │   ├── Fragmentation
+    │   ├── Homogenization
+    │   ├── Heterogenization
+    │   ├── Assimilation
+    │   └── Pluralism
+    │
+    ├── FeedbackPatterns
+    │   ├── PositiveFeedbackLoop
+    │   ├── NegativeFeedbackLoop
+    │   ├── Regulation
+    │   └── Deregulation
+    │
+    └── ResiliencePatterns
+        │
+        ├── Resilience
+        ├── Vulnerability
+        ├── Robustness
+        ├── Fragility
+        ├── Flexibility
+        ├── Elasticity
+        ├── Antifragility
+        ├── SelfOrganization
+        ├── Learning
+        ├── Preparedness
+        ├── Responsiveness
+        ├── Containment
+        └── Mitigation

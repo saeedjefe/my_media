@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19c18002-52d6-4ff4-b4dc-8c4655b01863" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../2024_html_css_javascript" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_html_css_javascript" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Judo_ontology/GatameWaza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Judo_ontology/Judo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Judo_ontology/JudoKata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Judo_ontology/JudoTerminologyPhilosophy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Judo_ontology/KumiKata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Judo_ontology/NageWaza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Judo_ontology/UkemiWaza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/human_systems/nervous/auditory/AuditoryInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/human_systems/nervous/auditory/AuditorySystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prompts/IeltsQuestions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prompts/IeltsSpeakingQuestions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prompts/IeltsWritingTask2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prompts/Questions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prompts/RP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prompts/TestFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prompts/WT2TYPES.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/EconomicInputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/Finance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/GovernmentSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/InfrastructureServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/Ministry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/NonTaxRevenues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/PublicServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/ServiceFees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/Utilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/UtilityPayments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/social_systems/government/WaterSupply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/superordinates/ExternalStimuli.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/superordinates/InternalStimuli.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/superordinates/Sound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/superordinates/Stimuli.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Adjectival.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/AdjectiveClause.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/AdverbClause.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Adverbial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Clause.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/CognitiveVerbs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Complement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Deontic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Dynamic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Epistemic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Modality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Nominal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/NounClause.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/NounPhrase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/Phrase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/PrepositionalPhrase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/syntax_functions/VerbPhrase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Behaviors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Boundaries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Dependencies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Goals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Modifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Output.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Processes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/Repositories.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/States.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systems_thinking/System.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/ielts_questions/bills/systemic_linguisitic_modeling.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/ielts_questions/bills/systemic_linguisitic_modeling.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/behavior.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/boundaries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/critical_infrastructure/utility_systems/systemic_flow_chart_representation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/critical_infrastructure/utility_systems/systemic_flow_chart_representation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/critical_infrastructure/utility_systems/water_supply_system/map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/critical_infrastructure/utility_systems/water_supply_system/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/critical_infrastructure/utility_systems/water_supply_system/systemic_flow_chart_representation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/dependencies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/entities.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/inputs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/modifiers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/outputs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/processes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_data/systemic_linguistic_modeling/system/sub-systems/human_system/social_system/elements/entities/government/repositories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/comparison_patterns.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/comparison_patterns.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/list_comparison_pattern/superlative_adjectives_plus_prepositions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/list_comparison_pattern/superlative_adjectives_plus_prepositions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/time_divison_comparison_pattern/description_types.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/time_divison_comparison_pattern/description_types.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/time_divison_comparison_pattern/overview_types.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/time_divison_comparison_pattern/overview_types.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/total_percentage_comparison_pattern/total_percentage_comparison_pattern_introduction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/total_percentage_comparison_pattern/total_percentage_comparison_pattern_introduction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/total_percentage_comparison_pattern/total_percentage_comparison_pattern_part_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/total_percentage_comparison_pattern/total_percentage_comparison_pattern_part_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/total_percentage_comparison_pattern/total_percentage_comparison_pattern_part_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../root/content/ielts/writing/task_1/charts/strategies/comparison_patterns/external_comparison_patterns/total_percentage_comparison_pattern/total_percentage_comparison_pattern_part_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/.situation.txt.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/Saadi the prominent Persian.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/The given diagram illustrates.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/The given pie charts compare.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/There has been an ongoing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/VFI_U23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/VFI_U23_SE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/With language used only.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/a_legal_requirement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/age_group_second_version.txt.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/age_groups.txt.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/book_14_test_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/book_7_line_graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/book_7_line_graph_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/museum.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/revised.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_practices/transporation_system.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2x8IIyXoU6bSfTRJrv3womgjSQp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/the-polymath/2024/tehranian_polymath/my_media/Java/SystemicCognition",
+    "onboarding.tips.debug.path": "/home/the-polymath/2024/tehranian_polymath/my_media/Java/Systemic_Linguistic_Modeling/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="syntax_functions" />
+      <recent name="systemic_linguistic_modeling" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="SystemicCognition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19c18002-52d6-4ff4-b4dc-8c4655b01863" name="Changes" comment="" />
+      <created>1747313203022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747313203022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ontology/behavioral/Input.java</url>
+          <line>3</line>
+          <properties class="ontology.behavioral.Input">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ontology/management/PlanningAndManagement.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

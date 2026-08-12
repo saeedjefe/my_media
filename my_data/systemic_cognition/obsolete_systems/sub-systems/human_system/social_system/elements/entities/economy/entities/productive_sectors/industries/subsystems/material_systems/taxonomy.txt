@@ -1,0 +1,19 @@
+MaterialsSystem
+│
+├── MiningSubsystem
+│   ├── MetalOreMining
+│   ├── CoalMining
+│   └── OtherMining
+│
+├── BasicMetalsSubsystem
+│
+├── ConstructionMaterialsSubsystem
+│   ├── Cement
+│   ├── Lime
+│   ├── Plaster
+│   ├── Ceramics
+│   └── Glass
+│
+├── ChemicalsSubsystem
+├── PackagingSubsystem
+└── RubberAndPlasticsSubsystem

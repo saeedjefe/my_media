@@ -1,0 +1,4 @@
+modifiers influence behavioral patterns(states)
+depenencies influence behaviral functions(processes)
+behavioral patterns influnce functional behaviors 
+states influence behavioral functions, but the effects are short-lived

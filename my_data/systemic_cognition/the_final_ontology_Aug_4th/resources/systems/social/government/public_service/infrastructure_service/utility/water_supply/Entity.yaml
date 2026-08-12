@@ -1,0 +1,78 @@
+entity:
+
+  naturalEntity:
+    - River
+    - Lake
+    - Reservoir
+    - Groundwater Aquifer
+    - Watershed
+    - Wetland
+    - Spring
+
+  physicalEntity:
+    - Intake Structure
+    - Treatment Plant
+    - Pumping Station
+    - Storage Tank
+    - Distribution Pipeline
+    - Transmission Main
+    - Valve
+    - Hydrant
+    - Water Meter
+    - Pressure Reducing Valve
+    - Laboratory
+    - Maintenance Facility
+    - Service Vehicle
+
+  humanEntity:
+    - Water Treatment Operator
+    - Maintenance Technician
+    - Distribution Network Operator
+    - Laboratory Technician
+    - Asset Manager
+    - Operations Manager
+    - Customer
+    - Consumer
+    - Field Inspector
+
+  organizationalEntity:
+    - Regulatory Authority
+    - Municipal Government
+    - Environmental Agency
+    - Emergency Management Agency
+    - Engineering Consultant
+    - Maintenance Contractor
+    - Equipment Supplier
+
+  informationalEntity:
+    - Water Quality Record
+    - Asset Register
+    - Maintenance Record
+    - Hydraulic Model
+    - Network Map
+    - Customer Record
+    - Operational Procedure
+    - Emergency Response Plan
+
+  digitalEntity:
+    - SCADA System
+    - Geographic Information System
+    - Asset Management System
+    - Customer Information System
+    - Supervisory Control Software
+    - Decision Support System
+
+  financialEntity:
+    - Capital Budget
+    - Operating Budget
+    - Infrastructure Investment Fund
+    - Maintenance Fund
+    - Customer Tariff
+
+  regulatoryEntity:
+    - Drinking Water Standard
+    - Environmental Regulation
+    - Operating Licence
+    - Water Abstraction Permit
+    - Water Quality Guideline
+    - Service Level Agreement

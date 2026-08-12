@@ -1,0 +1,92 @@
+input:
+
+  materialInput:
+    - Raw Water
+    - Coagulant
+    - Flocculant
+    - Disinfectant
+    - pH Adjustment Chemical
+    - Corrosion Control Chemical
+    - Fluoridation Chemical
+    - Filter Media
+    - Membrane Cleaning Chemical
+    - Laboratory Reagent
+    - Maintenance Material
+    - Replacement Component
+
+  energyInput:
+    - Electrical Energy
+    - Backup Electrical Energy
+    - Pumping Energy
+    - Treatment Energy
+    - Heating Energy
+    - Fuel Energy
+    - Renewable Energy
+
+  informationalInput:
+    - Source Water Quality Data
+    - Raw Water Flow Data
+    - Water Demand Data
+    - Reservoir Level Data
+    - Network Pressure Data
+    - Distribution Flow Data
+    - Customer Consumption Data
+    - Weather Data
+    - Climate Forecast Data
+    - Asset Condition Data
+    - Maintenance Data
+    - Regulatory Requirement Data
+    - Laboratory Analysis Data
+    - Incident Report Data
+
+  controlInput:
+    - Treatment Setpoint
+    - Pump Operation Command
+    - Valve Position Command
+    - Pressure Control Signal
+    - Flow Control Signal
+    - Chemical Dosing Setpoint
+    - Reservoir Level Setpoint
+    - Alarm Signal
+    - Emergency Shutdown Signal
+    - Operational Schedule
+
+  humanInput:
+    - Operator Expertise
+    - Engineering Expertise
+    - Maintenance Expertise
+    - Laboratory Expertise
+    - Management Expertise
+    - Emergency Response Expertise
+    - Regulatory Expertise
+    - Customer Service Expertise
+
+  serviceInput:
+    - Electricity Supply Service
+    - Telecommunications Service
+    - Laboratory Service
+    - Equipment Maintenance Service
+    - Waste Disposal Service
+    - Transport Service
+    - Security Service
+    - Emergency Service
+
+  financialInput:
+    - Operational Funding
+    - Maintenance Funding
+    - Capital Funding
+    - Emergency Funding
+    - Infrastructure Renewal Funding
+    - Utility Revenue
+
+  technologicalInput:
+    - Sensor Capability
+    - SCADA Capability
+    - Geographic Information Capability
+    - Hydraulic Modeling Capability
+    - Smart Metering Capability
+    - Leak Detection Capability
+    - Laboratory Technology Capability
+    - Communication Technology Capability
+    - Cybersecurity Capability
+    - Decision Support Capability

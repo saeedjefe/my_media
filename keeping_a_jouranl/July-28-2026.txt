@@ -1,0 +1,6 @@
+A condition is outside a system, while  a state is inside a system.
+the dynamics of a system: purpose ->  needs  
+needs motivate purpose; purposes are operationalized by goas; goals guide process; processes acquire inputs;
+processes produce outputs; states describe the condition of a system; modifiers change those states;
+depndencies support processes; boundaries define the system limits 
+

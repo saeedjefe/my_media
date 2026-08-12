@@ -1,0 +1,9 @@
+ConsumerGoodsAndServicesSystem
+│
+├── AutomotiveSubsystem
+├── TextileSubsystem
+├── LeatherSubsystem
+├── WoodProductsSubsystem
+├── HospitalitySubsystem
+├── RestaurantSubsystem
+└── RetailSubsystem

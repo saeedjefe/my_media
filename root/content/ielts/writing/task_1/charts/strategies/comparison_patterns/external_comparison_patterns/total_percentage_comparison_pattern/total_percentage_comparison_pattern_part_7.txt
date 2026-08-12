@@ -18,7 +18,7 @@ recall the percentage based description:
 the percentage of Australian household energy which is used by heating is/stands at 42%.
 
 total percentage pattern + list comparison pattern:
-The greatest percentage of Australian household energy is used by heating.
+The greatest percentage of Australian household energy is used for heating.
 
 The question is how we can add numbers to this sentence. To tackle the problem,you need to read "with and at
 numercial description", if you haven't already. 

@@ -1,0 +1,80 @@
+state:
+
+  operationalState:
+    - Normal Operation
+    - High-Demand Operation
+    - Low-Capacity Operation
+    - Degraded Operation
+    - Emergency Operation
+    - Maintenance Operation
+    - Partial Shutdown
+    - Complete Shutdown
+
+  lifecycleState:
+    - Proposed
+    - Planned
+    - Developing
+    - Commissioning
+    - Operating
+    - Upgrading
+    - Declining
+    - Decommissioned
+
+  healthState:
+    - Healthy
+    - Degraded
+    - Critical
+    - Failed
+    - Recovering
+
+  serviceState:
+    - Adequate
+    - Limited
+    - Unreliable
+    - Interrupted
+    - Restored
+    - Failed
+
+  waterQualityState:
+    - Compliant
+    - Marginal
+    - Noncompliant
+    - Contaminated
+    - Under Investigation
+    - Restored
+
+  capacityState:
+    - Underutilized
+    - Adequate
+    - Near Capacity
+    - Overloaded
+    - Capacity Deficient
+
+  financialState:
+    - Viable
+    - Constrained
+    - At Risk
+    - Insolvent
+    - Recovering
+
+  complianceState:
+    - Compliant
+    - Partially Compliant
+    - Noncompliant
+    - Under Review
+    - Corrective Action
+
+  resilienceState:
+    - Prepared
+    - Vulnerable
+    - Resistant
+    - Disrupted
+    - Recovering
+    - Adapted
+
+  environmentalState:
+    - Sustainable
+    - Stressed
+    - Degraded
+    - Critical
+    - Recovering

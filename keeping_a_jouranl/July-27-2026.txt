@@ -1,0 +1,5 @@
+method invocation: the calling of method on the variable after initialization
+interface-based initialization: the initialization of an interface in an arraylist
+circular dependency resulting in infinite recurrsive construticals leading to stackover flow
+Cicular Dependency -> never instantiate subclasses inside superclasses
+Government system is the composition root that assembles the hierarchy

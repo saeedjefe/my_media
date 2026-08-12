@@ -1,0 +1,8 @@
+ontology:
+  name: Water Supply System
+  version: 1.0
+  derivedFrom: Generic Systemic Ontology
+  domain: Utility
+  sector: Public Infrastructure
+  description: >
+    Domain ontology for municipal and regional water supply systems.

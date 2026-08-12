@@ -1,0 +1,11 @@
+IndustrialSystem
+│
+├── MachinerySubsystem
+├── ElectricalEquipmentSubsystem
+├── FabricatedMetalsSubsystem
+├── EngineeringServicesSubsystem
+├── TransportationSubsystem
+├── WarehousingSubsystem
+├── LogisticsSubsystem
+├── CommunicationsInfrastructureSubsystem
+└── WholesaleTradeSubsystem

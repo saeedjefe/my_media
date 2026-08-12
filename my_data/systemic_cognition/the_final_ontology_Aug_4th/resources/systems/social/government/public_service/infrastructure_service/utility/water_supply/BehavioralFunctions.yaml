@@ -1,0 +1,438 @@
+functionalBehavior:
+
+  inputReception:
+
+    reception:
+      - Treatment Chemical reception
+      - Equipment reception
+      - Spare Part Reception
+      - Bulk Water Reception
+      - External Data Reception
+
+    abstraction:
+      - Raw Water Abstraction
+      - Electrical Energy 
+      - Treatment Chemical Intake
+      - Operational Data Int
+
+    collection:
+      - Water Quality Sample Collection
+      - Sensor Data Collection
+      - Customer Demand Data Collection
+      - Weather Data Collection
+      - Meter Data Collection
+
+    admission:
+      - Raw Water Admission
+      - Recovered Water Admission
+      - External Water Supply Admission
+      - Control Signal Admission
+      - Operational Information Admission
+
+    import:
+      - Bulk Water Import
+      - Operational Data Import
+      - Laboratory Data Import
+      - External Monitoring Data Import
+      - Geographic Information Import
+
+
+  preparation:
+
+    sorting:
+      - Water Quality Classification
+      - Maintenance Priority Classification
+      - Incident Classification
+      - Sample Classification
+
+    assembly:
+      - Pump Assembly
+      - Pipeline Assembly
+      - Treatment Unit Assembly
+      - Monitoring Equipment Assembly
+
+    configuration:
+      - SCADA Configuration
+      - Pump Configuration
+      - Valve Configuration
+      - Treatment Process Configuration
+      - Monitoring System Configuration
+
+    initialization:
+      - Treatment Plant Startup
+      - Pump Startup
+      - Monitoring System Startup
+      - Control System Startup
+
+    calibration:
+      - Sensor Calibration
+      - Flow Meter Calibration
+      - Pressure Instrument Calibration
+      - Water Quality Instrument Calibration
+
+    integration:
+      - Hydraulic Network Integration
+      - Information System Integration
+      - Monitoring System Integration
+      - Treatment System Integration
+
+
+  transformation:
+
+    processing:
+      - Raw Water Processing
+      - Sludge Processing
+      - Operational Data Processing
+      - Customer Data Processing
+
+    conversion:
+      - Raw Water Conversion
+      - Electrical Energy Conversion
+      - Hydraulic Energy Conversion
+      - Chemical Energy Conversion
+
+    fabrication:
+      - Pipe Fabrication
+      - Mechanical Component Fabrication
+      - Replacement Part Fabrication
+
+    composition:
+      - Water Blending
+      - Chemical Solution Composition
+      - Treatment Chemical Mixing
+
+    computation:
+      - Hydraulic Modeling
+      - Demand Forecasting
+      - Performance Calculation
+      - Risk Calculation
+      - Water Balance Calculation
+
+    treatment:
+      - Coagulation
+      - Flocculation
+      - Sedimentation
+      - Filtration
+      - Disinfection
+      - Fluoridation
+      - Corrosion Control
+      - Membrane Treatment
+      - Activated Carbon Treatment
+      - Advanced Oxidation
+
+
+  outputProduction:
+
+    manufacturing:
+      - Potable Water Production
+      - Treatment Chemical Solution Production
+
+    generation:
+      - Water Quality Report Generation
+      - Performance Report Generation
+      - Alarm Generation
+      - Regulatory Report Generation
+      - Operational Data Generation
+
+    serviceExecution:
+      - Drinking Water Supply
+      - Firefighting Water Supply
+      - Emergency Water Supply
+      - Customer Service Provision
+
+    packaging:
+      - Laboratory Sample Packaging
+      - Maintenance Material Packaging
+      - Waste Material Packaging
+
+    finalization:
+      - Treatment Completion
+      - Maintenance Completion
+      - Inspection Completion
+      - Water Quality Verification
+
+
+  distribution:
+
+    allocation:
+      - Water Allocation
+      - Energy Allocation
+      - Chemical Allocation
+      - Storage Capacity Allocation
+
+    routing:
+      - Water Flow Routing
+      - Distribution Network Routing
+      - Emergency Supply Routing
+
+    dispatch:
+      - Maintenance Crew Dispatch
+      - Emergency Team Dispatch
+      - Tanker Dispatch
+      - Equipment Dispatch
+
+    delivery:
+      - Potable Water Delivery
+      - Bulk Water Delivery
+      - Emergency Water Delivery
+      - Customer Service Delivery
+
+    dissemination:
+      - Public Information Dissemination
+      - Regulatory Information Dissemination
+      - Emergency Alert Dissemination
+      - Water Quality Information Dissemination
+
+    channeling:
+      - Distribution Network Channeling
+      - Emergency Supply Channeling
+      - Information Channeling
+
+    export:
+      - Bulk Water Export
+      - Operational Data Export
+      - Regulatory Data Export
+
+
+  feedback:
+
+    monitoring:
+      - Water Quality Monitoring
+      - Pressure Monitoring
+      - Flow Monitoring
+      - Reservoir Level Monitoring
+      - Asset Condition Monitoring
+      - Energy Consumption Monitoring
+
+    measurement:
+      - Flow Measurement
+      - Pressure Measurement
+      - Water Quality Measurement
+      - Reservoir Level Measurement
+      - Energy Consumption Measurement
+
+    inspection:
+      - Pipeline Inspection
+      - Reservoir Inspection
+      - Treatment Plant Inspection
+      - Pump Inspection
+      - Valve Inspection
+      - Meter Inspection
+
+    evaluation:
+      - System Performance Evaluation
+      - Compliance Evaluation
+      - Risk Evaluation
+      - Asset Condition Evaluation
+      - Service Quality Evaluation
+
+    auditing:
+      - Operational Audit
+      - Water Quality Audit
+      - Energy Audit
+      - Regulatory Audit
+
+    reporting:
+      - Performance Reporting
+      - Regulatory Reporting
+      - Incident Reporting
+      - Maintenance Reporting
+      - Water Quality Reporting
+
+
+  adaptation:
+
+    adjustment:
+      - Chemical Dose Adjustment
+      - Pump Operation Adjustment
+      - Pressure Adjustment
+      - Flow Adjustment
+
+    tuning:
+      - Treatment Process Tuning
+      - Control System Tuning
+      - Pump Control Tuning
+
+    reconfiguration:
+      - Distribution Network Reconfiguration
+      - Pressure Zone Reconfiguration
+      - Treatment Process Reconfiguration
+      - Operational Reconfiguration
+
+    optimization:
+      - Energy Optimization
+      - Treatment Optimization
+      - Distribution Optimization
+      - Storage Optimization
+      - Asset Utilization Optimization
+
+    reform:
+      - Operational Reform
+      - Service Reform
+      - Management Practice Reform
+
+    adaptation:
+      - Climate Adaptation
+      - Drought Adaptation
+      - Demand Adaptation
+      - Emergency Adaptation
+      - Source Water Adaptation
+
+
+  maintenance:
+
+    cleaning:
+      - Reservoir Cleaning
+      - Filter Cleaning
+      - Pipeline Cleaning
+      - Treatment Unit Cleaning
+
+    servicing:
+      - Pump Servicing
+      - Valve Servicing
+      - Instrument Servicing
+      - Meter Servicing
+
+    repair:
+      - Leak Repair
+      - Pump Repair
+      - Pipeline Repair
+      - Valve Repair
+      - Equipment Repair
+
+    replacement:
+      - Pipe Replacement
+      - Pump Replacement
+      - Valve Replacement
+      - Meter Replacement
+      - Sensor Replacement
+
+    restoration:
+      - Water Supply Restoration
+      - Pressure Restoration
+      - Water Quality Restoration
+      - Infrastructure Restoration
+      - Control System Restoration
+
+    upkeep:
+      - Preventive Maintenance
+      - Routine Maintenance
+      - Facility Upkeep
+      - Equipment Upkeep
+
+
+  growth:
+
+    scaling:
+      - Treatment Capacity Scaling
+      - Distribution Capacity Scaling
+      - Pumping Capacity Scaling
+      - Monitoring Capacity Scaling
+
+    capacityBuilding:
+      - Operational Capacity Building
+      - Technical Capacity Building
+      - Treatment Capacity Building
+      - Emergency Response Capacity Building
+
+    expansion:
+      - Distribution Network Expansion
+      - Service Area Expansion
+      - Storage Expansion
+      - Treatment Facility Expansion
+
+    maturation:
+      - Infrastructure Maturation
+      - Operational Maturation
+      - Technological Maturation
+
+    diversification:
+      - Water Source Diversification
+      - Treatment Technology Diversification
+      - Energy Source Diversification
+      - Service Diversification
+
+
+  emergence:
+
+    formation:
+      - New Service Zone Formation
+      - New Operational Unit Formation
+      - Decentralized Supply System Formation
+
+    selfOrganization:
+      - Autonomous Pressure Regulation
+      - Adaptive Network Coordination
+      - Distributed Control Coordination
+
+    innovation:
+      - Smart Water Innovation
+      - Advanced Treatment Innovation
+      - Monitoring Technology Innovation
+      - Operational Innovation
+
+    differentiation:
+      - Specialized Treatment Development
+      - Specialized Service Development
+      - Operational Unit Differentiation
+
+    hybridization:
+      - Surface-Groundwater Integration
+      - Conventional-Digital Integration
+      - Grid-Renewable Energy Integration
+      - Centralized-Decentralized Supply Integration
+
+
+  replication:
+
+    reproduction:
+      - Treatment Module Reproduction
+      - Operational Model Reproduction
+
+    duplication:
+      - Pumping Station Duplication
+      - Storage Facility Duplication
+      - Treatment Unit Duplication
+
+    cloning:
+      - Database Cloning
+      - Digital Model Cloning
+      - Control Configuration Cloning
+
+    franchising:
+      - Utility Service Model Franchising
+      - Operational Model Franchising
+
+    proliferation:
+      - Sensor Network Proliferation
+      - Monitoring Station Proliferation
+      - Decentralized Treatment Unit Proliferation
+
+
+  dissolution:
+
+    retirement:
+      - Asset Retirement
+      - Equipment Retirement
+      - Treatment Unit Retirement
+
+    phasingOut:
+      - Technology Phase-Out
+      - Infrastructure Phase-Out
+      - Treatment Process Phase-Out
+
+    decommissioning:
+      - Treatment Plant Decommissioning
+      - Pipeline Decommissioning
+      - Pumping Station Decommissioning
+      - Reservoir Decommissioning
+
+    dismantling:
+      - Equipment Dismantling
+      - Facility Dismantling
+      - Pipeline Dismantling
+
+    disintegration:
+      - System Disintegration
+      - Network Disintegration
+      - Organizational Unit Disintegration

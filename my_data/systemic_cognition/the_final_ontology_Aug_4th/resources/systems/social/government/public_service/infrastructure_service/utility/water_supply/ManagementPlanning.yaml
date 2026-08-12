@@ -1,0 +1,469 @@
+organizationalSupportBehavior:
+
+  decisionMaking:
+
+    problemRecognition:
+      - Inadequate Potable Water Access
+      - Water Quality Deterioration
+      - Water Resource Scarcity
+      - Infrastructure Inefficiency
+      - Distribution Leakage
+      - Service Disruption
+      - Insufficient Treatment Capacity
+      - Insufficient Storage Capacity
+      - Low Network Pressure
+      - Regulatory Noncompliance
+      - Energy Inefficiency
+      - Financial Instability
+      - Climate-Related Vulnerability
+      - Emergency Response Deficiency
+      - Demand-Capacity Imbalance
+
+    needAssessment:
+      - Potable Water Availability
+      - Drinking Water Safety
+      - Reliable Water Supply
+      - Adequate Treatment Capacity
+      - Adequate Storage Capacity
+      - Adequate Network Pressure
+      - Infrastructure Reliability
+      - Regulatory Compliance
+      - Operational Efficiency
+      - Financial Sustainability
+      - Climate Resilience
+      - Emergency Preparedness
+
+    purposeDefinition:
+      - Potable Water Provision
+      - Public Health Protection
+      - Reliable Water Service Provision
+      - Equitable Water Access
+      - Sustainable Water Resource Management
+      - Service Continuity
+
+    goalSetting:
+      - Drinking Water Quality Compliance
+      - Continuous Water Supply
+      - Water Loss Reduction
+      - Treatment Capacity Adequacy
+      - Storage Capacity Adequacy
+      - Energy Efficiency Improvement
+      - Infrastructure Reliability Improvement
+      - Financial Viability
+      - Climate Resilience Enhancement
+
+    systemStructureDefinition:
+
+      boundaryIdentification:
+        - Physical Boundary Identification
+        - Temporal Boundary Identification
+        - Organizational Boundary Identification
+        - Jurisdictional Boundary Identification
+        - Operational Boundary Identification
+        - Informational Boundary Identification
+
+      entityIdentification:
+        - Water Source Identification
+        - Treatment Facility Identification
+        - Storage Facility Identification
+        - Pumping Facility Identification
+        - Distribution Network Identification
+        - Monitoring Facility Identification
+
+      stakeholderIdentification:
+        - Consumer Identification
+        - Operator Identification
+        - Owner Identification
+        - Decision-Maker Identification
+        - Regulator Identification
+        - Funder Identification
+        - Supplier Identification
+        - Contractor Identification
+        - Partner Identification
+        - Community Identification
+        - Environmental Interest Identification
+
+      dependencyIdentification:
+        - Structural Dependency Identification
+        - Resource Dependency Identification
+        - Information Dependency Identification
+        - Functional Dependency Identification
+        - Temporal Dependency Identification
+        - Spatial Dependency Identification
+        - Causal Dependency Identification
+        - Hierarchical Dependency Identification
+        - Feedback Dependency Identification
+        - Environmental Dependency Identification
+
+      repositoryIdentification:
+        - Material Repository Identification
+        - Informational Repository Identification
+        - Knowledge Repository Identification
+        - Financial Repository Identification
+        - Digital Repository Identification
+
+      resourceIdentification:
+        - Natural Resource Identification
+        - Material Resource Identification
+        - Energy Resource Identification
+        - Human Resource Identification
+        - Financial Resource Identification
+        - Informational Resource Identification
+        - Technological Resource Identification
+        - Infrastructural Resource Identification
+        - Temporal Resource Identification
+
+    optionEvaluation:
+      - Existing Treatment Plant Upgrade
+      - New Treatment Plant Construction
+      - Alternative Water Source Development
+      - Groundwater Source Development
+      - Surface Water Source Development
+      - Distribution Network Rehabilitation
+      - Storage Capacity Expansion
+      - Smart Monitoring Deployment
+
+    selection:
+      - Preferred Water Source Selection
+      - Preferred Treatment Alternative Selection
+      - Preferred Infrastructure Alternative Selection
+      - Preferred Technology Selection
+      - Preferred Financing Alternative Selection
+      - Preferred Implementation Strategy Selection
+
+    authorization:
+      - Strategic Approval
+      - Project Authorization
+      - Budget Authorization
+      - Regulatory Authorization
+      - Environmental Authorization
+      - Procurement Authorization
+      - Construction Authorization
+      - Operational Authorization
+
+
+  planning:
+
+    forecasting:
+      - Water Demand Forecasting
+      - Population Growth Forecasting
+      - Water Availability Forecasting
+      - Climate Condition Forecasting
+      - Infrastructure Deterioration Forecasting
+      - Energy Demand Forecasting
+      - Revenue Forecasting
+      - Operational Cost Forecasting
+
+    scheduling:
+      - Water Production Scheduling
+      - Treatment Scheduling
+      - Pump Operation Scheduling
+      - Maintenance Scheduling
+      - Asset Inspection Scheduling
+      - Water Quality Monitoring Scheduling
+      - Personnel Scheduling
+      - Rehabilitation Scheduling
+
+    capacityPlanning:
+      - Treatment Capacity Planning
+      - Storage Capacity Planning
+      - Pumping Capacity Planning
+      - Transmission Capacity Planning
+      - Distribution Capacity Planning
+      - Workforce Capacity Planning
+      - Emergency Capacity Planning
+
+    resourcePlanning:
+      - Water Resource Planning
+      - Human Resource Planning
+      - Financial Resource Planning
+      - Material Resource Planning
+      - Energy Resource Planning
+      - Information Resource Planning
+      - Technology Resource Planning
+      - Infrastructure Resource Planning
+
+    contingencyPlanning:
+      - Drought Contingency Planning
+      - Flood Contingency Planning
+      - Water Contamination Contingency Planning
+      - Infrastructure Failure Contingency Planning
+      - Power Failure Contingency Planning
+      - Cybersecurity Incident Contingency Planning
+      - Emergency Supply Planning
+      - Service Recovery Planning
+
+
+  resourceAcquisition:
+
+    sourcing:
+      - Treatment Chemical Source Identification
+      - Equipment Source Identification
+      - Pipe Source Identification
+      - Pump Source Identification
+      - Technology Source Identification
+      - External Service Source Identification
+      - Emergency Supply Source Identification
+
+    procurement:
+      - Treatment Chemical Procurement
+      - Treatment Equipment Procurement
+      - Pipeline Procurement
+      - Pump Procurement
+      - Valve Procurement
+      - Meter Procurement
+      - SCADA Equipment Procurement
+      - Laboratory Equipment Procurement
+      - Maintenance Material Procurement
+
+    supplierSelection:
+      - Chemical Supplier Selection
+      - Equipment Supplier Selection
+      - Pipeline Supplier Selection
+      - Pump Supplier Selection
+      - Technology Vendor Selection
+      - Laboratory Service Provider Selection
+      - Maintenance Service Provider Selection
+      - Energy Supplier Selection
+
+    contracting:
+      - Construction Contracting
+      - Maintenance Contracting
+      - Engineering Consultancy Contracting
+      - Laboratory Service Contracting
+      - Information Technology Contracting
+      - Emergency Service Contracting
+      - Waste Disposal Contracting
+      - Asset Rehabilitation Contracting
+
+    funding:
+      - Government Funding
+      - Municipal Funding
+      - Utility Revenue Funding
+      - Infrastructure Investment Funding
+      - Development Grant Funding
+      - Environmental Grant Funding
+      - Emergency Relief Funding
+      - Public-Private Partnership Funding
+      - Loan Financing
+
+
+  resourceMobilization:
+
+    resourceAllocation:
+      - Financial Resource Allocation
+      - Water Resource Allocation
+      - Material Resource Allocation
+      - Equipment Allocation
+      - Energy Resource Allocation
+      - Technology Resource Allocation
+      - Infrastructure Capacity Allocation
+      - Emergency Resource Allocation
+
+    resourceAssignment:
+      - Pump Assignment
+      - Vehicle Assignment
+      - Equipment Assignment
+      - Facility Assignment
+      - Treatment Unit Assignment
+      - Storage Facility Assignment
+      - Monitoring Equipment Assignment
+      - Maintenance Material Assignment
+
+    resourceDeployment:
+      - Emergency Equipment Deployment
+      - Maintenance Equipment Deployment
+      - Mobile Treatment Unit Deployment
+      - Temporary Storage Deployment
+      - Tanker Deployment
+      - Backup Generator Deployment
+      - Monitoring Equipment Deployment
+      - Emergency Supply Deployment
+
+    resourceActivation:
+      - Standby Pump Activation
+      - Backup Generator Activation
+      - Emergency Water Source Activation
+      - Backup Treatment Unit Activation
+      - Emergency Storage Activation
+      - Alternative Supply Route Activation
+      - Incident Command Activation
+      - Emergency Communication Activation
+
+
+  humanResourceManagement:
+
+    recruitment:
+      - Water Treatment Operator Recruitment
+      - Distribution Technician Recruitment
+      - Mechanical Engineer Recruitment
+      - Civil Engineer Recruitment
+      - Electrical Engineer Recruitment
+      - Water Quality Scientist Recruitment
+      - Laboratory Technician Recruitment
+      - Maintenance Personnel Recruitment
+      - SCADA Specialist Recruitment
+
+    training:
+      - Water Treatment Operations Training
+      - Water Quality Management Training
+      - Occupational Safety Training
+      - Emergency Response Training
+      - SCADA System Training
+      - Asset Management Training
+      - Preventive Maintenance Training
+      - Regulatory Compliance Training
+      - Cybersecurity Awareness Training
+
+    assignment:
+      - Treatment Plant Personnel Assignment
+      - Distribution Network Personnel Assignment
+      - Maintenance Personnel Assignment
+      - Laboratory Personnel Assignment
+      - Water Quality Monitoring Personnel Assignment
+      - Emergency Response Team Assignment
+      - SCADA Operations Personnel Assignment
+      - Project Personnel Assignment
+
+    workforcePerformanceManagement:
+      - Operator Performance Assessment
+      - Technical Competency Assessment
+      - Safety Performance Assessment
+      - Workforce Productivity Assessment
+      - Team Performance Assessment
+      - Training Effectiveness Assessment
+      - Leadership Performance Assessment
+      - Professional Development Assessment
+
+    retention:
+      - Skilled Personnel Retention
+      - Operator Retention
+      - Technical Expertise Retention
+      - Institutional Knowledge Retention
+      - Career Development
+      - Professional Certification Support
+      - Workforce Engagement
+      - Succession Planning
+
+
+  assetManagement:
+
+    assetRegistration:
+      - Water Source Registration
+      - Reservoir Registration
+      - Treatment Plant Registration
+      - Pumping Station Registration
+      - Storage Tank Registration
+      - Distribution Pipeline Registration
+      - Valve Registration
+      - Hydrant Registration
+      - Water Meter Registration
+      - SCADA Asset Registration
+
+    conditionAssessment:
+      - Water Source Condition Assessment
+      - Reservoir Condition Assessment
+      - Treatment Plant Condition Assessment
+      - Pumping Station Condition Assessment
+      - Storage Tank Condition Assessment
+      - Distribution Pipeline Condition Assessment
+      - Valve Condition Assessment
+      - Meter Condition Assessment
+      - Instrumentation Condition Assessment
+      - SCADA System Condition Assessment
+
+    renewalPlanning:
+      - Treatment Plant Renewal Planning
+      - Distribution Pipeline Renewal Planning
+      - Pump Replacement Planning
+      - Storage Tank Renewal Planning
+      - Valve Replacement Planning
+      - Water Meter Replacement Planning
+      - SCADA Modernization Planning
+      - Laboratory Equipment Replacement Planning
+      - Fleet Renewal Planning
+
+    disposal:
+      - Asset Decommissioning
+      - Equipment Disposal
+      - Pipeline Decommissioning
+      - Vehicle Disposal
+      - Information Technology Asset Disposal
+      - Laboratory Equipment Disposal
+      - Asset Recycling
+      - Infrastructure Retirement
+      - Environmentally Responsible Disposal
+
+    lifecycleManagement:
+      - Asset Acquisition Planning
+      - Asset Commissioning
+      - Asset Operation
+      - Preventive Maintenance
+      - Corrective Maintenance
+      - Asset Inspection
+      - Asset Performance Monitoring
+      - Asset Rehabilitation
+      - Asset Renewal
+      - Asset Decommissioning
+
+
+  governance:
+
+    policyDevelopment:
+      - Water Resource Policy Development
+      - Drinking Water Quality Policy Development
+      - Environmental Protection Policy Development
+      - Asset Management Policy Development
+      - Infrastructure Development Policy
+      - Water Conservation Policy Development
+      - Emergency Management Policy Development
+      - Occupational Safety Policy Development
+      - Cybersecurity Policy Development
+      - Customer Service Policy Development
+
+    complianceManagement:
+      - Drinking Water Quality Compliance Management
+      - Environmental Compliance Management
+      - Public Health Compliance Management
+      - Occupational Safety Compliance Management
+      - Regulatory Reporting Compliance Management
+      - Infrastructure Standards Compliance Management
+      - Financial Compliance Management
+      - Procurement Compliance Management
+      - Data Protection Compliance Management
+
+    riskManagement:
+      - Water Quality Risk Management
+      - Water Supply Risk Management
+      - Infrastructure Risk Management
+      - Operational Risk Management
+      - Financial Risk Management
+      - Environmental Risk Management
+      - Cybersecurity Risk Management
+      - Occupational Safety Risk Management
+      - Climate Risk Management
+      - Emergency Risk Management
+
+    qualityManagement:
+      - Water Quality Management
+      - Operational Quality Management
+      - Service Quality Management
+      - Process Quality Management
+      - Laboratory Quality Management
+      - Asset Quality Management
+      - Supplier Quality Management
+      - Quality Assurance
+      - Quality Control
+      - Continuous Improvement Management
+
+    systemPerformanceManagement:
+      - Organizational Performance Management
+      - Operational Performance Management
+      - Infrastructure Performance Management
+      - Asset Performance Management
+      - Service Performance Management
+      - Water Quality Performance Management
+      - Financial Performance Management
+      - Sustainability Performance Management
+      - Energy Performance Management
+      - Key Performance Indicator Management

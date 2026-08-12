@@ -1,0 +1,75 @@
+BIOPSYCHOSOCIAL_SYSTEM
+│
+├── 1. BIOLOGICAL_SUBSYSTEM ← Physical basis of functioning
+│   │
+│   ├── Neurological System (brain, nerves)
+│   ├── Endocrine System (hormones like cortisol, dopamine)
+│   ├── Genetic Predispositions
+│   ├── Sensory Processing (hearing, vision, pain)
+│   ├── Immune & Inflammatory Responses
+│   └── Sleep-Wake Cycle (circadian rhythm)
+│
+├── 2. PSYCHOLOGICAL_SUBSYSTEM ← Mental and emotional processes
+│   │
+│   ├── Cognitive Functions
+│   │   ├── Attention, Memory, Executive Function
+│   │   └── Beliefs, Expectations, Self-Concept
+│   │
+│   ├── Emotional Regulation
+│   │   ├── Stress Response
+│   │   └── Mood Stability (anxiety, depression)
+│   │
+│   └── Behavioral Patterns
+│       ├── Habits, Coping Strategies
+│       └── Motivation & Goal Setting
+│
+├── 3. SOCIAL_SUBSYSTEM ← Environmental and relational context
+│   │
+│   ├── Family System
+│   │   ├── Parenting Style
+│   │   └── Home Environment (safe/stressful)
+│   │
+│   ├── Educational System
+│   │   ├── School Climate
+│   │   └── Teacher-Student Relationships
+│   │
+│   ├── Peer Network
+│   │   ├── Social Support or Bullying
+│   │   └── Identity Formation
+│   │
+│   ├── Cultural & Community Context
+│   │   ├── Values, Norms, Traditions
+│   │   └── Stigma or Inclusion
+│   │
+│   └── Socioeconomic Structure
+│       ├── Income Level
+│       ├── Access to Healthcare, Nutrition, Housing
+│       └── Work-Life Balance
+│
+├── 4. INTERACTION_SUBSYSTEMS ← Where Emergence Happens
+│   │   // These are not separate — they emerge from cross-talk
+│   │
+│   ├── BIO → PSYCHO
+│   │   Example: Chronic pain → depression
+│   │           ADHD neurology → low self-esteem
+│   │
+│   ├── PSYCHO → SOCIAL
+│   │   Example: Anxiety → social withdrawal
+│   │           Confidence → leadership in group
+│   │
+│   ├── SOCIAL → BIO
+│   │   Example: Poverty → chronic stress → elevated cortisol → weakened immunity
+│   │           Safe housing → better sleep → improved brain function
+│   │
+│   ├── FEEDBACK_LOOPS
+│   │   Example: Stress → poor sleep → worse cognition → more stress
+│   │
+│   └── COPING_AND_RESILIENCE_PATHWAYS
+│       Example: Therapy + community support → emotional regulation → academic success
+│
+└── 5. REGULATORY MECHANISMS
+    │   // How the whole system maintains balance
+    │
+    ├── HOMEOSTASIS_IN_BIOLOGY (e.g., body temperature)
+    ├── EMOTIONAL_REGULATION (psychological equilibrium)
+    └── SOCIAL_SUPPORT_NETWORKS (buffer against crisis)

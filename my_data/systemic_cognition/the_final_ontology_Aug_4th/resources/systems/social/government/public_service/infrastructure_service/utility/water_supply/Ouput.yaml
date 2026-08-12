@@ -1,0 +1,110 @@
+output:
+
+  materialOutput:
+
+    potableWater:
+      - Drinking Water
+      - Treated Water
+      - Emergency Water Supply
+
+    byProduct:
+      - Treatment Sludge
+      - Backwash Water
+      - Recovered Material
+
+    waste:
+      - Chemical Waste
+      - Residual Waste
+      - Contaminated Material
+
+  energyOutput:
+
+    hydraulicEnergy:
+      - Pressurized Water Flow
+
+    recoveredEnergy:
+      - Recovered Hydraulic Energy
+      - Renewable Energy Generation
+
+  informationalOutput:
+
+    operationalInformation:
+      - Operational Report
+      - Performance Report
+      - Incident Report
+      - Maintenance Report
+
+    regulatoryInformation:
+      - Compliance Report
+      - Water Quality Report
+      - Environmental Report
+      - Audit Report
+
+    customerInformation:
+      - Water Consumption Report
+      - Customer Notification
+      - Billing Statement
+      - Service Interruption Notice
+
+    decisionSupportInformation:
+      - Demand Forecast
+      - Risk Assessment
+      - Hydraulic Analysis
+      - Performance Indicator
+
+  controlOutput:
+
+    operationalControl:
+      - Pump Command
+      - Valve Command
+      - Chemical Dosing Command
+      - Pressure Control Signal
+      - Flow Control Signal
+
+    alarm:
+      - Water Quality Alarm
+      - Pressure Alarm
+      - Equipment Alarm
+      - Security Alarm
+      - Emergency Alarm
+
+  serviceOutput:
+
+    waterSupplyService:
+      - Continuous Water Supply
+      - Emergency Water Supply
+      - Firefighting Water Supply
+
+    customerService:
+      - Customer Support
+      - Complaint Resolution
+      - New Connection Service
+
+    infrastructureService:
+      - Maintenance Service
+      - Inspection Service
+      - Repair Service
+
+  financialOutput:
+
+    revenue:
+      - Water Revenue
+      - Connection Revenue
+      - Service Revenue
+
+    expenditure:
+      - Operational Expenditure
+      - Maintenance Expenditure
+      - Capital Expenditure
+
+  environmentalOutput:
+
+    environmentalProtection:
+      - Safe Effluent
+      - Environmental Monitoring Record
+      - Sustainable Water Release
+
+    resourceRecovery:
+      - Water Recovery
+      - Material Recovery
+      - Energy Recovery

@@ -1,0 +1,80 @@
+problem:
+
+  purposeProblem:
+    - Purpose Ambiguity
+    - Purpose Misalignment
+    - Purpose Conflict
+    - Purpose Obsolescence
+
+  goalProblem:
+    - Goal Conflict
+    - Goal Ambiguity
+    - Goal Deficiency
+    - Goal Misalignment
+    - Goal Incompleteness
+
+  resourceProblem:
+    - Resource Scarcity
+    - Resource Deficiency
+    - Resource Depletion
+    - Resource Imbalance
+    - Resource Waste
+
+  structuralProblem:
+    - Structural Deficiency
+    - Structural Fragmentation
+    - Structural Incompatibility
+    - Structural Redundancy
+    - Structural Complexity
+
+  operationalProblem:
+    - Operational Inefficiency
+    - Operational Failure
+    - Operational Disruption
+    - Operational Delay
+    - Operational Overload
+
+  behavioralProblem:
+    - Instability
+    - Vulnerability
+    - Unsustainability
+    - Dysregulation
+    - Fragmentation
+
+  dependencyProblem:
+    - Dependency Failure
+    - Dependency Conflict
+    - Dependency Bottleneck
+    - Dependency Breakdown
+
+  stakeholderProblem:
+    - Stakeholder Conflict
+    - Stakeholder Exclusion
+    - Stakeholder Misalignment
+    - Stakeholder Dissatisfaction
+
+  informationProblem:
+    - Information Deficiency
+    - Information Inaccuracy
+    - Information Delay
+    - Information Inconsistency
+    - Information Loss
+
+  governanceProblem:
+    - Governance Failure
+    - Regulatory Noncompliance
+    - Policy Conflict
+    - Decision Delay
+    - Accountability Deficiency
+
+  environmentalProblem:
+    - Environmental Degradation
+    - External Threat
+    - Environmental Uncertainty
+    - Climate Vulnerability
+
+  lifecycleProblem:
+    - Premature Obsolescence
+    - Aging
+    - Capacity Decline
+    - End-of-Life

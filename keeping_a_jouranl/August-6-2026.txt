@@ -1,0 +1,7 @@
+Problem
+    ↓
+Problem Pattern
+        ↓
+Affected System Element
+                ↓
+Domain-specific manifestation

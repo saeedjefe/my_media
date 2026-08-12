@@ -1,0 +1,88 @@
+ETHICO-LEGAL_SYSTEM
+│
+├── 1. ENTITIES (Core Components)
+│   ├── HUMAN_BEING (rights-holder)
+│   ├── GOVERNMENT_INSTITUTIONS (duty-bearer)
+│   ├── LEGAL_AUTHORITIES (judges, lawmakers)
+│   ├── CIVIL_SOCIETY (NGOs, media, activists)
+│   └── INTERNATIONAL_BODIES (UN, ICC, ICJ)
+│
+├── 2. INPUTS – What Feeds the System?
+│   ├── MORAL_VALUES → dignity, justice, equality
+│   ├── HUMAN_RIGHTS_DECLARATIONS → UDHR, treaties
+│   ├── SOCIAL_NORMS → cultural views on fairness
+│   ├── CRIMES_AND_VIOLATIONS → triggers enforcement
+│   ├── PUBLIC_DEMAND_FOR_JUSTICE → protests, petitions
+│   └── EVIDENCE_AND_TESTIMONY → basis for legal decisions
+│
+├── 3. OUTPUTS – What Results from the System?
+│   ├── LEGAL_PROTECTIONS → laws that safeguard rights
+│   ├── JUDGMENTS_AND_RULINGS → court decisions
+│   ├── POLICY_REFORMS → new laws based on ethical review
+│   ├── DETERRENCE_EFFECT → reduced crime due to fear of punishment
+│   ├── ACCOUNTABILITY_MECHANISMS → holding power to account
+│   └── SOCIAL_LEGITIMACY → public trust in institutions
+│
+├── 4. STATES – Functional Modes of the System
+│   ├── FUNCTIONAL_AND_FAIR → justice is accessible and impartial
+│   ├── FRAGILE → weak institutions, corruption
+│   ├── COLLAPSING → rule of law broken (e.g., war zones)
+│   ├── REFORMING → undergoing change after crisis
+│   ├── RESILIENT → self-correcting through oversight
+│   └── AUTHORITARIAN_DISTORTION → used to suppress dissent
+│
+├── 5. MODIFIERS – What Changes Its Behavior?
+│   ├── QUALITY_OF_GOVERNANCE → transparency vs. corruption
+│   ├── LEVEL_OF_CIVIC_AWARENESS → public understanding of rights
+│   ├── EXTERNAL_PRESSURE → sanctions, diplomacy
+│   ├── HISTORICAL_TRAUMA → legacy of colonialism, conflict
+│   ├── RELIGIOUS_OR_IDEOLOGICAL_FRAMES → shape moral views
+│   └── TECHNOLOGICAL_CHANGE → digital evidence, AI in courts
+│
+├── 6. PROCESSES – How the System Functions
+│   ├── NORM_GENERATION → creating shared values ("torture is wrong")
+│   ├── LAW_MAKING → legislative process
+│   ├── ADJUDICATION → interpreting and applying law
+│   ├── ENFORCEMENT → police, international tribunals
+│   ├── FEEDBACK_LOOP → appeals, reviews, public scrutiny
+│   ├── ACCOUNTABILITY_CYCLE → investigation → trial → reform
+│   ├── HUMAN_RIGHTS_MONITORING → reporting violations
+│   └── LEGITIMACY_REINFORCEMENT → restoring trust after abuse
+│
+├── 7. DEPENDENCIES – What the System Relies On
+│   ├── INDEPENDENT_JUDICIARY
+│   ├── FREE_AND_FAIR_MEDIA
+│   ├── CIVIC_EDUCATION
+│   ├── PROTECTION_OF_WHISTLEBLOWERS
+│   ├── ACCESS_TO_COURTS
+│   └── PEACE_AND_STABILITY
+│
+├── 8. BOUNDARIES – Where Does It Begin/End?
+│   ├── MORAL_vs._LEGAL_DOMAIN → not all wrongs are illegal
+│   ├── NATIONAL_LAW_vs._INTERNATIONAL_LAW
+│   ├── INDIVIDUAL_RIGHTS_vs._COLLECTIVE_SECURITY
+│   ├── PRIVATE_LIFE_vs._PUBLIC_ACCOUNTABILITY
+│   └── JUSTICE_AS_CORRECTION_vs._JUSTICE_AS_PREVENTION
+│
+├── 9. REPOSITORIES – Where Is Memory Stored?
+│   ├── CONSTITUTIONS_AND_CHARTERS
+│   ├── COURT_RECORDS_AND_PRECEDENTS
+│   ├── HUMAN_RIGHTS_REPORTS (Amnesty, HRW)
+│   ├── INTERNATIONAL_TREATIES (ICESCR, ICCPR)
+│   ├── LEGAL_CODEXES (civil, criminal law)
+│   └── CULTURAL_MEMORY (oral histories, trauma archives)
+│
+├── 10. GOALS – Why Does This System Exist?
+│   ├── PROTECT_HUMAN_DIGNITY
+│   ├── SAFEGUARD_THE_RIGHT_TO_LIFE
+│   ├── ENSURE_EQUALITY_BEFORE_THE_LAW
+│   ├── PREVENT_ARBITRARY_POWER
+│   ├── PROMOTE_SOCIAL_JUSTICE
+│   └── RESTORE_TRUST_IN_INSTITUTIONS
+│
+└── 11. BEHAVIORS – Emergent Dynamics
+    ├── BALANCE_ORIENTED → weighs freedom vs. security
+    ├── CHANGE_ORIENTED → evolves with society (e.g., LGBTQ+ rights)
+    ├── INTEGRATION_ORIENTED → links ethics, law, culture
+    ├── FEEDBACK_CONTROLLED → self-corrects via appeals, oversight
+    └── RESILIENCE_ORIENTED → recovers after injustice or collapse

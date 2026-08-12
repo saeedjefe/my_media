@@ -1,0 +1,96 @@
+modifier:
+
+  structural:
+    - Infrastructure Redundancy
+    - System Modularity
+    - Network Interconnectivity
+    - Distribution Segmentation
+    - System Scale
+    - Component Coupling
+    - Source Diversity
+
+  functional:
+    - Operational Flexibility
+    - Treatment Versatility
+    - Process Specialization
+    - Functional Generalization
+    - System Reconfigurability
+    - Response Latency
+
+  information:
+    - Data Flow Quality
+    - Feedback Loop Effectiveness
+    - Signal Quality
+    - Information Transparency
+    - Sensor Density
+    - Knowledge Accessibility
+    - Data Timeliness
+    - Data Accuracy
+
+  environmental:
+    - Climate Change
+    - Drought
+    - Flooding
+    - Seasonal Variability
+    - Watershed Degradation
+    - Source Water Contamination
+    - Temperature Variation
+    - Ecosystem Change
+
+  economic:
+    - Inflation
+    - Energy Price Increase
+    - Chemical Price Increase
+    - Funding Availability
+    - Revenue Instability
+    - Currency Depreciation
+    - Construction Cost Escalation
+    - Economic Recession
+
+  social:
+    - Population Growth
+    - Urbanization
+    - Consumer Demand Change
+    - Public Health Concern
+    - Water Conservation Behavior
+    - Community Opposition
+    - Public Trust
+    - Service Equity Expectation
+
+  political:
+    - Government Priority Change
+    - Public Investment Policy
+    - Political Instability
+    - Administrative Reform
+    - Intergovernmental Coordination
+    - Public Ownership Policy
+
+  technological:
+    - Smart Meter Adoption
+    - SCADA Modernization
+    - Artificial Intelligence Adoption
+    - Advanced Treatment Technology
+    - Leak Detection Technology
+    - Renewable Energy Integration
+    - Digital Twin Adoption
+    - Cybersecurity Advancement
+
+  regulatory:
+    - Drinking Water Standard Change
+    - Environmental Regulation Change
+    - Tariff Regulation Change
+    - Water Allocation Policy
+    - Abstraction Restriction
+    - Reporting Requirement
+    - Enforcement Intensity
+    - Occupational Safety Requirement
+
+  organizational:
+    - Organizational Restructuring
+    - Leadership Change
+    - Workforce Reorganization
+    - Outsourcing
+    - Centralization
+    - Decentralization
+    - Governance Reform
+    - Interdepartmental Coordination

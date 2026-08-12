@@ -1,0 +1,74 @@
+dependency:
+
+  naturalDependency:
+    - Surface Water Availability
+    - Groundwater Availability
+    - Source Water Quality
+    - Rainfall Availability
+    - Watershed Stability
+    - Aquifer Recharge
+    - Environmental Flow Availability
+
+  resourceDependency:
+    - Raw Water Supply
+    - Treatment Chemical Availability
+    - Electrical Energy Availability
+    - Fuel Availability
+    - Spare Part Availability
+    - Maintenance Material Availability
+
+  humanDependency:
+    - Skilled Operator Availability
+    - Engineering Expertise
+    - Laboratory Expertise
+    - Maintenance Expertise
+    - Management Capability
+    - Emergency Response Capability
+
+  financialDependency:
+    - Capital Funding Availability
+    - Operational Revenue Availability
+    - Maintenance Funding Availability
+    - Emergency Funding Availability
+    - Credit Availability
+    - Tariff Revenue Stability
+
+  technologicalDependency:
+    - SCADA Availability
+    - Sensor Availability
+    - Communication Network Availability
+    - Geographic Information System Availability
+    - Laboratory Technology Availability
+    - Cybersecurity Infrastructure Availability
+
+  regulatoryDependency:
+    - Abstraction Permit Availability
+    - Environmental Approval
+    - Drinking Water Certification
+    - Construction Approval
+    - Operating Licence
+    - Regulatory Guidance
+
+  infrastructuralDependency:
+    - Intake Infrastructure Availability
+    - Treatment Infrastructure Availability
+    - Storage Infrastructure Availability
+    - Distribution Infrastructure Availability
+    - Pumping Infrastructure Availability
+    - Power Infrastructure Availability
+
+  informationalDependency:
+    - Water Demand Information
+    - Water Quality Information
+    - Asset Condition Information
+    - Customer Information
+    - Operational Performance Information
+    - Weather Information
+
+  externalServiceDependency:
+    - Electricity Supply Service
+    - Telecommunications Service
+    - Waste Disposal Service
+    - Laboratory Service
+    - Transport Service
+    - Emergency Service

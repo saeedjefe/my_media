@@ -1,0 +1,87 @@
+Problem
+    ↓ creates
+Concern
+
+Concern
+    ↓ generates
+Need
+
+Need
+    ↓ motivates
+Purpose
+
+Purpose
+    ↓ justifies
+System
+
+Purpose
+    ↓ is operationalized by
+Goals
+
+Goals
+    ↓ guide
+Functional Behaviors
+
+Functional Behaviors
+    ↓ are realized by
+Processes
+
+Processes
+    ↓ consume
+Inputs
+
+Processes
+    ↓ produce
+Outputs
+
+Processes
+    ↓ retrieve from / store in
+Repositories
+
+Entities
+    ↓ perform
+Processes
+
+Entities
+    ↓ manage
+Repositories
+
+Boundaries
+    ↓ define
+System
+
+Boundaries
+    ↓ constrain
+Processes
+
+Dependencies
+    ↓ influence
+Processes
+
+Dependencies
+    ↓ support
+Functional Behaviors
+
+Modifiers
+    ↓ influence
+Behavioral States
+
+Behavioral States
+    ↓ influence
+Functional Behaviors
+
+Behavioral States
+    ↓ influence
+Processes
+
+Processes
+    ↓ change
+Behavioral States
+
+Outputs
+    ↓ satisfy
+Need
+
+Need Satisfaction
+    ↓ reduces
+Problem

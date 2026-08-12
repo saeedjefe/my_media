@@ -1,0 +1,77 @@
+I have to find out what java.util.set is
+
+
+Motivational Domain
+-------------------
+Problem
+Need
+Purpose
+Goal
+
+↓
+
+Structural Domain
+-----------------
+Boundary
+Entity
+Stakeholder
+Dependency
+Repository
+Resource
+Modifier
+State
+
+↓
+
+Organizational Support Domain
+-----------------------------
+Decision Making
+Planning
+Resource Mobilization
+Workforce Management
+Asset Management
+Governance
+
+↓
+
+Operational Domain
+------------------
+Input
+Functional Behavior
+Process
+Output
+
+
+BehavioralDomain
+----------------
+Behavioral Pattern
+
+
+
+
+
+
+
+
+Input
+    ↓
+Functional Behavior
+    ├── Input Reception
+    ├── Preparation
+    ├── Transformation
+    ├── Output Production
+    ├── Distribution
+    ├── Feedback
+    ├── Adaptation
+    ├── Maintenance
+    ├── Growth
+    ├── Emergence
+    ├── Replication
+    └── Dissolution
+    ↓
+Output
+
+
+
+
+
