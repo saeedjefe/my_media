@@ -1,0 +1,29 @@
+SYSTEM
+│
+├── NATURAL SYSTEMS
+│   │
+│   └── EARTH SYSTEM
+│       │
+│       ├── ATMOSPHERE
+│       │
+│       ├── HYDROSPHERE
+│       │   │
+│       │   └── HYDROLOGICAL SYSTEM
+│       │       │
+│       │       ├── Surface-water systems
+│       │       ├── Groundwater systems
+│       │       └── Atmospheric-water processes
+│       │
+│       ├── GEOSPHERE
+│       │
+│       └── BIOSPHERE
+│
+├── BIOLOGICAL SYSTEMS
+│
+├── SOCIAL SYSTEMS
+│
+├── TECHNOLOGICAL SYSTEMS
+│
+└── SOCIOTECHNICAL SYSTEMS
+    │
+    └── WATER-SUPPLY SYSTEM

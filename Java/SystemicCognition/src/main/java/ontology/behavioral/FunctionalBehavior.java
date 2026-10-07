@@ -1,16 +1,18 @@
 package ontology.behavioral;
 
 
+import ontology.core.Process;
+
 public interface FunctionalBehavior extends Behavior {
 
-    enum InputReception {
+    enum InputReception implements Process {
         INTAKE,
         COLLECTION,
         ADMISSION,
         IMPORT
     }
 
-    enum Preparation {
+    enum Preparation implements Process{
         SORTING,
         ASSEMBLY,
         CONFIGURATION,
@@ -19,7 +21,7 @@ public interface FunctionalBehavior extends Behavior {
         INTEGRATION
     }
 
-    enum Transformation {
+    enum Transformation implements Process {
         PROCESSING,
         CONVERSION,
         FABRICATION,
@@ -28,7 +30,7 @@ public interface FunctionalBehavior extends Behavior {
         TREATMENT
     }
 
-    enum OutputProduction {
+    enum OutputProduction implements Process{
         MANUFACTURING,
         GENERATION,
         SERVICE_EXECUTION,
@@ -36,7 +38,7 @@ public interface FunctionalBehavior extends Behavior {
         FINALIZATION
     }
 
-    enum Distribution {
+    enum Distribution implements Process{
         ALLOCATION,
         ROUTING,
         DISPATCH,
@@ -46,7 +48,7 @@ public interface FunctionalBehavior extends Behavior {
         EXPORT
     }
 
-    enum Feedback {
+    enum Feedback implements Process{
         MONITORING,
         MEASUREMENT,
         INSPECTION,
@@ -55,7 +57,7 @@ public interface FunctionalBehavior extends Behavior {
         REPORTING
     }
 
-    enum Adaptation {
+    enum Adaptation implements Process{
         ADJUSTMENT,
         TUNING,
         RECONFIGURATION,
@@ -64,7 +66,7 @@ public interface FunctionalBehavior extends Behavior {
         ADAPTATION
     }
 
-    enum Maintenance {
+    enum Maintenance implements Process{
         CLEANING,
         SERVICING,
         REPAIR,
@@ -73,7 +75,7 @@ public interface FunctionalBehavior extends Behavior {
         UPKEEP
     }
 
-    enum Growth {
+    enum Growth implements Process{
         SCALING,
         CAPACITY_BUILDING,
         EXPANSION,
@@ -81,7 +83,7 @@ public interface FunctionalBehavior extends Behavior {
         DIVERSIFICATION
     }
 
-    enum Emergence {
+    enum Emergence implements Process{
         FORMATION,
         SELF_ORGANIZATION,
         INNOVATION,
@@ -89,7 +91,7 @@ public interface FunctionalBehavior extends Behavior {
         HYBRIDIZATION
     }
 
-    enum Replication {
+    enum Replication implements Process{
         REPRODUCTION,
         DUPLICATION,
         CLONING,
@@ -97,7 +99,7 @@ public interface FunctionalBehavior extends Behavior {
         PROLIFERATION
     }
 
-    enum Dissolution {
+    enum Dissolution implements Process{
         RETIREMENT,
         PHASING_OUT,
         DECOMMISSIONING,
