@@ -1,0 +1,328 @@
+# Proposed ontology for human and environmental states.
+# Status: application-level taxonomy, not a universal scientific standard.
+# Design principle: distinguish state types, change operations, and influence relationships.
+
+ontology:
+  id: HumanAndEnvironmentalStateOntology
+  label: Human and Environmental State Ontology
+  language: en
+  status: proposed
+  version: "1.0"
+  description: >
+    A modular taxonomy for describing human states, environmental states,
+    and relationships through which stimuli such as music may influence them.
+  modeling_principles:
+    - State categories are distinct from processes, events, and change operations.
+    - Categories may overlap; classification depends on the intended analytical purpose.
+    - A state may be objective, perceived, or relational/collective.
+    - Influence does not imply improvement, harm, or a uniform effect across people or contexts.
+    - Domain-specific subclasses should be extendable without changing the top-level model.
+
+  upper_classes:
+    - id: State
+      label: State
+      definition: A condition or configuration of an entity or system at a given time.
+      subclasses:
+        - HumanState
+        - EnvironmentalState
+
+    - id: HumanState
+      label: Human State
+      parent: State
+      definition: A condition of an individual person, including psychological, physiological, behavioral, or functional conditions.
+      subclasses:
+        - EmotionalAffectiveState
+        - CognitiveState
+        - PhysiologicalState
+        - MotorState
+        - MemoryRelatedState
+        - StressArousalState
+        - MotivationalState
+        - SocialInterpersonalState
+
+    - id: EnvironmentalState
+      label: Environmental State
+      parent: State
+      definition: A condition of a physical, acoustic, perceived, social, or activity setting.
+      subclasses:
+        - AtmosphericAffectiveState
+        - SituationalTensionState
+        - SocialClimateState
+        - AcousticState
+        - PhysicalClimaticState
+        - CollectiveActivityArousalState
+        - PerceptualAttentionalCondition
+        - SafetyThreatCondition
+        - OrganizationalFunctionalState
+        - TemporalDynamicState
+
+  human_state_categories:
+    - id: EmotionalAffectiveState
+      parent: HumanState
+      definition: An individual's affective condition or emotional experience.
+      examples: [happiness, sadness, nostalgia, calmness, excitement, frustration]
+      associated_disciplines: [psychology, affective_science, music_psychology]
+      example_change_verbs: [evoke, intensify, alleviate, regulate, stabilize]
+      notes:
+        - Emotional states may co-occur with physiological arousal.
+        - The same musical stimulus may produce different responses across listeners.
+
+    - id: CognitiveState
+      parent: HumanState
+      definition: A condition related to attention, alertness, mental workload, or ongoing cognition.
+      examples: [focused_attention, distraction, mental_alertness, cognitive_overload, perceived_clarity]
+      associated_disciplines: [cognitive_psychology, cognitive_science, music_cognition]
+      example_change_verbs: [focus, distract, stimulate, facilitate, impair, modulate]
+
+    - id: PhysiologicalState
+      parent: HumanState
+      definition: A measurable or inferred bodily condition.
+      examples: [heart_rate_level, blood_pressure_level, respiratory_rate, autonomic_arousal, muscle_tension]
+      associated_disciplines: [physiology, psychophysiology, neuroscience]
+      example_change_verbs: [increase, decrease, elevate, lower, modulate, regulate]
+      notes:
+        - Record the measurement, unit, time window, and evidence when available.
+
+    - id: MotorState
+      parent: HumanState
+      definition: A condition of bodily movement, motor readiness, or movement coordination.
+      examples: [motor_readiness, movement_coordination, rhythmic_synchronization, perceived_exertion]
+      associated_disciplines: [motor_control, kinesiology, neuroscience, music_cognition]
+      example_change_verbs: [coordinate, synchronize, facilitate, energize, entrain]
+
+    - id: MemoryRelatedState
+      parent: HumanState
+      definition: A condition or outcome involving memory encoding, retrieval, or accessibility.
+      examples: [autobiographical_recollection, memory_accessibility, recall_performance, encoding_condition]
+      associated_disciplines: [cognitive_psychology, memory_research, music_psychology]
+      example_change_verbs: [cue, evoke, facilitate, reinforce, interfere_with]
+      notes:
+        - Memory retrieval is a process; a retrieved memory or level of accessibility is better represented as a state or outcome.
+
+    - id: StressArousalState
+      parent: HumanState
+      definition: An individual's stress-related condition or level of arousal.
+      examples: [perceived_stress, relaxation, tension, vigilance, heightened_arousal]
+      associated_disciplines: [psychology, psychophysiology, stress_research]
+      example_change_verbs: [alleviate, reduce, heighten, trigger, modulate]
+
+    - id: MotivationalState
+      parent: HumanState
+      definition: An individual's readiness, willingness, or drive to engage in an action or task.
+      examples: [task_engagement, willingness_to_act, persistence, motivational_intensity]
+      associated_disciplines: [motivation_science, psychology, music_psychology]
+      example_change_verbs: [motivate, stimulate, encourage, reinforce, inhibit]
+
+    - id: SocialInterpersonalState
+      parent: HumanState
+      definition: A person's experienced or enacted condition in relation to other people.
+      examples: [sense_of_belonging, perceived_social_connection, interpersonal_trust, social_withdrawal]
+      associated_disciplines: [social_psychology, sociology, music_psychology]
+      example_change_verbs: [connect, encourage, strengthen, inhibit, foster]
+      notes:
+        - Group-level properties may instead be modeled as RelationalCollectiveEnvironmentalState.
+
+  environmental_state_categories:
+    - id: AtmosphericAffectiveState
+      parent: EnvironmentalState
+      definition: The perceived emotional character or ambience of a setting.
+      examples: [peaceful_atmosphere, tense_atmosphere, ominous_atmosphere, festive_atmosphere, melancholic_atmosphere]
+      state_kind: perceived
+      associated_disciplines: [environmental_psychology, music_psychology, film_sound_studies]
+      example_change_verbs: [create, establish, evoke, intensify, alter, sustain, transform]
+
+    - id: SituationalTensionState
+      parent: EnvironmentalState
+      definition: Perceived tension associated with uncertainty, anticipation, conflict, or possible danger in a situation or narrative.
+      examples: [mounting_tension, suspense, anticipation, unease, narrative_conflict]
+      state_kind: perceived_or_relational
+      associated_disciplines: [affective_science, music_cognition, film_studies, narrative_studies]
+      example_change_verbs: [build, heighten, sustain, intensify, relieve, resolve]
+      notes:
+        - Tension may be experienced by a person, attributed to a scene, or arise between social participants; annotate the target explicitly.
+
+    - id: SocialClimateState
+      parent: EnvironmentalState
+      definition: A prevailing pattern or perceived quality of interaction in a group or shared setting.
+      examples: [cooperative_climate, hostile_climate, welcoming_climate, competitive_climate, cohesive_climate]
+      state_kind: relational_or_collective
+      associated_disciplines: [social_psychology, sociology, organizational_psychology]
+      example_change_verbs: [foster, encourage, reinforce, soften, disrupt, polarize]
+
+    - id: AcousticState
+      parent: EnvironmentalState
+      definition: The physical sound conditions of a space or the acoustic configuration present in it.
+      examples: [low_sound_level, high_sound_level, reverberant_condition, acoustic_masking, dense_soundscape]
+      state_kind: objective_or_measured
+      associated_disciplines: [acoustics, architectural_acoustics, environmental_noise_research]
+      example_change_verbs: [amplify, attenuate, mask, increase, decrease, reverberate]
+      notes:
+        - Distinguish the physical acoustic condition from a person's perception of that condition.
+
+    - id: PhysicalClimaticState
+      parent: EnvironmentalState
+      definition: Physical or climatic conditions of an environment.
+      examples: [temperature_condition, humidity_level, illumination_level, air_quality, spatial_density]
+      state_kind: objective_or_measured
+      associated_disciplines: [environmental_science, climatology, building_science]
+      example_change_verbs: [increase, decrease, raise, lower, alter]
+      notes:
+        - Music generally has no substantial direct effect on most physical or climatic conditions; avoid asserting causal influence without evidence.
+
+    - id: CollectiveActivityArousalState
+      parent: EnvironmentalState
+      definition: The overall level of activity, arousal, or coordination expressed by a group.
+      examples: [collective_excitement, subdued_group_activity, group_agitation, coordinated_dancing]
+      state_kind: relational_or_collective
+      associated_disciplines: [social_psychology, collective_behavior, music_psychology]
+      example_change_verbs: [energize, agitate, calm, mobilize, synchronize, coordinate]
+
+    - id: PerceptualAttentionalCondition
+      parent: EnvironmentalState
+      definition: A condition of a setting that affects what occupants can notice, hear, or attend to.
+      examples: [attention_capturing, distracting, immersive, acoustically_masked, perceptually_salient]
+      state_kind: objective_or_perceived
+      associated_disciplines: [environmental_psychology, cognitive_psychology, psychoacoustics, human_factors]
+      example_change_verbs: [capture, distract, mask, highlight, obscure, facilitate]
+
+    - id: SafetyThreatCondition
+      parent: EnvironmentalState
+      definition: An actual or perceived condition concerning safety, hazard, or threat in a setting.
+      examples: [objectively_safe_condition, hazardous_condition, perceived_threat, perceived_security]
+      state_kind: objective_or_perceived
+      associated_disciplines: [risk_science, environmental_psychology, safety_science]
+      example_change_verbs: [increase, reduce, signal, suggest, obscure]
+      notes:
+        - A change in perceived threat does not necessarily change objective risk.
+
+    - id: OrganizationalFunctionalState
+      parent: EnvironmentalState
+      definition: The degree to which a setting supports or obstructs its intended activities.
+      examples: [conducive_to_conversation, conducive_to_concentration, disruptive_to_communication, orderly_condition]
+      state_kind: functional
+      associated_disciplines: [human_factors, ergonomics, environmental_psychology, building_science]
+      example_change_verbs: [facilitate, support, obstruct, disrupt, improve, impair]
+
+    - id: TemporalDynamicState
+      parent: EnvironmentalState
+      definition: A pattern or condition concerning the pace, regularity, or predictability of change in a setting.
+      examples: [rapidly_changing, rhythmically_regular, unpredictable, slow_paced, dynamically_stable]
+      state_kind: dynamic_or_temporal
+      associated_disciplines: [systems_science, dynamical_systems, music_cognition]
+      example_change_verbs: [accelerate, slow, regularize, destabilize, synchronize, sustain]
+
+  relationship_model:
+    - id: Influences
+      source_type: EntityOrStimulus
+      target_type: State
+      definition: A causal or contributing relationship in which a source affects a target state.
+    - id: PerceivedAs
+      source_type: SituationOrEnvironment
+      target_type: PerceivedEnvironmentalState
+      definition: A perceiver interprets a situation or environment as having a particular quality.
+    - id: OccursIn
+      source_type: EventOrProcess
+      target_type: Environment
+      definition: An event or process takes place in an environment.
+    - id: CoOccursWith
+      source_type: State
+      target_type: State
+      definition: Two states occur together without asserting that one causes the other.
+    - id: MediatedBy
+      source_type: InfluenceRelationship
+      target_type: Mechanism
+      definition: An influence operates partly through a specified mechanism.
+
+  change_operations:
+    - id: Induction
+      label: Induction
+      definition: Bringing a state into existence or initiating it.
+      example_verbs: [induce, elicit, trigger, evoke, create]
+    - id: Increase
+      label: Increase
+      definition: Raising the intensity, magnitude, frequency, or level of a state.
+      example_verbs: [increase, heighten, intensify, amplify, elevate]
+    - id: Decrease
+      label: Decrease
+      definition: Lowering the intensity, magnitude, frequency, or level of a state.
+      example_verbs: [decrease, reduce, diminish, lower, attenuate]
+    - id: Regulation
+      label: Regulation
+      definition: Modifying a state or its variability through control or adjustment.
+      example_verbs: [regulate, modulate, adjust, control]
+    - id: Stabilization
+      label: Stabilization
+      definition: Maintaining or restoring relative stability in a state.
+      example_verbs: [stabilize, sustain, maintain, steady]
+    - id: Disruption
+      label: Disruption
+      definition: Interrupting, impairing, or destabilizing a state or condition.
+      example_verbs: [disrupt, disturb, impair, destabilize, interfere_with]
+    - id: Coordination
+      label: Coordination
+      definition: Bringing activities or patterns into a coordinated relationship.
+      example_verbs: [coordinate, synchronize, entrain, align]
+    - id: Transformation
+      label: Transformation
+      definition: Changing the qualitative character or configuration of a state.
+      example_verbs: [alter, transform, shift, convert]
+
+  annotation_schema:
+    required_fields:
+      - source
+      - relationship
+      - target_state_id
+      - context
+    optional_fields:
+      - person_or_group
+      - state_kind
+      - change_operation
+      - direction
+      - intensity
+      - duration
+      - measurement
+      - unit
+      - evidence
+      - uncertainty
+    allowed_state_kinds: [objective, measured, perceived, relational, collective, functional, dynamic]
+    direction_values: [increase, decrease, onset, offset, stabilization, transformation, unknown]
+    notes:
+      - Annotate a verb sense in context rather than assigning every verb to one fixed class.
+      - Separate linguistic classification (for example, causative verb) from the state affected.
+      - Store empirical evidence and uncertainty for scientific claims.
+
+  music_influence_examples:
+    - source: suspenseful_soundtrack
+      relationship: Influences
+      target_state_id: SituationalTensionState
+      change_operation: Increase
+      context: "A suspenseful soundtrack heightens tension in a film scene."
+      interpretation: "The scene is perceived as more tense; objective physical danger need not change."
+
+    - source: background_music
+      relationship: Influences
+      target_state_id: CognitiveState
+      change_operation: Transformation
+      context: "Background music may alter a listener's attentional state."
+      interpretation: "The effect depends on the listener, music, task, and context."
+
+    - source: rhythmic_music
+      relationship: Influences
+      target_state_id: CollectiveActivityArousalState
+      change_operation: Coordination
+      context: "Rhythmic music can help synchronize group movement."
+      interpretation: "The claim concerns coordination, not necessarily improved performance."
+
+    - source: loud_music
+      relationship: Influences
+      target_state_id: AcousticState
+      change_operation: Increase
+      context: "Loud music raises the sound level in a room."
+      interpretation: "This is a physical acoustic change that can be measured."
+
+  design_notes:
+    - "The ten environmental categories are a proposed application taxonomy, not an exhaustive scientific standard."
+    - "The human categories and environmental categories are not perfectly mutually exclusive; model relational and group-level states explicitly when needed."
+    - "A perceived atmosphere may be represented as an EnvironmentalState, while an individual's felt emotion is represented as a HumanState."
+    - "Avoid representing a process such as memory retrieval or synchronization as a state unless the model specifically records its ongoing condition."
+    - "Keep State, Process, Event, ChangeOperation, and InfluenceRelationship as separate ontological concepts."

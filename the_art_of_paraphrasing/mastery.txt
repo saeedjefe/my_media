@@ -1,75 +1,89 @@
 semantic labelling:
 part 1: the ultimate power 
+
 p1: an unknown potential that occurs in humans under unusual states of consciousness 
-p2: changes in mental states resulting in new ideas, creativity and inspiration 
-p3: the transient experience seeming elusive and mysterious
-p4: the importance of clearing up the mystery
-p5: the definition of mastery and its accessibility to  everyone 
-p6: an illustration of the process through an example 
-p7: the impediments to the learning process
-p8: the marvel of patience and persistence 
-p9: the transition from a student to a confident and creative practitioner who develops his own unique style
-p10: a new milestone at which rule are rewritten 
-p11: the three-step path toward the ultimate form of power
-p12: the role played by intuition 
-p13: when thinking and rationality become hurdles 
-p14: the activation of a latent potential 
-p15: search for the elusive answer 
-p16: When easy answers and shortcuts create an illusion of mastery
-p17: The masters’ possession of genuine power amid the pursuit of fantasies
-p18: when wrong assumptions lead to mislabeling 
-  
+
 In the first part of Mastery, titled "The Ultimate Power," Robert Greene introduces an innate potential that exists
 within all of us and argues that “it is the source of the greatest achievements and discoveries in history.”
 However, in the absence of tension, this “form of power and intelligence” remains inaccessible. Once activated,
 it profoundly affects our mental state during goal-oriented tasks as well as our social dynamics, with other
 people seeming less resistant to us.
 
+p2: changes in mental states resulting in new ideas, creativity and inspiration
+ 
 What keeps us from this unusual state of consciousness, he claims, is the fact that we often "live in an interior
 world of dreams, desires, and obsessive thoughts." But the need to achieve something with practical consequences
 might impel us to enter "a period of exceptional creativity."
 
+p3: the transient experience seeming elusive and mysterious
+
 However, as this period of "exceptional creativity" is transient, the experience might seem elusive or mysterious.
 Therefore, he places a particular emphasis on the importance of unraveling the mystery.
+
+p4: the importance of clearing up the mystery
 
 Greene challenges the conventional wisdom that brilliance and creativity are the result of innate talent or
 exceptional circumstances, arguing that this feeling could be systematically analyzed, manufactured and even
 maintained. 
 
+p5: the definition of mastery and its accessibility to  everyone 
+
 He then coins the term "mastery," defining it as "the feeling that we have a greater command of reality, people,
 and ourselves." This feeling, he claims, is possessed by "masters." 
 
+p6: an illustration of the process through an example
+ 
 He subsequently maintains that a simple process, leading to "this feeling," is accessible to all of us, explaining
 the process of learning a piano and entering a new job situation as illustrations.
- 
+
+p7: the impediments to the learning process
+
 Despite the initial excitement, transient emotions such as boredom, fear, or impatience may impede the process,
 ultimately bringing it to a complete halt. By contrast, the effective management of such emotional states, coupled
 with sustained persistence, typically culminates in the acquisition of the skills and self-confidence necessary for
 the process to be sustained.
-  
+
+p8: the marvel of patience and persistence
+
+By contrast, the effective management of such emotional states, coupled with sustained persistence, typically
+culminates in the acquisition of the skills and self-confidence necessary for the process to be sustained.
+
+
+
+p9: the transition from a student to a confident and creative practitioner who develops his own unique style
+
 According to Greene, the sustained progression of the process subsequently results in the transition "from student
 to practitioner," a turning point at which individuality begins to assert itself through the expansion of knowledge
 and the incorporation of immediate feedback.
 
+
+
+p10: a new milestone at which rule are rewritten
+ 
 Finally, he refers to the previous illustrations to provide a metaphorical description of the final
 stage, "mastery." In fact, he states that the piano keyboard becomes "part of our nervous system, our fingertips,"
 while in the workplace, "a feel for the group dynamic" leads to a deeper insight into other people and the 
 anticipation of their reactions. Having drawn such an analogy, he claims that so deep is our understanding of the
 rules that "we can now be the ones to break or rewrite them."
- 
-He then presents a temporal framework for “the process,” with its first, second, and final stages labelled
 
+p11: the three-step path toward the ultimate form of power
+
+He then presents a temporal framework for “the process,” with its first, second, and final stages labeled
 Apprenticeship, Creative Active, and Mastery, respectively. To provide a metaphorical description, the author refers
 to machinery whose parts are unfamiliar to the apprentice, who is portrayed as an outsider. In the next phase, not
 only the parts but also the connections are plainly visible to the advanced learner, who is one step away from
 Mastery. Masters, on the other hand, can see the big picture due to their “degree of knowledge, experience, and
 focus.”
 
+p12: the role played by intuition
+ 
 After this metaphorical explanation of the process, based on temporal progression, Greene brings up the idea that
 this power could be considered intuition, which he defines as “a sudden and immediate seizing of what is real,
 without the need for words and formulas.” This conceptualization of intuition, Greene believes, could reveal the
 missing pieces to us.
 
+p13: when thinking and rationality become hurdles
+ 
 He then compares an animal's learning process to that of humans, stating that the former largely depends on
 intuition and the latter on thinking and rationality. According to Greene, this way of learning disconnects humans 
 from the world. More importantly, he claims that "intuitive powers at the mastery level are a mix of the
@@ -78,30 +92,43 @@ although we possess such powers during childhood, they are "generally drummed ou
 as we grow older. By contrast, Greene argues that masters "return to this childlike state," albeit with "degrees of
 spontaneity and access to the unconscious."
 
+p14: the activation of a latent potential 
+
 Interestingly, Greene proposes that at the end of the three-step process is where we can gain
 consistent access to this form of power, which we might have had glimpses of but could not hold on to. Indeed,
-the fact that the world honors creativity and the unravelling of "new aspects of reality" results in the 
+the fact that the world honors creativity and the unraveling of "new aspects of reality" results in the 
 attainment of "practical tremendous power" in various social settings.
-  
+
+p15: search for the elusive answer
+
 Throughout history, in their pursuit of  alchemy , people have practiced mystical rituals, taking drugs,
 chanting incantations, and falling into trances so that they could reach that level of
-consciousness and sense of control.  
+consciousness and sense of control. 
+
+p16: When easy answers and shortcuts create an illusion of mastery
 
 Greene believes that the hunger for a "simple formula for success" could be traced back to these
 practices. He states that although "there is a grain of truth and practicality on all of these
 efforts," they have led to the stereotype of "the effortless path to practical power."
 
-However, all the modern comforts, which we may take for granted, are the result of "the material effects" of such
-power throughout history, claims Greene.  
 
+p17: The masters’ possession of genuine power amid the pursuit of fantasies
+
+However, all the modern comforts, which we may take for granted, are the result of "the material effects" of such
+power throughout history, claims Greene. 
+
+p18: when wrong assumptions lead to mislabeling
+ 
 In fact, Greene argues that the imaginary wall people have created around this power is called genius, a term that
 makes us believe that it is not possessed by everyone. What contradicts this assumption, however, is that the human
-brain is the result of six million years of development.
+brain is the result of six million years of development. 
 
 
 
 
 
+
+TAXONOMY:
 
 
 Intelligence is a cognitive ability.  

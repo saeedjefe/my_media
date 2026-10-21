@@ -1,0 +1,42 @@
+```yaml
+id: State
+name: State
+type: OntologicalConcept
+
+definition: >
+  A state is a condition or configuration of an entity or system
+  at a particular point or interval in time.
+
+properties:
+  - id: state_bearer
+    name: StateBearer
+    description: The entity or system whose state is being described.
+    required: true
+
+  - id: state_characteristics
+    name: StateCharacteristics
+    description: The properties or dimensions that characterize the state.
+    required: false
+
+  - id: temporal_scope
+    name: TemporalScope
+    description: The point or interval of time during which the state holds.
+    required: false
+
+  - id: state_value
+    name: StateValue
+    description: The value or qualitative description of a state dimension.
+    required: false
+
+relationships:
+  - type: Characterizes
+    target: Entity
+
+  - type: CanChangeThrough
+    target: StateChange
+
+notes:
+  - A state describes a condition, not the process that produces it.
+  - A state is distinct from an event, process, behavior, and state-change operation.
+  - A state may describe a human, an environment, an organization, or another system.
+

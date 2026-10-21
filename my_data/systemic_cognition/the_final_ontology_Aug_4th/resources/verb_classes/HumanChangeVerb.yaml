@@ -1,0 +1,252 @@
+# HumanChangeVerb
+# A task-specific semantic category for verbs that describe changes in a human
+# state, function, or activity. This is an application ontology, not a claim
+# that all members form one standardized lexical-semantic class.
+
+id: HumanChangeVerb
+label: Human-change verb
+type: VerbCategory
+status: proposed
+language: en
+
+definition: >
+  A verb whose meaning, in a given use, represents causing, undergoing,
+  regulating, or describing a change in a human's state, functional capacity
+  or performance, or activity.
+
+scope:
+  included:
+    - Changes in physiological states
+    - Changes in cognitive states
+    - Changes in emotional or affective states
+    - Changes in functional capacity or performance
+    - Changes in activity, movement, or coordination
+  excluded_or_separately_classified:
+    - Verbs that merely describe a stable state without implying change
+    - Verbs that describe changes only in non-human entities, unless the human
+      effect is explicitly represented
+    - Purely evaluative verbs when no change in a human state, function, or
+      activity is entailed
+
+classification_principle: >
+  Classify the verb according to its meaning in context, not solely according
+  to its dictionary lemma. A verb may receive more than one application-level
+  classification. Keep linguistic properties (such as causativity and
+  event structure) separate from the domain affected (such as cognition or
+  physiology).
+
+subclasses:
+  - id: HumanStateChangeVerb
+    label: Human state-change verb
+    definition: >
+      A verb that denotes a transition in a person's state, or the causing
+      of such a transition.
+    examples:
+      - calm
+      - arouse
+      - awaken
+      - weaken
+      - relax
+      - induce
+      - evoke
+      - alter
+      - shift
+    notes: >
+      Some verbs listed here, such as induce and evoke, describe bringing
+      about a state or response rather than lexicalizing a specific state
+      transition in every use.
+
+  - id: HumanFunctionalChangeVerb
+    label: Human functional-change verb
+    definition: >
+      A verb that describes a change in a person's functional capacity or
+      performance, including improvement, impairment, facilitation, or
+      interference.
+    subclasses:
+      - id: CognitivePerformanceChangeVerb
+        label: Cognitive-performance-change verb
+        examples:
+          - enhance
+          - improve
+          - facilitate
+          - impair
+          - disrupt
+          - hinder
+          - interfere_with
+      - id: PhysicalPerformanceChangeVerb
+        label: Physical-performance-change verb
+        examples:
+          - improve
+          - facilitate
+          - impair
+          - hinder
+          - optimize
+
+  - id: HumanActivityChangeVerb
+    label: Human activity-change verb
+    definition: >
+      A verb that describes the initiation, cessation, alteration, or
+      coordination of a person's activity or movement.
+    subclasses:
+      - id: ActivityInitiationVerb
+        label: Activity-initiation verb
+        examples:
+          - initiate
+          - activate
+          - mobilize
+          - stimulate
+      - id: ActivityTerminationVerb
+        label: Activity-termination verb
+        examples:
+          - stop
+          - cease
+          - interrupt
+      - id: HumanCoordinationVerb
+        label: Human-coordination verb
+        examples:
+          - synchronize
+          - coordinate
+          - align
+          - entrain
+
+semantic_operations:
+  - id: Increase
+    label: Increase in magnitude or intensity
+    examples: [increase, elevate, raise, heighten, intensify, amplify]
+  - id: Decrease
+    label: Decrease in magnitude or intensity
+    examples: [decrease, reduce, lower, diminish, attenuate, alleviate]
+  - id: Induction
+    label: State or response induction
+    examples: [induce, evoke, elicit, trigger, provoke]
+  - id: Regulation
+    label: Regulation or modulation
+    examples: [regulate, modulate, adjust, stabilize, maintain, sustain]
+  - id: Activation
+    label: Activation or stimulation
+    examples: [activate, stimulate, arouse, energize, mobilize]
+  - id: Relaxation
+    label: Relaxation or calming
+    examples: [relax, soothe, calm, ease, relieve]
+  - id: FunctionalEnhancement
+    label: Functional enhancement
+    examples: [enhance, improve, strengthen, facilitate, optimize]
+  - id: FunctionalImpairment
+    label: Functional impairment or interference
+    examples: [impair, disrupt, undermine, hinder, inhibit, obstruct]
+  - id: Coordination
+    label: Synchronization or coordination
+    examples: [synchronize, entrain, coordinate, align]
+  - id: GeneralModification
+    label: General modification
+    examples: [alter, change, modify, shift, transform]
+
+domains:
+  - Physiological
+  - Cognitive
+  - EmotionalAffective
+  - PhysicalPerformance
+  - ActivityMovement
+
+annotation_fields:
+  verb_lemma:
+    description: Base form of the verb.
+    required: true
+  sense_in_context:
+    description: The meaning of the verb in the specific sentence or use.
+    required: true
+  target:
+    description: Human state, function, performance, or activity being changed.
+    required: true
+  domain:
+    description: Domain affected; choose one or more values from domains.
+    required: true
+  semantic_operation:
+    description: Change operation expressed in context, if identifiable.
+    required: false
+  direction:
+    allowed_values:
+      - increase
+      - decrease
+      - stabilization
+      - qualitative_shift
+      - coordination
+      - unspecified
+    required: false
+  causativity:
+    allowed_values:
+      - causative
+      - inchoative
+      - noncausal_process
+      - context_dependent
+    required: false
+  valence:
+    allowed_values:
+      - beneficial
+      - detrimental
+      - mixed
+      - neutral
+      - context_dependent
+    required: false
+  evidence_or_measure:
+    description: Observable indicator or evidence for the asserted change.
+    required: false
+
+examples_in_context:
+  - sentence: "Music calms the listener."
+    verb_lemma: calm
+    target: emotional_arousal
+    domain: EmotionalAffective
+    semantic_operation: Relaxation
+    direction: decrease
+    causativity: causative
+    valence: context_dependent
+
+  - sentence: "Music may increase heart rate."
+    verb_lemma: increase
+    target: heart_rate
+    domain: Physiological
+    semantic_operation: Increase
+    direction: increase
+    causativity: causative
+    valence: context_dependent
+
+  - sentence: "Background lyrics may impair verbal recall."
+    verb_lemma: impair
+    target: verbal_recall_performance
+    domain: Cognitive
+    semantic_operation: FunctionalImpairment
+    direction: decrease
+    causativity: causative
+    valence: detrimental
+
+  - sentence: "Music can synchronize movement with a beat."
+    verb_lemma: synchronize
+    target: movement_timing
+    domain: ActivityMovement
+    semantic_operation: Coordination
+    direction: coordination
+    causativity: context_dependent
+    valence: context_dependent
+
+relations:
+  broader_than:
+    - HumanStateChangeVerb
+    - HumanFunctionalChangeVerb
+    - HumanActivityChangeVerb
+  related_to:
+    - ChangeOfStateVerb
+    - CausativeVerb
+    - PsychVerb
+    - PhysiologicalProcessVerb
+    - CognitiveProcessVerb
+  modeling_note: >
+    These related categories are not interchangeable. HumanChangeVerb is
+    the broad application category; established lexical-semantic labels
+    should be stored as separate annotations where appropriate.
+
+design_notes:
+  - "This is a proposed application taxonomy, not a standardized linguistic ontology."
+  - "Subclass membership is sense- and context-sensitive."
+  - "Semantic operations and affected domains are separate dimensions."
+  - "Do not infer beneficial outcomes merely from verbs such as enhance or regulate without context."
