@@ -1,0 +1,66 @@
+metadata:
+  id: StateOntology
+  label: State Ontology
+  status: proposed
+  version: "1.0"
+  language: en
+
+modeling_principles:
+  - "a state is distinct from a process, a behavior, or an event"
+  - "a state describes the condition or configuration of an entity or a system at a given time."
+
+upper_classes:  
+  - id: State
+    label: State
+    definition: >
+      the condition or configuration of a system or an entity at a given time or interval
+
+  - id: HumanState
+    label: Human State
+    parent: State
+    definition: >
+      the condition or configuration of a human at a given time or interval
+    subclasses:
+      - PhysiologicalState
+      - MentalState	 
+      - SocialRelationalState
+      - SensoriMotorState
+      - ConsciousnessState  	
+          	
+  - id: EnvironmentalState
+    label: Environmental State
+    parent: State
+    definition: >	
+      the condition or configuration of an environment at a given time	  
+    subclasses:
+      - AbioticEnvironmentalState
+      - BiologicalEnvironmentalState
+      - BuiltEnvironmentalState
+      - SocialEnvironmentalState
+
+  - id: PhysiologicalState
+    label: Physiological State
+    parent: HumanState
+    definition: >
+	...
+    		 
+  - id: MentalState
+    label: Mental State
+    parent: HumanState
+    definition: >
+	...
+
+  - id: SocialRelationalState
+    label: Social Relational State
+    parent: HumanState
+    definition: >
+	...
+
+  - id: SensoriMotorState
+    label: Sensory Motor State
+    parent: HumanState
+    definition: >
+	... 	       					
+
+
+     			

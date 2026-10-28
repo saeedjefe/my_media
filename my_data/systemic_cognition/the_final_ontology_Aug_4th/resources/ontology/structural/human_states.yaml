@@ -1,0 +1,49 @@
+ontology:
+	id: State
+	label: sate
+	language: en
+	version: "1.0"
+	description: <
+	State, an element of systems thinking, is distinct from events, processes, behaviors, and
+	entities in that it refers to the condition an entity is.  
+	modling_principles:
+state:
+	id: State
+	label: state
+	definition: a condition in which an entity is
+	subclasses:
+		- human state
+
+	
+	huamn_ state: 
+		id: HumanState
+		label: human state
+		parent: State
+		definition: a condition in which a human being is
+		subclasses:
+			-cognitive state
+			-pyhsical state 
+			-emotinal state
+
+
+		cognitive_state:
+			id: CognitiveState
+			label: cognitive state
+			parent: HumanState
+			subclasses:
+				-attention
+
+			attention: 
+				id: Attention
+				label: attention
+				parrent: CogntiveState
+				subclasses:
+					-endogenous attention
+					-exogenous attention
+
+				endogenous: 
+					id: EndogenousAttention
+					label: endogenous attention
+					parrent: attetion
+			
+		
