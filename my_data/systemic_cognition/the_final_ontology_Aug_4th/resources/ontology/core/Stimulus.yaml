@@ -5,13 +5,14 @@ metadata:
   version: "1.0"
   status: proposed
   language: en
+  
 
 modeling_principles:
   - "Stimuli may originate from exogenous or endogenous changes."
   - "Stimuli are classified according to their sensory modality."
   - "Stimuli may have multiple systemic roles."
   - "Classification dimensions are distinct from taxonomic classes."
-
+  
 abstract_classes:
 
   - id: Stimulus
