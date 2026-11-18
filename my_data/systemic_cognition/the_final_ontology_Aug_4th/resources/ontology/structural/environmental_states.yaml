@@ -1,0 +1,38 @@
+
+meta_data:
+  id: EnvironmentalState
+  label: Environmental State
+  status: proposed 
+  language: en
+  version: "1.0"
+
+principles:
+  - null
+
+abstract_classes:
+  id: PhysicalState
+  label: Physical State
+  parent: EnvironemntalState
+  defintion: null
+
+
+physical_states_classes:
+  id: AccousticState
+  label: AccousticState
+  parent: PhysicalState
+  defintion: null 
+
+  id: MechanicalState
+  label: Mechancial State
+  parent:  PhysicalState
+  defintion: null
+
+  id: Atmospheric
+
+  id: Hydrological
+
+  id: Theraml
+
+  id: Lighting 
+
+   

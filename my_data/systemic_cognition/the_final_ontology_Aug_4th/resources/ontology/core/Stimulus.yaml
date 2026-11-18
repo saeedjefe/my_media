@@ -1,0 +1,98 @@
+
+metadata:
+  id: StimulusOntology
+  label: Stimulus Ontology
+  version: "1.0"
+  status: proposed
+  language: en
+
+modeling_principles:
+  - "Stimuli may originate from exogenous or endogenous changes."
+  - "Stimuli are classified according to their sensory modality."
+  - "Stimuli may have multiple systemic roles."
+  - "Classification dimensions are distinct from taxonomic classes."
+
+abstract_classes:
+
+  - id: Stimulus
+    label: Stimulus
+    definition: >
+      An event, change, or form of energy capable of
+      activating a sensory or other responsive system.
+
+  - id: AuralStimulus
+    label: Aural Stimulus
+    is_a: Stimulus
+    definition: >
+      A stimulus that can be detected through the
+      auditory sensory system.
+
+  - id: VisualStimulus
+    label: Visual Stimulus
+    is_a: Stimulus
+
+  - id: TactileStimulus
+    label: Tactile Stimulus
+    is_a: Stimulus
+
+  - id: GustatoryStimulus
+    label: Gustatory Stimulus
+    is_a: Stimulus
+
+  - id: OlfactoryStimulus
+    label: Olfactory Stimulus
+    is_a: Stimulus
+
+classes:
+
+  - id: Music
+    label: Music
+    is_a: AuralStimulus
+    definition: >
+      An organized form of sound involving elements
+      such as rhythm, melody, harmony, and timbre.
+
+  - id: Speech
+    label: Speech
+    is_a: AuralStimulus
+
+  - id: EnvironmentalSound
+    label: Environmental Sound
+    is_a: AuralStimulus
+
+  - id: Noise
+    label: Noise
+    is_a: AuralStimulus
+
+classification_dimensions:
+
+  - id: MusicalStructure
+    label: Musical Structure
+    applies_to:
+      - Music
+
+  - id: CulturalTradition
+    label: Cultural Tradition
+    applies_to:
+      - Music
+
+  - id: PsychologicalFunction
+    label: Psychological Function
+    applies_to:
+      - Music
+
+  - id: AcousticProperties
+    label: Acoustic Properties
+    applies_to:
+      - Music
+
+  - id: Genre
+    label: Genre
+    applies_to:
+      - Music
+
+  - id: HistoricalAndGeographicalContext
+    label: Historical and Geographical Context
+    applies_to:
+      - Music
+

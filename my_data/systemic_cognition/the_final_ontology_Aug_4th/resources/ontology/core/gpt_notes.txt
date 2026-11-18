@@ -1,0 +1,466 @@
+Semantic Relations
+- Causation
+- Composition
+- Categorization
+- Correlation
+- Temporal relations
+
+Semantic Roles
+- Agent
+- Experiencer
+- Stimulus
+- Theme
+- Patient
+
+Lexical Semantics
+- Psychological verbs
+- Causative verbs
+- Experiencer-subject verbs
+- Experiencer-object verbs
+
+Pragmatic function	Purpose	Example
+Requesting	Asking someone to do something	Could you open the window?
+Persuading	Influencing someone's beliefs or actions	We should invest more in education.
+Emphasizing	Highlighting important information	Music is particularly important for children.
+Hedging	Reducing the strength of a claim	Music may improve concentration.
+Clarifying	Making an idea more understandable	In other words, music can influence emotions.
+Exemplifying	Introducing an example	For instance, classical music can be relaxing.
+Contrasting	Highlighting differences	However, not all music has the same effect.
+Conceding	Acknowledging an opposing point	Although music can be distracting, it can also improve concentration.
+Evaluating	Expressing an assessment	This development is particularly beneficial.
+
+
+
+
+Semantic analysis:
+- Music: subject.
+- May improve: modal verb phrase.
+- Cognitive performance: direct object.
+- The proposition expresses a possibility of improvement.
+Pragmatic analysis:
+- The speaker uses may to hedge the assertion.
+- The speaker avoids presenting the claim as an absolute fact.
+Another example:
+Admittedly, music can sometimes be distracting.
+
+- Semantically, the sentence expresses the possibility that music causes distraction.
+- Pragmatically, admittedly signals a concession or acknowledgment of a potentially opposing argument.
+
+
+Communicative Functions
+- Informing
+- Explaining
+- Describing
+- Arguing
+- Persuading
+
+Rhetorical / Discourse Modes
+- Expository
+- Explanatory
+- Descriptive
+- Argumentative
+- Persuasive
+
+Discourse Management
+- Exemplification
+- Contrast
+- Concession
+- Clarification
+- Topic development
+
+
+reasoning_types:
+  - id: DeductiveReasoning
+
+  - id: InductiveReasoning
+
+  - id: AbductiveReasoning
+
+  - id: AnalogicalReasoning
+discourse_modes:
+  - id: Expository
+  - id: Explanatory
+  - id: Descriptive
+  - id: Argumentative
+  - id: Persuasive
+
+pragmatic_functions:
+  - id: Informing
+  - id: Explaining
+  - id: Emphasizing
+  - id: Hedging
+  - id: Conceding
+  - id: Persuading
+
+My recommendation: For your linguistic ontology, distinguish SemanticRelationship from DiscourseRelation. The
+former describes relationships such as causation, composition, and categorization; the latter describes how
+propositions or larger discourse units relate to one another, such as claim–evidence, elaboration, and contrast.
+
+
+4. The distinction I want you to retain
+Consider three different questions:
+1. What cognitive operation is being performed? → Reasoning.
+2. What relationship exists between the meanings of the sentences? → Semantic relationship.
+3. How does the second sentence contribute to the development of the discourse? → Discourse relation.
+
+
+
+1. Syntactic Ontology
+   
+   Establish parts of speech, phrases, clauses, and sentence structures.
+2. Grammatical Function Ontology
+   
+   Establish how syntactic constituents function within phrases, clauses, and sentences.
+3. Semantic Ontology
+   
+   Establish semantic roles, semantic relationships, and propositional meaning.
+4. Lexical-Semantic Ontology
+   
+   Classify verbs and other lexical items, including their argument structures.
+5. Discourse and Rhetorical Ontology
+   
+   Establish how sentences and paragraphs are connected and developed.
+6. Pragmatic Ontology
+   
+   Establish communicative intentions, stance, and speech acts.
+7. Reasoning and Argumentation Ontology
+   Establish how claims are inferred, supported, evaluated, and challenged
+
+Ontology	Primary analytical unit	Main concern
+Syntactic	Words, phrases, clauses, sentences	Grammatical structure
+Grammatical Function	Constituents	Grammatical roles
+Lexical-Semantic	Lexical items	Word meaning and argument structure
+Semantic	Entities, events, propositions	Meaning and conceptual relationships
+Pragmatic	Utterances in context	Speaker intention and communicative functions
+Discourse	Sentences and larger text segments	Relationships and organization across textual units
+Reasoning	Premises and conclusions	Inferential processes
+
+
+ReasoningOntology
+1. InferentialReasoning
+- DeductiveReasoning
+- InductiveReasoning
+- AbductiveReasoning
+- AnalogicalReasoning
+
+2. GoalOrientedReasoning
+- PracticalReasoning
+- DecisionReasoning
+- PlanningReasoning
+- StrategicReasoning
+
+3. ExplanatoryAndCausalReasoning
+- CausalReasoning
+- ExplanatoryReasoning
+- DiagnosticReasoning
+- CounterfactualReasoning
+
+4. EvaluativeReasoning
+- CriticalReasoning
+- EthicalReasoning
+- ComparativeEvaluation
+- EvidenceEvaluation
+
+5. ProbabilisticReasoning
+- StatisticalReasoning
+- BayesianReasoning
+- ProbabilisticPrediction
+
+
+Separate supporting ontology: ReasoningOperations
+- Generalisation
+- Specification
+- Comparison
+- Classification
+- Decomposition
+- Synthesis
+- HypothesisFormation
+- EvidenceEvaluation
+- Prediction
+
+metadata:
+  id: ReasoningOntology
+  label: Reasoning Ontology
+  version: "1.0"
+  status: proposed
+
+reasoning_categories:
+
+  - id: InferentialReasoning
+    subclasses:
+      - DeductiveReasoning
+      - InductiveReasoning
+      - AbductiveReasoning
+      - AnalogicalReasoning
+
+  - id: GoalOrientedReasoning
+    subclasses:
+      - PracticalReasoning
+      - DecisionReasoning
+      - PlanningReasoning
+      - StrategicReasoning
+
+  - id: ExplanatoryAndCausalReasoning
+    subclasses:
+      - CausalReasoning
+      - ExplanatoryReasoning
+      - DiagnosticReasoning
+      - CounterfactualReasoning
+
+  - id: EvaluativeReasoning
+    subclasses:
+      - CriticalReasoning
+      - EthicalReasoning
+      - ComparativeEvaluation
+
+  - id: ProbabilisticReasoning
+    subclasses:
+      - StatisticalReasoning
+      - BayesianReasoning
+
+reasoning_operations:
+  - Generalisation
+  - Specification
+  - Comparison
+  - Classification
+  - Decomposition
+  - Synthesis
+  - HypothesisFormation
+  - EvidenceEvaluation
+  - Prediction
+public interface Reasoning {
+}
+
+public interface InferentialReasoning extends Reasoning {
+}
+
+public interface GoalOrientedReasoning extends Reasoning {
+}
+
+public interface ProbabilisticReasoning extends Reasoning {
+}
+
+public class PracticalReasoning
+        implements GoalOrientedReasoning {
+}
+
+DiscourseRelation
+├── Elaboration
+├── Explanation
+├── Evidence
+├── Contrast
+├── Concession
+├── Consequence
+├── Restatement
+└── Exemplification
+
+
+Discourse Relations
+Proposed classification for textual analysis
+
+1. Elaboration Relations
+- Elaboration
+- Specification
+- Exemplification
+- Restatement
+- Generalisation
+- Enumeration
+
+2. Explanatory and Causal Relations
+- Explanation
+- Cause
+- Result / Consequence
+- Purpose
+- Justification
+
+3. Contrastive Relations
+- Contrast
+- Concession
+- Antithesis
+- Alternative
+- Exception
+
+4. Temporal Relations
+- Sequence
+- Precedence
+- Succession
+- Simultaneity
+
+5. Argumentative Relations
+- Evidence / Support
+- Inference
+- Conclusion
+- Counterargument
+- Rebuttal
+
+6. Attribution Relations
+- Attribution
+- Report
+
+1. Elaboration relations
+These relations develop, specify, illustrate, or reformulate information presented in an earlier discourse segment.
+Relation	Function	Example
+1. Elaboration	Adds further information about an earlier statement.	Renewable energy is becoming increasingly important. It is now a major component of many national energy strategies.
+2. Specification	Makes a general statement more precise.	Transportation infrastructure requires substantial investment. In particular, railway networks need regular maintenance and modernisation.
+3. Exemplification	Provides a concrete example of a preceding statement.	Renewable energy offers several environmental benefits. For example, solar power generates electricity without directly emitting greenhouse gases during operation.
+4. Restatement	Rephrases an earlier statement to clarify or reinforce it.	Public transport can reduce urban congestion. In other words, fewer private vehicles need to use the roads.
+5. Generalisation	Moves from specific examples or observations to a broader statement.	Solar farms are expanding in several regions, while wind energy is gaining popularity elsewhere. Overall, renewable energy is becoming increasingly widespread.
+6. Enumeration	Presents a series of related points or items.	Transportation systems require several forms of infrastructure. First, they need road networks; second, railway lines; and third, airports and seaports.
+
+2. Explanatory and causal relations
+These relations explain why something happens, how something happens, or what consequences follow.
+Relation	Function	Example
+7. Explanation	Explains a preceding statement or situation.	Many urban residents prefer public transport. This is largely because it can be cheaper and more convenient than driving.
+8. Cause	Identifies the cause of a previously mentioned event or situation.	Several agricultural regions have experienced severe water shortages. Prolonged droughts and excessive groundwater extraction have contributed to this problem.
+9. Result / Consequence	Presents an outcome arising from a preceding situation.	Private car ownership has increased considerably. Consequently, traffic congestion has become more severe.
+10. Purpose	Identifies the intended objective of an action or policy.	The government has allocated additional funds to railway infrastructure. Its primary objective is to improve public transport capacity.
+11. Justification	Provides a reason that supports a preceding claim, decision, or recommendation.	Governments should prioritise railway development. This investment is justified by the ability of railways to transport large numbers of passengers efficiently.
+
+3. Contrastive relations
+These relations introduce differences, opposing perspectives, qualifications, or exceptions.
+Relation	Function	Example
+12. Contrast	Highlights differences between two situations or propositions.	Railway systems can transport large numbers of passengers efficiently. Road networks, by comparison, offer greater flexibility in reaching remote locations.
+13. Concession	Acknowledges a potentially opposing point while maintaining the original position.	Renewable energy technologies can be expensive to install. Nevertheless, their long-term environmental and economic benefits can justify the initial expenditure.
+14. Antithesis	Presents a proposition that directly opposes or challenges an earlier proposition.	Some people believe that economic growth should take priority over environmental protection. Others argue that economic development is unsustainable without environmental conservation.
+15. Alternative	Presents another possibility or course of action.	Governments could expand existing road networks. Alternatively, they could invest in high-capacity railway systems.
+16. Exception	Identifies a case that does not follow a previously stated generalisation.	Most rural communities depend heavily on private vehicles. However, some well-connected rural areas have reliable public transport networks.
+
+4. Temporal relations
+These relations establish chronological relationships between events or situations described in separate discourse segments.
+Relation	Function	Example
+17. Sequence	Presents events in chronological order.	The government first approved the railway project. Subsequently, construction work began.
+18. Precedence	Establishes that one event occurred before another.	The railway network was constructed several decades ago. The airport was established much later.
+19. Succession	Establishes that one event followed another.	The government completed the railway renovation. It then began modernising the country's major highways.
+20. Simultaneity	Indicates that two events or situations occurred at the same time.	The government was expanding the railway network. Meanwhile, several municipalities were renovating their road systems.
+
+5. Argumentative relations
+These relations contribute to the development, evaluation, or organisation of an argument.
+Relation	Function	Example
+21. Evidence / Support	Provides information or evidence supporting an earlier claim.	Renewable energy can reduce dependence on fossil fuels. Research has demonstrated that countries with substantial renewable energy capacity can reduce their reliance on imported fossil fuels.
+22. Inference	Presents a conclusion or interpretation derived from preceding information.	The number of passengers using urban railway systems has increased substantially. This suggests that demand for public transportation is growing.
+23. Conclusion	Draws together preceding arguments or information into a concluding position.	Renewable energy can reduce emissions, strengthen energy security, and create employment opportunities. Therefore, governments should make its development a national priority.
+24. Counterargument	Introduces an opposing argument against a previously established position.	Governments should allocate more funds to railway infrastructure. Critics, however, argue that such investment is expensive and may divert resources from other essential services.
+25. Rebuttal	Responds to and challenges a counterargument.	Some critics consider railway investment prohibitively expensive. Nevertheless, its long-term economic and environmental benefits may outweigh the initial construction costs.
+
+6. Attribution relations
+These relations introduce information, claims, or opinions originating from another source.
+Relation	Function	Example
+26. Attribution	Identifies the source responsible for a preceding or subsequent claim.	Air pollution poses a serious threat to public health. According to the World Health Organization, air pollution is associated with millions of premature deaths annually.
+27. Report	Reports an announcement, finding, opinion, or statement from another source.	The government has announced a new transportation policy. It stated that additional funding would be allocated to railway development.
+
+
+7. Important distinctions for your ontology
+The 27 categories above are useful for your project, but I would not treat them as 27 equally independent types. Some are closely related, and some describe different aspects of discourse organisation.
+
+I recommend recording these distinctions:
+Closely related categories	How to distinguish them
+Elaboration vs Specification	Elaboration adds information generally; specification narrows or makes information more precise.
+Specification vs Exemplification	Specification identifies particular components; exemplification provides illustrative instances.
+Explanation vs Cause	Explanation answers why or how something is the case; Cause identifies a causal factor.
+Cause vs Justification	Cause explains an event; justification supports a claim, decision, or recommendation.
+Result vs Inference	Result concerns a consequence; inference concerns a conclusion drawn from information.
+Contrast vs Concession	Contrast highlights differences; concession acknowledges an opposing consideration while maintaining a position.
+Counterargument vs Rebuttal	Counterargument introduces an opposing position; rebuttal challenges that position.
+Evidence vs Attribution	Evidence supports a claim; attribution identifies the source of information.
+
+8. One refinement: distinguish discourse relations from text-organisation functions
+Some items in the taxonomy, particularly Conclusion, Enumeration, Attribution, and Report, can also be analysed as rhetorical or organisational functions rather than strictly as discourse relations in certain frameworks.
+
+I would therefore eventually consider three separate ontological branches:
+Discourse Analysis
+A. Discourse Relations
+
+Elaboration, Explanation, Cause, Result, Contrast, Concession, Evidence, etc.
+
+How two discourse segments relate to one another.
+
+B. Discourse Markers
+
+However, therefore, indeed, consequently, for example, nevertheless, etc.
+
+Linguistic expressions that signal or constrain the interpretation of discourse relations.
+
+C. Discourse Organisation
+
+Introduction, background, thesis, argument development, counterargument, rebuttal, conclusion.
+
+How larger texts and their sections are organised.
+
+8. One refinement: distinguish discourse relations from text-organisation functions
+Some items in the taxonomy, particularly Conclusion, Enumeration, Attribution, and Report, can also be analysed as rhetorical or organisational functions rather than strictly as discourse relations in certain frameworks.
+
+I would therefore eventually consider three separate ontological branches:
+Discourse Analysis
+A. Discourse Relations
+
+Elaboration, Explanation, Cause, Result, Contrast, Concession, Evidence, etc.
+
+How two discourse segments relate to one another.
+
+B. Discourse Markers
+
+However, therefore, indeed, consequently, for example, nevertheless, etc.
+
+Linguistic expressions that signal or constrain the interpretation of discourse relations.
+
+C. Discourse Organisation
+
+Introduction, background, thesis, argument development, counterargument, rebuttal, conclusion.
+
+How larger texts and their sections are organised.
+
+
+
+Ontology branch	Concepts
+Discourse relations	Elaboration, Contrast, Concession, Evidence, Restatement
+Reasoning types	Deductive, Inductive, Abductive, Analogical, Practical
+Reasoning operations	Generalisation, Comparison, Causal inference, Hypothesis formation
+Argumentative functions	Claim, Support, Counterargument, Rebuttal, Conclusion
+
+
+Reasoning:
+  definition: >
+    A cognitive process through which an individual uses
+    information, evidence, assumptions, and previously
+    established knowledge to derive, evaluate, or justify
+    conclusions, explanations, interpretations, or decisions.
+
+  components:
+    - Premise
+    - Evidence
+    - Assumption
+    - Inference
+    - Conclusion
+
+  types:
+    - DeductiveReasoning
+    - InductiveReasoning
+    - AbductiveReasoning
+    - AnalogicalReasoning
+    - PracticalReasoning
+
+
+
+I would organise your reading around four complementary disciplines:
+1. Semantics: Saeed — how linguistic expressions encode and convey meaning.
+2. Discourse analysis: Zufferey and Degand — how sentences and larger discourse units relate.
+3. Logic and argumentation: Walton and Fisher — how arguments are constructed and evaluated.
+4. Pragmatics: Saeed's Chapters 7 and 11 provide a useful foundation; supplement them with a dedicated pragmatics textbook if necessary.
+
+Proposition:
+  attributes:
+    - content
+    - truth_value
+    - polarity
+
+ArgumentativeRole:
+  types:
+    - Premise
+    - Conclusion
+    - IntermediateConclusion
+
+Argument:
+  attributes:
+    - premises
+    - conclusion
+    - inference_relation

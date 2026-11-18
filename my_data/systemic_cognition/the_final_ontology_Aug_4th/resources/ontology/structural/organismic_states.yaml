@@ -1,0 +1,40 @@
+
+metadata:
+  id: OrganismicStateOntology
+  label: Organismic State Ontology
+  version: "1.0"
+  status: proposed
+  language: en
+
+
+modeling_principles:
+  - "Oransimic states refer to the states of all livinig organisims."
+
+
+abstract_classes:
+  id: HumanState
+  label: Human State
+
+
+main_classifications:
+  id: PhysiologicalState
+  label: Physiological State
+  parent: HumanState
+  definition: null
+  
+  id: CognitiveState
+  label: Cognitive State
+  parent: HumanState
+  definition: null
+
+  id: AffectiveSate
+  label: Affective State
+  parent: HumanState
+  definition: null
+
+  id: MotivationalState
+  label: Motivational State
+  parent: HumanState
+  definition: null
+
+
